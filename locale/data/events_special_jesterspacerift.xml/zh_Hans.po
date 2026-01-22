@@ -1,64 +1,85 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/dataevents_special_jesterspaceriftxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_jesterspacerift.xml:8
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "奇迹追寻者已告知：此坐标存在一道空间裂隙，你必须尝试将其关闭。"
 
 #: src-en/data/events_special_jesterspacerift.xml:9
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "此处是你曾造访过的空间裂隙。"
 
 #: src-en/data/events_special_jesterspacerift.xml:21
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/text"
 msgstr ""
+"当你注意到这座信标所环绕的无人海洋行星附近出现时空异常时，舰上的气氛骤然剧变"
+"。抵达一分钟后，你接收到一则诡异的传输请求——它似乎源自异常体本身。你想起奇迹"
+"追寻者曾嘱托：必须执行空间裂隙内存在的请求，方能将其关闭。"
 
 #: src-en/data/events_special_jesterspacerift.xml:25
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/text"
-msgstr ""
+msgstr "接受传输。"
 
 #: src-en/data/events_special_jesterspacerift.xml:27
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/text"
 msgstr ""
+"你接受了传输，一段预先录制的信息开始在你的驾驶舱内播放。一个显然不属于生灵的"
+"合成男声响起：\n"
+"“终于有人对我产生兴趣了。我成功逃离了自己那腐朽的宇宙，却和其他与我一同试图逃"
+"离‘故土’的存在一样，被困在了世界之间的夹缝里。这里的‘住民’逐年增多，这片宇宙"
+"间的泥沼已容不下我们所有存在，而我也厌倦了他们的陪伴。无论你是谁，我提议一笔"
+"交易：\n"
+"我会将这些造物引向你，而你则以任何你认为合适的方式处理它们——我懂得如何支付报"
+"酬。若你愿执行这项简单的任务，只需向此时空裂隙发送‘我接受’的消息。\n"
+"请确保你有足够的力量面对这些造物——我并不愿目睹比现状更多的苦难。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:30
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "发送消息：“我接受。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:32
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你向传输坐标发送了消息。几分钟后，空间裂隙开始比往常更明亮地闪烁，且似乎略微"
+"扩大了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:35
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[@req=\"jester_local_wins\"]/text"
-msgstr ""
+msgstr "忽然间，你感到一阵如释重负……"
 
 #: src-en/data/events_special_jesterspacerift.xml:39
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "注视着它。"
 
 #: src-en/data/events_special_jesterspacerift.xml:46
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不发送任何消息，立即撤离。"
 
 #: src-en/data/events_special_jesterspacerift.xml:48
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你驶离了那空间裂隙附近的行星，舰船的超光速引擎正在充能。你不禁思索，这奇异现"
+"象背后究竟隐藏着怎样的秘密。"
 
 #: src-en/data/events_special_jesterspacerift.xml:50
 #, fuzzy
@@ -79,12 +100,12 @@ msgstr "跳过。"
 #: src-en/data/events_special_jesterspacerift.xml:69
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/text"
-msgstr ""
+msgstr "拒绝通讯，立即撤离。"
 
 #: src-en/data/events_special_jesterspacerift.xml:71
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你驶离了那空间裂隙附近的行星，舰船的超光速引擎正在充能。"
 
 #: src-en/data/events_special_jesterspacerift.xml:73
 #, fuzzy
@@ -106,36 +127,42 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/text"
 msgstr ""
+"当你注视着空间裂隙扩张时，耳畔开始响起轻微的嗡鸣。一个声音直接在你脑中浮现，"
+"与先前通讯中的语调痛苦地相似：\n"
+"“变元者的忠诚真令我愉悦！这次，我决定赠你一件小礼。你可选择最渴望其消亡的造物"
+"——我会确保它以恰当的方式自裂隙中显现。你只需在脑海中构想它。”\n"
+"耳中嗡鸣消退，一切恢复如常，但异常体中并无任何存在向你驶来。\n"
+"你思索着那脑内之声的话语，最终决定……"
 
 #: src-en/data/events_special_jesterspacerift.xml:93
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[1]/text"
-msgstr ""
+msgstr "脑海中浮现出疯子罗布尔的身影。"
 
 #: src-en/data/events_special_jesterspacerift.xml:97
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[2]/text"
-msgstr ""
+msgstr "将思绪投向三块珍晶碎片中的任意一块。"
 
 #: src-en/data/events_special_jesterspacerift.xml:101
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[3]/text"
-msgstr ""
+msgstr "让思绪萦绕于收割者那艘残损的舰船。"
 
 #: src-en/data/events_special_jesterspacerift.xml:105
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[4]/text"
-msgstr ""
+msgstr "在意识中勾勒出逐梦者的形象。"
 
 #: src-en/data/events_special_jesterspacerift.xml:109
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/text"
-msgstr ""
+msgstr "什么也不想，只是远离异常体。"
 
 #: src-en/data/events_special_jesterspacerift.xml:111
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你驶离了那时空裂隙附近的行星，舰船的超光速引擎正在充能。"
 
 #: src-en/data/events_special_jesterspacerift.xml:113
 #, fuzzy
@@ -157,21 +184,32 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/text"
 msgstr ""
+"突然间，你感到一阵极致的愉悦，仿佛生命中所有艰辛都在渐渐消退——这种感受随着一"
+"艘异样舰船的靠近而愈发强烈。其舰长立刻联系了你，他那近乎狂喜的神态，活像某个"
+"教派的虔诚信徒：\n"
+"“你好，孩子。我们是万愿之梦教团，梦境之救主、命运解脱者、织梦女神之仆……而你呢"
+"，孩子？你在此做什么？你的出现，是否与我们挣脱那暴君掌控有关？不过，你是否牵"
+"涉其中，对我们并不那么重要……不如让我们和平离去吧。莫要挑起调查，我们受她的注"
+"视所护佑……”\n"
+"你猛然清醒：这艘舰船正以某种灵能辐射攻击你，制造极乐幻觉以分散你的注意。\n"
+"识破这一事实的瞬间，幻惑瓦解，你的思维重归明晰——但那些狂热信徒尚未察觉。"
 
 #: src-en/data/events_special_jesterspacerift.xml:146
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/text"
-msgstr ""
+msgstr "因其试图操控你的心智而发动攻击。"
 
 #: src-en/data/events_special_jesterspacerift.xml:148
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/text"
 msgstr ""
+"“什……什么？你……居然没生效？该死……哦，万愿之梦啊，请缓解我们的苦痛……”看来狂热"
+"者们开始祈祷了。你不确定他们祈祷的后果会是什么，但有种不祥的预感……"
 
 #: src-en/data/events_special_jesterspacerift.xml:153
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "万愿之梦教团的信徒们正集结进行集体祈祷！他们向织梦者祈求的缘由尚不明确！"
 
 #: src-en/data/events_special_jesterspacerift.xml:157
 #, fuzzy
@@ -182,12 +220,13 @@ msgstr "继续。"
 #: src-en/data/events_special_jesterspacerift.xml:163
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/text"
-msgstr ""
+msgstr "看来他们另有手段。切勿卷入冲突，立即撤离。"
 
 #: src-en/data/events_special_jesterspacerift.xml:165
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你驶离了那时空裂隙附近的行星，舰船的超光速引擎正在充能。无论幕后是谁，对方恐"
+"怕都无力因你拒绝其条件而真正伤及你分毫。"
 
 #: src-en/data/events_special_jesterspacerift.xml:167
 #, fuzzy
@@ -209,6 +248,12 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/text"
 msgstr ""
+"你摧毁了狂热信徒的舰船。看来女神并未拯救她的羔羊，也未曾因你屠戮其信徒而施以"
+"复仇——如果她真的存在。\n"
+"\t\n"
+"\t当你下令将敌舰拆解为废料时，一阵轻微的眩晕袭来。这眩晕的源头，似乎是一艘正"
+"搏动着某种能量的舰船。你毫不犹豫地将其收纳至己舰——它很可能正是狂热者们曾用以"
+"试图操控你心智的器具。此后，眩晕感便消散了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:189
 #, fuzzy
@@ -220,6 +265,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/text"
 msgstr ""
+"你已击败狂热者。探索此舰内部时，你发现了许多耐人寻味的事物，它们揭示了更多关"
+"于其所谓“女神”的真相——例如她曾几乎掌控整个宇宙，并险些引发一场后来被称为“梦境"
+"危机”的大规模灭绝。这一事实令你心生不安，但你的思绪突然被舰船深处传来的一阵隆"
+"隆声打断，随之而来的轻微眩晕感攫住了你。\n"
+"\t\n"
+"\t循声进入一个宽敞的舱室，你发现了一艘散发异样能量的小型奇特种艇。你毫不犹豫"
+"地将其带回己舰——它很可能正是狂热者们曾用于试图操控你心智的工具。此后，眩晕感"
+"便消失了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:200
 #, fuzzy
@@ -231,6 +284,18 @@ msgstr "继续。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/text"
 msgstr ""
+"片刻之后，空间异常似乎不再活跃，甚至略微闭合了。一架红白相间、带有灰色眼状传"
+"感器的奇特自动无人机向你飞来。你隐约认出这是奇迹追寻者的货运无人机之一，却不"
+"知为何这一架外观如此特别。它播放了一段预先录制的信息，正是你先前听过的那种合"
+"成男声：\n"
+"\t\n"
+"\t“哈，他们那些没完没了的布道和祈祷真是让我心烦，用那些教派胡言破坏了我居所的"
+"独特氛围。你或许对织梦者和她的教团有疑问，但事实是她已死去多时，根本帮不了她"
+"的信徒——而你在与他们交战中可能目睹的那些‘奇迹’，不过她几近消亡的灵魂可悲地试"
+"图抓住某种物质存在的挣扎罢了。\n"
+"总之，别让这种无谓之事充斥你的头脑；反正你们宇宙里也没有神祇……至少据我所知没"
+"有。现在……告别吧，然后离开。”无人机交付了报酬，随即自毁。其残骸在空间真空中溶"
+"解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:220
 #, fuzzy
@@ -242,26 +307,38 @@ msgstr "继续。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/text"
 msgstr ""
+"你看到一艘黄色的舰船自异常体方向缓缓驶近，其前部布满无数孔洞——你此刻尚不明其"
+"用途。扫描显示，舰内设有大量水培农场，正种植着某种谷类作物，但运作中出现了致"
+"命错误，导致作物不仅无法食用，甚至完全剧毒。\n"
+"舰长——一名半械分离者——立即通过通讯系统联系了你：\n"
+"“指令：[寻找] [舰船所有者]。执行方式：[你] [协助]。”\n"
+"你明白半械分离者似乎在请你帮忙寻找他们正乘坐的这艘船的真正主人。同时，你也不"
+"由注意到他们言辞的异常，推测其很可能已损坏或感染了某种病毒。\n"
+"他们正耐心等待你的回应。"
 
 #: src-en/data/events_special_jesterspacerift.xml:229
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/text"
-msgstr ""
+msgstr "告诉他们你对此舰一无所知。"
 
 #: src-en/data/events_special_jesterspacerift.xml:231
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/text"
 msgstr ""
+"“错误：[无法识别] [言语模式]。行动：[销毁] [错误]。”\n"
+"你因被称作“错误”而震怒——尤其这些半械分离者自身才漏洞百出。半械分离者开始备战"
+"，其水培系统同步激活。看来他们准备向你发射剧毒生物弹体，并对你的护盾系统及医"
+"疗/克隆舱发动网络攻击！"
 
 #: src-en/data/events_special_jesterspacerift.xml:237
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr ""
+msgstr "(防护程序) 阻止网络攻击。"
 
 #: src-en/data/events_special_jesterspacerift.xml:239
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
-msgstr ""
+msgstr "(防护程序)成功拦截了半械分离者的网络攻击。是时候投入战斗了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:244
 #, fuzzy
@@ -272,12 +349,12 @@ msgstr "继续。"
 #: src-en/data/events_special_jesterspacerift.xml:250
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "（黑客系统）反制网络攻击。"
 
 #: src-en/data/events_special_jesterspacerift.xml:252
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "系统入侵成功拦截了半械分离者的网络攻击。是时候投入战斗了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:257
 #, fuzzy
@@ -295,6 +372,12 @@ msgstr "继续。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/text"
 msgstr ""
+"就在爆炸前一刻，半械分离者舰船的舰长发送了最后一条消息：\n"
+"“威胁：[毁灭] [不可避免]。回应：[复仇]。”\n"
+"突然，水培系统达到最大负载，数十枚生物导弹向你袭来！所幸，出于某种原因，它们"
+"开始在太空中溶解，未能触及你的舰船。随后，你从黄色舰船的残骸中回收了废料与其"
+"他资源，却带着一丝不安：那些水培系统是否仍在运作？不过你的担忧并未成真，甚至"
+"还在残骸中找到了一件原型武器——似乎是这些损坏的半械分离者所制造的。"
 
 #: src-en/data/events_special_jesterspacerift.xml:278
 #, fuzzy

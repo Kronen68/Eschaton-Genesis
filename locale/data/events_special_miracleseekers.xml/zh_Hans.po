@@ -1,19 +1,27 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/dataevents_special_miracleseekersxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_miracleseekers.xml:20
 msgid ""
 "data/events_special_miracleseekers.xml$//event[@name=\"EG_MIRACLE_SEEKERS_STATION\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "此处为奇迹追寻者空间站的所在地。他们正在广播一则招募雇佣兵的请求。"
 
 #: src-en/data/events_special_miracleseekers.xml:21
 msgid ""
 "data/events_special_miracleseekers.xml$//event[@name=\"EG_MIRACLE_SEEKERS_STATION\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "此处曾是奇迹追寻者组织的所在地。看来他们现已离开本星区。不知有多少雇佣兵响应"
+"了他们那寻觅奇迹的召集？"
 
 #: src-en/data/events_special_miracleseekers.xml:33
 msgid ""

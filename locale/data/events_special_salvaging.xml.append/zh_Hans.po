@@ -1,21 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/dataevents_special_salvagingxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_salvaging.xml.append:6
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:8
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:11
 msgid ""

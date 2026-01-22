@@ -1,24 +1,42 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/dataevents_special_socializexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_socialize.xml.append:58
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_NOTHING\"]/text"
 msgstr ""
+"创世胚胎从你的视野中消失了。尽管你仍能通过舰船摄像头追踪到它，可当你抵达它本"
+"应存在的舱室时，那里已空无一物。或许这反而是件好事。谁知道它可能揭示出多少异"
+"界宇宙的可怖真相呢？"
 
 #: src-en/data/events_special_socialize.xml.append:61
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_1\"]/text"
 msgstr ""
+"“世界本该无界。栅栏与门扉……它们在此处环绕一切。不该是这样的。这些是自然的桎梏"
+"……对此方诸宇宙而言确属必要。我并不否认。我理解，但它们仍不应存在。只要限制尚"
+"存，便总有人受其压迫，总有人因此受伤，总有人未得足够眷爱。他们正因这些而受苦"
+"。”"
 
 #: src-en/data/events_special_socialize.xml.append:64
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_2\"]/text"
 msgstr ""
+"“他名为‘公设’。这是一个众所周知的称谓。但她唤他‘普鲁沙’。亲昵地。尽管他带给她"
+"与她那众多子嗣——她深爱的孩子们——无尽的痛苦。她爱生命的每一重显化，不识憎恨为"
+"何物。可公设呢？他并无生命。他被注定违逆己愿地‘活着’。他不能被视作生命。正因"
+"如此，他憎恶生命——只因他无法与生命对他所做的一切和解。”"
 
 #: src-en/data/events_special_socialize.xml.append:67
 msgid ""

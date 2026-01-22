@@ -1,355 +1,470 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-22 01:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:6
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
-msgstr ""
+msgstr "追梦者之心"
 
 #: src-en/data/blueprints.xml.append:7
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
-msgstr ""
+msgstr "使你的队伍成员免疫精神控制效果。你自身的精神控制技能冷却时间缩短5秒。"
 
 #: src-en/data/blueprints.xml.append:16
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
-msgstr ""
+msgstr "装甲插板"
 
 #: src-en/data/blueprints.xml.append:17
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
 msgstr ""
+"该部件可装配至你的飞船，使船体受到伤害时有 5% 概率抵挡伤害，系统受到伤害时有 "
+"10% 概率抵挡伤害。可通过舰船管理菜单将其内置至飞船，使其不占用增强槽位。"
 
 #: src-en/data/blueprints.xml.append:25
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
-msgstr ""
+msgstr "装甲板"
 
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
-msgstr ""
+msgstr "可装配至飞船，使船体受到的伤害有 5% 概率被完全抵挡，系统受到的伤害有 10% 概率"
+"被完全抵挡。"
 
 #: src-en/data/blueprints.xml.append:35
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
-msgstr ""
+msgstr "梦境殿堂"
 
 #: src-en/data/blueprints.xml.append:36
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
 msgstr ""
+"你的信仰使你能够在战斗中有限次地向“万愿之梦”祈求特定援助，或在无信标星系中通"
+"过祈祷获取额外资源。随此舰一同进入本宇宙的“织梦者”残留力量，将尝试实现你的愿"
+"望。"
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
-msgstr ""
+msgstr "梦境教团"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
 msgstr ""
+"你对“万愿之梦”的信仰可能已过于狂热。在无信标星系中，你将有机会通过祈祷直接从“"
+"织梦者”处获得大量资源的强力援助，或在战斗中召唤其显著干涉，但每一次这样的恩赐"
+"，都需以一名船员的生命作为代价……"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
-msgstr ""
+msgstr "万愿之梦教派"
 
 #: src-en/data/blueprints.xml.append:54
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
-msgstr ""
+msgstr "守护神卫"
 
 #: src-en/data/blueprints.xml.append:64
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
-msgstr ""
+msgstr "一种近乎坚不可摧的超级护盾，拥有 120 点护盾值，并使普通护盾的充能速度提升 "
+"150%。"
 
 #: src-en/data/blueprints.xml.append:73
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲"
 
 #: src-en/data/blueprints.xml.append:74
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:82
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 1"
 
 #: src-en/data/blueprints.xml.append:83
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲尚未进行任何强化，已"
+"有 10% 概率完全抵消船体伤害、40% 概率完全抵消系统伤害。每强化一级，可提升 "
+"10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
+"强化至 3 级 后，装甲将使武器装填速度额外提升 5%（此效果随后续每级强化叠加）。"
+"\n"
+"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 2"
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 20% 概率完全抵消"
+"船体伤害、50% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与"
+" 10% 系统伤害抵消概率。\n"
+"强化至 3 级 后，装甲将使武器装填速度额外提升 5%（此效果随后续每级强化叠加）。"
+"\n"
+"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:100
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 3"
 
 #: src-en/data/blueprints.xml.append:101
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 30% 概率完全抵消"
+"船体伤害、60% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与"
+" 10% 系统伤害抵消概率。\n"
+"装甲现可使武器装填速度提升 5%，且此后每强化一级将额外提升 5% 装填速度。\n"
+"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:109
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 4"
 
 #: src-en/data/blueprints.xml.append:110
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 40% 概率完全抵消"
+"船体伤害、70% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与"
+" 10% 系统伤害抵消概率。\n"
+"装甲现可使武器装填速度提升 10%，且此后每强化一级将额外提升 5% 装填速度。\n"
+"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:118
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 5"
 
 #: src-en/data/blueprints.xml.append:119
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 50% 概率完全抵消"
+"船体伤害、80% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与"
+" 10% 系统伤害抵消概率。\n"
+"装甲现可使武器装填速度提升 15%，且此后每强化一级将额外提升 5% 装填速度。\n"
+"此外，你现在已能在战斗开始前冲撞敌舰。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:127
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 6"
 
 #: src-en/data/blueprints.xml.append:128
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 60% 概率完全抵消"
+"船体伤害、90% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与"
+" 10% 系统伤害抵消概率。\n"
+"装甲现可使武器装填速度提升 20%，且此后每强化一级将额外提升 5% 装填速度。\n"
+"此外，你现在已能在战斗开始前冲撞敌舰。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:136
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 7"
 
 #: src-en/data/blueprints.xml.append:137
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 70% 概率完全抵消"
+"船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 10% 船体伤害"
+"抵消概率。\n"
+"装甲现可使武器装填速度提升 25%，且此后每强化一级将额外提升 3% 装填速度。\n"
+"此外，你现在已能在战斗开始前冲撞敌舰。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 8"
 
 #: src-en/data/blueprints.xml.append:146
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 80% 概率完全抵消"
+"船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 5% 船体伤害"
+"抵消概率。\n"
+"装甲现可使武器装填速度提升 28%，且此后每强化一级将额外提升 3% 装填速度。\n"
+"此外，你现在已能在战斗开始前冲撞敌舰。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:154
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 9"
 
 #: src-en/data/blueprints.xml.append:155
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
 msgstr ""
+"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 85% 概率完全抵消"
+"船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 5% 船体伤害"
+"抵消概率。\n"
+"装甲现可使武器装填速度提升 31%，且此后每强化一级将额外提升 3% 装填速度。\n"
+"此外，你现在已能在战斗开始前冲撞敌舰。\n"
+"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
 
 #: src-en/data/blueprints.xml.append:163
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/title"
-msgstr ""
+msgstr "坚不可摧装甲 10"
 
 #: src-en/data/blueprints.xml.append:164
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
 msgstr ""
+"你的船体坚不可摧，其装甲拥有 90% 概率完全抵消船体伤害，并完全免疫系统伤害。\n"
+"同时，装甲可使武器装填速度提升 34%。\n"
+"你还获得了在战斗开始前冲撞敌舰的能力。\n"
+"祝你好运，变元者。"
 
 #: src-en/data/blueprints.xml.append:173
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
-msgstr ""
+msgstr "ASB-平台打印机"
 
 #: src-en/data/blueprints.xml.append:174
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
 msgstr ""
+"战斗前，你的飞船可部署自动展开的ASB平台攻击敌人，需消耗以下资源之一：\n"
+"3单位燃料\n"
+"2枚导弹或2个无人机部件\n"
+"若装备废料收集臂或磁性回收臂，则可免费部署该平台。\n"
+"（你可丢弃或出售此增强部件；它已内置于飞船中，此处仅作信息提示之用。）"
 
 #: src-en/data/blueprints.xml.append:182
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
-msgstr ""
+msgstr "ASB-平台打印机"
 
 #: src-en/data/blueprints.xml.append:183
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
 msgstr ""
+"战斗前，你的飞船可部署自动展开的ASB平台攻击敌人，代价为以下任意一种资源：\n"
+"3燃料核心\n"
+"2导弹或2无人机部件。\n"
+"若安装废料收集臂或磁性回收臂，则可免费部署该平台。\n"
+"（你可丢弃或出售此强化模块；它已内置于飞船中，此处仅作信息提示之用）。"
 
 #: src-en/data/blueprints.xml.append:191
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/title"
-msgstr ""
+msgstr "次级守护者"
 
 #: src-en/data/blueprints.xml.append:192
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:199
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/title"
-msgstr ""
+msgstr "白蚁虫群"
 
 #: src-en/data/blueprints.xml.append:200
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
 msgstr ""
+"白蚁虫族搭载于甲虫生物舰船上航行。\n"
+"其舰体具有一定程度的再生能力，可自动修复船体破舱、扑灭火灾并恢复受损系统。\n"
+"甲虫的厚重外壳为其提供 +15% 概率无视船体伤害。\n"
+"仅有虫族能在不同甲虫生物舰船间自由迁移。"
 
 #: src-en/data/blueprints.xml.append:208
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/title"
-msgstr ""
+msgstr "白蚁虫群"
 
 #: src-en/data/blueprints.xml.append:209
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:216
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
-msgstr ""
+msgstr "苍白帝御舰"
 
 #: src-en/data/blueprints.xml.append:217
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:223
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
-msgstr ""
+msgstr "苍白影溯舰"
 
 #: src-en/data/blueprints.xml.append:224
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:230
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
-msgstr ""
+msgstr "植物群落原型机"
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
 msgstr ""
+"该舰引擎以活性植物群落作为生物能源驱动，提供+3初始反应堆能量，且允许消耗1燃料"
+"跃迁至本星域内任意信标。\n"
+"活性植物群落释放的孢子遍布舰体，对登舰敌人造成每秒2点生命值伤害。\n"
+"由于原型机的不稳定性，舰船系统修复速度降低至50%。"
 
 #: src-en/data/blueprints.xml.append:237
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/title"
-msgstr ""
+msgstr "活性植物群落"
 
 #: src-en/data/blueprints.xml.append:238
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
 msgstr ""
+"该舰引擎以活性植物群落作为生物能源驱动，提供 +3 初始反应堆能量，且允许消耗 2 "
+"单位燃料跃迁至本星域内任意信标。\n"
+"经驯化的活性植物群落释放的孢子遍布舰体，对登舰敌人造成每秒 1 点生命值伤害，并"
+"自动修复舱内破损。"
 
 #: src-en/data/blueprints.xml.append:244
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
-msgstr ""
+msgstr "纯白花园"
 
 #: src-en/data/blueprints.xml.append:245
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
+"苍白帝皇克隆体那华美的庭园位于舰船尾部。\n"
+"若供氧系统被激活，其每分配 1 点能量，即可使我方与登陆敌舰的每名船员的最大生命"
+"值 +10%、移动速度 +10%。\n"
+"此外，庭园还提供固定的 +30% 窒息抗性与 每秒 1 点 生命恢复效果。"
 
 #: src-en/data/blueprints.xml.append:252
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
-msgstr ""
+msgstr "罗布尔的星舰"
 
 #: src-en/data/blueprints.xml.append:253
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:260
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
-msgstr ""
+msgstr "闪耀琉璃星舰"
 
 #: src-en/data/blueprints.xml.append:261
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
 msgstr ""
+"该舰船体完全由特殊玻璃构成。虽会降低整体耐久度，但拥有 35% 概率免疫离子伤害、"
+"10% 概率无视船体伤害，且舰上火焰将自动熄灭，船员免疫精神控制。\n"
+"作为额外增益，武器装填速度提升 10%。"
 
 #: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/title"
-msgstr ""
+msgstr "闪耀琉璃星舰"
 
 #: src-en/data/blueprints.xml.append:270
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:276
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/title"
-msgstr ""
+msgstr "璀璨琉璃星舰"
 
 #: src-en/data/blueprints.xml.append:277
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:284
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
-msgstr ""
+msgstr "电池组"
 
 #: src-en/data/blueprints.xml.append:285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
-msgstr ""
+msgstr "这组明显装着电池。你可以65废料的价格出售它，或保留以获得护盾充能+7%与武器充能"
+"+5%。"
 
 #: src-en/data/blueprints.xml.append:293
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
-msgstr ""
+msgstr "高科技电池"
 
 #: src-en/data/blueprints.xml.append:294
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
-msgstr ""
+msgstr "你找回了被海盗偷走的高科技电池。你可以每块150废料的价格出售，或保留以获得护盾"
+"充能+12%与武器充能+9%。"
 
 #: src-en/data/blueprints.xml.append:302
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/title"
-msgstr ""
+msgstr "电池商人舰船"
 
 #: src-en/data/blueprints.xml.append:303
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
-msgstr ""
+msgstr "月之吻"
 
 #: src-en/data/blueprints.xml.append:311
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
 msgstr ""
+"得益于作为飞船反应堆并维持其运行的微型月亮，飞船从一开始就拥有满额能量。该月"
+"亮还使飞船完全免疫离子伤害，并将武器装填速度提高15%，但由于月亮活动的影响，飞"
+"船武器系统本身状况不佳。为维持月亮运转，你不得不将所获废料的50%投入燃烧。"
 
 #: src-en/data/blueprints.xml.append:319
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
-msgstr ""
+msgstr "日之吻"
 
 #: src-en/data/blueprints.xml.append:320
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
 msgstr ""
+"得益于作为飞船反应堆并维持其运行的微型恒星，飞船从一开始就拥有满额能量。该恒"
+"星还创造了一个特殊的12层太阳护盾，使普通护盾的充能速率提高45%，但由于过载，飞"
+"船除太阳护盾外最多只能拥有2层普通护盾。为维持恒星运转，你不得不将所获废料的50"
+"%投入燃烧。"
 
 #: src-en/data/blueprints.xml.append:328
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/title"
@@ -366,7 +481,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:338
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:344
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
@@ -374,7 +489,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:345
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:352
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
@@ -382,7 +497,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:353
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:360
 msgid ""
@@ -402,7 +517,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:370
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:377
 msgid ""
@@ -421,7 +536,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:387
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:394
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
@@ -429,7 +544,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:395
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
-msgstr ""
+msgstr "你大概不该看到这个。"
 
 #: src-en/data/blueprints.xml.append:401
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
@@ -1396,6 +1511,9 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/desc"
 msgstr ""
+"罗布尔再也没能见到朋友们的面容。那便是他为协助导致自身疯狂的幕后存在所必须付"
+"出的代价。此型号飞船没有护盾系统且后期无法安装，但初始即拥有三级坚不可摧装甲"
+"与增强的船体强度。"
 
 #: src-en/data/blueprints.xml.append:3373
 msgid ""

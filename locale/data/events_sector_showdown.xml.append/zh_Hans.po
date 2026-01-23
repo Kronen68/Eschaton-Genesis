@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-24 04:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_sector_showdownxmlappend/zh_Hans/>\n"
@@ -49,7 +49,6 @@ msgstr ""
 "无论您作何决定，我曾很荣幸能铭记您、追忆您，未来也将永远荣幸地怀念您。”"
 
 #: src-en/data/events_sector_showdown.xml.append:41
-#, fuzzy
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_VAKANS\"]/choice/text"
 msgstr "继续。"
@@ -74,7 +73,6 @@ msgstr ""
 "段美好而奇异的旅程。”"
 
 #: src-en/data/events_sector_showdown.xml.append:50
-#, fuzzy
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_MIRRORED\"]/choice/text"
 msgstr "继续。"
@@ -92,7 +90,6 @@ msgstr ""
 "会作此抉择。”"
 
 #: src-en/data/events_sector_showdown.xml.append:59
-#, fuzzy
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_WHITE_CLONE\"]/choice/text"
 msgstr "继续。"
@@ -120,7 +117,6 @@ msgstr ""
 "紧要。”"
 
 #: src-en/data/events_sector_showdown.xml.append:67
-#, fuzzy
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_ESCHATOLOGISTS\"]/choice/text"
 msgstr "继续。"

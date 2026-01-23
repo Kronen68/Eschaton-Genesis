@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-24 04:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
@@ -37,60 +37,91 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_vakans\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"\t\t\t\t在10秒内，维修速度最高提升至15倍。"
 
 #: src-en/data/hyperspace.xml.append:240
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_white_clone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "神经植入模块。"
 
 #: src-en/data/hyperspace.xml.append:241
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_white_clone\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"\t\t\t\t神经植入激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、"
+"维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
 
 #: src-en/data/hyperspace.xml.append:787
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"白蚁虫群：\n"
+"白蚁所栖息的活体生物舰船——甲虫舰——具备自动修复系统、填补破口及扑灭火灾的能力"
+"，以此弥补白蚁族群自身的天然缺陷。它们还拥有坚固的几丁质装甲，具有 15% 概率抵"
+"消船体伤害。基于某些特定原因，只有昆虫形态种族的能在不同甲虫舰之间自由移动。"
 
 #: src-en/data/hyperspace.xml.append:792
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"守护神卫：\n"
+"奇迹追寻者空间站受到一层强韧近乎无敌的护盾保护，该护盾拥有 120 点结构，并能使"
+"其常规护盾的充能速度提升 150%，可抵御任何外部伤害。"
 
 #: src-en/data/hyperspace.xml.append:797
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"梦境殿堂：\n"
+"万愿之梦教团的信徒会定期向他们的女神祈祷，请求她在战斗中施以援手。祈祷可能导"
+"致你的舰船受到轻微损伤，或修复他们自身的舰船——但织梦者在本场战斗中仅会回应他"
+"们的祈祷 5 次。"
 
 #: src-en/data/hyperspace.xml.append:802
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"坚不可摧装甲：\n"
+"罗布尔的舰船装甲拥有 20% 概率吸收船体伤害、50% 概率吸收系统伤害，且舰船获得 "
+"10% 武器装填速度加成。"
 
 #: src-en/data/hyperspace.xml.append:807
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"珍晶碎片：舒俱来[离子]\n"
+"同时使用多种武器攻击此敌人可能是危险的：其船体每受到一次命中，便会反击一枚晶"
+"石碎片，造成 3 点离子伤害与 1 点船体伤害。此外，此敌人有 50% 概率无视离子伤害"
+"。"
 
 #: src-en/data/hyperspace.xml.append:812
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"珍晶碎片：海蓝宝石 [破舱]\n"
+"同时使用多种武器攻击此敌人可能十分危险：其船体每受到一次命中，便会反击一枚晶"
+"石碎片，造成 4 点船体伤害、锁定舱室并必然造成破舱。敌方舰上所有破舱均会自动修"
+"复。"
 
 #: src-en/data/hyperspace.xml.append:817
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"珍晶碎片：红玉玛瑙[火焰]\n"
+"同时使用多种武器攻击此敌人可能极为危险：其船体每受到一次命中，便会反击一枚晶"
+"石碎片，造成 2 点系统伤害与 2 点船体伤害，并必然在命中舱室引发火灾。敌方舰上"
+"所有火灾均会自动熄灭。"
 
 #: src-en/data/hyperspace.xml.append:938
 msgid "data/hyperspace.xml.append$//unique_white_anomaly[@name=\"White\"]/@name"
@@ -100,43 +131,43 @@ msgstr "白"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"EG_ENEMY_LESSER_GUARDIAN\"]/crew/unique_slavik[@name=\"Slavik\"]/@name"
-msgstr ""
+msgstr "斯拉维克"
 
 #: src-en/data/hyperspace.xml.append:962
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"EG_ENEMY_MIRACLE_SEEKERS\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
-msgstr ""
+msgstr "镜像体"
 
 #: src-en/data/hyperspace.xml.append:970
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"EG_ENEMY_ROBUR\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
-msgstr ""
+msgstr "罗布尔"
 
 #: src-en/data/hyperspace.xml.append:1193
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
-msgstr ""
+msgstr "罗布尔"
 
 #: src-en/data/hyperspace.xml.append:1204
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR_2\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
-msgstr ""
+msgstr "罗布尔"
 
 #: src-en/data/hyperspace.xml.append:1213
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR_3\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
-msgstr ""
+msgstr "罗布尔"
 
 #: src-en/data/hyperspace.xml.append:1246
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/crew/unique_slavik[@name=\"Slavik\"]/@name"
-msgstr ""
+msgstr "斯拉维克"
 
 #: src-en/data/hyperspace.xml.append:1518
 msgid ""
@@ -160,7 +191,7 @@ msgstr "白"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
-msgstr ""
+msgstr "镜像体"
 
 #: src-en/data/hyperspace.xml.append:1905
 msgid ""
@@ -170,28 +201,28 @@ msgstr "白"
 
 #: src-en/data/hyperspace.xml.append:1906
 msgid "data/hyperspace.xml.append$//white_guard[@name=\"Adam Berkeley\"]/@name"
-msgstr ""
+msgstr "亚当·伯克利"
 
 #: src-en/data/hyperspace.xml.append:1919
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_CREWSER_2\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
-msgstr ""
+msgstr "镜像体"
 
 #: src-en/data/hyperspace.xml.append:1931
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
-msgstr ""
+msgstr "一名佣兵的自白"
 
 #: src-en/data/hyperspace.xml.append:1933
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_WHITE_THREAD\"]/name"
-msgstr ""
+msgstr "苍穹白绫"
 
 #: src-en/data/hyperspace.xml.append:1934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_WHITE_THREAD\"]/description"
-msgstr ""
+msgstr "致那位在此宇宙中，为奇迹追寻者的故事揭开序幕之人。"
 
 #: src-en/data/hyperspace.xml.append:1941
 msgid ""

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-25 08:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -25,7 +25,6 @@ msgid ""
 msgstr "你成功内置了装甲板。"
 
 #: src-en/data/events_special_storage.xml.append:12
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice/event/choice/text"
@@ -35,10 +34,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（昆虫肉）寻找可售之处。[舰队将于1次跳跃后抵达]"
 
 #: src-en/data/events_special_storage.xml.append:33
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/event/choice/text"
@@ -47,93 +45,99 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:40
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[1]"
-msgstr ""
+msgstr "你环顾四周，在最近行星的卫星上发现了一个小型殖民地。他们正缺粮，乐意接受任何"
+"肉类——即便来历古怪。"
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[2]"
-msgstr ""
+msgstr "一艘民用舰船从你身旁驶过，你联系他们并提出出售异域虫肉的提议。说服过程漫长，"
+"但其独特性最终诱惑了他们。"
 
 #: src-en/data/events_special_storage.xml.append:42
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[3]"
 msgstr ""
+"一艘船体标有数字“8”的怪异自动舰船向你靠近。它发来通讯：“C.E.L.裁定：在你的舰"
+"上发现违禁品。要求你将其移交给我们以换取报酬。否则，我们将被迫摧毁你。”你同意"
+"了自动舰船的条件，交出虫肉，它则回馈了你资源。"
 
 #: src-en/data/events_special_storage.xml.append:47
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至2级。"
 
 #: src-en/data/events_special_storage.xml.append:51
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至3级。"
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至4级。"
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至5级。"
 
 #: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至6级。"
 
 #: src-en/data/events_special_storage.xml.append:67
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至7级。"
 
 #: src-en/data/events_special_storage.xml.append:71
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至8级。"
 
 #: src-en/data/events_special_storage.xml.append:75
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至9级。"
 
 #: src-en/data/events_special_storage.xml.append:79
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "将坚不可摧装甲升级至最终等级10。"
 
 #: src-en/data/events_special_storage.xml.append:89
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "梦境殿堂：向织梦者献上祈祷"
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "梦境教团：向织梦者献上祭品"
 
 #: src-en/data/events_special_storage.xml.append:102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/text"
-msgstr ""
+msgstr "你确定要以织梦者的名义进行献祭吗？一名随机船员将因此牺牲。独特船员将最后被献"
+"祭，普通人类船员将优先牺牲。此次献祭将为你带来确定的高额回报。"
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[1]/text"
-msgstr ""
+msgstr "是，执行献祭仪式。"
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
@@ -143,15 +147,15 @@ msgstr "返回。"
 #: src-en/data/events_special_storage.xml.append:113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/text"
-msgstr ""
+msgstr "通过随机选择，你的船员们献祭了其中一员，并将他的遗体置于梦境殿堂中央的祭坛上…"
+"…"
 
 #: src-en/data/events_special_storage.xml.append:116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/removeCrew/text"
-msgstr ""
+msgstr "医疗舱中关于该船员的数据已被不可逆地删除。他再也无法复活了。"
 
 #: src-en/data/events_special_storage.xml.append:119
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/choice/text"
 msgstr "继续。"
@@ -160,9 +164,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/text"
 msgstr ""
+"梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现被献祭船员的遗体已从祭"
+"坛上消失。看来，万愿之梦已接受了这可怖的祭品，并给予了相应的回报。但这真是她"
+"所愿的吗？"
 
 #: src-en/data/events_special_storage.xml.append:132
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/choice/text"
 msgstr "继续。"
@@ -170,42 +176,47 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE\"]/text"
-msgstr ""
+msgstr "你对织梦者的祈求奏效了。你目睹一道强大的蓝色光束贯穿敌舰船体，造成2点伤害并撕"
+"裂出破舱！"
 
 #: src-en/data/events_special_storage.xml.append:153
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE_FIRE\"]/text"
-msgstr ""
+msgstr "你对织梦者的祈求奏效了。你目睹一道强大的蓝色光束贯穿敌舰船体，在系统舱室中引"
+"燃了火灾！"
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_SYSTEM_DAMAGE\"]/text"
-msgstr ""
+msgstr "你对织梦者的祈求奏效了。你目睹敌舰系统突然发生故障，陷入瘫痪！"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_3\"]/text"
-msgstr ""
+msgstr "你对织梦者的祈求奏效了。你的舰船船体恢复了3点耐久！"
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_5\"]/text"
-msgstr ""
+msgstr "你对织梦者的祈求奏效了。你的舰船船体恢复了5点耐久！"
 
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_NOTHING\"]/text"
-msgstr ""
+msgstr "万愿之梦似乎忽视了你的祈求，又或许它们根本未能传达到她那里。你继续战斗。"
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PRAYING_FOR_DREAMS_CULT\"]/text"
 msgstr ""
+"敌舰短暂地被蓝光笼罩。片刻之后，你注意到它的多个系统被瘫痪，部分舱室出现破口"
+"与火灾，船体受到5点伤害。随后蓝光消散，而你感到灵魂中泛起一阵沉重的压抑感，又"
+"迅速消逝。"
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/text"
-msgstr ""
+msgstr "你向织梦者献上祈祷……她此次将赐予你何物？"
 
 #: src-en/data/events_special_storage.xml.append:186
 msgid ""
@@ -215,10 +226,9 @@ msgstr "等等。"
 #: src-en/data/events_special_storage.xml.append:191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/text"
-msgstr ""
+msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现了一小堆废料。"
 
 #: src-en/data/events_special_storage.xml.append:196
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/choice/text"
 msgstr "继续。"
@@ -226,10 +236,10 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:201
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/text"
-msgstr ""
+msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现了一些导弹与无人机部件"
+"。"
 
 #: src-en/data/events_special_storage.xml.append:207
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/choice/text"
 msgstr "继续。"
@@ -237,10 +247,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/text"
-msgstr ""
+msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你在房间中央发现了一些燃料。"
 
 #: src-en/data/events_special_storage.xml.append:217
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/choice/text"
 msgstr "继续。"
@@ -248,10 +257,10 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/text"
-msgstr ""
+msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你在房间中央发现了各式各样的"
+"奖赏。看来万愿织梦者此次更为眷顾于你。"
 
 #: src-en/data/events_special_storage.xml.append:230
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/choice/text"
 msgstr "继续。"
@@ -259,10 +268,10 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/text"
-msgstr ""
+msgstr "祈祷之后，什么也没有发生。万愿织梦者似乎忽视了你的祈求，又或许它们根本未能传"
+"达到她那里。"
 
 #: src-en/data/events_special_storage.xml.append:237
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/choice/text"
 msgstr "继续。"
@@ -270,20 +279,21 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/text"
-msgstr ""
+msgstr "[2级坚不可摧装甲：20%船体伤害抵抗，50%系统伤害抵抗] 你确定要安装此升级吗？警"
+"告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:269
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -291,10 +301,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:274
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -302,10 +311,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:279
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -318,20 +326,21 @@ msgstr "返回。"
 #: src-en/data/events_special_storage.xml.append:294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/text"
-msgstr ""
+msgstr "[3级坚不可摧装甲：30%船体伤害抵抗，60%系统伤害抵抗，武器冷却时间缩短5%] 你确"
+"定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:301
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -339,10 +348,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:306
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -350,10 +358,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:311
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -366,20 +373,21 @@ msgstr "返回。"
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/text"
-msgstr ""
+msgstr "[4级坚不可摧装甲：40%船体伤害抵抗，70%系统伤害抵抗，武器冷却时间缩短10%] 你确"
+"定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:333
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -387,10 +395,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:335
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:338
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -398,10 +405,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:343
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -415,19 +421,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/text"
 msgstr ""
+"[5级坚不可摧装甲：50%船体伤害抵抗，80%系统伤害抵抗，武器冷却时间缩短15%，可在"
+"战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:365
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -435,10 +443,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:370
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -446,10 +453,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:375
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -463,19 +469,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/text"
 msgstr ""
+"[6级坚不可摧装甲：60%船体伤害抵抗，90%系统伤害抵抗，武器冷却时间缩短20%，可在"
+"战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:397
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -483,10 +491,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:402
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -494,10 +501,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:407
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -511,19 +517,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/text"
 msgstr ""
+"[7级坚不可摧装甲：70%船体伤害抵抗，100%系统伤害抵抗，武器冷却时间缩短25%，可"
+"在战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:429
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -531,10 +539,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:434
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -542,10 +549,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:439
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -559,19 +565,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/text"
 msgstr ""
+"[8级坚不可摧装甲：80%船体伤害抵抗，100%系统伤害抵抗，武器冷却时间缩短28%，可"
+"在战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:458
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:461
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -579,10 +587,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:466
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -590,10 +597,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:471
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -607,19 +613,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/text"
 msgstr ""
+"[9级坚不可摧装甲：85%船体伤害抵抗，100%系统伤害抵抗，武器冷却时间缩短31%，可"
+"在战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:493
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -627,10 +635,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:498
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -638,10 +645,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功升级坚不可摧装甲！"
 
 #: src-en/data/events_special_storage.xml.append:503
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -655,19 +661,21 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/text"
 msgstr ""
+"[10级坚不可摧装甲：90%船体伤害抵抗，100%系统伤害抵抗，武器冷却时间缩短34%，可"
+"在战斗前冲撞敌人] 你确定要安装此升级吗？警告：这将消耗你20点船体耐久。"
 
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/text"
-msgstr ""
+msgstr "是，安装升级。"
 
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始准备强化装甲。你拆除舰船上层船壳，将其喂给栖居于舰尾的生物。作为回报，"
+"它为你生长出新的装甲……"
 
 #: src-en/data/events_special_storage.xml.append:525
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -675,10 +683,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:527
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你安装了新的坚不可摧装甲……"
 
 #: src-en/data/events_special_storage.xml.append:530
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
@@ -686,10 +693,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已成功将坚不可摧装甲升级至最终等级！"
 
 #: src-en/data/events_special_storage.xml.append:536
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
@@ -703,61 +709,61 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "寻找创世胚胎。"
 
 #: src-en/data/events_special_storage.xml.append:560
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "寻找斯拉维克。"
 
 #: src-en/data/events_special_storage.xml.append:564
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "寻找瓦坎斯。"
 
 #: src-en/data/events_special_storage.xml.append:568
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "寻找镜像体。"
 
 #: src-en/data/events_special_storage.xml.append:572
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "寻找苍白帝王。"
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "抚摸白蚁。"
 
 #: src-en/data/events_special_storage.xml.append:583
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "发射微型ASB平台。剩余3次。"
 
 #: src-en/data/events_special_storage.xml.append:585
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "你确定要发射微型ASB平台吗？"
 
 #: src-en/data/events_special_storage.xml.append:587
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "是，发射它。"
 
 #: src-en/data/events_special_storage.xml.append:589
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将ASB平台射入太空。它以高速远离你，开始在敌舰附近展开。"
 
 #: src-en/data/events_special_storage.xml.append:596
 msgid ""
@@ -781,25 +787,25 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "发射微型ASB平台。剩余2次。"
 
 #: src-en/data/events_special_storage.xml.append:610
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "你确定要发射微型ASB平台吗？"
 
 #: src-en/data/events_special_storage.xml.append:612
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "是，发射它。"
 
 #: src-en/data/events_special_storage.xml.append:614
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将ASB平台射入太空。它以高速远离你，开始在敌舰附近展开。"
 
 #: src-en/data/events_special_storage.xml.append:621
 msgid ""
@@ -823,25 +829,25 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "发射微型ASB平台。剩余1次。"
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "你确定要发射最后一个微型ASB平台吗？"
 
 #: src-en/data/events_special_storage.xml.append:637
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "是，发射它。"
 
 #: src-en/data/events_special_storage.xml.append:639
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将ASB平台射入太空。它以高速远离你，开始在敌舰附近展开。"
 
 #: src-en/data/events_special_storage.xml.append:646
 msgid ""
@@ -865,31 +871,33 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "梦境殿堂：向织梦者献上祈祷。"
 
 #: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "你确定要在战斗中以织梦者之名举行祈祷仪式吗？每15秒，她会修复你的船体或对敌人"
+"造成伤害。这将消耗10单位废料。"
 
 #: src-en/data/events_special_storage.xml.append:662
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "是，准备仪式并开始战斗。"
 
 #: src-en/data/events_special_storage.xml.append:664
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你在梦境殿堂中央为万愿之梦摆下微薄祭品，祭品随即化为乌有。现在她将在战斗中尝"
+"试协助你，但其力量仅能持续4次尝试。"
 
 #: src-en/data/events_special_storage.xml.append:671
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你正在为万愿之梦准备祭品……"
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
@@ -913,37 +921,39 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "梦境教团：向织梦者献上祭品"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "你确定要以织梦者的名义进行献祭吗？一名随机船员将因此牺牲。独特船员将最后被献"
+"祭，普通人类船员将优先牺牲。织梦者将在战斗中全力协助你。"
 
 #: src-en/data/events_special_storage.xml.append:693
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/text"
-msgstr ""
+msgstr "是，执行献祭仪式。"
 
 #: src-en/data/events_special_storage.xml.append:695
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/text"
-msgstr ""
+msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现被献祭船员的遗体已从祭"
+"坛上消失。万愿之梦将通过主动攻击敌舰，在战斗中协助你3次。"
 
 #: src-en/data/events_special_storage.xml.append:698
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/removeCrew/text"
-msgstr ""
+msgstr "医疗舱中关于该船员的数据已被不可逆地删除。他再也无法复活了。"
 
 #: src-en/data/events_special_storage.xml.append:703
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "万愿之梦正在准备她的惩戒……"
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -967,73 +977,78 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "发射ASB平台。"
 
 #: src-en/data/events_special_storage.xml.append:724
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/text"
-msgstr ""
+msgstr "你确定要发射ASB平台吗？"
 
 #: src-en/data/events_special_storage.xml.append:734
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/text"
-msgstr ""
+msgstr "发射它，然后使用废料收集臂。"
 
 #: src-en/data/events_special_storage.xml.append:736
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/event/text"
-msgstr ""
+msgstr "你正将ASB平台射入太空。它以高速远离你，开始在敌舰附近展开。战斗结束后，你将使"
+"用星舰机械臂将其回收，因此无需消耗任何资源。"
 
 #: src-en/data/events_special_storage.xml.append:750
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/text"
-msgstr ""
+msgstr "发射它，然后使用磁性回收臂。"
 
 #: src-en/data/events_special_storage.xml.append:752
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/event/text"
-msgstr ""
+msgstr "你正将ASB平台射入太空。它以高速远离你，开始在敌舰附近展开。战斗结束后，你将使"
+"用舰船机械臂将其回收，因此无需消耗任何资源。"
 
 #: src-en/data/events_special_storage.xml.append:758
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/text"
-msgstr ""
+msgstr "消耗3单位燃料发射它。"
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你将大量燃料注入已完成的ASB平台模板，并将其射入太空。它以高速远离你，开始在敌"
+"舰附近展开。"
 
 #: src-en/data/events_special_storage.xml.append:769
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[4]/text"
-msgstr ""
+msgstr "消耗2单位导弹发射它。"
 
 #: src-en/data/events_special_storage.xml.append:771
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[4]/event/text"
-msgstr ""
+msgstr "你将导弹注入已完成的ASB平台模板，并将其射入太空。它以高速远离你，开始在敌舰附"
+"近展开。"
 
 #: src-en/data/events_special_storage.xml.append:780
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[5]/text"
-msgstr ""
+msgstr "消耗2单位无人机发射它。"
 
 #: src-en/data/events_special_storage.xml.append:782
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[5]/event/text"
-msgstr ""
+msgstr "你使用无人机部件作为材料，在高科技打印机上制造了一个ASB平台，随后将其射入太空"
+"。它以高速远离你，开始在敌舰附近展开。"
 
 #: src-en/data/events_special_storage.xml.append:791
 msgid ""
@@ -1057,16 +1072,21 @@ msgstr "你决定什么都不做，准备战斗。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "斯拉维克"
 
 #: src-en/data/events_special_storage.xml.append:811
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/event/text"
 msgstr ""
+"档案：斯拉维克\n"
+"\t\t\t头衔：雇佣兵、前叛军成员\n"
+"\t\t\t种族：人类 - 年龄：20 - 性别：男\n"
+"\t\t\t\n"
+"\t\t\t正是斯拉维克。他和其他人没太大不同，甚至在某些方面可能比普通人更平凡，"
+"但至少他竭尽了全力。关于他，已无需多言。"
 
 #: src-en/data/events_special_storage.xml.append:817
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/event/choice/text"
@@ -1076,16 +1096,25 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "瓦坎斯"
 
 #: src-en/data/events_special_storage.xml.append:828
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/event/text"
 msgstr ""
+"档案：瓦坎斯·皮斯\n"
+"\t\t\t头衔：隐士\n"
+"\t\t\t种族：超能族 - 年龄：[记不清] - 性别：男\n"
+"\t\t\t\n"
+"\t\t\t这位年迈的超能族已记不清自己数十年前开始独居与漂泊前的人生。他的漫游持"
+"续至在一颗偏远行星定居——那里可称为他的家。在探索周边时，他发现了一艘来源不明"
+"的古舰残骸，并凭一己之力花费数年将其修复。由于年事已高，他体内的能量即将枯竭"
+"，因此在离世前，他决定做生命中最后一件善事——解开这艘船的谜团，并将其公之于众"
+"。然而，长期孤居严重损害了他的社交能力，使他无法正式获得舰长头衔。而你，作为"
+"一名变元者，决定助他达成此愿。"
 
 #: src-en/data/events_special_storage.xml.append:834
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/event/choice/text"
@@ -1095,16 +1124,23 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体"
 
 #: src-en/data/events_special_storage.xml.append:845
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/event/text"
 msgstr ""
+"档案：镜像体\n"
+"\t\t\t头衔：奇迹追寻者成员、宇宙异常体\n"
+"\t\t\t种族：[未知] - 年龄：20至970岁 - 性别：女\n"
+"\t\t\t\n"
+"\t\t\t镜像体的起源历史极为模糊且神秘。本质上，她是一个获得了意识的宇宙异常体"
+"。她对自己诞生的细节一无所知，最初的记忆是被一位名为“剑客”的奇迹追寻者从虚空"
+"禁锢中解放出来。她随后加入了该组织，只因无处可去。她似乎隐藏了比应有之事更多"
+"的秘密，但这难以证实。"
 
 #: src-en/data/events_special_storage.xml.append:851
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/event/choice/text"
@@ -1114,16 +1150,29 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "苍白帝王"
 
 #: src-en/data/events_special_storage.xml.append:862
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/event/text"
 msgstr ""
+"档案：亚历山大·怀特\n"
+"\t\t\t头衔：苍白帝王克隆体\n"
+"\t\t\t种族：人类（异常变体）\n"
+"\t\t\t年龄：156岁（计时年龄），52岁（生理年龄）\n"
+"\t\t\t性别：男\n"
+"\t\t\t\n"
+"苍白帝王在一个孤立的宇宙中建立了人类帝国。他以卓越的领导才能履行使命，引领人"
+"类步入太空。某日，一名来自另一宇宙、戴着猫头鹰面具的仿生人出现在他面前，并开"
+"始博取他的信任。尽管来历诡异，这名仿生人在各项事业中协助人类，并在完全取得帝"
+"王信任后，交予他一瓶来自其母宇宙的“神之血”，建议他饮下以获得神圣之力。在仿生"
+"人保证安全后，怀特饮尽瓶中之物，蜕变为类神存在。\n"
+"然而，新获得的力量仅加剧了他的负面特质，催生出偏执妄想。本舰上的苍白帝王仅为"
+"原初帝王的克隆体，其使命是在原身死亡时取而代之。他因意外流落此宇宙，但迄今仍"
+"未打算返回故土。"
 
 #: src-en/data/events_special_storage.xml.append:870
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/event/choice/text"
@@ -1133,16 +1182,23 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "孕世之种"
 
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/event/text"
 msgstr ""
+"档案：创世胚胎\n"
+"\t\t\t头衔：已逝造物主、终末异常体、未生之胚\n"
+"\t\t\t种族：神性异兽 - 年龄：0 - 性别：无\n"
+"\t\t\t\n"
+"\t\t\t一则终极警告与最后通牒——却不过是一具本应为活体神祇的空壳。一个脆弱且已"
+"在腐朽的生命体，一个在罪孽与生命煎熬中孕育的病态孩童，由那些目睹现实自永恒黑"
+"暗诞生者所催生。此物本不应存在，但你仍须接受与它共处一舰的事实。它未必危险，"
+"却令人惊惧而狂野。我不禁想，奇迹追寻者对此可有所知？"
 
 #: src-en/data/events_special_storage.xml.append:887
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/event/choice/text"

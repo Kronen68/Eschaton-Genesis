@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-24 04:44+0000\n"
+"PO-Revision-Date: 2026-01-25 08:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
@@ -227,129 +227,129 @@ msgstr "致那位在此宇宙中，为奇迹追寻者的故事揭开序幕之人
 #: src-en/data/hyperspace.xml.append:1941
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THE_WARMTH\"]/name"
-msgstr ""
+msgstr "暖意"
 
 #: src-en/data/hyperspace.xml.append:1942
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THE_WARMTH\"]/description"
-msgstr ""
+msgstr "致那位心怀悲悯、守护无辜的勇者"
 
 #: src-en/data/hyperspace.xml.append:1949
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_HORN_OF_GOD\"]/name"
-msgstr ""
+msgstr "虫神断角"
 
 #: src-en/data/hyperspace.xml.append:1950
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_HORN_OF_GOD\"]/description"
-msgstr ""
+msgstr "致那位将理性带回哀悼神陨之不幸生灵的使者。"
 
 #: src-en/data/hyperspace.xml.append:1957
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/name"
-msgstr ""
+msgstr "“谢谢你”"
 
 #: src-en/data/hyperspace.xml.append:1958
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/description"
-msgstr ""
+msgstr "致那位展现最高形式珍重——即“感激”之人。"
 
 #: src-en/data/hyperspace.xml.append:1965
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/name"
-msgstr ""
+msgstr "（汝即）连续性破坏者"
 
 #: src-en/data/hyperspace.xml.append:1966
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/description"
-msgstr ""
+msgstr "将你的命运与此宇宙群的命运，同“奇迹追寻者”的征程紧密相连。"
 
 #: src-en/data/hyperspace.xml.append:1973
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/name"
-msgstr ""
+msgstr "祂的洞悉之瞳"
 
 #: src-en/data/hyperspace.xml.append:1974
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/description"
-msgstr ""
+msgstr "成为奇迹追寻者空间站的受信访客，并获得其数据库的访问权限。"
 
 #: src-en/data/hyperspace.xml.append:1982
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
-msgstr ""
+msgstr "猎手救赎"
 
 #: src-en/data/hyperspace.xml.append:1984
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_ROBUR\"]/name"
-msgstr ""
+msgstr "孤寂终章"
 
 #: src-en/data/hyperspace.xml.append:1985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_ROBUR\"]/description"
-msgstr ""
+msgstr "致那位抚平了一位好战疯徒之苦难的使者。"
 
 #: src-en/data/hyperspace.xml.append:1992
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_GEM\"]/name"
-msgstr ""
+msgstr "棱镜畸变"
 
 #: src-en/data/hyperspace.xml.append:1993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_GEM\"]/description"
-msgstr ""
+msgstr "致那位从三兄弟之一的光折射者手中幸存之人。"
 
 #: src-en/data/hyperspace.xml.append:2000
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_REAPER\"]/name"
-msgstr ""
+msgstr "[毁灭] [错误]"
 
 #: src-en/data/hyperspace.xml.append:2001
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_REAPER\"]/description"
-msgstr ""
+msgstr "致那位制止了可怕生物武器失控量产之人。"
 
 #: src-en/data/hyperspace.xml.append:2008
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_DREAMSEEKER\"]/name"
-msgstr ""
+msgstr "未竟之梦"
 
 #: src-en/data/hyperspace.xml.append:2009
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_DREAMSEEKER\"]/description"
-msgstr ""
+msgstr "致那位阻止了狂热教条蔓延的守护者。"
 
 #: src-en/data/hyperspace.xml.append:2016
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/name"
-msgstr ""
+msgstr "弄臣之诡谋"
 
 #: src-en/data/hyperspace.xml.append:2017
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/description"
-msgstr ""
+msgstr "协助关闭给奇迹追寻者带来困扰的时空裂隙。"
 
 #: src-en/data/hyperspace.xml.append:2018
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/secretDescription"
-msgstr ""
+msgstr "赢取奇迹追寻者更深的信任，并协助他们消除滞留于此宇宙簇所带来的后果。"
 
 #: src-en/data/hyperspace.xml.append:2026
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
-msgstr ""
+msgstr "刹那即永恒"
 
 #: src-en/data/hyperspace.xml.append:2028
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/name"
-msgstr ""
+msgstr "第三次生命机会"
 
 #: src-en/data/hyperspace.xml.append:2029
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/description"
-msgstr ""
+msgstr "通过将你的人类船员引荐给苍白帝王克隆体，赢取他的信任。"
 
 #: src-en/data/hyperspace.xml.append:2030
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/secretDescription"
-msgstr ""
+msgstr "赢得一位帝王的信任。"
 
 #: src-en/data/hyperspace.xml.append:2031
 msgid ""
@@ -359,17 +359,17 @@ msgstr "已招募过该特殊船员"
 #: src-en/data/hyperspace.xml.append:2038
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/name"
-msgstr ""
+msgstr "她的爱足以充盈整个世界"
 
 #: src-en/data/hyperspace.xml.append:2039
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/description"
-msgstr ""
+msgstr "感谢众人，并安抚镜像体。"
 
 #: src-en/data/hyperspace.xml.append:2040
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/secretDescription"
-msgstr ""
+msgstr "感谢众人。"
 
 #: src-en/data/hyperspace.xml.append:2041
 msgid ""
@@ -378,69 +378,69 @@ msgstr "已招募过该特殊船员"
 
 #: src-en/data/hyperspace.xml.append:2049
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/name"
-msgstr ""
+msgstr "生命之轮，轮回业轨"
 
 #: src-en/data/hyperspace.xml.append:2050
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/description"
-msgstr ""
+msgstr "发现“苍穹白绫”再度遗失。他们的苦难难道永无止境？"
 
 #: src-en/data/hyperspace.xml.append:2051
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/secretDescription"
-msgstr ""
+msgstr "他们的苦难难道永无止境？"
 
 #: src-en/data/hyperspace.xml.append:2066
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/name"
-msgstr ""
+msgstr "粮足民安！"
 
 #: src-en/data/hyperspace.xml.append:2067
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/description"
-msgstr ""
+msgstr "不惜代价，让白蚁虫群饱食一顿。"
 
 #: src-en/data/hyperspace.xml.append:2068
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/secretDescription"
-msgstr ""
+msgstr "不惜代价，让特定族群饱食一顿。"
 
 #: src-en/data/hyperspace.xml.append:2075
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_METAREP_5\"]/name"
-msgstr ""
+msgstr "他们的新朋友"
 
 #: src-en/data/hyperspace.xml.append:2076
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_METAREP_5\"]/description"
-msgstr ""
+msgstr "达成当前奇迹追寻者声望的最高等级。"
 
 #: src-en/data/hyperspace.xml.append:2091
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/name"
-msgstr ""
+msgstr "我受够了"
 
 #: src-en/data/hyperspace.xml.append:2092
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/description"
-msgstr ""
+msgstr "尝试启动奇迹追寻者空间站的紧急按钮，然后将其卖给企业集团。"
 
 #: src-en/data/hyperspace.xml.append:2093
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/secretDescription"
-msgstr ""
+msgstr "启动奇迹追寻者空间站的某个危险按钮，并承担其后果。"
 
 #: src-en/data/hyperspace.xml.append:2100
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/name"
-msgstr ""
+msgstr "异界惊骇"
 
 #: src-en/data/hyperspace.xml.append:2101
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/description"
-msgstr ""
+msgstr "将矮人交付给黑尔，并为你的献礼获取报酬。"
 
 #: src-en/data/hyperspace.xml.append:2102
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/secretDescription"
-msgstr ""
+msgstr "见证一位奇迹追寻者如何处置纯粹混沌之物。"

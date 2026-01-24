@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-25 08:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_socializexmlappend/zh_Hans/>\n"
@@ -42,6 +42,10 @@ msgstr ""
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_3\"]/text"
 msgstr ""
+"“她的名字是‘命题’。一位慈爱的母亲。她爱所有人，无一例外。但她的爱亦可能怀有恶"
+"意，会带来极深的痛楚。只是并非所有人都能感知这份痛楚——多数时候，人们只是漠视"
+"它。最终，是她限制了他。她设下了他无法逾越的边界。这是她最可怖的罪孽——或许如"
+"今她已为此悔恨。但倘若她未曾做出这般牺牲，一切都将不复存在。”"
 
 #: src-en/data/events_special_socialize.xml.append:70
 msgid ""

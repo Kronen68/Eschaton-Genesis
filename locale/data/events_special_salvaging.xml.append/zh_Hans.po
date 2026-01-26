@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_salvagingxmlappend/zh_Hans/>\n"
@@ -41,13 +41,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:25
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:28
 msgid ""
@@ -65,13 +66,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:42
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:45
 msgid ""
@@ -89,13 +91,21 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DROPPOINT_PROTESTORS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体决定亲自掌控局面。"
 
 #: src-en/data/events_special_salvaging.xml.append:61
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DROPPOINT_PROTESTORS\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"“同盟舰队的船出现在这里是有原因的。他们正计划抗议禁止跨多元宇宙旅行。稍等，我"
+"来处理。”\n"
+"说完，镜像体消失了。几秒后，你看见她出现在月球表面。她的突然现身让抗议者和联"
+"邦军官都措手不及。她登上一处山丘，确保所有抗议者都能看见她，开始情绪激昂地演"
+"讲——但从你的舰上听不清她在说什么。\n"
+"片刻后，她返回舰内，一名联邦军官随即联系了你：“感谢你的协助。抗议者似乎已经平"
+"静下来，部分开始散去。这虽未彻底解决问题，但局势已更受控。我们会给你发送一份"
+"微薄的酬谢。”"
 
 #: src-en/data/events_special_salvaging.xml.append:64
 msgid ""
@@ -113,13 +123,19 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"CRYSTAL_MONTY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体决定亲自掌控局面。"
 
 #: src-en/data/events_special_salvaging.xml.append:78
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"CRYSTAL_MONTY\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"镜像体提到“必须打破界限”，随即从你的舰上消失。\n"
+"紧接着，她出现在水晶族舰船上——而你的通讯屏幕与音频同时被切断。\n"
+"你焦灼地等待了一分钟，担心着她的安危，直到她终于回到舰内。\n"
+"“我和水晶族谈过了。他们不会再骚扰我们，而且……他亲自向你致歉，很快会送你一份礼"
+"物。”水晶族舰船跃迁离去前，迅速向太空抛洒出一些资源。\n"
+"你庆幸镜像体站在你这一边。"
 
 #: src-en/data/events_special_salvaging.xml.append:82
 msgid ""
@@ -137,13 +153,17 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ORCHID_ZOLTAN_QUEST_FINISH\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体决定亲自掌控局面。"
 
 #: src-en/data/events_special_salvaging.xml.append:96
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ORCHID_ZOLTAN_QUEST_FINISH\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"“我感觉到……危险？不，我不确定。但这里有些不对劲。我建议直接把这个‘礼物’抛到外"
+"太空去——它本就该待在那儿。”\n"
+"你听从了镜像体的建议，将礼物处理掉了。镜像体愿意协助你在附近搜索资源，作为补"
+"偿。"
 
 #: src-en/data/events_special_salvaging.xml.append:99
 msgid ""
@@ -161,16 +181,18 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DETECTIVE_HANGARATTACK_FAILURE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体强烈建议你将舰船控制权移交给她。"
 
 #: src-en/data/events_special_salvaging.xml.append:113
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DETECTIVE_HANGARATTACK_FAILURE\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"镜像体要求所有船员离开驾驶系统。在她的操控下，舰船灵巧地避开所有敌舰与炮火，"
+"其驾驶技艺令你惊叹。你们成功撤离交战区且未受损伤，但民兵部队的遭遇就没那么幸"
+"运了。"
 
 #: src-en/data/events_special_salvaging.xml.append:115
-#, fuzzy
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DETECTIVE_HANGARATTACK_FAILURE\"]/mod-"
 "append:choice/event/choice/text"
@@ -180,13 +202,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_CACHE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:126
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_CACHE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:129
 msgid ""
@@ -204,13 +227,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_HURTMINER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:143
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_HURTMINER\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:146
 msgid ""
@@ -228,13 +252,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_STANDOFF\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:160
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_STANDOFF\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:163
 msgid ""
@@ -252,13 +277,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ASTEROID_PRESSURE_TANK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:177
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ASTEROID_PRESSURE_TANK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:180
 msgid ""
@@ -276,13 +302,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_COLONY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:194
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_COLONY\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:197
 msgid ""
@@ -300,13 +327,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_REBEL_DELUSIONAL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:211
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_REBEL_DELUSIONAL\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:214
 msgid ""
@@ -324,13 +352,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_FUELING_STATION\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:228
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ABANDONED_FUELING_STATION\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:231
 msgid ""
@@ -348,13 +377,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ABANDONED_ASTEROID_COLONY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:245
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ABANDONED_ASTEROID_COLONY\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:248
 msgid ""
@@ -372,13 +402,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ANCIENT_LOST_DUDE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:262
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ANCIENT_LOST_DUDE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:265
 msgid ""
@@ -396,13 +427,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROYAL_CRYSTALS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:279
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROYAL_CRYSTALS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:282
 msgid ""
@@ -420,13 +452,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"AUTO_FOREST\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:296
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"AUTO_FOREST\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:299
 msgid ""
@@ -444,13 +477,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"VAMPWEED_RIOT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:313
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"VAMPWEED_RIOT\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:316
 msgid ""
@@ -468,13 +502,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"COALITION_FED_AUTO_WIN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:330
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"COALITION_FED_AUTO_WIN\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:333
 msgid ""
@@ -492,13 +527,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT_DESTROY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:347
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DUSK_MILITIA_ESCORT_DESTROY\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:350
 msgid ""
@@ -516,13 +552,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_DUSK_PRISONERS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:364
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_DUSK_PRISONERS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:367
 msgid ""
@@ -540,13 +577,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"MANTIS_CAPTURE_SUZERAIN_COMMANDO\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:381
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"MANTIS_CAPTURE_SUZERAIN_COMMANDO\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:384
 msgid ""
@@ -564,13 +602,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ESTATE_SHIPWRECK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:398
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_ESTATE_SHIPWRECK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:401
 msgid ""
@@ -588,13 +627,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"KNIGHT_TRAP_PLANET\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:415
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"KNIGHT_TRAP_PLANET\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:418
 msgid ""
@@ -612,13 +652,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_NODE17_FLAMINGFED\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:432
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DISTRESS_NODE17_FLAMINGFED\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:435
 msgid ""
@@ -636,13 +677,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE_LOSTSUN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:449
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE_LOSTSUN\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:452
 msgid ""
@@ -660,13 +702,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"LOSTSUN_PRISONERS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:466
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"LOSTSUN_PRISONERS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:469
 msgid ""
@@ -684,13 +727,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"QUEST_LOSTSUN_DISRUPTION_QUEST\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:483
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"QUEST_LOSTSUN_DISRUPTION_QUEST\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:486
 msgid ""
@@ -708,13 +752,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ZOLTAN_REVOLT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:500
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ZOLTAN_REVOLT\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:503
 msgid ""
@@ -732,13 +777,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:517
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_ZOLTAN_BATTLEFIELD\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:520
 msgid ""
@@ -756,13 +802,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_MORPH_SOLAR\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:534
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_MORPH_SOLAR\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:537
 msgid ""
@@ -780,13 +827,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_MORPH_SMUGGLER_CONFUSED\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:551
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_MORPH_SMUGGLER_CONFUSED\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:554
 msgid ""
@@ -804,13 +852,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"QUEST_SMUGGLER_RAID\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:568
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"QUEST_SMUGGLER_RAID\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:571
 msgid ""
@@ -828,13 +877,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"REBEL_BOOTCAMP\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:585
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"REBEL_BOOTCAMP\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:588
 msgid ""
@@ -852,13 +902,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_LEECH_DARWIN_FTL\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:602
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_LEECH_DARWIN_FTL\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:605
 msgid ""
@@ -876,13 +927,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_ITEMS_TWIN_PULSARS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:619
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_ITEMS_TWIN_PULSARS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:622
 msgid ""
@@ -900,13 +952,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_ITEMS_SUN_JUNK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:636
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_ITEMS_SUN_JUNK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:639
 msgid ""
@@ -924,13 +977,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_CRUSADER_MADROCK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:653
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_LIGHT_STARGROVE_CRUSADER_MADROCK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:656
 msgid ""
@@ -948,13 +1002,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_ASTEROID_DERELICT_SHIP\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:670
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_ASTEROID_DERELICT_SHIP\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:673
 msgid ""
@@ -972,13 +1027,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_LIVE_MINE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:687
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_LIVE_MINE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:690
 msgid ""
@@ -996,13 +1052,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_SLUG_ARGUMENT_MV\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:704
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"ROCK_SLUG_ARGUMENT_MV\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:707
 msgid ""
@@ -1020,13 +1077,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_STORM_ITEMS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:721
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_STORM_ITEMS\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:724
 msgid ""
@@ -1044,13 +1102,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_MINE_WRECK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:738
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"NEBULA_MINE_WRECK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:741
 msgid ""
@@ -1068,13 +1127,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"VAGABOND_STORM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:755
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"VAGABOND_STORM\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:758
 msgid ""
@@ -1092,13 +1152,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_TIMER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:772
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_TIMER\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:775
 msgid ""
@@ -1116,13 +1177,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_EXPLORE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:789
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_EXPLORE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:792
 msgid ""
@@ -1140,13 +1202,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:806
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"DOCK_DRONE_SALESMAN\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:809
 msgid ""
@@ -1164,13 +1227,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_SOLARWRECK\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:823
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_SOLARWRECK\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:826
 msgid ""
@@ -1188,13 +1252,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_MINER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:840
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_MINER\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:843
 msgid ""
@@ -1212,13 +1277,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_SATELLITE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:857
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_SATELLITE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:860
 msgid ""
@@ -1236,13 +1302,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_FIRE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:874
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_FIRE\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:877
 msgid ""
@@ -1260,13 +1327,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_STRANDED\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:891
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_STRANDED\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:894
 msgid ""
@@ -1284,13 +1352,14 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_FACTORY\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "镜像体向你发出警告。是否听从她的劝告？"
 
 #: src-en/data/events_special_salvaging.xml.append:908
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"FILLER_DISTRESS_FACTORY\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "“我感知到前方有危险。让我帮你勘探周边区域，寻找可用之物。”你指示船员们待命，"
+"镜像体随之消失。几分钟后，她带着一些自己搜寻并运回的废料归来。"
 
 #: src-en/data/events_special_salvaging.xml.append:911
 msgid ""

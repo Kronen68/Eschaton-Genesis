@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-24 04:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_jesterspaceriftxml/zh_Hans/>\n"
@@ -82,7 +82,6 @@ msgstr "你驶离了那空间裂隙附近的行星，舰船的超光速引擎正
 "象背后究竟隐藏着怎样的秘密。"
 
 #: src-en/data/events_special_jesterspacerift.xml:50
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -108,7 +107,6 @@ msgid ""
 msgstr "你驶离了那空间裂隙附近的行星，舰船的超光速引擎正在充能。"
 
 #: src-en/data/events_special_jesterspacerift.xml:73
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -165,7 +163,6 @@ msgid ""
 msgstr "你驶离了那时空裂隙附近的行星，舰船的超光速引擎正在充能。"
 
 #: src-en/data/events_special_jesterspacerift.xml:113
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/text"
 msgstr "继续。"
@@ -187,7 +184,7 @@ msgstr ""
 "突然间，你感到一阵极致的愉悦，仿佛生命中所有艰辛都在渐渐消退——这种感受随着一"
 "艘异样舰船的靠近而愈发强烈。其舰长立刻联系了你，他那近乎狂喜的神态，活像某个"
 "教派的虔诚信徒：\n"
-"“你好，孩子。我们是万愿之梦教团，梦境之救主、命运解脱者、织梦女神之仆……而你呢"
+"“你好，孩子。我们是万愿织梦教团，梦境之救主、命运解脱者、织梦女神之仆……而你呢"
 "，孩子？你在此做什么？你的出现，是否与我们挣脱那暴君掌控有关？不过，你是否牵"
 "涉其中，对我们并不那么重要……不如让我们和平离去吧。莫要挑起调查，我们受她的注"
 "视所护佑……”\n"
@@ -203,16 +200,15 @@ msgstr "因其试图操控你的心智而发动攻击。"
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/text"
 msgstr ""
-"“什……什么？你……居然没生效？该死……哦，万愿之梦啊，请缓解我们的苦痛……”看来狂热"
+"“什……什么？你……居然没生效？该死……哦，万愿织梦啊，请缓解我们的苦痛……”看来狂热"
 "者们开始祈祷了。你不确定他们祈祷的后果会是什么，但有种不祥的预感……"
 
 #: src-en/data/events_special_jesterspacerift.xml:153
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "万愿之梦教团的信徒们正集结进行集体祈祷！他们向织梦者祈求的缘由尚不明确！"
+msgstr "万愿织梦教团的信徒们正集结进行集体祈祷！他们向织梦者祈求的缘由尚不明确！"
 
 #: src-en/data/events_special_jesterspacerift.xml:157
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -229,7 +225,6 @@ msgstr "你驶离了那时空裂隙附近的行星，舰船的超光速引擎正
 "怕都无力因你拒绝其条件而真正伤及你分毫。"
 
 #: src-en/data/events_special_jesterspacerift.xml:167
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -256,7 +251,6 @@ msgstr ""
 "试图操控你心智的器具。此后，眩晕感便消散了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:189
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/choice/text"
 msgstr "继续。"
@@ -275,7 +269,6 @@ msgstr ""
 "便消失了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:200
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/choice/text"
 msgstr "继续。"
@@ -293,12 +286,11 @@ msgstr ""
 "独特氛围。你或许对织梦者和她的教团有疑问，但事实是她已死去多时，根本帮不了她"
 "的信徒——而你在与他们交战中可能目睹的那些‘奇迹’，不过她几近消亡的灵魂可悲地试"
 "图抓住某种物质存在的挣扎罢了。\n"
-"总之，别让这种无谓之事充斥你的头脑；反正你们宇宙里也没有神祇……至少据我所知没"
+"总之，别让这种无谓之事充斥你的头脑；反正你们宇宙里也没有神明……至少据我所知没"
 "有。现在……告别吧，然后离开。”无人机交付了报酬，随即自毁。其残骸在空间真空中溶"
 "解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:220
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/choice/text"
 msgstr "继续。"
@@ -341,7 +333,6 @@ msgid ""
 msgstr "(防护程序)成功拦截了半械分离者的网络攻击。是时候投入战斗了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:244
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
 msgstr "继续。"
@@ -357,13 +348,11 @@ msgid ""
 msgstr "系统入侵成功拦截了半械分离者的网络攻击。是时候投入战斗了。"
 
 #: src-en/data/events_special_jesterspacerift.xml:257
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
 msgstr "继续。"
 
 #: src-en/data/events_special_jesterspacerift.xml:263
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[3]/text"
 msgstr "继续。"
@@ -380,7 +369,6 @@ msgstr ""
 "还在残骸中找到了一件原型武器——似乎是这些损坏的半械分离者所制造的。"
 
 #: src-en/data/events_special_jesterspacerift.xml:278
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/choice/text"
 msgstr "继续。"
@@ -395,7 +383,6 @@ msgstr ""
 "现了一件原型武器，看样子正是这些损坏的半械分离者所制造的。"
 
 #: src-en/data/events_special_jesterspacerift.xml:290
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/choice/text"
 msgstr "继续。"
@@ -416,7 +403,6 @@ msgstr ""
 "，随即自毁。其残骸在空间真空中溶解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:310
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/choice/text"
 msgstr "继续。"
@@ -447,7 +433,6 @@ msgstr ""
 "看你的反应有多快。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:326
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -478,7 +463,6 @@ msgstr ""
 "看你的反应有多快。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:343
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -509,7 +493,6 @@ msgstr ""
 "看你的反应有多快。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:360
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/choice/text"
 msgstr "继续。"
@@ -527,7 +510,6 @@ msgstr ""
 "血——永恒如是。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:372
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/choice/text"
 msgstr "继续。"
@@ -544,7 +526,6 @@ msgstr ""
 "物资，返回己舰前，你还从宝石上轰下一块碎片，将其带走——指望日后能卖个好价钱。"
 
 #: src-en/data/events_special_jesterspacerift.xml:381
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/choice/text"
 msgstr "继续。"
@@ -564,7 +545,6 @@ msgstr ""
 "毁。其残骸在空间真空中溶解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:401
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/choice/text"
 msgstr "继续。"
@@ -582,7 +562,6 @@ msgstr ""
 "同一脉血——永恒如是。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:410
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/choice/text"
 msgstr "继续。"
@@ -600,7 +579,6 @@ msgstr ""
 "物资，返回己舰前，你还从宝石上轰下一块碎片，将其带走——指望日后能卖个好价钱。"
 
 #: src-en/data/events_special_jesterspacerift.xml:419
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/choice/text"
 msgstr "继续。"
@@ -620,7 +598,6 @@ msgstr ""
 "毁。其残骸在空间真空中溶解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:439
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/choice/text"
 msgstr "继续。"
@@ -638,7 +615,6 @@ msgstr ""
 "同一脉血——永恒如是。”"
 
 #: src-en/data/events_special_jesterspacerift.xml:448
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/choice/text"
 msgstr "继续。"
@@ -655,7 +631,6 @@ msgstr ""
 "资，返回己舰前，你还从宝石上轰下一块碎片，将其带走——指望日后能卖个好价钱。"
 
 #: src-en/data/events_special_jesterspacerift.xml:457
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/choice/text"
 msgstr "继续。"
@@ -675,7 +650,6 @@ msgstr ""
 "毁。其残骸在空间真空中溶解消散，只留你独自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:477
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/choice/text"
 msgstr "继续。"
@@ -709,7 +683,6 @@ msgstr ""
 "！”"
 
 #: src-en/data/events_special_jesterspacerift.xml:491
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/choice/text"
 msgstr "继续。"
@@ -726,7 +699,6 @@ msgstr "你驶离了那时空裂隙附近的行星，舰船的超光速引擎正
 "怕都无力因你拒绝其条件而真正伤及你分毫。"
 
 #: src-en/data/events_special_jesterspacerift.xml:501
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/text"
 msgstr "继续。"
@@ -751,7 +723,6 @@ msgstr ""
 "装甲板。"
 
 #: src-en/data/events_special_jesterspacerift.xml:521
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/choice/text"
 msgstr "继续。"
@@ -766,7 +737,6 @@ msgstr ""
 "并成功从其船体上剥离下一块装甲板。"
 
 #: src-en/data/events_special_jesterspacerift.xml:530
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/choice/text"
 msgstr "继续。"
@@ -787,7 +757,6 @@ msgstr ""
 "自困惑。你决定驶离此地。"
 
 #: src-en/data/events_special_jesterspacerift.xml:550
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/choice/text"
 msgstr "继续。"
@@ -798,7 +767,6 @@ msgid ""
 msgstr "狂热者们结束了祈祷……"
 
 #: src-en/data/events_special_jesterspacerift.xml:561
-#, fuzzy
 msgid ""
 "data/events_special_jesterspacerift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/choice/text"
 msgstr "继续。"

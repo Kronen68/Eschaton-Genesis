@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-25 08:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -165,7 +165,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/text"
 msgstr ""
 "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现被献祭船员的遗体已从祭"
-"坛上消失。看来，万愿之梦已接受了这可怖的祭品，并给予了相应的回报。但这真是她"
+"坛上消失。看来，万愿织梦已接受了这可怖的祭品，并给予了相应的回报。但这真是她"
 "所愿的吗？"
 
 #: src-en/data/events_special_storage.xml.append:132
@@ -203,7 +203,7 @@ msgstr "你对织梦者的祈求奏效了。你的舰船船体恢复了5点耐�
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_NOTHING\"]/text"
-msgstr "万愿之梦似乎忽视了你的祈求，又或许它们根本未能传达到她那里。你继续战斗。"
+msgstr "万愿织梦似乎忽视了你的祈求，又或许它们根本未能传达到她那里。你继续战斗。"
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
@@ -258,7 +258,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/text"
 msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你在房间中央发现了各式各样的"
-"奖赏。看来万愿织梦者此次更为眷顾于你。"
+"奖赏。看来万愿织梦此次更为眷顾于你。"
 
 #: src-en/data/events_special_storage.xml.append:230
 msgid ""
@@ -268,8 +268,8 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:235
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/text"
-msgstr "祈祷之后，什么也没有发生。万愿织梦者似乎忽视了你的祈求，又或许它们根本未能传"
-"达到她那里。"
+msgstr "祈祷之后，什么也没有发生。万愿织梦似乎忽视了你的祈求，又或许它们根本未能传达"
+"到她那里。"
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
@@ -890,14 +890,14 @@ msgstr "是，准备仪式并开始战斗。"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/text"
-msgstr "你在梦境殿堂中央为万愿之梦摆下微薄祭品，祭品随即化为乌有。现在她将在战斗中尝"
+msgstr "你在梦境殿堂中央为万愿织梦摆下微薄祭品，祭品随即化为乌有。现在她将在战斗中尝"
 "试协助你，但其力量仅能持续4次尝试。"
 
 #: src-en/data/events_special_storage.xml.append:671
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "你正在为万愿之梦准备祭品……"
+msgstr "你正在为万愿织梦准备祭品……"
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
@@ -941,7 +941,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/text"
 msgstr "梦境殿堂的灯火骤然暗淡、熄灭，当它们重新亮起时，你发现被献祭船员的遗体已从祭"
-"坛上消失。万愿之梦将通过主动攻击敌舰，在战斗中协助你3次。"
+"坛上消失。万愿织梦将通过主动攻击敌舰，在战斗中协助你3次。"
 
 #: src-en/data/events_special_storage.xml.append:698
 msgid ""
@@ -953,7 +953,7 @@ msgstr "医疗舱中关于该船员的数据已被不可逆地删除。他再也
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "万愿之梦正在准备她的惩戒……"
+msgstr "万愿织梦正在准备她的惩戒……"
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -1193,7 +1193,7 @@ msgstr ""
 "\t\t\t头衔：已逝造物主、终末异常体、未生之胚\n"
 "\t\t\t种族：神性异兽 - 年龄：0 - 性别：无\n"
 "\t\t\t\n"
-"\t\t\t一则终极警告与最后通牒——却不过是一具本应为活体神祇的空壳。一个脆弱且已"
+"\t\t\t一则终极警告与最后通牒——却不过是一具本应为活体神明的空壳。一个脆弱且已"
 "在腐朽的生命体，一个在罪孽与生命煎熬中孕育的病态孩童，由那些目睹现实自永恒黑"
 "暗诞生者所催生。此物本不应存在，但你仍须接受与它共处一舰的事实。它未必危险，"
 "却令人惊惧而狂野。我不禁想，奇迹追寻者对此可有所知？"

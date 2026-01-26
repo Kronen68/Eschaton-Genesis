@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-24 04:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_sector_showdownxmlappend/zh_Hans/>\n"
@@ -112,7 +112,7 @@ msgstr ""
 "的计划？你们可曾想过后续如何？我们该如何带着典范离开这个宇宙？”\n"
 "第一位末世学家回答了自己的质问：\n"
 "“我们不会带走典范。我们将摧毁它，或干脆将其抛入深空。此后发生什么，已与我们无"
-"关。我们已获取了关于多元宇宙其他星簇的足够情报，是时候返程了。卡斯特罗菲斯站"
+"关。我们已获取了关于多元宇宙其他星群的足够情报，是时候返程了。卡斯特罗菲斯站"
 "与末世学家共同体必须理解我们的处境。眼下，保全我们在此宇宙搜集的全部知识更为"
 "紧要。”"
 

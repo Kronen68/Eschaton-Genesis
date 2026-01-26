@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 02:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datablueprintsxmlappend/zh_Hans/>\n"
@@ -50,9 +50,8 @@ msgstr "梦境殿堂"
 #: src-en/data/blueprints.xml.append:36
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
 msgstr ""
-"你的信仰使你能够在战斗中有限次地向\"万愿之梦\"祈求特定援助，或在无信标星系中"
-"通过祈祷获取额外资源。随此舰一同进入本宇宙的\"织梦者\"残留力量，将尝试实现你"
-"的愿望。"
+"你的信仰使你能够在战斗中有限次地向万愿织梦祈求特定援助，或在无信标星系中通过"
+"祈祷获取额外资源。随此舰一同进入本宇宙的织梦者残留力量，将尝试实现你的愿望。"
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
@@ -63,14 +62,14 @@ msgstr "梦境教团"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
 msgstr ""
-"你对\"万愿之梦\"的信仰可能已过于狂热。在无信标星系中，你将有机会通过祈祷直接"
-"从\"织梦者\"处获得大量资源的强力援助，或在战斗中召唤其显著干涉，但每一次这样"
-"的恩赐，都需以一名船员的生命作为代价……"
+"你对万愿织梦的信仰可能已过于狂热。在无信标星系中，你将有机会通过祈祷直接从\""
+"织梦者\"处获得大量资源的强力援助，或在战斗中召唤其显著干涉，但每一次这样的恩"
+"赐，都需以一名船员的生命作为代价……"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
-msgstr "万愿之梦教派"
+msgstr "万愿织梦教派"
 
 #: src-en/data/blueprints.xml.append:54
 msgid ""
@@ -1089,7 +1088,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
 "隐士在一处边陲世界中寻得此舰。\n"
-"其数据库中除提及前船员所崇拜之神祇——月神\"琉娜\"与日神\"索拉娜\"——外空无一物"
+"其数据库中除提及前船员所崇拜的神明——月神\"琉娜\"与日神\"索拉娜\"——外空无一物"
 "。\n"
 "舰上图谱指向银河彼端的一颗行星，隐士毫无犹豫，启程奔赴这最后的旅程。"
 
@@ -1175,7 +1174,7 @@ msgstr "怯蓝"
 #: src-en/data/blueprints.xml.append:1748
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
-msgstr "为\"奇迹1111·致谢\"完成面向寻秘者的订单，并探索至臻感激的终极形态。"
+msgstr "为\"奇迹1111·谢谢你\"完成面向寻秘者的订单，并探索至臻感激的终极形态。"
 
 #: src-en/data/blueprints.xml.append:1749
 msgid ""
@@ -1427,7 +1426,7 @@ msgstr "圣白蚁舰"
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
-msgstr "为\"奇迹9721·虫神断角\"完成面向奇迹追寻者的订单，并安抚那些哀悼神祇逝去的生灵"
+msgstr "为\"奇迹9721·虫神断角\"完成面向奇迹追寻者的订单，并安抚那些哀悼神明逝去的生灵"
 "。"
 
 #: src-en/data/blueprints.xml.append:2562
@@ -1768,16 +1767,16 @@ msgstr "允诺恩典"
 #: src-en/data/blueprints.xml.append:3684
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败\"万愿之梦教团\"的狂信徒——该坐标将在你赢得奇迹追寻"
+msgstr "在时空异常点附近遭遇并击败\"万愿织梦教团\"的狂信徒——该坐标将在你赢得奇迹追寻"
 "者的尊重后由其提供。"
 
 #: src-en/data/blueprints.xml.append:3685
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/desc"
 msgstr ""
-"万愿之梦教团虽在原宇宙覆灭，织梦者本人亦于梦境危机终结后被处决，但其残存信徒"
-"已迁至另一宇宙。如今他们在此传布教义——尽管成效甚微——即便是叛乱军亦无法将其阻"
-"遏。"
+"万愿织梦教团虽在原宇宙覆灭，织梦者本人亦于梦境危机终结后被处决，但其残存信徒"
+"已迁至另一宇宙。如今他们在此传布教义——尽管成效甚微——即便是叛军亦无法将其阻遏"
+"。"
 
 #: src-en/data/blueprints.xml.append:3752
 msgid ""
@@ -1797,7 +1796,7 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 #: src-en/data/blueprints.xml.append:3755
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
-msgstr "由于\"万愿之梦教团\"的这批代表秉持着独特的和平主义信条，此舰无法有效应对登舰"
+msgstr "由于\"万愿织梦教团\"的这批代表秉持着独特的和平主义信条，此舰无法有效应对登舰"
 "作战。作为补偿，它拥有更强的初始武装，且开局即配备隐形系统。"
 
 #: src-en/data/blueprints.xml.append:3826
@@ -1819,7 +1818,7 @@ msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
-"此舰船员秉持着对\"万愿之梦教团\"运动的另类且更激进的理念，使其蜕变为一个异端"
+"此舰船员秉持着对\"万愿织梦教团\"运动的另类且更激进的理念，使其蜕变为一个异端"
 "教派。他们允许为祭祀女神举行血腥仪式，而女神别无选择，只能对其残存信徒加以抚"
 "慰——只求不被永远遗忘。"
 
@@ -1864,7 +1863,7 @@ msgstr "2E564B5B6258"
 #: src-en/data/blueprints.xml.append:3919
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
 msgstr ""
-"正是斯拉维克。一名运气不佳、不善社交的雇佣兵兼前叛乱军成员。\n"
+"正是斯拉维克。一名运气不佳、不善社交的雇佣兵兼前叛军成员。\n"
 "\n"
 "\t继承人类特性：轻微有害伤害抗性"
 

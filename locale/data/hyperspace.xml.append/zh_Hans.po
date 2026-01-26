@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-25 08:44+0000\n"
+"PO-Revision-Date: 2026-01-26 12:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
@@ -80,7 +80,7 @@ msgid ""
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "梦境殿堂：\n"
-"万愿之梦教团的信徒会定期向他们的女神祈祷，请求她在战斗中施以援手。祈祷可能导"
+"万愿织梦教团的信徒会定期向他们的女神祈祷，请求她在战斗中施以援手。祈祷可能导"
 "致你的舰船受到轻微损伤，或修复他们自身的舰船——但织梦者在本场战斗中仅会回应他"
 "们的祈祷 5 次。"
 
@@ -257,17 +257,17 @@ msgstr "致那位展现最高形式珍重——即“感激”之人。"
 #: src-en/data/hyperspace.xml.append:1965
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/name"
-msgstr "（汝即）连续性破坏者"
+msgstr "（你是）连续性破坏者"
 
 #: src-en/data/hyperspace.xml.append:1966
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/description"
-msgstr "将你的命运与此宇宙群的命运，同“奇迹追寻者”的征程紧密相连。"
+msgstr "将你的命运与此宇宙的命运，同“奇迹追寻者”的征程紧密相连。"
 
 #: src-en/data/hyperspace.xml.append:1973
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/name"
-msgstr "祂的洞悉之瞳"
+msgstr "他的洞悉之瞳"
 
 #: src-en/data/hyperspace.xml.append:1974
 msgid ""
@@ -329,7 +329,7 @@ msgstr "协助关闭给奇迹追寻者带来困扰的时空裂隙。"
 #: src-en/data/hyperspace.xml.append:2018
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/secretDescription"
-msgstr "赢取奇迹追寻者更深的信任，并协助他们消除滞留于此宇宙簇所带来的后果。"
+msgstr "赢取奇迹追寻者更深的信任，并协助他们消除滞留于此宇宙所带来的后果。"
 
 #: src-en/data/hyperspace.xml.append:2026
 msgid ""

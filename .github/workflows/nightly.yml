@@ -34,7 +34,7 @@ jobs:
 
     - name: Build packages
       run: |
-        bash snippets/ci-nightly.sh fr
+        bash snippets/ci-nightly-machine.sh fr
         bash snippets/ci-nightly.sh zh_Hans
 
     - name: Tag the commit

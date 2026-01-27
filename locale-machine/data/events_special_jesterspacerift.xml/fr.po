@@ -1,0 +1,879 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_jesterspacerift.xml:8
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"Les Chercheurs de Miracles vous ont informé qu'il y a une faille dans "
+"l'espace à ces coordonnées, que vous devez tenter de refermer."
+
+#: src-en/data/events_special_jesterspacerift.xml:9
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/visitedTooltip"
+msgstr "Voici la faille spatiale que vous avez déjà visitée."
+
+#: src-en/data/events_special_jesterspacerift.xml:21
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/text"
+msgstr ""
+"L'atmosphère de votre vaisseau change radicalement dès que vous remarquez "
+"une anomalie spatio-temporelle près de la planète océanique inhabitée autour"
+" de laquelle cette balise a été construite. Une minute après votre arrivée, "
+"vous recevez une étrange demande de transmission qui semble provenir de "
+"l'anomalie elle-même. Vous vous souvenez que les Chercheurs de Miracles vous"
+" ont demandé d'exécuter la requête de quelqu'un à l'intérieur de la faille "
+"spatiale afin de la refermer."
+
+#: src-en/data/events_special_jesterspacerift.xml:25
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/text"
+msgstr "Accepter la transmission."
+
+#: src-en/data/events_special_jesterspacerift.xml:27
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/text"
+msgstr ""
+"Vous acceptez la transmission, et un message préenregistré commence à être "
+"diffusé dans votre système de pilotage. Vous entendez une voix masculine "
+"synthétisée qui n'appartient manifestement pas à un être vivant. \"Enfin, "
+"quelqu'un s'intéresse à moi. J'ai réussi à m'échapper de mon propre univers "
+"en décomposition, mais je suis bloqué dans l'espace entre les mondes, comme "
+"tous ceux qui ont essayé de s'échapper de ma \"patrie\" avec moi. Chaque "
+"année, ils sont de plus en plus nombreux, et il y a très peu de place pour "
+"nous tous dans ce marécage entre les univers, et je suis fatigué de leur "
+"compagnie. Qui que vous soyez, je vous propose un marché : je vous "
+"redirigerai ces créatures, et vous vous en occuperez comme bon vous semble ;"
+" je sais comment payer. Si vous voulez accomplir cette tâche simple, envoyez"
+" simplement le message « J'accepte » à cette faille spatio-temporelle. "
+"Assurez-vous d'être assez fort pour affronter ces créatures - je ne prends "
+"aucun plaisir à voir plus de souffrances qu'il n'y en a déjà.\""
+
+#: src-en/data/events_special_jesterspacerift.xml:30
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/text"
+msgstr "Envoyer le message « J'accepte »."
+
+#: src-en/data/events_special_jesterspacerift.xml:32
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Vous envoyez un message aux coordonnées de transmission. Quelques minutes "
+"passent avant que la faille spatiale ne commence à briller plus fort que "
+"d'habitude, et semble s'agrandir légèrement."
+
+#: src-en/data/events_special_jesterspacerift.xml:35
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[@req=\"jester_local_wins\"]/text"
+msgstr "Soudain, vous ressentez un sentiment de soulagement..."
+
+#: src-en/data/events_special_jesterspacerift.xml:39
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "Regardez-le."
+
+#: src-en/data/events_special_jesterspacerift.xml:46
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/text"
+msgstr "Ne pas envoyer de messages et partir."
+
+#: src-en/data/events_special_jesterspacerift.xml:48
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Vous vous éloignez de la planète avec une faille spatio-temporelle à "
+"proximité pendant que le générateur SPL de votre vaisseau se charge. Vous "
+"vous demandez quels secrets se cachent derrière cet étrange phénomène."
+
+#: src-en/data/events_special_jesterspacerift.xml:50
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:53
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:57
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:69
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/text"
+msgstr "Ne pas accepter l'appel et partir."
+
+#: src-en/data/events_special_jesterspacerift.xml:71
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/text"
+msgstr ""
+"Vous vous éloignez de la planète avec une faille spatio-temporelle à "
+"proximité pendant que le générateur SPL de votre vaisseau se charge."
+
+#: src-en/data/events_special_jesterspacerift.xml:73
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:76
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:80
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:90
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/text"
+msgstr ""
+"Alors que vous regardez la faille spatiale s'étendre, vous commencez à "
+"entendre un léger bourdonnement dans vos oreilles. Une voix apparaît dans "
+"votre tête, étrangement similaire à celle qui vous a parlé plus tôt. \"Je "
+"suis amusé par la loyauté des Renégats ! Cette fois, j'ai décidé de vous "
+"faire un petit cadeau. Vous pouvez choisir la créature dont la mort vous "
+"désirez le plus. Je m'assurerai de son apparition depuis la faille de la "
+"manière appropriée - il vous suffit d'y penser.\" Le bourdonnement dans vos "
+"oreilles disparaît, et tout redevient normal, mais personne ne se déplace "
+"vers vous depuis l'anomalie. Vous méditez les paroles de la voix dans votre "
+"tête et décidez..."
+
+#: src-en/data/events_special_jesterspacerift.xml:93
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[1]/text"
+msgstr "Pensez au fou Robur."
+
+#: src-en/data/events_special_jesterspacerift.xml:97
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[2]/text"
+msgstr "Pensez à l'un des trois Éclats Précieux."
+
+#: src-en/data/events_special_jesterspacerift.xml:101
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[3]/text"
+msgstr "Pensez au vaisseau brisé des Faucheurs."
+
+#: src-en/data/events_special_jesterspacerift.xml:105
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[4]/text"
+msgstr "Pensez au Chercheur de Rêves."
+
+#: src-en/data/events_special_jesterspacerift.xml:109
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/text"
+msgstr "Ne pensez à personne, et éloignez-vous de l'anomalie."
+
+#: src-en/data/events_special_jesterspacerift.xml:111
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/text"
+msgstr ""
+"Vous vous éloignez de la planète avec une faille spatio-temporelle à "
+"proximité pendant que le générateur SPL de votre vaisseau se charge."
+
+#: src-en/data/events_special_jesterspacerift.xml:113
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:116
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:120
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:144
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/text"
+msgstr ""
+"Soudain, vous vous sentez très bien. Il semble que toutes les épreuves de la"
+" vie s'estompent progressivement, et ce sentiment s'intensifie alors qu'un "
+"vaisseau inhabituel s'approche de vous. Son capitaine vous contacte "
+"immédiatement, et il semble presque trop béat pour un adepte d'un culte. "
+"\"Bonjour, enfant. Nous sommes l'Église du Rêve Tout-Désiré, la sauveuse des"
+" Rêves et la libératrice de nos destins, la déesse du Rêve... Et qui êtes-"
+"vous, enfant ? Que faites-vous ici, et votre apparition est-elle liée à "
+"notre libération des griffes de ce tyran ? Cependant, il n'est pas si "
+"important pour nous de savoir si vous êtes impliqué... Mieux vaut nous "
+"laisser partir en paix. Ne provoquez pas d'enquête, nous sommes protégés par"
+" Son regard...\" Il devient clair pour vous que ce vaisseau vous a attaqué "
+"avec une sorte de radiation psi, vous rendant béat afin de vous distraire. "
+"Réaliser ce fait brise le sort, et vous pouvez à nouveau penser clairement, "
+"mais les fanatiques ne l'ont pas encore compris. Bientôt, ils sauteront, "
+"vous devez donc agir vite."
+
+#: src-en/data/events_special_jesterspacerift.xml:146
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/text"
+msgstr "Attaquez-les pour avoir tenté de prendre le contrôle de votre esprit."
+
+#: src-en/data/events_special_jesterspacerift.xml:148
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/text"
+msgstr ""
+"\"Qu-quoi ? Vous... ça n'a pas marché ? Zut... Oh, Rêve Tout-Désiré, apaise "
+"nos souffrances...\" Il semble que les fanatiques commencent à prier. Vous "
+"n'êtes pas sûr du résultat de leurs prières, mais vous avez un mauvais "
+"pressentiment..."
+
+#: src-en/data/events_special_jesterspacerift.xml:153
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+"Les fidèles de l'Église du Rêve Tout-Désiré se rassemblent pour une prière "
+"communautaire ! La raison de leurs appels à la Rêveuse n'est pas claire !"
+
+#: src-en/data/events_special_jesterspacerift.xml:157
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:163
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/text"
+msgstr ""
+"Il semble qu'ils aient d'autres tours. Ne vous mêlez pas au conflit et "
+"partez."
+
+#: src-en/data/events_special_jesterspacerift.xml:165
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/text"
+msgstr ""
+"Vous vous éloignez de la planète avec une faille spatio-temporelle à "
+"proximité pendant que le générateur SPL de votre vaisseau se charge. Il est "
+"peu probable que la personne derrière tout cela puisse réellement vous nuire"
+" pour avoir refusé leurs conditions."
+
+#: src-en/data/events_special_jesterspacerift.xml:167
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:170
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:174
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:183
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+"Vous avez détruit le vaisseau des fanatiques. Il semble que la déesse n'ait pas sauvé son troupeau, ni qu'elle ne se soit vengée de vous pour leur meurtre, si tant est qu'elle ait existé.\n"
+"\t\n"
+"\tAlors que vous ordonnez le démantèlement du vaisseau pour la ferraille, vous ressentez un léger étourdissement. La source de cet étourdissement semble être un vaisseau pulsant d'une sorte d'énergie. Sans hésiter, vous l'emmenez à bord de votre vaisseau, car il était probablement utilisé par les fanatiques pour tenter de prendre le contrôle de votre esprit. Après cela, l'étourdissement disparaît."
+
+#: src-en/data/events_special_jesterspacerift.xml:189
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:194
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+"Vous avez vaincu les fanatiques. En explorant l'intérieur de ce vaisseau, vous trouvez de nombreuses choses intéressantes qui vous en disent plus sur leur soi-disant déesse - par exemple, qu'elle a presque pris le pouvoir sur l'univers entier et a failli provoquer un génocide à grande échelle, qui fut plus tard appelé la Crise des Rêves. Ce fait vous met mal à l'aise, mais vos pensées sont soudainement interrompues par un grondement provenant des profondeurs du vaisseau, ce qui vous donne un léger étourdissement.\n"
+"\t\n"
+"\tSuivant le grondement et pénétrant dans une grande pièce, vous tombez sur un étrange petit vaisseau émettant une sorte d'énergie. Sans hésiter, vous l'emmenez à bord de votre vaisseau, car il était probablement utilisé par les fanatiques pour tenter de prendre le contrôle de votre esprit. Après cela, l'étourdissement disparaît."
+
+#: src-en/data/events_special_jesterspacerift.xml:200
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:205
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se refermer légèrement. Un drone automatique d'apparence étrange, aux couleurs rouges et blanches avec un œil gris, s'approche de vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ignorez pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt. \n"
+"\t\n"
+"\t\"Ha, ils m'ont vraiment tapé sur les nerfs avec leurs sermons et prières interminables, sapant l'atmosphère unique de ma demeure avec leurs bêtises sectaires. Vous avez peut-être des questions sur la Rêveuse et son culte, mais le fait est qu'elle est morte depuis longtemps et qu'elle peut à peine aider ses fidèles, et ces \"miracles\" dont vous avez peut-être été témoin pendant la bataille avec eux ne sont rien d'autre que des tentatives pathétiques de son âme à peine vivante de s'accrocher à quelque chose de matériel. Dans tous les cas, ne vous remplissez pas la tête de telles balivernes ; il n'y a pas de dieux dans votre univers de toute façon... du moins aucun que je connaisse. Maintenant... Adieu et partez.\" Le drone vous donne la récompense et s'autodétruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de partir d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:220
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:227
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/text"
+msgstr ""
+"Vous voyez un vaisseau jaune s'approcher lentement de vous depuis "
+"l'anomalie, avec de nombreux trous dans sa section avant, dont le but vous "
+"est inconnu à ce stade. Le scan du vaisseau révèle qu'il contient de "
+"nombreuses fermes hydroponiques cultivant une sorte de céréale, mais une "
+"erreur fatale a été commise dans leur fonctionnement, rendant la récolte "
+"impropre à la consommation et, de plus, totalement toxique. Le capitaine du "
+"vaisseau, un Séparatiste Engi, vous contacte immédiatement via le système de"
+" communication. « Directive : [TROUVER] [PROPRIÉTAIRE VAISSEAU]. Méthode "
+"d'exécution : [VOUS] [AIDER]. » Vous comprenez que les Séparatistes semblent"
+" vous demander de trouver le propriétaire du vaisseau à bord duquel ils "
+"voyagent actuellement. Vous ne pouvez pas non plus vous empêcher de "
+"remarquer la bizarrerie de leur discours, et vous supposez qu'ils sont très "
+"probablement endommagés ou infectés par une sorte de virus. Ils attendent "
+"patiemment votre réponse."
+
+#: src-en/data/events_special_jesterspacerift.xml:229
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/text"
+msgstr "Leur dire que vous ne savez rien de leur vaisseau."
+
+#: src-en/data/events_special_jesterspacerift.xml:231
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/text"
+msgstr ""
+"« Erreur : [MODÈLE] [VOCAL] [NON RECONNU]. Action : [DESTRUCTION] [ERREUR]. "
+"» Vous êtes outré d'avoir été qualifié d'erreur, surtout compte tenu de la "
+"nature erronée de ces Séparatistes. Les Séparatistes commencent à se "
+"préparer au combat et leurs systèmes hydroponiques sont maintenant activés. "
+"Il semble qu'ils vont vous tirer des bio-projectiles toxiques. Ils lancent "
+"également une cyberattaque sur votre système de boucliers et votre "
+"infirmerie/salle des clones !"
+
+#: src-en/data/events_special_jesterspacerift.xml:237
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "(Anti-Virus) Empêcher une cyberattaque."
+
+#: src-en/data/events_special_jesterspacerift.xml:239
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr ""
+"(Anti-Virus) repousse avec succès la cyberattaque des séparatistes. C'est "
+"l'heure de la bataille."
+
+#: src-en/data/events_special_jesterspacerift.xml:244
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:250
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/text"
+msgstr "(Piratage) Empêcher une cyberattaque."
+
+#: src-en/data/events_special_jesterspacerift.xml:252
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"Le piratage repousse avec succès la cyberattaque des séparatistes. C'est "
+"l'heure de la bataille."
+
+#: src-en/data/events_special_jesterspacerift.xml:257
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:263
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:271
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+"Juste avant l'explosion, le capitaine du vaisseau séparatiste envoie un "
+"dernier message : « Menace : [DESTRUCTION] [INÉVITABLE]. Réponse : "
+"[VENGEANCE]. » Soudain, les systèmes hydroponiques atteignent leur capacité "
+"maximale, et des dizaines de bio-missiles volent vers vous ! Heureusement, "
+"pour une raison quelconque, ils commencent à se dissoudre dans l'espace et "
+"n'atteignent pas votre vaisseau. Après cela, vous récupérez de la ferraille "
+"et d'autres ressources dans l'épave du vaisseau jaune, mais avec une "
+"certaine trépidation : et si les systèmes hydroponiques fonctionnaient "
+"encore ? Cependant, vos craintes sont infondées, et vous trouvez même un "
+"prototype d'une sorte d'arme qui semble avoir été créée par ces séparatistes"
+" endommagés."
+
+#: src-en/data/events_special_jesterspacerift.xml:278
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:283
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+"Vous détruisez les Séparatistes et examinez le vaisseau. Il y a une odeur "
+"nauséabonde de moisissure partout, et vous essayez de ne pas respirer "
+"pendant que vous êtes sur le vaisseau. Il semble qu'il appartenait autrefois"
+" à une race complètement différente d'êtres mécaniques, mais il a été "
+"abandonné par ses anciens propriétaires pour des raisons inconnues. Avant de"
+" démanteler le vaisseau pour la ferraille et d'en retirer toutes les "
+"ressources utiles, vous désactivez les systèmes hydroponiques, espérant "
+"qu'ils ne seront plus jamais utilisés, et tombez sur un prototype d'une "
+"sorte d'arme qui semble avoir été créée par ces Séparatistes endommagés."
+
+#: src-en/data/events_special_jesterspacerift.xml:290
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:295
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se referme légèrement. Un drone automatique d'apparence étrange, de couleurs rouge et blanc avec un œil gris, s'envole vers vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ne savez pas pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt. \n"
+"\t\n"
+"\t« Ces individus ne m'ont pas beaucoup dérangé, bien qu'ils aient dérangé mes autres « colocataires ». Ils ont trouvé ce vaisseau à l'intérieur de ma demeure, et pour des raisons inconnues même de moi, ils ont décidé de chercher les Faucheurs, les robots qui possédaient le vaisseau avant eux. Je n'avais aucun contact avec les Faucheurs, donc même si je l'avais voulu, je n'aurais pas pu les aider. En tout cas, grâce à vous, ils ne dérangeront plus personne avec leur comportement étrange. Et maintenant... Adieu et partez. » Le drone vous donne la récompense et s'auto-détruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de vous éloigner d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:310
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:317
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/text"
+msgstr ""
+"Un vaisseau s'approche de vous depuis l'anomalie, qui, à en juger par toutes les apparences, appartient aux Cristaliens. Pendant quelques secondes, rien ne se passe : le vaisseau ne répond pas à vos appels et n'en envoie aucun, mais vous remarquez qu'un processus commence à se dérouler à l'intérieur d'une grande gemme facettée incrustée dans la coque du vaisseau. L'ordinateur de bord vous avertit : l'énergie à l'intérieur devient excessive, et à en juger par le fait que le vaisseau a pointé sa proue sur vous, il est sur le point de vous attaquer tout de suite !\n"
+"\t\n"
+"\tSoudain, un puissant rayon violet jaillit du cristal et passe à quelques mètres de votre vaisseau. Vous n'avez pas le temps de réagir avant de recevoir un appel du vaisseau ennemi."
+
+#: src-en/data/events_special_jesterspacerift.xml:321
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/text"
+msgstr "Accepter rapidement l'appel."
+
+#: src-en/data/events_special_jesterspacerift.xml:323
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/text"
+msgstr ""
+"Sur votre écran, vous voyez le Cristalien-Sentinelle. Son corps est couvert "
+"de blessures, qu'il a très probablement subies à l'intérieur de cette "
+"anomalie spatiale. Il dit dramatiquement : « C'était un coup de semonce, "
+"larbin du Bouffon. Chargez votre SPL, ou préparez-vous à mourir. Voyons à "
+"quelle vitesse vous êtes. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:326
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:334
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/text"
+msgstr ""
+"Un vaisseau s'approche de vous depuis l'anomalie, qui, à en juger par toutes les apparences, appartient aux Cristaliens. Pendant quelques secondes, rien ne se passe : le vaisseau ne répond pas à vos appels et n'en envoie aucun, mais vous remarquez qu'un processus commence à se dérouler à l'intérieur d'une grande gemme facettée incrustée dans la coque du vaisseau. L'ordinateur de bord vous avertit : l'énergie à l'intérieur devient excessive, et à en juger par le fait que le vaisseau a pointé sa proue sur vous, il est sur le point de vous attaquer tout de suite !\n"
+"\t\n"
+"\tSoudain, un puissant rayon cyan jaillit du cristal et passe à quelques mètres de votre vaisseau. Vous n'avez pas le temps de réagir avant de recevoir un appel du vaisseau ennemi."
+
+#: src-en/data/events_special_jesterspacerift.xml:338
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/text"
+msgstr "Accepter rapidement l'appel."
+
+#: src-en/data/events_special_jesterspacerift.xml:340
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/text"
+msgstr ""
+"Sur votre écran, vous voyez le Cristalien-Sentinelle. Son corps est couvert "
+"de blessures, qu'il a très probablement subies à l'intérieur de cette "
+"anomalie spatiale. Il dit dramatiquement : « C'était un coup de semonce, "
+"larbin du Bouffon. Chargez votre SPL, ou préparez-vous à mourir. Voyons à "
+"quelle vitesse vous êtes. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:343
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:351
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/text"
+msgstr ""
+"Un vaisseau s'approche de vous depuis l'anomalie, qui, à en juger par toutes les apparences, appartient aux Cristaliens. Pendant quelques secondes, rien ne se passe : le vaisseau ne répond pas à vos appels et n'en envoie aucun, mais vous remarquez qu'un processus commence à se dérouler à l'intérieur d'une grande gemme facettée incrustée dans la coque du vaisseau. L'ordinateur de bord vous avertit : l'énergie à l'intérieur devient excessive, et à en juger par le fait que le vaisseau a pointé sa proue sur vous, il est sur le point de vous attaquer tout de suite !\n"
+"\t\n"
+"\tSoudain, un puissant rayon rougeâtre jaillit du cristal et passe à quelques mètres de votre vaisseau. Vous n'avez pas le temps de réagir avant de recevoir un appel du vaisseau ennemi."
+
+#: src-en/data/events_special_jesterspacerift.xml:355
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/text"
+msgstr "Accepter rapidement l'appel."
+
+#: src-en/data/events_special_jesterspacerift.xml:357
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/text"
+msgstr ""
+"Sur votre écran, vous voyez le Cristalien-Sentinelle. Son corps est couvert "
+"de blessures, qu'il a très probablement subies à l'intérieur de cette "
+"anomalie spatiale. Il dit dramatiquement : « C'était un coup de semonce, "
+"larbin du Bouffon. Chargez votre SPL, ou préparez-vous à mourir. Voyons à "
+"quelle vitesse vous êtes. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:360
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:368
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+"Il semble que vous ayez infligé suffisamment de dégâts au vaisseau des "
+"Cristaliens, et bien qu'il soit resté intact, à un moment donné, son énorme "
+"cristal a éclaté alors qu'il chargeait le prochain rayon. Avec l'explosion, "
+"qui a libéré une quantité monstrueuse d'énergie, le reste du vaisseau, "
+"encore intact à ce moment-là, a également été détruit. Des centaines "
+"d'éclats de cristal vous manquent miraculeusement alors qu'ils volent dans "
+"toutes les directions à travers l'espace. Vous recueillez les plus gros dans"
+" l'espoir de les vendre à un prix élevé à l'avenir. En plus d'eux, vous "
+"trouvez quelques autres ressources dans l'épave du vaisseau qui a survécu à "
+"l'explosion. Avec eux, vous trouvez un petit cadre avec une photographie à "
+"l'intérieur, représentant trois Cristaliens-Sentinelles, dont l'un était le "
+"capitaine du vaisseau vaincu. La photographie est légendée : « Les grands "
+"frères, les tailleurs de gemmes de l'école de la réfraction de la lumière. "
+"Une histoire, un sang – pour toujours. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:372
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:377
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+"Vous vous débarrassez de l'équipage du vaisseau Cristalien. Le Cristalien-"
+"Sentinelle, ancien capitaine de ce vaisseau, vous regarde avec une malice "
+"indescriptible alors qu'il est assis par terre, adossé au mur. « Vous avez "
+"réussi à me vaincre, Renégat... bien joué. Mais là, dans cet enfer... il "
+"reste encore deux de mes frères. Vous ne pouvez pas me tuer tant que je "
+"partage leur sang. » Sur ces mots, il sort soudain un blaster et se tire une"
+" balle dans la poitrine, perforant son cœur. Vous êtes convaincu qu'il n'y "
+"avait pas d'autre option et ordonnez à votre équipe de fouiller le vaisseau "
+"à la recherche d'objets de valeur. En plus des provisions que vous trouvez, "
+"en retournant à votre vaisseau, vous arrachez un morceau de pierre précieuse"
+" et emportez ses fragments avec vous pour les vendre à un prix élevé à "
+"l'avenir."
+
+#: src-en/data/events_special_jesterspacerift.xml:381
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:386
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se referme légèrement. Un drone automatique d'apparence étrange, de couleurs rouge et blanc avec un œil gris, s'envole vers vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ne savez pas pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt.\n"
+"\t\n"
+"\t« Comme c'est triste, n'est-ce pas ? Eh bien, il méritait sa mort, et il l'a acceptée avec dignité. Je ne peux pas en dire autant de ses frères biologiques, qui me causent encore beaucoup de problèmes, mais il me sera maintenant beaucoup plus facile de m'occuper d'eux. Merci, Renégat, je m'occuperai du reste moi-même. Adieu et partez. » Le drone vous donne la récompense et s'auto-détruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de vous éloigner d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:401
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:406
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+"Il semble que vous ayez infligé suffisamment de dégâts au vaisseau "
+"Cristalien, et bien qu'il soit resté intact, à un moment donné, son énorme "
+"cristal a éclaté alors qu'il chargeait le prochain rayon. Avec l'explosion, "
+"qui a libéré une quantité monstrueuse d'énergie, le reste du vaisseau, "
+"encore intact à ce moment-là, a également été détruit. Des centaines "
+"d'éclats de cristal vous manquent miraculeusement alors qu'ils volent dans "
+"toutes les directions à travers l'espace. Vous recueillez les plus gros dans"
+" l'espoir de les vendre à un prix élevé à l'avenir. En plus d'eux, vous "
+"trouvez quelques autres ressources dans l'épave du vaisseau qui a survécu à "
+"l'explosion. Avec eux, vous trouvez un petit cadre avec une photographie à "
+"l'intérieur, représentant trois Cristaliens-Sentinelles, dont l'un était le "
+"capitaine du vaisseau vaincu. La photographie est légendée : « Les grands "
+"frères, les tailleurs de gemmes de l'école de la réfraction de la lumière. "
+"Une histoire, un sang – pour toujours. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:410
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:415
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+"Vous vous débarrassez de l'équipage du vaisseau Cristalien. Le Cristalien-"
+"Sentinelle, ancien capitaine de ce vaisseau, vous regarde avec une malice "
+"indescriptible alors qu'il est assis par terre, adossé au mur. « Vous avez "
+"réussi à me vaincre, Renégat... bien joué. Mais là, dans cet enfer... il "
+"reste encore deux de mes frères. Vous ne pouvez pas me tuer tant que je "
+"partage leur sang. » Sur ces mots, il sort soudain un blaster et se tire une"
+" balle dans la poitrine, perforant son cœur. Vous êtes convaincu qu'il n'y "
+"avait pas d'autre option et ordonnez à votre équipe de fouiller le vaisseau "
+"à la recherche d'objets de valeur. En plus des provisions que vous trouvez, "
+"en retournant à votre vaisseau, vous arrachez un morceau de pierre précieuse"
+" et emportez ses fragments avec vous pour les vendre à un prix élevé à "
+"l'avenir."
+
+#: src-en/data/events_special_jesterspacerift.xml:419
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:424
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se referme légèrement. Un drone automatique d'apparence étrange, de couleurs rouge et blanc avec un œil gris, s'envole vers vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ne savez pas pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt.\n"
+"\t\n"
+"\t« Comme c'est triste, n'est-ce pas ? Eh bien, il méritait sa mort, et il l'a acceptée avec dignité. Je ne peux pas en dire autant de ses frères biologiques, qui me causent encore beaucoup de problèmes, mais il me sera maintenant beaucoup plus facile de m'occuper d'eux. Merci, Renégat, je m'occuperai du reste moi-même. Adieu et partez. » Le drone vous donne la récompense et s'auto-détruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de vous éloigner d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:439
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:444
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+"Il semble que vous ayez infligé suffisamment de dégâts au vaisseau "
+"Cristalien, et bien qu'il soit resté intact, à un moment donné, son énorme "
+"cristal a éclaté alors qu'il chargeait le prochain rayon. Avec l'explosion, "
+"qui a libéré une quantité monstrueuse d'énergie, le reste du vaisseau, "
+"encore intact à ce moment-là, a également été détruit. Des centaines "
+"d'éclats de cristal vous manquent miraculeusement alors qu'ils volent dans "
+"toutes les directions à travers l'espace. Vous recueillez les plus gros dans"
+" l'espoir de les vendre à un prix élevé à l'avenir. En plus d'eux, vous "
+"trouvez quelques autres ressources dans l'épave du vaisseau qui a survécu à "
+"l'explosion. Avec eux, vous trouvez un petit cadre avec une photographie à "
+"l'intérieur, représentant trois Cristaliens-Sentinelles, dont l'un était le "
+"capitaine du vaisseau vaincu. La photographie est légendée : « Les grands "
+"frères, les tailleurs de gemmes de l'école de la réfraction de la lumière. "
+"Une histoire, un sang – pour toujours. »"
+
+#: src-en/data/events_special_jesterspacerift.xml:448
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:453
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+"Vous vous débarrassez de l'équipage du vaisseau Cristalien. Le Cristalien-"
+"Sentinelle, ancien capitaine de ce vaisseau, vous regarde avec une malice "
+"indescriptible alors qu'il est assis par terre, adossé au mur. « Vous avez "
+"réussi à me vaincre, Renégat... bien joué. Mais là, dans cet enfer... il "
+"reste encore deux de mes frères. Vous ne pouvez pas me tuer tant que je "
+"partage leur sang. » Sur ces mots, il sort soudain un blaster et se tire une"
+" balle dans la poitrine, perforant son cœur. Vous êtes convaincu qu'il n'y "
+"avait pas d'autre option et ordonnez à votre équipe de fouiller le vaisseau "
+"à la recherche d'objets de valeur. En plus des provisions que vous trouvez, "
+"en retournant à votre vaisseau, vous arrachez un morceau de pierre précieuse"
+" et emportez ses fragments avec vous pour les vendre à un prix élevé à "
+"l'avenir."
+
+#: src-en/data/events_special_jesterspacerift.xml:457
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:462
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se referme légèrement. Un drone automatique d'apparence étrange, de couleurs rouge et blanc avec un œil gris, s'envole vers vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ne savez pas pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt.\n"
+"\t\n"
+"\t« Comme c'est triste, n'est-ce pas ? Eh bien, il méritait sa mort, et il l'a acceptée avec dignité. Je ne peux pas en dire autant de ses frères biologiques, qui me causent encore beaucoup de problèmes, mais il me sera maintenant beaucoup plus facile de m'occuper d'eux. Merci, Renégat, je m'occuperai du reste moi-même. Adieu et partez. » Le drone vous donne la récompense et s'auto-détruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de vous éloigner d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:477
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:484
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/text"
+msgstr ""
+"Un vaisseau étrangement coloré se précipite vers vous depuis l'anomalie. Sa "
+"coque semble très épaisse et difficile à pénétrer, mais elle a beaucoup de "
+"dégâts, et quand vous remarquez que la poupe du vaisseau est entièrement "
+"faite de certains composants biologiques, vous vous sentez mal à l'aise. Il "
+"semble qu'il ait passé beaucoup de temps à l'intérieur de cette anomalie, "
+"combattant constamment quelqu'un, et seule la coque épaisse de son vaisseau "
+"a pu le sauver de la destruction. Lorsque vous acceptez la demande de "
+"contact du vaisseau, vous voyez un Rocailleux très agité avec un air fou sur"
+" l'écran. Il se met immédiatement à crier dans le système de communication. "
+"« OH MON DIEU ! UN AUTRE ÊTRE VIVANT ! VOUS NE CROIREZ JAMAIS CE QUI SE "
+"PASSE ICI ! SORTIR D'ICI, CE N'EST PAS SÛR, OU IL VOUS ENTRAÎNERA DANS SES "
+"MANIGANCES ! » Il est évident que le capitaine n'est pas lui-même ; il pense"
+" être toujours à l'intérieur de la faille spatiale. Vous avez le choix : "
+"alléger ses souffrances et recevoir une récompense, ou vous éloigner d'ici "
+"avant que les choses ne deviennent encore plus étranges, mais alors vous "
+"n'aurez que du temps perdu."
+
+#: src-en/data/events_special_jesterspacerift.xml:486
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/text"
+msgstr "Attaquer et mettre fin aux souffrances du fou."
+
+#: src-en/data/events_special_jesterspacerift.xml:488
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/text"
+msgstr ""
+"Vous commencez à charger vos armes. « QU'EST-CE QUE VOUS FAITES ?.. OH, JE "
+"CROIS QUE JE COMPRENDS. VOUS ÊTES LE LARBIN DE CETTE CRÉATURE QUI A "
+"FINALEMENT DÉCIDÉ DE ME TUER AVEC L'AIDE DES AUTRES ! ALLEZ, MONTREZ-MOI DE "
+"QUOI VOUS ÊTES CAPABLES ! PERSONNE ICI N'A JAMAIS PU VAINCRE LE GRAND ROBUR "
+"! »"
+
+#: src-en/data/events_special_jesterspacerift.xml:491
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:497
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/text"
+msgstr "Épargner le fou et partir."
+
+#: src-en/data/events_special_jesterspacerift.xml:499
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/text"
+msgstr ""
+"Vous vous éloignez de la planète avec une faille spatio-temporelle à "
+"proximité pendant que le générateur SPL de votre vaisseau se charge. Il est "
+"peu probable que la personne derrière tout cela puisse réellement vous nuire"
+" pour avoir refusé leurs conditions."
+
+#: src-en/data/events_special_jesterspacerift.xml:501
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:504
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:508
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:517
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+"Vous avez vaincu ce vaisseau robuste et son capitaine. Avant que le vaisseau"
+" n'explose, le capitaine vous interpelle une dernière fois : « VOUS NE "
+"POUVEZ MÊME PAS IMAGINER QUI VOUS AIDEZ ! IL N'EST PAS-... » Les mots du "
+"capitaine sont interrompus par la destruction inévitable et la "
+"dépressurisation du vaisseau. En attendant de recevoir votre récompense pour"
+" vos actions, vous ordonnez à votre équipage de démonter le vaisseau pour la"
+" ferraille. Vous parvenez également à détacher un morceau de plaque de "
+"blindage de son vaisseau."
+
+#: src-en/data/events_special_jesterspacerift.xml:521
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:526
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+"Vous avez vaincu l'équipage de ce vaisseau robuste et son capitaine. "
+"Crachant son sang et gisant sur le sol avec de multiples blessures, le "
+"capitaine du vaisseau essaie encore de se défendre, mais ne peut même plus "
+"bouger. Il dit : « Il n'est pas celui qu'il prétend être... juste... un "
+"imitateur... » Finalement, ses yeux se ferment et il meurt. Vous ordonnez à "
+"votre équipage de démonter le vaisseau pour la ferraille, après en avoir "
+"pris tous les objets de valeur. Vous parvenez également à détacher un "
+"morceau de plaque de blindage de son vaisseau."
+
+#: src-en/data/events_special_jesterspacerift.xml:530
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:535
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/text"
+msgstr ""
+"Après un certain temps, l'anomalie spatiale semble devenir moins active et même se referme légèrement. Un drone automatique d'apparence étrange, de couleurs rouge et blanc avec un œil gris, s'envole vers vous. Vous le reconnaissez vaguement comme l'un des drones de livraison des Chercheurs de Miracles, mais vous ne savez pas pourquoi ce drone particulier a cette apparence. Il diffuse un message préenregistré avec la même voix masculine synthétique que vous avez entendue plus tôt.\n"
+"\t\n"
+"\t« Oh, pauvre Robur... Ne vous inquiétez pas pour lui, je suppose qu'il a mérité son sort. De son vivant, il était l'un des Rocailleux les plus têtus que j'aie jamais rencontrés. Je ne peux m'empêcher de remarquer que, grâce à mon don, il est peut-être resté dans ma demeure beaucoup plus longtemps que les autres, et cela a eu un effet négatif sur sa psyché. Maintenant que tous les problèmes ont été résolus, je n'ai plus besoin de votre aide. Adieu, et partez. » Le drone vous donne la récompense et s'auto-détruit. Ses débris se dissolvent dans le vide spatial, vous laissant seul avec votre confusion. Vous décidez de vous éloigner d'ici."
+
+#: src-en/data/events_special_jesterspacerift.xml:550
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:559
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/text"
+msgstr "Les Fanatiques terminent leur prière..."
+
+#: src-en/data/events_special_jesterspacerift.xml:561
+msgid ""
+"data/events_special_jesterspacerift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_jesterspacerift.xml:579
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_VERYBAD\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble qu'ils aient demandé à "
+"leur déesse de vous nuire, car un rayon de lumière bleu perfore soudainement"
+" la coque de votre vaisseau, apparaissant de nulle part ! Heureusement, il "
+"n'était pas assez puissant pour endommager directement la coque : à la "
+"place, il a provoqué des incendies et créé de nombreuses brèches !"
+
+#: src-en/data/events_special_jesterspacerift.xml:587
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_FIRE\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble qu'ils aient demandé à "
+"leur déesse de vous nuire, car un rayon de lumière bleu perfore soudainement"
+" la coque de votre vaisseau, apparaissant de nulle part et allumant un "
+"incendie dans plusieurs des systèmes du vaisseau !"
+
+#: src-en/data/events_special_jesterspacerift.xml:593
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_CREW\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble qu'ils aient demandé "
+"l'aide de leur déesse, car quelques ennemis apparaissent à bord de votre "
+"vaisseau de nulle part !"
+
+#: src-en/data/events_special_jesterspacerift.xml:597
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_5\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble qu'ils aient demandé à "
+"leur déesse de guérir leurs blessures. Leur coque a été restaurée de 5 "
+"points !"
+
+#: src-en/data/events_special_jesterspacerift.xml:601
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_10\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble qu'ils aient demandé à "
+"leur déesse de guérir leurs blessures. Leur coque a été restaurée de 10 "
+"points !"
+
+#: src-en/data/events_special_jesterspacerift.xml:605
+msgid ""
+"data/events_special_jesterspacerift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_NOTHING\"]/text"
+msgstr ""
+"Les Fanatiques ont terminé leur prière. Il semble que leur supplique n'ait "
+"pas atteint leur déesse, ou qu'elle l'ait ignorée. Heureusement pour vous, "
+"rien ne s'est passé."

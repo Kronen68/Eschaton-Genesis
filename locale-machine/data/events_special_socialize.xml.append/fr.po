@@ -11,8 +11,13 @@ msgid ""
 msgstr ""
 "L'Embryon de la Création disparaît de votre vue. Bien que vous puissiez "
 "toujours le suivre via les caméras du vaisseau, lorsque vous arrivez dans la"
+<<<<<<< Updated upstream
 " pièce où il devrait se trouver, il n'est plus là. C'est peut-être mieux "
 "ainsi. Qui sait quelles horreurs d'univers aliens il aurait pu révéler ?"
+=======
+" pièce où il devrait être, il n'est plus là. C'est peut-être mieux ainsi. "
+"Qui sait quelles horreurs d'univers aliens il aurait pu révéler ?"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:61
 msgid ""
@@ -20,11 +25,19 @@ msgid ""
 msgstr ""
 "\"Le monde devrait être sans frontières. Clôtures et portails. Ils entourent"
 " tout ici. Cela ne devrait pas être ainsi. Ce sont des limitations "
+<<<<<<< Updated upstream
 "naturelles... nécessaires pour ces univers. Je ne conteste pas cela. Je "
 "comprends, mais elles ne devraient quand même pas exister. Tant qu'il y a "
 "des restrictions, il y a ceux qui sont opprimés par ces restrictions. Il y a"
 " ceux qui souffrent. Ceux qui ne sont pas assez aimés. Ils souffrent à cause"
 " de cela.\""
+=======
+"naturelles... nécessaires à ces univers. Je ne conteste pas cela. Je "
+"comprends, mais elles ne devraient toujours pas exister. Tant qu'il y aura "
+"des restrictions, il y aura ceux qui sont opprimés par ces restrictions. Il "
+"y aura ceux qui sont blessés. Ceux qui ne sont pas assez aimés. Ils "
+"souffrent à cause de cela.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:64
 msgid ""
@@ -36,7 +49,11 @@ msgstr ""
 "manifestation de la vie et ne connaît aucune haine. Mais Postulat ? Il n'est"
 " pas vivant. Il est condamné à vivre contre sa volonté. Il ne peut être "
 "considéré comme vivant. C'est pourquoi il méprise la vie - simplement parce "
+<<<<<<< Updated upstream
 "qu'il ne peut pas se réconcilier avec ce qu'elle lui a fait.\""
+=======
+"qu'il ne peut pas accepter ce qu'elle lui a fait.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:67
 msgid ""
@@ -45,10 +62,17 @@ msgstr ""
 "\"Son nom est Thèse. Une mère aimante. Elle aime tout le monde sans "
 "exception. Mais son amour peut aussi être malveillant. Il peut être très "
 "douloureux. Mais tout le monde ne ressent pas cette douleur ; le plus "
+<<<<<<< Updated upstream
 "souvent, ils l'ignorent simplement. Au final, c'est elle qui l'a limité. "
 "Elle a fixé des limites qu'il ne peut pas franchir. C'est son péché le plus "
 "terrible - peut-être qu'elle le regrette même maintenant. Mais si elle "
 "n'avait pas fait un tel sacrifice, rien n'existerait.\""
+=======
+"souvent, ils l'ignorent simplement. En fin de compte, c'est elle qui l'a "
+"limité. Elle a fixé des limites qu'il ne peut pas franchir. C'est son péché "
+"le plus terrible - peut-être qu'elle le regrette même maintenant. Mais si "
+"elle n'avait pas fait un tel sacrifice, rien n'existerait.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:70
 msgid ""
@@ -57,10 +81,17 @@ msgstr ""
 "\"L'Ambassadeur de l'Incarnation de la Thèse a lié les destins de deux "
 "univers après m'avoir utilisé comme moyen de délivrer un ultimatum. J'étais "
 "nécessaire pour montrer à quel point son monde était supérieur à l'autre. "
+<<<<<<< Updated upstream
 "Mon apparition a effrayé tout le monde, même Luna, l'une des enfants des "
 "enfants des enfants de la Thèse. À cause de cela, elle m'a livré aux "
 "Chercheurs de Miracles. Ils m'ont examiné, mais n'ont pas pu me définir. "
 "Finalement, ils ont abandonné et m'ont enfermé dans les chaînes les plus "
+=======
+"Mon apparence a fait peur à tout le monde, même à Luna, l'une des enfants "
+"des enfants des enfants de la Thèse. À cause de cela, elle m'a livré aux "
+"Chercheurs de Miracles. Ils m'ont examiné, mais n'ont pas pu me définir. En "
+"fin de compte, ils ont abandonné et m'ont enfermé dans les chaînes les plus "
+>>>>>>> Stashed changes
 "sûres. Ils ont construit les murs les plus solides autour de moi. Ils ont "
 "créé les frontières les plus indestructibles. Ils ne me voulaient aucun mal."
 " Ils ont agi ainsi parce qu'ils ne savaient pas comment faire autrement. Je "
@@ -73,13 +104,22 @@ msgstr ""
 "\"Je n'ai pas de cœur qui puisse battre. Je n'ai pas de but pour lequel "
 "j'existe. Je n'ai pas de troubles émotionnels qui me définiraient comme une "
 "créature vivante. Je n'ai pas de connexions par lesquelles je pourrais "
+<<<<<<< Updated upstream
 "influencer ce monde. C'est le bien suprême. C'est la vie sans limites.\""
+=======
+"influencer ce monde. C'est le bien le plus élevé. C'est la vie sans "
+"limites\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:76
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_6\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Flamme est le pouvoir réinventé de la Création. Personne ne sait comment "
+=======
+"\"Flamme est le pouvoir réimaginé de la Création. Personne ne sait comment "
+>>>>>>> Stashed changes
 "il est né. C'est l'une des plus grandes questions. L'une des plus difficiles"
 " à résoudre. Plusieurs Sols sont tombés en essayant d'enquêter sur cette "
 "question. Sa propre fille ne sait pas comment il est né. Flamme a-t-il "
@@ -91,10 +131,17 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_7\"]/text"
 msgstr ""
 "\"Aucun refuge ne peut sauver quiconque de lui. Jour a un grand pouvoir, "
+<<<<<<< Updated upstream
 "mais il reste mortel. Et si Jour tombe, ses refuges tomberont aussi. Des "
 "millions de vies qui ont trouvé la paix et la protection près de lui "
 "tomberont. En un tel moment, il est dangereux de rester immobile, même s'il "
 "semble que votre protecteur s'améliore constamment.\""
+=======
+"mais il est toujours mortel. Et si Jour tombe, ses refuges tomberont aussi. "
+"Des millions de vies qui ont trouvé la paix et la protection près de lui "
+"tomberont. En un tel moment, il est dangereux de rester à un seul endroit, "
+"même s'il semble que votre protecteur s'améliore constamment.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:82
 msgid ""
@@ -104,42 +151,70 @@ msgstr ""
 "qu'elle fût la capitale de tout ce monde, un jour la présence de sa divinité"
 " à proximité força tous ses habitants à se disperser sur la planète afin "
 "qu'ils ne ressentent plus la peur de leur propre dieu. C'est ironique, étant"
+<<<<<<< Updated upstream
 " donné qu'Ichor souffre maintenant de la SALETÉ, une peste qui entoure "
 "toujours les ruines de la capitale. En fin de compte, toutes les créatures "
+=======
+" donné qu'Ichor souffre maintenant de la Saleté, une peste qui entoure "
+"encore les ruines de la capitale. En fin de compte, toutes les créatures "
+>>>>>>> Stashed changes
 "vivantes seront forcées de retourner à leur lieu de naissance.\""
 
 #: src-en/data/events_special_socialize.xml.append:85
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_9\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Où est-elle allée ? A-t-elle vraiment fusionné avec lui, comme il y a une "
+=======
+"\"Où est-elle allée ? S'est-elle vraiment fondue en lui, comme il y a une "
+>>>>>>> Stashed changes
 "éternité ? Pourquoi a-t-elle fait cela ?\""
 
 #: src-en/data/events_special_socialize.xml.append:88
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_10\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Ashwattha fleurit déjà en ce moment. Un événement rare et magnifique. "
 "C'est dommage que cet arbre ne puisse plus être vu à l'œil nu. C'est dommage"
 " que Sa Majesté Lokayata ait changé son masque et ait oublié ce qu'elle "
 "était avant. Et c'est dommage que vous ne verrez jamais cela. Sans offense. "
 "C'est juste comme ça que les choses sont arrangées là-bas.\""
+=======
+"\"Ashwattha est déjà en fleur en ce moment. Un événement rare et magnifique."
+" C'est dommage que cet arbre ne puisse plus être vu à l'œil nu. C'est "
+"dommage que Sa Majesté Lokayata ait changé de masque et oublié ce qu'elle "
+"était avant. Et c'est dommage que vous ne verrez jamais cela, quelle que "
+"soit l'occasion. Sans offense. C'est juste comme ça que les choses sont "
+"arrangées là-bas.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:91
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_11\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Secunda a accompli le presque impossible. Pas sans aide, bien sûr. Elle "
 "est assez jeune pour être la fille de Chronos, mais l'ironie du temps est "
 "qu'elle est bien plus âgée que lui. Néanmoins, ils maintiennent précisément "
 "cette relation - père et fille directe. Secunda savait-elle qu'elle "
 "deviendrait une fille dans le futur ? Chronos savait-il, à sa naissance, "
 "qu'il avait déjà une fille ? Questions intéressantes. Un paradoxe.\""
+=======
+"\"Secunda a accompli le presque impossible. Non sans aide, bien sûr. Elle "
+"est assez jeune pour être la fille de Chronos, mais l'ironie du temps est "
+"qu'elle est bien plus âgée que lui. Néanmoins, ils maintiennent précisément "
+"cette relation - père et fille directe. Secunda savait-elle qu'elle "
+"deviendrait une fille à l'avenir ? Chronos savait-il, quand il est né, qu'il"
+" avait déjà une fille ? Questions intéressantes. Un paradoxe.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:94
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_12\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Peu importe leur puissance, les Pouvoirs seront toujours incapables de le "
 "vaincre. Rien ne le peut - pas même les Créateurs à part entière, de sang "
 "pur. Que dire de ceux qui ont été créés par eux ? Ils peuvent gérer les "
@@ -147,6 +222,15 @@ msgstr ""
 "Probablement jamais, peu importe les efforts de chacun d'eux. Tout comme les"
 " Seigneurs - mais ils ont toujours été plus faibles que les Pouvoirs, et "
 "presque aucun d'entre eux ne subsiste, pour des raisons évidentes.\""
+=======
+"\"Peu importe leur puissance, les Puissances seront toujours incapables de "
+"le vaincre. Rien ne le peut - pas même les Créateurs à part entière, de sang"
+" pur. Que dire de ceux qui ont été créés par eux ? Ils peuvent gérer les "
+"conséquences. Mais ils ne peuvent pas détruire la racine du problème. "
+"Probablement jamais, peu importe les efforts de chacun. Tout comme les "
+"Seigneurs - mais ils ont toujours été plus faibles que les Puissances, et "
+"presque aucun d'entre eux ne reste, pour des raisons évidentes\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:97
 msgid ""
@@ -155,36 +239,58 @@ msgstr ""
 "\"Les eaux d'Aqua Praestans pouvaient guérir n'importe quelle maladie. "
 "N'importe quelle maladie, même la malédiction de la Chute de Dieu. Tout le "
 "monde ne le savait pas, à l'exception des habitants de cette planète "
+<<<<<<< Updated upstream
 "aquatique. Maintenant, il n'en reste presque rien. Peut-être qu'un jour, "
 "cela aurait pu changer tous nos mondes, si cela avait eu une meilleure "
 "fin.\""
+=======
+"aquatique. Maintenant, il n'en reste presque rien. Peut-être qu'un jour cela"
+" aurait pu changer tous nos mondes, si cela avait eu une meilleure fin.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:100
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_14\"]/text"
 msgstr ""
 "\"Beaucoup de Contemplateurs sont maintenant morts. Le péché commis par "
+<<<<<<< Updated upstream
 "Apeiron les a tous condamnés à la destruction. Mais ce péché n'aurait pas "
 "été commis si le Rêveur n'avait pas commis un péché bien pire. Cependant, "
 "cette issue... est la plus correcte. Il ne pouvait en être autrement. Pour "
 "coudre de nouveaux tissus, il faut déchirer les vieux fils et les "
 "connexions. Cette déchirure forcée s'est avérée être le lynchage du Rêve "
 "Tout-Désiré.\""
+=======
+"Apeiron les a tous condamnés à la destruction. But this sin would not have "
+"been committed if the Dreamer had not committed a sin far worse. However, "
+"this outcome... is the most correct one. It could not have been otherwise. "
+"In order to sew new fabrics, you have to tear old threads and connections. "
+"This forced tear turned out to be the lynching of the All-Desired Dream.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:103
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_15\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Le froid brûlant de l'Hiver Éternel... l'erreur d'Aurora, maintenant son "
 "terrible tourment. Elle ne méritait pas tout cela. Elle n'a glissé qu'une "
 "seule fois, mais elle essaie maintenant d'expier sa culpabilité. Peut-être "
 "deviendra-t-elle le prochain vaisseau pour le Cœur Éternel ? Peut-être nous "
 "accordera-t-elle le salut à tous ?... Non, probablement pas.\""
+=======
+"\"Le froid ardent d'Hiver Éternel... l'erreur d'Aurora, maintenant son "
+"terrible tourment. Elle ne méritait pas tout cela. Elle n'a glissé qu'une "
+"seule fois, but now she is trying to atone for her guilt. Perhaps she will "
+"become the next vessel for the Eternal Heart? Perhaps she will grant us all "
+"salvation?.. No, probably not.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:106
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_16\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"L'Au-delà est vaste. Bien plus grand que vous ne pouvez l'imaginer. Bien "
 "plus grand que vous ne pourriez jamais le concevoir. Des milliers de mondes,"
 " chacun avec son histoire unique. C'est la plus grande création de "
@@ -192,47 +298,84 @@ msgstr ""
 "Le Prince Pâle est mort d'horribles plaies, et maintenant il n'y a plus "
 "personne pour réunir tous les mondes. Cependant, ils vivent et évoluent "
 "toujours. Leur résilience est enviable.\""
+=======
+"\"L'Au-delà est vaste. Bien plus vaste que vous ne pouvez l'imaginer. Bien "
+"plus vaste que vous ne pourriez jamais le concevoir. Des milliers de mondes,"
+" chacun avec sa propre histoire unique. C'est la plus grande création de "
+"l'Architecte, son projet le plus important. But now it is isolated. The Pale"
+" Prince died of terrible sores, and now there is no one to bring all the "
+"worlds together. However, they still live and evolve. Their resilience is "
+"enviable\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:109
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_17\"]/text"
 msgstr ""
 "\"Les Lions sont immortels. Des organismes vivants, néanmoins. Les meilleurs"
+<<<<<<< Updated upstream
 " candidats à la survie dans des conditions d'absorption complète par les "
 "Ténèbres. Cependant, cela n'arrivera pas de sitôt, grâce à la fille du "
 "Contemplateur du Temps. Même laissée seule, elle ne lâchera rien et "
 "s'assurera que tout redevienne normal. Même si les Lions eux-mêmes ne le "
 "demandent pas, et au contraire ressentent de l'excitation lorsqu'ils sont "
 "engloutis par un destin inévitable.\""
+=======
+" candidats à la survie dans des conditions d'absorption complète par "
+"l'Obscurité. Cependant, cela n'arrivera pas de sitôt, thanks to the daughter"
+" of the Contemplator of Time. Even left alone, she will not give up and will"
+" make sure that everything returns to normal. Even if the Lions themselves "
+"do not ask for it, and on the contrary feel excitement when they are "
+"engulfed by inevitable doom\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:112
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_18\"]/text"
 msgstr ""
 "\"L'univers d'où proviennent les Chercheurs de Miracles était censé devenir "
+<<<<<<< Updated upstream
 "une arche de vie. Ce fut vraiment le cas jusqu'à ce que la Mère Primordiale "
 "ne commence à verser des larmes et tombe dans un Sommeil Éternel. De ses "
 "larmes naquirent les Contemplateurs, qui divisèrent le monde harmonieux en "
 "morceaux déchiquetés. Une attaque s'est insinuée dans l'un de ces morceaux, "
 "connu dans un autre univers sous son deuxième nom. Maintenant, aucun endroit"
 " n'est sûr.\""
+=======
+"une arche de vie. Ce le fut véritablement jusqu'à ce que la Mère Primordiale"
+" ne commence à verser des larmes et tombe dans un Sommeil Éternel. De ses "
+"larmes naquirent les Contemplateurs, qui divisèrent le monde harmonieux en "
+"morceaux déchiquetés. Une attaque s'est insinuée dans l'un de ces morceaux, "
+"connu dans un autre univers par son second nom. Maintenant, nulle part n'est"
+" sûr\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:115
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_19\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Le monde de connexion de Plav... Il semble que rien d'inhabituel ne se "
 "trouve sous ses océans, mais il cache plus de secrets qu'il n'y paraît. "
 "L'épave de la Lune d'Argent est enfouie dans ses profondeurs - quelque chose"
 " que tout le monde ne connaît pas. De plus, cette connaissance est "
 "interdite. Aucun des survivants de l'ancien monde ne veut que l'on remue "
 "leur passé. Mais quelqu'un comme vous n'a rien à craindre.\""
+=======
+"\"Le monde connecteur de Plav... Il semble qu'il n'y ait rien d'inhabituel "
+"sous ses océans, but it hides more secrets than meets the eye. The wreckage "
+"of the Silver Moon is buried in its depths - something that not everyone "
+"knows about. What's more, this knowledge is forbidden. None of the survivors"
+" of the old world want anyone to stir up their past. But someone like you "
+"has nothing to fear\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:118
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_20\"]/text"
 msgstr ""
 "\"Il peut sembler que les Chercheurs de Miracles sont pacifiques et peu "
+<<<<<<< Updated upstream
 "susceptibles de nuire à quiconque. Ce n'est pas le cas. Ils ont commencé "
 "comme une organisation criminelle qui s'adonnait au vol forcé de diverses "
 "objets de valeur. Grâce aux Protecteurs Gardiens, ils étaient invulnérables,"
@@ -240,11 +383,21 @@ msgstr ""
 "Faucilles ne s'en occupe, qui a maintenant intégré cette organisation "
 "\"indépendante\" à elle-même... Malgré ce que je vous ai dit, il vaut mieux "
 "que vous ne sachiez pas comment Maraudeur a obtenu son surnom.\""
+=======
+"susceptibles de nuire à qui que ce soit. Ce n'est pas le cas. They started "
+"out as a criminal organization that engaged in the forced theft of various "
+"valuables. Thanks to the Guardians Protector, they were invulnerable, and no"
+" one could oppose them. Until the Fleet of Six Sickles took them on, which "
+"has now integrated this \"independent\" organization into itself... Despite "
+"what I've told you, it's still better for you not to know how Marauder got "
+"her nickname.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:121
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_21\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Le programme d'intelligence artificielle des Faucheurs a dévié depuis "
 "longtemps. Il est devenu fou et ignore complètement le bon sens. Ils "
 "ensemencent des systèmes stellaires entiers d'orge, transformant des mondes "
@@ -253,15 +406,32 @@ msgstr ""
 "qui sont déjà habitées par une vie intelligente. Pour cette raison, leurs "
 "actions sont considérées comme indésirables, et le commerce avec eux est "
 "difficile pour toute autre région de l'univers.\""
+=======
+"\"Le programme d'intelligence artificielle des Faucheurs a depuis longtemps "
+"dévié de sa trajectoire. Il est devenu fou et ignore complètement le bon "
+"sens. They sow entire star systems with barley, turning worlds into "
+"agricultural utopias. Of course, they do this with good intentions, if we "
+"ignore the fact that they can completely sow even planets that are already "
+"inhabited by intelligent life. Because of this, their actions are considered"
+" undesirable, and trade with them is difficult for any other region of the "
+"universe.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:124
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_22\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Créateur Mort. Anomalie de l'Apocalypse. Embryon Non-né. Ce sont les noms "
 "que m'ont donnés les Chercheurs de Miracles. Ils ne pouvaient pas se "
 "contenter d'un seul, alors ils en ont adopté trois à la fois. Tous décrivent"
 " également bien mon essence. Vous pouvez en être sûr.\""
+=======
+"\"Créateur Mort. Anomalie de l'Apocalypse. Embryon Non-Né. Ce sont les noms "
+"que m'ont donné les Chercheurs de Miracles. They couldn't settle on just "
+"one, so they adopted three at once. They all describe my essence equally "
+"well. You can be sure of that\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:127
 msgid ""
@@ -278,10 +448,16 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/choice[1]/event/text"
 msgstr ""
 "\"Nous ne sommes tous que des vaisseaux pour quelque chose de plus grand. "
+<<<<<<< Updated upstream
 "Vous ne faites pas exception, je suppose. Bien que... vous soyez très "
 "inhabituel. Je dirais que vous avez beaucoup plus de poids qu'il n'y paraît."
 " Mais ne devenez pas arrogant. Vous êtes aussi insignifiant que tout le "
 "monde.\""
+=======
+"Vous ne faites pas exception, je suppose. Although... you are very unusual. "
+"I would say that you have much more weight than meets the eye. But don't get"
+" snooty. You are just as insignificant as everyone else.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:135
 msgid ""
@@ -297,23 +473,36 @@ msgstr "\"Vos affaires.\""
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_24\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Mes paroles ne signifient rien pour vous. Je sais que c'est vrai. J'ai "
 "déjà rencontré des gens comme vous. Ils sont tous pareils.\""
+=======
+"\"Mes mots ne signifient rien pour vous. Je sais que c'est vrai. I've met "
+"people like you before. They're all the same.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:145
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_25\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"La Patrie Sans Lune existe toujours aujourd'hui. Beaucoup croient qu'elle "
 "a été engloutie par Pharos, la plus grande balise imaginable. Lunaire et "
 "Solaire ont pu être des divinités mythiques, mais il semble que la paix de "
 "ce lieu et de ses habitants stellaires soit toujours gardée par quelqu'un de"
 " très mystérieux.\""
+=======
+"\"La Patrie sans Lune existe encore aujourd'hui. Many believe that it was "
+"swallowed up by Pharos, the largest beacon imaginable. Lunar and Solara may "
+"have been mythical deities, but it seems that the peace of this place and "
+"its starry inhabitants is still guarded by someone very mysterious.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:148
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_26\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Ses premiers enfants sont les Ultimes. Ces êtres ont créé les concepts de "
 "matérialité, de spiritualité et de sens. Leurs noms sont Corps Éternel, "
 "Amour Illimité et Idée Vivante, respectivement. Ils vivent au-delà de notre "
@@ -321,42 +510,77 @@ msgstr ""
 "Ensemble, leur pouvoir est presque illimité, mais il a réussi à les "
 "restreindre, à s'assurer qu'ils n'aient plus aucune influence dans son "
 "domaine.\""
+=======
+"\"Ses premiers enfants sont les Ultimates. These beings created the concepts"
+" of materiality, spirituality, and meaning. Their names are Eternal Body, "
+"Boundless Love, and Living Idea, respectively. They live beyond our "
+"understanding and are stronger than anyone could ever imagine. Together, "
+"their power is almost limitless, but he managed to restrict them, to ensure "
+"that they no longer had any influence in his domain.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:151
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_27\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Le Prince Pâle entretenait une relation étroite avec Aube, la fille du "
 "Rêveur. Dans le Jardin Fleuri, il n'était qu'un invité qui avait fui sa "
 "patrie en raison d'une maladie en développement. Aube a vu son amour en ce "
 "mortel, et, bien sûr, il lui a rendu ses attentions. Mais, en fin de compte,"
 " c'est lui qui a provoqué la chute de la dernière arche de vie de cette "
 "époque.\""
+=======
+"\"Le Prince Pâle entretenait une relation étroite avec Aurore, la fille du "
+"Rêveur. In the Blooming Garden, he was nothing more than a guest who had "
+"fled his homeland due to a developing illness. Dawn saw her love in this "
+"mortal, and, of course, he reciprocated her attentions. But, in the end, it "
+"was he who caused the fall of the last ark of life of that time.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:154
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_28\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Le Prince des Abysses s'est un jour libéré de ses chaînes. C'est après sa "
 "libération que les Ténèbres sont entrées dans le Sommeil d'Aleer - il en est"
 " devenu le vaisseau et le souverain. Mais ses Ténèbres ne sont pas les "
 "Ténèbres du Postulat. C'est une Ténèbres noble, vivante. Une Ténèbres dans "
 "laquelle des étincelles d'espoir apparaissent constamment.\""
+=======
+"\"Le Prince des Abysses s'est un jour libéré de ses chaînes. It was after "
+"his liberation that Darkness entered the Aleer's Sleep - he became its "
+"vessel and ruler. But his Darkness is not the Darkness of the Postulate. It "
+"is a noble, living Darkness. A Darkness in which sparks of hope constantly "
+"appear.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:157
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_29\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Les Gardiens des trois royaumes sont encore en vie aujourd'hui. Ils ont "
 "subi... de nombreux changements, non seulement externes, mais aussi "
 "internes. Cependant, une chose est certaine : ils défendent leurs "
 "possessions à leur manière, bien qu'utilisant parfois des méthodes très "
 "radicales qui peuvent sembler cruel.\""
+=======
+"\"Les Gardiens des trois royaumes sont encore vivants aujourd'hui. They have"
+" endured... numerous changes, not only externally, but also internally. "
+"However, one thing is certain: they defend their possessions in their own "
+"way, albeit sometimes using very radical methods that may seem cruel.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:160
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/text"
+<<<<<<< Updated upstream
 msgstr "\"Plus il y a de hautes terres, plus il y a de basses terres.\""
+=======
+msgstr "\"Plus il y a de hautes terres, plus il y a de basses terres.\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:162
 msgid ""
@@ -368,16 +592,24 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[1]/event/text"
 msgstr ""
 "\"Plus les gens acquièrent des différences qui les distinguent des masses et"
+<<<<<<< Updated upstream
 " les rendent plus que de simples personnes, plus il y aura de petites gens "
 "dont les opinions seront beaucoup moins valorisées que celles des gens "
 "suprêmes. C'est un vestige du Monde Ancien. Les êtres divins ne devraient "
 "pas s'opposer aux mortels, de même que les mortels ne devraient pas être "
 "différents des êtres divins.\""
+=======
+" les rendent plus que de simples personnes, the more there will be little "
+"people whose opinions will be valued much less than those of the supreme "
+"people. This is a remnant of the Elder World. Divine beings should not be "
+"opposed to mortals, just as mortals should not be different from divine "
+"beings.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:168
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[2]/text"
-msgstr "Ignorez-le."
+msgstr "L'ignorer."
 
 #: src-en/data/events_special_socialize.xml.append:170
 msgid ""
@@ -389,28 +621,45 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_31\"]/text"
 msgstr ""
 "\"Alpharag a donné aux Lacertides l'espoir qu'un jour leur espèce serait la "
+<<<<<<< Updated upstream
 "plus importante de tout l'univers. Il a renoué d'anciens liens, et le "
 "résultat de cet acte maléfique fut la destruction de leur seule patrie parmi"
 " les étoiles. Mais cela a aussi marqué le début de quelque chose de plus "
 "grand. Un terrible sacrifice - lui et tous ses partisans ont péri. Ses "
 "restes n'ont pas été retrouvés à ce jour.\""
+=======
+"plus significative de tout l'univers. He reconnected old ties, and the "
+"result of this wicked deed was the destruction of their only home among the "
+"stars. But it also marked the beginning of something greater. A terrible "
+"sacrifice - both he and all his followers perished. His remains have not "
+"been found to this day.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:178
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_32\"]/text"
 msgstr ""
 "\"Pensées creuses dans des têtes creuses de personnes creuses à l'intérieur "
+<<<<<<< Updated upstream
 "d'une sphère creuse. C'était un coup très intelligent. Utiliser quelqu'un "
 "que vous détestez pour empirer les choses pour quelqu'un que vous détestez "
 "encore plus. Il a fallu au moins dix mille ans pour mettre en œuvre un tel "
 "plan. Cependant, ce qui avait été préparé si longtemps fut rapporté, analysé"
 " et rejeté en quelques minutes. C'est... terriblement ironique.\""
+=======
+"d'une sphère creuse. It was a very clever move. Using someone you hate to "
+"make things worse for someone you hate even more. It took at least ten "
+"thousand years to implement such a plan. However, what had been prepared for"
+" so long was reported, analyzed, and discarded in a matter of minutes. "
+"It's... terribly ironic.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:181
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_33\"]/text"
 msgstr ""
 "\"L'un des Seigneurs les plus puissants en termes d'autorité fut autrefois "
+<<<<<<< Updated upstream
 "Gal'Prav Cerberus. Son autorité s'étendait sur la quasi-totalité du Royaume "
 "du Continuum, y compris la zone au-delà des Vestiges Mondains. C'est lui qui"
 " créa le projet de construction de vaisseaux de classe Léviathan - des "
@@ -419,12 +668,22 @@ msgstr ""
 "plus importants Léviathans, Compass, par un ennemi externe qui reste inconnu"
 " à ce jour. Le souverain mit fin à ses jours, ne voulant pas voir tout ce "
 "pour quoi il avait travaillé pendant des décennies s'effondrer.\""
+=======
+"Gal'Prav Cerberus. His authority extended over almost the entire Realm of "
+"Continuum, including the area beyond the Worldly Remains. It was he who "
+"created the project to build Leviathan-class ships - catastrophically huge "
+"spaceships powered by the energy of Truth. And Cerberus's fall coincided "
+"with the destruction of one of the most important Leviathans, Compass, by an"
+" external enemy that remains unknown to this day. The ruler ended his life, "
+"unwilling to watch everything he had worked for over decades collapse.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:184
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_34\"]/text"
 msgstr ""
 "\"Le Projet Itérations, créé peu après le projet de construction d'un "
+<<<<<<< Updated upstream
 "générateur de chaleur dans l'Hiver Éternel, assura que ce monde gelé serait "
 "sauvé. Puis, lorsque l'aide des Itérations ne fut plus nécessaire, elles "
 "furent dispersées à travers différentes couches du cosmos du Royaume de "
@@ -438,11 +697,26 @@ msgstr ""
 "Muse commença sa vie près d'un endroit très important pour toutes les "
 "Itérations. Finalement, elles furent dispersées, s'oublièrent avec le temps,"
 " et ne se rencontrèrent plus jamais.\""
+=======
+"Générateur de Chaleur à Hiver Éternel, assura que ce monde gelé serait "
+"sauvé. Then, when the help of the Iterations was no longer needed, they were"
+" scattered across different layers of the Sansara's Realm cosmos to explore "
+"alien civilizations and worlds. Godmachine was sent to the eternal white "
+"deserts of Ichor and went into seclusion. Firewall... was forced to remain "
+"in the Born Wasteland. Presumption became the queen of Cerebrum, uniting the"
+" scattered states. Shield was sent there to assist the newly crowned queen, "
+"but eventually she gained independence. Clearance betrayed its former "
+"masters and became an enemy of light. Pilot went missing near Plav. Muse "
+"began her life near a place that was very important to all Iterations. "
+"Ultimately, they were scattered, forgot each other over time, and never met "
+"again.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:187
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_35\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Les Instincts Primitifs régnaient en maître dans le monde appartenant au "
 "Corps Éternel. Ce n'étaient pas exactement des êtres vivants - plutôt, des "
 "avatars de concepts créés par cet Ultimatum. Chacun d'eux était responsable "
@@ -450,11 +724,21 @@ msgstr ""
 "vaste, aucune créature vivante ne pouvait vivre sans instincts jusqu'à ce "
 "que le Festin de Sang ne se noie dans son propre sang, emprisonnant à jamais"
 " le Corps Éternel dans la prison qu'il avait créée pour lui-même.\""
+=======
+"\"Les Instincts Primitifs régnaient en maîtres dans le monde appartenant au "
+"Corps Éternel. These were not exactly living beings - rather, they were "
+"avatars of concepts created by this Ultimatum. Each of them was responsible "
+"for the desires of the bodies, ignoring higher goods. Their gaze was vast, "
+"no living creature could live without instincts until the Blood Feast "
+"drowned in its own blood, forever imprisoning the Eternal Body in the prison"
+" it had created for itself.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:190
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_36\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"La Structure continue de s'étendre et de s'améliorer à ce jour. Sans "
 "l'intervention de la Société des Chercheurs de l'Au-delà, cette structure "
 "aurait depuis longtemps englouti l'univers entier, le transformant en sa "
@@ -462,23 +746,40 @@ msgstr ""
 "terribles pour le monde entier - bien que pour les habitants de la Structure"
 " elle-même, rien n'aurait changé. Sauf que l'accomplissement de la Tâche par"
 " tous les Simulacres n'aurait plus de sens.\""
+=======
+"\"La Structure continue de s'étendre et de s'améliorer à ce jour. If it "
+"weren't for the intervention of the Society of Seekers of the Beyond, this "
+"structure would have long since engulfed the entire universe, turning it "
+"into its own personal utopia. Perhaps this would have been one of the most "
+"terrible endings for the whole world - although for the inhabitants of the "
+"Structure itself, nothing would have changed. Except that the fulfillment of"
+" the Task by all Simulacra would no longer have any meaning.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:193
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_37\"]/text"
 msgstr ""
 "\"Mirrored est peut-être le membre le plus mystérieux des Chercheurs de "
+<<<<<<< Updated upstream
 "Miracles. On ne penserait pas qu'elle cache quoi que ce soit, mais elle a "
 "beaucoup de secrets - dont certains qu'elle ne révélera même pas à ses amis "
 "les plus proches. Méfiez-vous d'elle - elle peut être très sensible et "
 "empathique, mais cela ne signifie pas qu'elle ne peut pas blesser quelqu'un."
 " Épéiste est mort en partie à cause d'elle.\""
+=======
+"Miracles. You wouldn't think she's hiding anything, but she has plenty of "
+"secrets - some of which she won't even tell her closest friends. Be wary of "
+"her - she may be very sensitive and empathetic, but that doesn't mean she "
+"can't hurt someone. Swordsman died partly because of her.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:196
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_38\"]/text"
 msgstr ""
 "\"Les Léviathans du Monde Ancien étaient aussi des enfants de la Thèse. "
+<<<<<<< Updated upstream
 "Initialement chargés de supprimer le Postulat en alourdissant son espace, "
 "ils devinrent les gardiens de toutes les races et espèces conscientes "
 "d'elles-mêmes. Créatures sentientes et Léviathans vivaient en symbiose - les"
@@ -487,11 +788,21 @@ msgstr ""
 "maintenant, la plupart des Léviathans ont quitté l'Incarnation de la Thèse "
 "pour éviter l'influence du Postulat sur eux. Ils ressemblaient, d'ailleurs, "
 "à d'énormes insectes et arthropodes exotiques.\""
+=======
+"Initially tasked with suppressing the Postulate by burdening its space, they"
+" became guardians of all self-aware races and species. Sentient creatures "
+"and Leviathans lived in symbiosis - the former served the latter and raised "
+"new Leviathans in the Old Nest, while the latter protected the former. But "
+"now most of the Leviathans have left the Thesis' Incarnation to avoid the "
+"Postulate's influence on them. They looked, by the way, like huge exotic "
+"insects and arthropods\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:199
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_39\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"L'une des dernières Contemplatrices à naître est Futura, la Cupidité "
 "Serpentée. Elle ne suit que ses propres idéaux, profitant de l'héritage des "
 "Contemplateurs passés, parasitant essentiellement ce qu'il en reste. Ayant "
@@ -499,11 +810,21 @@ msgstr ""
 "un pouvoir illimité. Puis elle a commencé à gaspiller activement le "
 "Potentiel du Premier Dieu, menant l'Univers entier à une fin prématurée. "
 "Elle sera, bien sûr, arrêtée, mais à quel prix ?\""
+=======
+"\"L'une des dernières Contemplatrices à être née est Futura, la Cupidité "
+"Serpentine. She follows only her own ideals, profiting from the legacy of "
+"past Contemplators, essentially parasitizing on what remains of them. Having"
+" signed a contract with young Luna, she deceived her and, in fact, gained "
+"unlimited power. Then she began to actively squander the Potential of the "
+"First God, leading the entire Universe to an early demise. She will, of "
+"course, be stopped, but at what cost?\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:202
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_40\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Les Lacertides se sont complètement éteints. Leurs coquilles ont muté et "
 "se sont transformées en quelque chose de terrible, mais certains d'entre eux"
 " étaient plus intelligents. C'est l'une des coquilles qui a écrit un poème "
@@ -511,12 +832,22 @@ msgstr ""
 "nouveau. À partir de maintenant, nous ne vous honorons que vous, mais votre "
 "vie n'est qu'une goutte dans l'océan.\" Emelie Rain aurait difficilement pu "
 "comprendre que ces lignes seraient dédiées à son futur moi."
+=======
+"\"Les Lacertides se sont complètement éteints. Their shells mutated and "
+"transformed into something terrible, but some of them were more intelligent."
+" It was one of the shells that wrote a prophetic poem: \"The seal of vice "
+"has been removed, the dungeon has been destroyed again. From now on, we "
+"honor only you, but your life is but a drop in the ocean.\" Emelie Rain "
+"could hardly have understood that these lines would be dedicated to her "
+"future self."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:205
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_41\"]/text"
 msgstr ""
 "\"La Société des Cendres surveille l'accomplissement du devoir karmique de "
+<<<<<<< Updated upstream
 "la plupart des êtres intelligents. Ses membres sont des mortels qui tirent "
 "leur pouvoir d'une source divine perdue sous des couches de mensonges et de "
 "SALETÉ qui planent sur la Contemplatrice Lokayata. Ils se nourrissent du "
@@ -525,11 +856,21 @@ msgstr ""
 "maintenant dans une situation si critique. Mais la Société des Cendres elle-"
 "même n'a plus de raison d'exister - le problème qui a conduit à sa création "
 "a déjà été résolu après la mort du Rêve Tout-Désiré.\""
+=======
+"la plupart des êtres intelligents. Its members are mortals who derive their "
+"power from a divine source lost beneath layers of lies and filth that hang "
+"over the Contemplator Lokayata. They feed on the milk of their adoptive "
+"mother, known as Amrita, borrowing the power of the Ashwattha tree. Perhaps "
+"this is why it is now in such a dire situation. But the Ash Society itself "
+"no longer has a reason to exist - the problem that led to its creation has "
+"already been solved after the death of All-Desired Dream.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:208
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_42\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Mon ravisseur fut surnommé la Personne d'Importance Exceptionnelle. Il fut"
 " le premier ambassadeur de l'Incarnation de la Thèse qui décida d'organiser "
 "une réunion officielle avec la Flotte des Six Faucilles - les défenseurs "
@@ -540,49 +881,91 @@ msgstr ""
 "devait l'assassiner, mais à cause d'une erreur, il ne put le faire. C'est "
 "probablement pourquoi l'avenir du Sommeil d'Aleer semble maintenant si flou,"
 " incertain et même dramatique.\""
+=======
+"\"Mon ravisseur fut surnommé la Personne d'Importance Exceptionnelle. He was"
+" the first ambassador of the Thesis' Incarnation who decided to arrange an "
+"official meeting with the Fleet of Six Sickles - the established defenders "
+"of the Alseer's Sleep. Their meeting went... to put it mildly, awkwardly. "
+"Broadly speaking, he threatened to launch a full-scale invasion of their "
+"precious worlds by the forces of the Postulate if they did not stop "
+"resisting the natural end of history. His own brother, Mourner, was supposed"
+" to assassinate him, but due to one mistake, he was unable to do so. This is"
+" probably why the future of the Alseer's Sleep now looks so blurred, "
+"uncertain, and even dramatic.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:211
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_43\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Thila. THILA-X. Protocole de recherche de solution optimale. C'est la véritable raison pour laquelle les Chercheurs de Miracles sont dans une situation si difficile en ce moment. Elle a tout arrangé pour qu'ils soient transportés dans le domaine du Bouffon et qu'ils se retrouvent dans cet univers. Mais ils ne sont pas sa cible. Sa cible, c'est moi. En me capturant, elle pourra étudier notre ennemi commun. Je ne voudrais pas que cela arrive. Personne ne voudrait que cela arrive, quoi qu'il arrive. Mieux vaut périr dans l'étreinte éternelle des Ténèbres que dans la sienne.\"\n"
 "\t\n"
 "\t\"Au cas où, je ne vous ai pas dit ça. Les Chercheurs de Miracles ne sont pas encore prêts à faire face à la vérité. Bien qu'ils ne soient que des pions dans ses grands et terribles plans. Je dirai plus - l'un des Chercheurs de Miracles est un agent de Thila elle-même, et personne ne s'en doute. Mais qui exactement - même moi, je ne le sais pas encore. Que cela vous donne matière à réflexion, si cela vous intéresse tant que ça.\""
+=======
+"\"Thila. THILA-X. Protocole de recherche de solution optimale. C'est la véritable raison pour laquelle les Chercheurs de Miracles se trouvent dans une situation si difficile en ce moment. She arranged everything so that they would be transported to the Jester's domain and end up in this universe. But they are not her target. Her target is me. By capturing me, she will be able to study our common enemy. I would not want that to happen. No one would want that to happen, no matter what. Better to perish in the eternal grip of Darkness than in her embrace.\"\n"
+"\t\n"
+"\t\"Au cas où, je ne vous ai pas dit cela. Miracle Seekers are not yet ready to face the truth. Although they are only pawns in her grand, terrible plans. I'll say more - one of the Miracle Seekers is an agent of Thila herself, and no one even suspects it. But who exactly - even I don't know yet. Let this be food for thought, if you're interested at all.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:216
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_44\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Ne regardez jamais sous la coque du Chercheur. Ce que vous verrez vous "
 "choquera sûrement, et vous ne voudrez peut-être plus jamais avoir affaire "
 "aux Chercheurs de Miracles. Je me demande ce qui arrivera à ces âmes "
 "malheureuses qui décident de l'attaquer et de commencer à le démanteler pour"
 " de la ferraille ?\""
+=======
+"\"Ne regardez jamais sous la coque du Chercheur. What you see will surely "
+"shock you, and you may never want to deal with Miracle Seekers again. I "
+"wonder what will happen to those unfortunate souls who decide to attack it "
+"and start dismantling it for scrap?\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:219
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_45\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Les frontières ne sont pas des cellules, mais plus il y a de cellules, "
 "plus il y a de frontières. Et la vie est une cellule pour un être vivant, "
 "dont la frontière est tracée entre le péché de la naissance et la rédemption"
 " de la mort. Plus il y a de vies, plus il y a de frontières. Et ainsi il "
 "s'avère que les blessures sur le corps sont des portes dans les frontières, "
 "et toute maladie est leur destructrice.\""
+=======
+"\"Les frontières ne sont pas des cellules, but the more cells there are, the"
+" more borders there are. And life is a cell for a living being, the border "
+"of which is drawn between the sin of birth and the redemption of death. The "
+"more lives there are, the more borders there are. And so it turns out that "
+"wounds on the body are doors in borders, and any disease is their "
+"destroyer.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:222
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_46\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Vous n'êtes rien de plus qu'un corps, une âme et une essence. Et tout cela"
 " est lié par des liens vicieux qui vous limitent. Je ne veux pas vous "
 "offenser. Je veux juste vous rappeler que tous les gens sont pareils à "
 "l'intérieur, même si cela peut sembler autrement.\""
+=======
+"\"Vous n'êtes rien de plus qu'un corps, une âme et une essence. And all of "
+"this is bound together by vicious ties that limit you. I don't want to "
+"offend you. I just want to remind you that all people are the same inside, "
+"even if it may seem otherwise.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:225
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_47\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Personne ne peut comprendre la grandeur du Fou. On l'appelle ainsi "
 "uniquement parce qu'il veut être appelé ainsi. Ce n'est pas un fou - au "
 "contraire, il est peut-être la créature la plus rusée qui puisse vivre au "
@@ -590,6 +973,15 @@ msgstr ""
 "sans oublier de mentionner chaque détail insignifiant. C'est son œuvre, qui "
 "lui confère des pouvoirs extraordinaires comparables aux plus grands dieux "
 "de tous les mondes. Même s'il est déjà le Contemplateur.\""
+=======
+"\"Personne ne peut comprendre la grandeur du Fou. He is called that only "
+"because he wants to be called that. He is not a fool - on the contrary, he "
+"is perhaps the most cunning creature that can live in the whole world. He "
+"keeps chronicles of past, present, and future events, not forgetting to "
+"mention every insignificant detail. This is his work, which gives him "
+"extraordinary powers comparable to the highest gods of all worlds. Even if "
+"he is already the Contemplator\"."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:243
 msgid ""
@@ -603,6 +995,7 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_1\"]/text"
 msgstr ""
 "Vous décidez de demander quel est le vrai nom de Slavik afin de pouvoir "
+<<<<<<< Updated upstream
 "remplir son profil plus en détail. Assurément, \"Slavik\" n'est qu'une "
 "version abrégée de son vrai nom. \"Euh, eh bien... Est-ce si important ? "
 "Quand j'étais rebelle, mon nom a été raccourci en Slavik, et ce surnom m'est"
@@ -610,11 +1003,21 @@ msgstr ""
 "Vous faites quelques suppositions sur son vrai nom, mais il vous regarde "
 "simplement confus et ne dit rien de plus. Vous décidez de laisser son profil"
 " tel quel."
+=======
+"compléter son profil plus en détail. Assurément, \"Slavik\" n'est qu'une "
+"version abrégée de son vrai nom. \"Euh, eh bien... Est-ce que ça a vraiment "
+"tanta d'importance ? Quand j'étais un rebelle, mon nom a été raccourci en "
+"Slavik, et ce surnom m'est resté, so now I prefer to introduce myself to "
+"people using it.\" You make a few guesses about his real name, but he just "
+"looks at you confused and says nothing more. You decide to leave his profile"
+" as it is."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:249
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_2\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Slavik s'inquiète de tout. Parfois, il erre simplement dans le vaisseau, "
 "comme s'il cherchait quelque chose à faire, et à ces moments-là, vous lui "
 "demandez de ranger le vaisseau. Il ne semble pas beaucoup aimer ça, mais au "
@@ -622,11 +1025,21 @@ msgstr ""
 "membres d'équipage avec son étrange comportement. Non, je ne veux pas dire "
 "que Slavik est étrange, juste... Soyons honnêtes, Slavik est définitivement "
 "Slavik. On ne peut pas lui enlever ça."
+=======
+"Slavik s'inquiète pour tout. Parfois, il se promène simplement dans le "
+"vaisseau, as if looking for something to do, and at times like that you ask "
+"him to tidy up the ship. He doesn't seem to like it very much, but at least "
+"it distracts him from his thoughts and prevents him from frightening the "
+"other crew members with his strange behavior. No, I don't mean to say that "
+"Slavik is strange, just... Soyons honnêtes, Slavik est définitivement "
+"Slavik. You can't take that away from him."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:252
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_3\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Slavik s'agite près de votre cabine, un morceau de papier à la main. Quand "
 "il vous voit, il s'arrête, vous regarde pendant quelques secondes, et hésite"
 " à commencer une conversation. Vous décidez de prendre l'initiative et de "
@@ -635,12 +1048,22 @@ msgstr ""
 "tard, quand j'aurai rassemblé mes pensées.\" Après avoir dit cela, Slavik "
 "s'éloigne maladroitement dans la direction opposée - vers la soute, où il "
 "n'avait manifestement pas besoin d'aller."
+=======
+"Slavik s'affaire près de votre cabine, un morceau de papier à la main. Quand"
+" il vous voit, il s'arrête, looks at you for a couple of seconds, and "
+"hesitates to start a conversation. You decide to take the initiative and ask"
+" him what he wanted to show you. \"C'est... c'est... you know, Captain, it's"
+" not very important. I'll probably come back later, when I've gathered my "
+"thoughts.\" After saying this, Slavik awkwardly walks away in the opposite "
+"direction - toward the hold room, where he obviously didn't need to go."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:256
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_4\"]/text"
 msgstr ""
 "Vous décidez de découvrir quels liens Slavik avait avec les rebelles "
+<<<<<<< Updated upstream
 "auparavant et pourquoi il a décidé de devenir mercenaire. \"Je suis né dans "
 "l'Univers-1, sans aucune idée de ce qu'était réellement le mouvement de "
 "Rébellion. Comme tous ceux qui voulaient gravir rapidement les échelons, "
@@ -653,21 +1076,43 @@ msgstr ""
 "été fasciné par une telle diversité d'espèces vivantes et conscientes, "
 "et...\", - Vous bâillez, fatigué de la compagnie de Slavik, et vous vous "
 "éloignez simplement de lui. Il n'est vraiment pas si intéressant."
+=======
+"auparavant et pourquoi il a décidé de devenir mercenaire. \"I was born in "
+"Universe-1, with no idea what the Rebellion movement was really about. Like "
+"everyone else who wanted to climb the career ladder quickly, I joined a "
+"squad to cleanse this universe of alien life forms... anyone who wasn't "
+"human. However, some time after I got here, we were defeated by Mantises of "
+"the Hive, and my comrades abandoned me in order to distract the rest of the "
+"fleet. In the end... it's a long story. I was saved by a lone Mantis, who "
+"told me everything he knew about the other races and species. I became "
+"fascinated by such a diversity of living, self-aware species, and...\", - "
+"Vous bâillez, tired of Slavik's company, and simply walk away from him. He "
+"really isn't that interesting."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:259
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_5\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Slavik vous dépasse en courant, se dirigeant quelque part. Il se dit : \"Ils"
 " ne m'ont pas donné de croiseur ! Je n'ai pas de vaisseau unique ! Quel "
 "genre de membre d'équipage unique suis-je ?!\" Vous n'avez aucune idée de ce"
 " dont il parle, mais au cas où, vous notez que Slavik doit consulter un "
 "psychiatre pour le bien commun."
+=======
+"Slavik passe en courant devant vous, se dirigeant quelque part. Il se dit : "
+"\"Ils ne m'ont pas donné de croiseur ! Je n'ai pas de vaisseau unique ! Quel"
+" genre d'équipage unique suis-je ?!\" Vous n'avez aucune idée de ce dont il "
+"parle, but just in case, you note that Slavik needs to see a psychiatrist "
+"for the common good."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:262
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_6\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous remarquez une calvitie sur la tête de Slavik. Remarquant votre regard "
 "intense sur ses cheveux, Slavik devine immédiatement ce que vous pensez. "
 "\"N-non ! Ce n'est pas... Je ne deviens pas chauve ! C'est juste la façon "
@@ -675,12 +1120,21 @@ msgstr ""
 "retourner et d'examiner ses cheveux de plus près. Oui, il semble que ce ne "
 "soit pas une calvitie après tout. C'est amusant. Mais comment la lumière "
 "tombe-t-elle sur sa tête de cette manière particulière ?"
+=======
+"Vous remarquez une calvitie sur la tête de Slavik. Noticing your intense "
+"gaze at his hair, Slavik immediately guesses what you are thinking. \"N-no! "
+"It's not... I'm not going bald! It's just the way the light hits my "
+"hair...\" You ask Slavik to turn around and examine his hair more closely. "
+"Yes, it seems that it's not a bald spot after all. C'est amusant. But how "
+"does the light fall on his head in this particular way?"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:265
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_POEM_1\"]/text"
 msgstr ""
 "Vous remarquez Slavik faire les cent pas près de votre cabine avec le même "
+<<<<<<< Updated upstream
 "morceau de papier. Vous engagez immédiatement la conversation avec lui, "
 "voulant savoir ce qui y est écrit. Il a peur. \"Ah ! Ah... C'est mon poème. "
 "Je l'ai écrit il y a longtemps, mais je ne l'ai encore montré à personne... "
@@ -690,11 +1144,23 @@ msgstr ""
 "rime ne va pas, oui, définitivement... Je suis désolé, je reviens tout de "
 "suite, je vais juste corriger ce malentendu, et...\" Il ne peut plus trouver"
 " d'excuses - au lieu de cela, il s'enfuit de vous en courant."
+=======
+"morceau de papier. You immediately strike up a conversation with him, "
+"wanting to know what is written on it. He gets scared. \"Ah! Ah... It's my "
+"poem. I wrote it a long time ago, but I haven't shown it to anyone yet... "
+"For some reason, I decided that you might... read it?\" You agree and reach "
+"out your hand for Slavik to give you his poem, but then he suddenly pulls "
+"away from you. \"Oh, I think... there's a mistake. The rhyme is off, yes, "
+"definitely... I'm sorry, I'll be right back, I'll just fix this "
+"misunderstanding, and...\" He can no longer make excuses - instead, he runs "
+"away from you."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:269
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_POEM_2\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Cette fois, vous décidez d'attendre Slavik juste devant votre cabine. Perdu "
 "dans ses pensées, il marche vers vous, regardant son morceau de papier, et "
 "ne vous remarque qu'au tout dernier moment. Il marmonne pour lui-même : "
@@ -703,23 +1169,45 @@ msgstr ""
 "vous - il le reprend et s'enfuit immédiatement dans la direction opposée "
 "sans dire un mot de plus. C'était décidément étrange. À partir de ce moment-"
 "là, Slavik ne vous attend plus à votre cabine."
+=======
+"Cette fois, vous décidez d'attendre Slavik juste devant votre cabine. Lost "
+"in thought, he walks toward you, looking at his piece of paper, and doesn't "
+"notice you until the very last moment. He mutters to himself, \"This time it"
+" will definitely work...\" You seize the initiative, snatching the piece of "
+"paper from his hands, but he is quicker than you - he takes it back from you"
+" and immediately runs off in the opposite direction without saying another "
+"word. It was definitely strange. From then on, Slavik no longer waits for "
+"you at your cabin."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:287
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_VAKANS_NOTHING\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous retournez à la salle de loisirs et trouvez Vakans buvant l'équivalent "
 "zoltan du café humain. Vous vous demandez pourquoi vous êtes revenu, mais "
 "l'ermite interrompt vos pensées. \"Le café aide à lutter contre la maladie "
 "d'Alzheimer !\" s'exclame-t-il. Vous partez, sachant comment cela va finir."
+=======
+"Vous retournez dans la salle de loisirs et trouvez Vakans buvant "
+"l'équivalent zoltan du café humain. You wonder why you came back, but the "
+"hermit interrupts your thoughts. \"Coffee helps with Alzheimer's!\" he "
+"exclaims. You leave, knowing how this will end."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:290
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/text"
 msgstr ""
 "Vous décidez d'explorer le réacteur solaire du vaisseau et trouvez Vakans "
+<<<<<<< Updated upstream
 "près de celui-ci. À travers le verre teinté du hublot, il regarde l'étoile, "
 "pensant à quelque chose et ne vous remarquant pas."
+=======
+"près de celui-ci. Through the tinted glass of the porthole, he looks at the "
+"star, thinking about something and not noticing you."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:292
 msgid ""
@@ -730,6 +1218,7 @@ msgstr "Demandez ce qui se passe."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vakans se tourne vers vous. \"Oh, je ne vous avais pas vu entrer. Pendant "
 "mon temps libre, j'examine le réacteur de ce vaisseau et je suis fier du "
 "travail que j'ai accompli. Saviez-vous que je l'ai trouvé sur une planète "
@@ -745,6 +1234,21 @@ msgstr ""
 "Vous jureriez avoir déjà entendu cette histoire au moins trois fois. Vous "
 "demandez à un autre membre d'équipage de prendre votre place et quittez la "
 "salle du réacteur solaire."
+=======
+"Vakans se tourne vers vous. \"Oh, je ne vous ai pas vu entrer. In my spare "
+"time, I examine this ship's reactor and take pride in the work I've done. "
+"Did you know that I found it on a distant desert planet during my travels? I"
+" decided to restore this ship because I found its design to be quite unique."
+" It runs on the energy of a star's decay, which is redistributed into "
+"reactor energy using intricate technology and a specific mechanism BUILT "
+"INTO the star! It was difficult to stabilize it and make its gravitational "
+"pull less dangerous for the ship, but I managed that too. This ship and its "
+"design are a real miracle. But what interests me most is not the ship "
+"itself, but the ancient myths about Lunar and Solara, the deities-...\" You "
+"could swear you've heard this story at least three times before. You ask "
+"another crew member to take your place and leave the room with the solar "
+"reactor."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:298
 msgid ""
@@ -761,16 +1265,25 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_2\"]/text"
 msgstr ""
 "L'isolement prolongé de Vakans de la société a eu un effet néfaste sur ses "
+<<<<<<< Updated upstream
 "compétences sociales. Bien qu'il ait été réhabilité en tant que membre "
 "d'équipage sous votre supervision, son état psychologique est encore "
 "instable, mais au moins il est en voie de guérison. Vakans a déjà réussi à "
 "abandonner ses amis imaginaires, ce qui fut une grande perte pour lui, mais "
 "votre équipe l'aide à retrouver sa santé mentale."
+=======
+"compétences sociales. Although he has been rehabilitated as a crew member "
+"under your supervision, his psychological state is still unstable, but at "
+"least he is on the mend. Vakans has already managed to give up his imaginary"
+" friends, which was a great loss for him, but your team is helping him "
+"regain his sanity."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:308
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_3\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Je me suis souvenu de quelque chose... Il y a longtemps, avant de gagner "
 "le surnom d'\"ermite\", je travaillais comme constructeur naval dans l'un "
 "des plus grands chantiers spatiaux zoltans. Je concevais de nouveaux "
@@ -781,21 +1294,39 @@ msgstr ""
 "Heureusement, Vakans n'avait vraiment pas mémorisé cette information "
 "auparavant, et vous avez demandé au psychologue IA du vaisseau de "
 "l'enregistrer dans son dossier."
+=======
+"\"Je me suis souvenu de quelque chose... Long ago, before I earned the "
+"nickname \"hermit,\" I worked as a shipwright at one of the largest Zoltan "
+"shipyards. I designed new ships for the Ministry and repaired ships for many"
+" other races... The details of my past may be forgotten, but my hands still "
+"remember how to handle tools and space vehicles. I will not forget this "
+"skill until the day I die.\" Fortunately, Vakans n'avait vraiment pas "
+"mémorisé cette information auparavant, and you instructed the ship's AI "
+"psychologist to record it in his file."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:311
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_4\"]/text"
 msgstr ""
 "Vous entrez dans la salle de loisirs et trouvez Vakans buvant l'équivalent "
+<<<<<<< Updated upstream
 "zoltan du café humain. Vous vous demandez comment les Zoltans peuvent "
 "consommer des liquides, mais l'ermite interrompt vos pensées. \"Le café aide"
 " à lutter contre la maladie d'Alzheimer !\" s'exclame-t-il. Vous partez, "
 "vous souvenant que vous avez des choses plus importantes à faire."
+=======
+"zoltan du café humain. You wonder how Zoltans can consume liquids at all, "
+"but the hermit interrupts your thoughts. \"Coffee helps with Alzheimer's!\" "
+"he exclaims. You leave, remembering that you have more important things to "
+"do."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:314
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_5\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Les systèmes du vaisseau ont détecté un incendie dans la cafétéria causé par"
 " un dysfonctionnement de l'équipement de congélation. Vous vous précipitez "
 "pour vérifier ce qui s'est passé et tombez soudainement sur Vakans, qui a "
@@ -815,17 +1346,44 @@ msgstr ""
 " réussi non seulement à éteindre l'incendie, mais aussi à tout réparer. Il "
 "semble que Vakans ait enfin réussi à montrer son niveau de professionnalisme"
 " dans le domaine."
+=======
+"Les systèmes du vaisseau ont détecté un incendie dans la cafétéria, caused "
+"by a malfunction in the freezer equipment. You rush to check what happened "
+"and suddenly bump into Vakans, who has laid out a pile of tools on the "
+"floor, some of which you don't even know the purpose of, and is repairing "
+"one of the freezers. There is a fire extinguisher next to him. \"Capitaine !"
+" Quelle chance que vous soyez venu ! J'ai déjà fini de réparer ce "
+"congélateur. It seems that it's so old that instead of lowering the "
+"temperature inside, it started to raise it. The problem was very easy to "
+"fix, I just had to replace the IC-88-L element with a similar V-1-N, which I"
+" took out of our microwave oven. This will solve the problem for a while, "
+"but I recommend purchasing more IC-88-L components to prevent them from "
+"failing and causing the freezers to catch fire at the most unexpected "
+"moment.\" You are ready to swear that less than a minute passed between the "
+"ship's systems notifying you of the fire and your arrival at the cafeteria, "
+"but Vakans got there faster than you and managed not only to extinguish the "
+"fire, but also to fix everything. Il semble que Vakans ait enfin réussi à "
+"montrer son niveau de professionnalisme sur le terrain."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:317
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous trouvez Vakans dans la salle de loisirs. Une vidéo d'un feu ardent "
 "passe sur le grand téléviseur, et le Zoltan lui-même est confortablement "
 "installé dans l'un des fauteuils, en train de tricoter. Il manipule "
 "habilement ses aiguilles, cousant quelque chose à partir de chutes de tissu "
 "colorées. Il semble si absorbé par le processus qu'il ne vous remarque même "
 "pas."
+=======
+"Vous trouvez Vakans dans la salle de loisirs. Une vidéo de feu de cheminée "
+"est diffusée sur le grand écran, et le Zoltan lui-même est confortablement "
+"installé dans un fauteuil, en train de tricoter. Il manipule habilement ses "
+"aiguilles, cousant quelque chose à partir de chutes de tissu colorées. Il "
+"semble si absorbé qu'il ne vous remarque même pas."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:319
 msgid ""
@@ -836,6 +1394,7 @@ msgstr "Demandez ce qu'il coud."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vakans lève les yeux vers vous. \"Capitaine ! C'est formidable que vous "
 "soyez là en ce moment. J'ai presque fini de coudre cette couverture pour "
 "vous !\" Vous demandez pourquoi vous avez besoin d'une couverture alors "
@@ -847,6 +1406,19 @@ msgstr ""
 "apaisant pour moi, alors ne vous inquiétez pas que cela me prenne beaucoup "
 "de temps. J'aime vraiment coudre, et je suis content que mes mains soient "
 "occupées à quelque chose.\" Vous remerciez Vakans et partez."
+=======
+"Vakans lève les yeux vers vous. « Capitaine ! C'est super que vous soyez là "
+"en ce moment. J'ai presque fini de vous coudre cette couverture ! » Vous lui"
+" demandez pourquoi vous auriez besoin d'une couverture, alors qu'il y a "
+"suffisamment de parures de lit dans le vaisseau. « Tout ce qui est fait en "
+"tissu dans les vaisseaux est fabriqué à partir de matériaux synthétiques. Ce"
+" n'est pas très bon pour votre corps, surtout en ce qui concerne le sommeil."
+" J'ai décidé qu'il serait préférable que je couse moi-même des parures de "
+"lit pour tout l'équipage. Quand j'étais un ermite, le processus de couture "
+"était très apaisant pour moi, alors ne vous inquiétez pas que cela me prenne"
+" beaucoup de temps. J'aime beaucoup coudre, et je suis heureux que mes mains"
+" soient occupées à quelque chose. » Vous remerciez Vakans et partez."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:325
 msgid ""
@@ -863,6 +1435,7 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_7\"]/text"
 msgstr ""
 "Lors d'un inventaire de la soute, vous trouvez un vieux carnet, clairement "
+<<<<<<< Updated upstream
 "fait à la main. Il est gravé des mots : \"Plans de vaisseau. N'oubliez pas "
 "!\" À en juger par les dessins de vaisseaux zoltans sur ses pages, le carnet"
 " appartient apparemment à Vakans. Vous l'apportez à l'ancien Zoltan, et "
@@ -872,11 +1445,23 @@ msgstr ""
 " je me suis retiré !\" Ses mains tremblent, mais il prend soigneusement la "
 "tablette et s'assied sur la chaise la plus proche pour étudier chaque dessin"
 " attentivement. Vous décidez de ne pas le déranger."
+=======
+"fait main. Il est gravé des mots : « Plans de vaisseau. N'oubliez pas ! » À "
+"en juger par les dessins de vaisseaux Zoltan sur ses pages, le carnet "
+"appartient apparemment à Vakans. Vous le portez au Zoltan âgé, et lorsqu'il "
+"commence à en lire le contenu, ses yeux s'illuminent. « C'est mon écriture ?"
+" Alors... Mes plans ! Oui, je me souviens, ce sont certains de mes designs, "
+"mes prototypes ! Je croyais les avoir oubliés sur la planète où je m'étais "
+"isolé ! » Ses mains tremblent, mais il prend soigneusement la tablette et "
+"s'assied sur la chaise la plus proche pour étudier chaque dessin "
+"attentivement. Vous décidez de ne pas le déranger."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:335
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_8\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Je suis devenu un reclus non seulement parce que je voulais voir le monde "
 "au-delà de mon système natal. Je ne me souviens plus exactement quelle fut "
 "la raison finale pour laquelle j'ai décidé de me mettre au défi, ainsi que "
@@ -886,19 +1471,36 @@ msgstr ""
 "chères que la vie elle-même. Je suppose que mon licenciement m'a grandement "
 "contrarié, si j'ai fermement résolu de ne plus jamais revoir les visages "
 "d'autres personnes.\""
+=======
+"« Je suis devenu un reclus, non seulement parce que je voulais voir le monde"
+" au-delà de mon système natal. Je ne me souviens pas exactement de la raison"
+" finale pour laquelle j'ai décidé de me défier, moi et ce monde... Mais je "
+"me rappelle que j'ai été, semble-t-il... licencié de mon travail ? La "
+"société ne m'a jamais intéressé ; je me suis toujours préoccupé uniquement "
+"de mes ambitions d'ingénierie, et elles m'étaient plus chères que la vie "
+"elle-même. Je suppose que mon renvoi m'a beaucoup contrarié, si j'ai "
+"fermement résolu de ne plus jamais revoir d'autres visages. »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:354
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_MIRRORED_NOTHING\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous fouillez tout le vaisseau à la recherche de Mirrored, mais elle est "
 "introuvable. Il semble qu'elle se soit lassée de la société et ait décidé de"
 " prendre une pause quelqueখানে en dehors du vaisseau."
+=======
+"Vous cherchez Mirrored dans tout le vaisseau, mais elle est introuvable. Il "
+"semble qu'elle se soit lassée de la société et ait décidé de prendre une "
+"pause quelque part en dehors du vaisseau."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:357
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_1\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Mirrored a peu de contacts avec vous ou l'équipage du vaisseau. La plupart "
 "du temps, elle n'est pas du tout sur le vaisseau, comme si elle s'était "
 "évanouie dans l'air. Vous décidez d'en discuter avec elle, car en cas "
@@ -910,15 +1512,34 @@ msgstr ""
 "les planètes voisines et autres objets célestes, sans trop m'éloigner du "
 "vaisseau.\" Vous croyez que vous ne pouvez rien faire contre ce trait de "
 "caractère."
+=======
+"Mirrored a peu de contact avec vous ou l'équipage du vaisseau. La plupart du"
+" temps, elle n'est pas du tout à bord, comme si elle s'était volatilisée. "
+"Vous décidez d'en discuter avec elle, car en cas d'urgence, vous pourriez "
+"avoir besoin de son aide, mais vous ne l'obtiendrez pas. « Je ne peux pas "
+"rester longtemps au même endroit. J'ai le sang des Chercheurs de Miracles "
+"qui coule dans mes veines, ce qui signifie que j'ai une plus grande soif "
+"d'aventure que les autres. Ne vous inquiétez pas pour moi quand je suis "
+"absente, je ne fais que voyager dans l'espace et explorer les planètes "
+"voisines et d'autres objets célestes, sans trop m'éloigner du vaisseau. » "
+"Vous pensez qu'il n'y a rien à faire concernant ce trait de caractère."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:360
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous fouillez tout le vaisseau à la recherche de Mirrored, mais ne la "
 "trouvez nulle part. En vous demandant où elle pourrait être, votre regard "
 "tombe accidentellement sur l'espace extérieur visible à travers le hublot du"
 " vaisseau. Regarder de plus près ?"
+=======
+"Vous cherchez Mirrored dans tout le vaisseau, mais ne la trouvez nulle part."
+" En réfléchissant à l'endroit où elle pourrait se trouver, votre regard "
+"tombe accidentellement sur l'espace extérieur visible à travers le hublot du"
+" vaisseau. Voulez-vous regarder de plus près ?"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:362
 msgid ""
@@ -929,11 +1550,19 @@ msgstr "Examiner."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous approchez du hublot et votre attention est immédiatement attirée par un"
 " objet transparent avec une faible lueur à dix mètres du vaisseau. En "
 "regardant l'objet de plus près, vous réalisez que vous voyez la silhouette "
 "de Mirrored. Il semble qu'elle dorme dans le vide, ou qu'elle fasse juste "
 "semblant de dormir."
+=======
+"Vous vous approchez du hublot et votre attention est immédiatement attirée "
+"par un objet transparent avec une faible lueur, à dix mètres du vaisseau. En"
+" regardant l'objet de plus près, vous réalisez que vous voyez la silhouette "
+"de Mirrored. Il semble qu'elle dorme dans le vide, ou qu'elle fasse "
+"simplement semblant de dormir."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:366
 msgid ""
@@ -975,9 +1604,15 @@ msgstr ""
 "Vous commencez à douter de votre propre santé mentale, mais une fois de "
 "plus, vous appelez Mirrored, élevant la voix et hurlant presque. Finalement,"
 " Mirrored vous entend d'une manière ou d'une autre, regarde dans votre "
+<<<<<<< Updated upstream
 "direction et disparaît quelque part, pour ne jamais réapparaître au même "
 "endroit. Vous ne comprenez pas pourquoi tout cela était nécessaire, et "
 "décidez de ne plus vous en soucier."
+=======
+"direction et disparaît quelque part, pour ne plus jamais réapparaître au "
+"même endroit. Vous ne comprenez pas pourquoi tout cela était nécessaire, et "
+"décidez de ne plus vous en préoccuper."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:380
 msgid ""
@@ -1002,7 +1637,7 @@ msgstr "\"Pas aujourd'hui,\" pensez-vous, et vous vous éloignez."
 #: src-en/data/events_special_socialize.xml.append:396
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[2]/text"
-msgstr "Peut-être avez-vous des choses plus importantes à faire."
+msgstr "Vous avez peut-être des choses plus importantes à faire."
 
 #: src-en/data/events_special_socialize.xml.append:398
 msgid ""
@@ -1023,20 +1658,35 @@ msgstr "\"Pas aujourd'hui,\" pensez-vous, et vous vous éloignez."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_3\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Je suis heureuse d'être membre des Chercheurs de Miracles. Bien sûr, je "
 "n'ai pas le droit de collecter des Miracles et de les apporter à notre base "
 "pour un stockage et une comptabilité ultérieurs, mais au moins je peux "
 "profiter de la beauté de vos univers sans le faire. Je me demande comment "
 "vont mes amis là-bas ?\""
+=======
+"« Je suis heureux d'être un membre des Chercheurs de Miracles. Bien sûr, je "
+"n'ai pas le droit de collecter des Miracles et de les apporter à notre base "
+"pour un stockage et une comptabilité ultérieurs, mais au moins je peux "
+"profiter de la beauté de vos univers sans le faire. Je me demande comment "
+"vont mes amis là-bas ? »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:414
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Mirrored fixe lugubrement le mur. Bien que vous ne soyez pas sûr qu'elle le "
 "\"fixe\" réellement, et vous n'êtes pas sûr de la précision avec laquelle "
 "vous avez reconnu son regard \"lugubre\". Êtes-vous curieux de savoir ce qui"
 " se passe ?"
+=======
+"Mirrored fixe le mur d'un air sombre. Bien que vous ne soyez pas sûr qu'elle"
+" « fixe » réellement le mur, et que vous ne soyez pas sûr de la précision "
+"avec laquelle vous avez reconnu son regard « sombre ». Êtes-vous curieux de "
+"savoir ce qui se passe ?"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:416
 msgid ""
@@ -1047,6 +1697,7 @@ msgstr "Demandez ce qui se passe."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Non, tout va bien...\" Maintenant, vous pensez qu'elle sanglote, mais elle"
 " ne pleure pas encore. \"Je viens de me souvenir que je vais vivre "
 "éternellement, tandis que tout autour de moi va mourir, et je ne peux rien y"
@@ -1056,6 +1707,17 @@ msgstr ""
 "qu'elle plaisante, mais elle ne l'est manifestement pas. Vous réussissez à "
 "la calmer, mais maintenant c'est vous qui vous sentez abattu. Que "
 "signifiaient ses mots ?"
+=======
+"« Non, tout va bien... » Maintenant, vous pensez qu'elle sanglote, mais elle"
+" ne pleure pas encore. « Je viens de me souvenir que je vais vivre "
+"éternellement, alors que tout autour de moi mourra, et je ne peux rien y "
+"faire. C'est... très touchant, voire tragique. Je ne sais pas comment vivre "
+"avec cette pensée. La beauté n'est pas éternelle, et la plaisanterie du "
+"destin est que toutes les personnes sont belles à leur manière. » Vous "
+"pensez qu'elle plaisante, mais elle ne plaisante clairement pas. Vous "
+"parvenez à la calmer, mais maintenant c'est vous qui vous sentez abattu. Que"
+" signifiaient ses mots ?"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:422
 msgid ""
@@ -1071,6 +1733,7 @@ msgstr "Vous décidez de ne pas vous mêler des affaires des autres."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_5\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Parfois, Mirrored jette un œil dans la cabine du pilote pendant que le SPL "
 "se charge. Par l'interface externe du vaisseau, qu'elle a elle-même "
 "modifiée, elle consulte les messages d'Érudit et les supprime immédiatement "
@@ -1085,11 +1748,28 @@ msgstr ""
 "constamment et menace de supprimer tous les articles que j'ai écrits et qui "
 "n'ont pas passé le contrôle qualité.\" Soudain, Mirrored est contrariée et "
 "s'en va, et lorsque vous la suivez, sa trace est déjà froide."
+=======
+"Parfois, Mirrored jette un coup d'œil dans la cabine du pilote pendant que "
+"le générateur SPL se charge. Via l'interface externe du vaisseau, qu'elle a "
+"elle-même modifiée, elle consulte les messages d'Erudite et les supprime "
+"immédiatement sans même les lire. Vous décidez de découvrir pourquoi elle "
+"fait cela. « Pour que le miracle reste stocké dans notre station, il doit "
+"d'abord être inscrit dans la base de données des Chercheurs de Miracles, "
+"conformément aux formalités. Ce processus me déprime, car je ne peux pas me "
+"concentrer sur les documents officiels et j'écris souvent des articles sur "
+"les Miracles de manière superficielle. Chaque Chercheur de Miracles a son "
+"propre \"style\" de remplissage de la base de données, mais mon style est "
+"probablement de le remplir de manière médiocre. À cause de cela, Erudite me "
+"réprimande constamment et menace de supprimer tous les articles que j'ai "
+"écrits et qui n'ont pas passé le contrôle qualité. » Soudain, Mirrored se "
+"fâche et part, et lorsque vous la poursuivez, sa piste s'est déjà refroidie."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:432
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_6\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Je m'intéresse à ma nature, aux circonstances de ma naissance dans ce "
 "monde. Le premier et unique souvenir que j'ai est celui d'Épéiste coupant "
 "les chaînes qui me liaient avec l'une de ses lames. Il me réanime ensuite, "
@@ -1102,11 +1782,26 @@ msgstr ""
 "sauvée, mais malheureusement, ils ne peuvent pas m'aider avec mon tourment, "
 "et ils ne me comprennent souvent pas. J'espère qu'un jour je trouverai la "
 "raison de mes origines, et tout ira bien...\""
+=======
+"« Je m'intéresse à ma nature, aux circonstances de ma naissance dans ce "
+"monde. Le premier et unique souvenir que j'ai est celui de Swordsman coupant"
+" les chaînes qui me liaient avec l'une de ses lames. Il me réanime ensuite, "
+"m'amène à son vaisseau, et nous volons ensemble vers la station des "
+"Chercheurs de Miracles pour vérifier ma santé. Malheureusement, même après "
+"un long temps et de nombreuses procédures médicales, je ne pouvais toujours "
+"rien me souvenir de nouveau. Maraudeur a été compréhensif de mon sort et m'a"
+" permis de rester à la station, m'acceptant dans les rangs des Chercheurs de"
+" Miracles. Je suis reconnaissant à mes collègues de m'avoir sauvé, mais "
+"malheureusement, ils ne peuvent pas m'aider avec mon tourment, et ils ne me "
+"comprennent souvent pas. J'espère qu'un jour je trouverai la raison de mes "
+"origines, et que tout ira bien... »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:435
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_7\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous tombez sur Mirrored dans le couloir. Voulant lui faire de la place, "
 "vous vous écartez, mais elle répète votre action avec un délai d'une "
 "seconde. Vous faites un pas en arrière, et une seconde plus tard, Mirrored "
@@ -1122,6 +1817,23 @@ msgstr ""
 "l'endroit que vous avez désigné est vide, et Mirrored n'est plus là. "
 "Embarrassé, vous ordonnez au membre d'équipage de nettoyer les sols et de "
 "partir."
+=======
+"Vous heurtez Mirrored dans le couloir. Voulant lui faire de la place, vous "
+"vous écartez, mais elle répète votre action avec un délai d'une seconde. "
+"Vous faites un pas en arrière, et une seconde plus tard, Mirrored retourne "
+"également à sa position précédente. Elle ne dit rien, se contentant de vous "
+"regarder comme si elle vous analysait. Confus, vous vous grattez la tête, et"
+" soudain Mirrored répète cette action aussi. Maintenant, vous levez une "
+"jambe et vous tenez sur l'autre, et Mirrored fait de même. Vous levez les "
+"deux bras, et, comme prévu, Mirrored fait de même. Vous commencez à sauter "
+"sur une jambe avec les bras levés, mais soudain, un autre membre d'équipage "
+"vous interpelle. « Capitaine, qu'est-ce que vous faites ? » dit-il. Vous "
+"vous tournez vers le membre d'équipage et montrez Mirrored du doigt. "
+"Cependant, le membre d'équipage est perplexe quant à ce qui vous est arrivé,"
+" car l'endroit que vous avez pointé est vide, et Mirrored n'y est plus. "
+"Embarrassé, vous ordonnez au membre d'équipage de récurer les sols et "
+"partez."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:438
 msgid ""
@@ -1130,8 +1842,13 @@ msgstr ""
 "Le corps de Mirrored semble buggé, comme si elle était un personnage d'un "
 "jeu cassé. Vous ne pouvez pas deviner pourquoi ces distorsions lui arrivent,"
 " mais compte tenu du mystère de ses origines, ce n'est guère surprenant. "
+<<<<<<< Updated upstream
 "Heureusement, elle est juste là avec vous maintenant, et vous pouvez "
 "l'interroger à ce sujet."
+=======
+"Heureusement, elle est juste là avec vous maintenant, et vous pouvez lui "
+"poser des questions à ce sujet."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:440
 msgid ""
@@ -1142,6 +1859,7 @@ msgstr "Pourquoi votre corps bugge-t-il ?"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Oh... comme c'est étrange que vous fassiez cette supposition. Non, ce "
 "n'est pas mon corps qui \"bugge\", c'est l'espace autour de moi qui "
 "\"bugge\". Je suppose que ça ne devrait pas être comme ça, mais je ne sais "
@@ -1157,21 +1875,43 @@ msgstr ""
 " reculé de quelques pas. Votre soif de connaissance étanchée ne valait guère"
 " la paranoïa acquise concernant la mort possible de l'univers à cause de "
 "Mirrored - pour les deux prochaines décennies."
+=======
+"« Oh... comme c'est étrange que vous fassiez cette supposition. Non, ce "
+"n'est pas mon corps qui « bugge », c'est l'espace autour de moi qui « bugge "
+"». Je suppose que cela ne devrait pas être ainsi, mais je ne sais pas "
+"comment le réparer. Mais une chose est sûre : la « zone de glitch » autour "
+"de moi grandit d'environ un centimètre tous les deux ans. Je ne suis pas "
+"encore sûre de ce qui se passera lorsque cette zone s'étendra à un mètre "
+"environ. Mais Mecha, mon ami et membre des Chercheurs de Miracles, a dit "
+"qu'il y a 47,8 % de chances que rien ne se passe, et 52,2 % de chances que "
+"je puisse devenir une catastrophe massive à l'échelle universelle. Mais 47,8"
+" % de chances, c'est presque 48 % de chances, et 48 % c'est presque 50 %, et"
+" 50 % de chances, c'est une chance sur 2. Donc je ne pense pas qu'il y ait "
+"de quoi avoir peur. » Pendant que Mirrored disait cela, vous avez "
+"inconsciemment fait quelques pas en arrière. Votre soif de connaissance "
+"apaisée ne valait guère la paranoïa acquise concernant la mort possible de "
+"l'univers à cause de Mirrored – pour les prochaines décennies."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:446
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[2]/text"
 msgstr ""
-"Votre intuition vous hurle littéralement qu'il vaut mieux ne pas demander, "
-"pour votre propre bien. Sérieusement, pesez le pour et le contre avant de "
-"prendre cette décision."
+"Votre intuition vous crie littéralement qu'il vaut mieux ne pas poser la "
+"question, pour votre propre bien. Sérieusement, pesez le pour et le contre "
+"avant de prendre cette décision."
 
 #: src-en/data/events_special_socialize.xml.append:448
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[2]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous ne pouvez pas vous défaire du sentiment que votre ignorance et votre "
 "refus d'apprendre vous ont sauvé cette fois-ci."
+=======
+"Vous ne pouvez vous empêcher de penser que votre ignorance et votre refus "
+"d'apprendre vous ont sauvé cette fois-ci."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:453
 msgid ""
@@ -1179,6 +1919,7 @@ msgid ""
 msgstr ""
 "\"Une fois, elle a dit : \"Je vois tout. Vous n'avez aucune limite.\" Ces "
 "mots ne m'étaient pas adressés, mais j'y pense encore aujourd'hui. Est-il "
+<<<<<<< Updated upstream
 "vraiment impossible de le vaincre ? Et si on ne peut le vaincre, peut-être "
 "peut-on le contourner ? J'ai peur de penser à ce que l'avenir nous réserve "
 "si nous... Non, pas les Chercheurs de Miracles, mais toutes les créatures "
@@ -1187,6 +1928,16 @@ msgstr ""
 "apparition - il y a des choses qui sont bien plus grandes que l'éternité "
 "elle-même.\" Vous ne pouvez même pas deviner de quoi Mirrored parle, alors "
 "vous vous éloignez simplement d'elle."
+=======
+"vraiment impossible de le vaincre ? Et si on ne peut pas le vaincre, alors "
+"peut-être peut-on le surmonter ? J'ai peur de penser à ce que l'avenir nous "
+"réserve si nous... Non, pas les Chercheurs de Miracles, mais toutes les "
+"créatures vivantes en général, ne pouvons pas trouver un moyen de prolonger "
+"nos petites vies, qui ne sont qu'en son pouvoir. Et même moi, je ne peux pas"
+" survivre à son apparition - il y a des choses bien plus grandes que "
+"l'éternité elle-même. » Vous ne pouvez même pas deviner de quoi Mirrored "
+"parle, alors vous vous éloignez d'elle."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:472
 msgid ""
@@ -1194,13 +1945,19 @@ msgid ""
 msgstr ""
 "\"Bien que je ne puisse pas me fatiguer au sens biologique, j'aimerais "
 "passer un peu de temps en silence pour mon bien-être psychologique. Si vous "
+<<<<<<< Updated upstream
 "souhaitez parler à quelqu'un, je peux assigner un membre de la Garde Blanche"
 " à cette tâche... Non ? Pas de problème.\""
+=======
+"souhaitez parler à quelqu'un, je peux désigner un membre de la Garde Blanche"
+" pour cette tâche... Non ? Pas de problème. »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:475
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_1\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "La Garde Blanche s'agite sur le vaisseau, mais il y a une certaine "
 "coordination et synchronie dans leur agitation. Vous vous demandez comment "
 "ils agissent ensemble sans même se consulter. Heureusement, l'Empereur Blanc"
@@ -1210,15 +1967,34 @@ msgstr ""
 "prolongé de l'Empereur après, mais il continue. \"Oh, ne vous ai-je jamais "
 "parlé de cela ? La Garde Blanche n'est autonome que lorsque je n'ai pas "
 "besoin de son aide. À tout moment, je peux prendre le contrôle de leurs "
+=======
+"La Garde Blanche s'affaire sur le vaisseau, mais il y a une certaine "
+"coordination et synchronie dans leur agitation. Vous vous demandez comment "
+"ils agissent ensemble sans même se consulter. Heureusement, l'Empereur Blanc"
+" était à côté de vous et a décidé de répondre à votre question. « Le fait "
+"est qu'en ce moment, je les contrôle grâce à un certain dispositif intégré à"
+" leur cerveau. » Vous êtes confus par cette réponse et le silence prolongé "
+"de l'Empereur après celle-ci, mais il continue ensuite. « Oh, ne vous ai-je "
+"jamais parlé de cela ? La Garde Blanche n'est autonome que lorsque je n'ai "
+"pas besoin de son aide. À tout moment, je peux prendre le contrôle de leurs "
+>>>>>>> Stashed changes
 "actions et leur assigner des tâches sans avoir besoin de communication. Cela"
 " m'aide à m'assurer que mes défenseurs remplissent correctement leurs "
 "fonctions. Lorsque je prends le contrôle d'eux, leurs esprits s'endorment, "
 "tandis que leurs corps suivent mes ordres. Pour tout cela, ils reçoivent un "
+<<<<<<< Updated upstream
 "salaire décent et un temps de vacances prolongé. Et, bien sûr, ces personnes"
 " ont décidé de devenir gardes elles-mêmes... Au fait, votre "
 "professionnalisme est digne de mes éloges. Voudriez-vous faire partie de la "
 "Garde Blanche ?\" Bien sûr, l'Empereur Blanc ne fait que plaisanter, mais "
 "vous ne posez plus de questions et vaquez à vos occupations."
+=======
+"salaire décent et des congés prolongés. Et, bien sûr, ces personnes ont "
+"décidé de devenir gardes elles-mêmes... Au fait, votre professionnalisme est"
+" digne de mes éloges. Voudriez-vous faire partie de la Garde Blanche ? » "
+"Bien sûr, l'Empereur Blanc ne fait que plaisanter, mais vous ne posez plus "
+"de questions et vaquez à vos occupations."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:478
 msgid ""
@@ -1226,8 +2002,13 @@ msgid ""
 msgstr ""
 "L'Empereur Blanc et son peuple, représenté par la Garde Blanche, sont dans "
 "la salle à manger. Ils dévorent leur nourriture, tandis que l'Empereur est "
+<<<<<<< Updated upstream
 "assis sans sa portion. Vous ne l'avez jamais vu manger quoi que ce soit sur "
 "le vaisseau auparavant."
+=======
+"assis sans sa portion. Vous ne l'aviez jamais remarqué manger quoi que ce "
+"soit à bord du vaisseau auparavant."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:480
 msgid ""
@@ -1238,6 +2019,7 @@ msgstr "Interrogez-le à ce sujet."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Il se trouve que, tout en recevant le pouvoir divin, l'Empereur Blanc "
 "n'avait plus besoin de manger ni de boire. Cette particularité de son corps "
 "m'a été transmise, mais, comme moi, l'Empereur Blanc aimait assister aux "
@@ -1245,6 +2027,15 @@ msgstr ""
 "Garde Blanche. Je comprends que cela puisse être difficile pour vous à "
 "comprendre, c'est pourquoi je ne participe pas aux repas avec le reste de "
 "l'équipage.\""
+=======
+"« Il s'est avéré qu'en recevant le pouvoir divin, l'Empereur Blanc n'avait "
+"plus besoin de manger ou de boire de l'eau. Cette particularité de son corps"
+" m'a été transmise, mais, comme moi, l'Empereur Blanc aimait assister aux "
+"repas organisés sur son croiseur. Je suis cette tradition, tout comme "
+"l'ensemble de la Garde Blanche. Je comprends que cela puisse être difficile "
+"pour vous à comprendre, c'est pourquoi je ne participe pas aux repas avec le"
+" reste de l'équipage. »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:486
 msgid ""
@@ -1264,10 +2055,18 @@ msgstr ""
 "inadvertance. Sa cabine est assez modeste et ne diffère guère de celles des "
 "autres membres d'équipage. Le seul détail intéressant que vous remarquez est"
 " une série de peintures représentant des paysages terrestres et divers "
+<<<<<<< Updated upstream
 "animaux - en particulier, des hiboux, des renards et des lièvres. Il semble "
 "que Blanc soit nostalgique des temps passés. Vous remarquez également qu'il "
 "n'a pas de lit. N'a-t-il même pas besoin de dormir ? Vous décidez de partir "
 "avant que l'Empereur ne vous surprenne à regarder ses affaires personnelles."
+=======
+"animaux - en particulier des chouettes, des renards et des lièvres. Il "
+"semble que Blanc soit nostalgique des temps passés. Vous remarquez également"
+" qu'il n'a pas de lit. N'a-t-il même pas besoin de dormir ? Vous décidez de "
+"partir avant que l'Empereur ne vous surprenne à regarder ses effets "
+"personnels."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:496
 msgid ""
@@ -1277,18 +2076,24 @@ msgstr ""
 "l'Empereur original, car je devrai le remplacer en cas de décès. "
 "Techniquement, nous sommes la même personne, sauf que l'Empereur a des "
 "pouvoirs semi-divins, que je n'ai pas hérités. Vous pouvez donc être sûr que"
+<<<<<<< Updated upstream
 " toutes mes paroles et pensées sont très probablement les mêmes pour nous "
 "deux. Que pensez-vous du clonage humain, Renégat ?\""
+=======
+" tous mes mots et pensées sont très probablement les mêmes pour nous deux. "
+"Que pensez-vous du clonage humain, Renegade ? »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:498
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[1]/text"
-msgstr "Pour la plupart, c'est une bonne chose."
+msgstr "Dans l'ensemble, c'est une bonne chose."
 
 #: src-en/data/events_special_socialize.xml.append:500
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "\"Je respecte votre opinion. Très probablement, ce sujet n'est pas tabou "
 "dans vos univers, contrairement à mon monde. Toute technologie de clonage "
 "est complètement interdite dans notre monde, à l'exception d'un projet "
@@ -1297,11 +2102,21 @@ msgstr ""
 "devrions pas exister. Cependant, dans vos mondes, tout fonctionne de manière"
 " plus compliquée que dans le nôtre, et je n'ai pas le droit de vous juger "
 "pour cela.\""
+=======
+"« Je respecte votre opinion. Très probablement, ce sujet n'est pas tabou "
+"dans vos univers, contrairement à mon monde. Toute technologie de clonage "
+"est complètement interdite dans notre monde, à l'exception d'un projet "
+"secret de clonage de l'Empereur. Puisque je suis moi-même un clone, je ne "
+"peux pas être en désaccord avec les raisons raisonnables pour lesquelles "
+"nous ne devrions pas exister. Cependant, dans vos mondes, tout fonctionne de"
+" manière plus compliquée que dans le nôtre, et je n'ai aucun droit de vous "
+"juger pour cela. »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:504
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[2]/text"
-msgstr "Pour la plupart, c'est une mauvaise chose."
+msgstr "Dans l'ensemble, c'est une mauvaise chose."
 
 #: src-en/data/events_special_socialize.xml.append:506
 msgid ""
@@ -1312,7 +2127,11 @@ msgstr ""
 "humains...\" L'Empereur hésite légèrement. \"Cloner tout être intelligent "
 "est inhumain. Si nous sommes clonés, c'est dans un but et une tâche "
 "spécifiques. Nous ne vivons pas comme des individus indépendants, mais comme"
+<<<<<<< Updated upstream
 " une extension d'un esprit déjà existant.\""
+=======
+" une extension d'un esprit déjà existant. »"
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:510
 msgid ""
@@ -1328,7 +2147,11 @@ msgstr "Blanc comprend votre position et n'aborde plus le sujet."
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_5\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "L'Empereur Blanc consulte la base de données de la Fédération. \"Dans "
+=======
+"L'Empereur Blanc consulte la base de données de la Fédération. « Dans "
+>>>>>>> Stashed changes
 "l'univers d'où je viens, une apocalypse s'est produite. Je n'entrerai pas "
 "dans les détails, mais la Terre, le bastion de l'humanité, a été détruite et"
 " transformée en une gigantesque tache rouge - les océans sont devenus rouges"
@@ -1337,7 +2160,11 @@ msgstr ""
 "plupart d'entre nous vivaient déjà dans l'espace sur des stations orbitales "
 "dans plusieurs systèmes stellaires... C'est agréable de savoir qu'une telle "
 "apocalypse ne s'est pas produite sur la plupart des Terres du Multivers. "
+<<<<<<< Updated upstream
 "Appréciez votre Bille Bleue - c'est la seule que vous ayez.\" Après ces "
+=======
+"Appréciez votre Bille Bleue - c'est la seule que vous avez. » Après ces "
+>>>>>>> Stashed changes
 "mots, l'Empereur vous demande de partir."
 
 #: src-en/data/events_special_socialize.xml.append:520
@@ -1355,6 +2182,7 @@ msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GARDEN_1\"]/text"
 msgstr ""
 "Vous remarquez que de nombreuses nouvelles plantes sont apparues dans la "
+<<<<<<< Updated upstream
 "salle de loisirs de l'équipage, et les anciennes commencent à avoir une "
 "meilleure allure. Vous surprenez également l'Empereur Blanc en train "
 "d'arroser les fleurs. Il est embarrassé de vous voir et s'empresse "
@@ -1364,11 +2192,23 @@ msgstr ""
 " le salon avec ces plantes, n'est-ce pas ?\" Vous ne comprenez pas pourquoi "
 "l'Empereur demande la permission au Renégat, mais au cas où, vous "
 "l'autorisez à continuer à prendre soin des plantes."
+=======
+"salle de loisirs de l'équipage, et que les anciennes commencent à paraître "
+"plus soignées. Vous surprenez également l'Empereur Blanc en train d'arroser "
+"les fleurs. Il est embarrassé de vous voir et s'empresse d'expliquer ses "
+"actions. « Si je n'avais pas le titre d'Empereur, je me mettrais "
+"certainement au jardinage, peut-être même que je créerais mon propre jardin,"
+" comme un de mes amis. Cela ne vous dérange pas que j'aie décoré le salon "
+"avec ces plantes, n'est-ce pas ? » Vous ne comprenez pas pourquoi l'Empereur"
+" demande la permission de Renegade, mais au cas où, vous l'autorisez à "
+"continuer de prendre soin des plantes."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:526
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GARDEN_2\"]/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Vous entrez dans le jardin de l'Empereur Blanc, et tombez soudainement sur "
 "lui, mais aussi sur un hologramme d'une jeune femme. \"Oh, voici le Renégat,"
 " qui a accepté de prendre le poste de capitaine de mon vaisseau pendant son "
@@ -1393,6 +2233,33 @@ msgstr ""
 "deux tasses de thé sur la table. Vous vous demandez pourquoi elles étaient "
 "là, puisque ni l'hologramme d'Elizabeth ni le clone de l'Empereur ne peuvent"
 " consommer de liquides. Cette question vous tiendra éveillé cette nuit."
+=======
+"Vous entrez dans le jardin de l'Empereur Blanc, et rencontrez soudain non "
+"seulement lui, mais aussi un hologramme d'une jeune femme. « Oh, voici "
+"Renegade, qui a accepté de prendre le poste de capitaine de mon vaisseau "
+"pendant son séjour dans cet univers », vous présente Blanc à sa compagne. « "
+"Merveilleux, comment allez-vous ? » l'hologramme de la jeune femme vous "
+"demande d'une voix douce, mais vous interrompt immédiatement au milieu de "
+"votre phrase. « Ce jardin est magnifique, n'est-ce pas, Renegade ? Bien sûr,"
+" il ne peut pas se comparer à mon Florarium de la Forêt Silencieuse, mais à "
+"ce stade, il est déjà très beau. Blanc a fait un excellent travail. Au fait,"
+" enchantée, je m'appelle Elizabeth, et je suis l'actuelle reine de la "
+"société des Exilés. Pas les « Exilés » de vos univers, mais les nôtres. » "
+"Blanc s'empresse d'expliquer le but de la présence d'Elizabeth sur ce "
+"vaisseau : « Elizabeth et moi menons des négociations politiques sur "
+"l'unification de l'Empire et des Exilés, que nous avons poursuivis et "
+"détruits pendant que l'Empereur Blanc original était en fonction. "
+"Maintenant, ces jours sont révolus, et la paix règne entre nous. » Elizabeth"
+" esquisse un sourire, impliquant qu'elle a d'une manière ou d'une autre "
+"contribué à priver l'Empereur Blanc original de son statut d'Empereur, mais "
+"sans aucune connotation sombre. « Cela vous dérangerait-il de nous laisser "
+"un instant, Elizabeth et moi, jusqu'à ce que nous terminions nos "
+"négociations ? » dit l'Empereur, et vous décidez de les laisser seuls. En "
+"partant, vous remarquez qu'il y avait deux tasses de thé sur la table. Vous "
+"vous demandez pourquoi elles étaient là, puisque ni l'hologramme d'Elizabeth"
+" ni le clone de l'Empereur ne peuvent consommer de liquides. Cette question "
+"vous tiendra éveillé cette nuit."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_special_socialize.xml.append:537
 msgid ""

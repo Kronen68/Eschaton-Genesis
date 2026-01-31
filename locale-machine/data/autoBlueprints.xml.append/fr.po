@@ -43,7 +43,7 @@ msgstr "Robur le Fou"
 #: src-en/data/autoBlueprints.xml.append:216
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_REAPER\"]/class"
-msgstr "Faucheur-empoisonneur d'orge"
+msgstr "Faucheur d'Orge-Empoisonneur"
 
 #: src-en/data/autoBlueprints.xml.append:250
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[1]/text"
-msgstr "EG : Leur Regard Perceptif (Affirmations de Succès - Rockot)"
+msgstr "EG : Leur Regard Perspicace (Affirmations de Succès - Rockot)"
 
 #: src-en/data/events_special_jukebox.xml.append:14
 msgid ""

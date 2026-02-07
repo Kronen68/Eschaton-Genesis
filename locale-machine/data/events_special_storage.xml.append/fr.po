@@ -9,21 +9,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice/text"
-<<<<<<< Updated upstream
-msgstr "Installez la plaque de blindage dans la coque du vaisseau."
-=======
-msgstr "Installer la plaque de blindage dans la coque du vaisseau."
->>>>>>> Stashed changes
+msgstr "Installez le blindage sur la coque du vaisseau."
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous intégrez la plaque de blindage avec succès."
-=======
-msgstr "Vous encastrez avec succès la plaque de blindage."
->>>>>>> Stashed changes
+msgstr "Vous installez le blindage avec succès."
 
 #: src-en/data/events_special_storage.xml.append:12
 msgid ""
@@ -51,14 +43,14 @@ msgid ""
 msgstr ""
 "Vous regardez autour de vous un instant et trouvez une petite colonie sur la"
 " lune de la planète la plus proche. Ils manquent de nourriture et sont "
-"heureux d'accepter n'importe quelle viande - même si elle est d'origine "
+"heureux d'accepter n'importe quelle viande – même si elle est d'origine "
 "étrange."
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[2]"
 msgstr ""
-"Un vaisseau civil passe près de vous, et vous les contactez avec une offre "
+"Un vaisseau civil passe devant vous, et vous les contactez avec une offre "
 "d'achat de viande d'insecte exotique. Il faut beaucoup de temps pour les "
 "persuader, mais son caractère unique finit par les tenter."
 
@@ -66,107 +58,93 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[3]"
 msgstr ""
-"Un étrange vaisseau automatique portant le numéro \"8\" sur sa coque "
-"s'approche de vous. Il vous contacte. \"Le L.A.C. décrète : de la "
-"contrebande a été trouvée à bord de votre vaisseau. Nous vous demandons de "
-<<<<<<< Updated upstream
-"nous la remettre en échange d'une récompense. Sinon, nous serons contraints "
-"de vous détruire.\" Vous acceptez les conditions de l'auto-vaisseau et "
+"Un étrange auto-vaisseau portant le numéro \" 8 \" sur sa coque s'approche "
+"de vous. Il vous contacte. \" Le L.A.C. décrète : de la contrebande a été "
+"trouvée à bord de votre vaisseau. Nous vous demandons de nous la remettre en"
+" échange d'une récompense. Dans le cas contraire, nous serons contraints de "
+"vous détruire. \" Vous acceptez les conditions de l'auto-vaisseau et lui "
 "remettez la viande, et il vous donne des ressources en retour."
-=======
-"nous la remettre en échange d'une récompense. Sinon, nous serons forcés de "
-"vous détruire. » Vous acceptez les termes de l'auto-vaisseau et remettez la "
-"viande, et il vous donne des ressources en retour."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:47
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 2."
+msgstr "Améliorer le blindage impénétrable au niveau 2."
 
 #: src-en/data/events_special_storage.xml.append:51
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 3."
+msgstr "Améliorer le blindage impénétrable au niveau 3."
 
 #: src-en/data/events_special_storage.xml.append:55
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 4."
+msgstr "Améliorer le blindage impénétrable au niveau 4."
 
 #: src-en/data/events_special_storage.xml.append:59
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 5."
+msgstr "Améliorer le blindage impénétrable au niveau 5."
 
 #: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[5]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 6."
+msgstr "Améliorer le blindage impénétrable au niveau 6."
 
 #: src-en/data/events_special_storage.xml.append:67
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[6]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 7."
+msgstr "Améliorer le blindage impénétrable au niveau 7."
 
 #: src-en/data/events_special_storage.xml.append:71
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[7]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 8."
+msgstr "Améliorer le blindage impénétrable au niveau 8."
 
 #: src-en/data/events_special_storage.xml.append:75
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[8]/text"
-msgstr "Améliorer le Blindage Impénétrable au niveau 9."
+msgstr "Améliorer le blindage impénétrable au niveau 9."
 
 #: src-en/data/events_special_storage.xml.append:79
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[9]/text"
-msgstr "Améliorer le Blindage Impénétrable à son niveau final 10."
+msgstr "Améliorer le blindage impénétrable à son niveau final 10."
 
 #: src-en/data/events_special_storage.xml.append:89
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice/text"
-<<<<<<< Updated upstream
-msgstr "Salle des Rêves : Offrir une prière au Rêveur"
-=======
-msgstr "Hall des Rêves : Offrir une prière au Rêveur"
->>>>>>> Stashed changes
+msgstr "Salle des Rêves : Offrir une prière à la Rêveuse"
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice/text"
-msgstr "Culte des Rêves : Offrir un sacrifice au Rêveur"
+msgstr "Culte des Rêves : Offrir un sacrifice à la Rêveuse"
 
 #: src-en/data/events_special_storage.xml.append:102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/text"
 msgstr ""
-"Êtes-vous sûr de vouloir faire un sacrifice au nom du Rêveur ? Un membre "
-"d'équipage aléatoire mourra à la suite du sacrifice. Les membres d'équipage "
-"uniques seront sacrifiés en dernier, et les membres d'équipage humains "
+"Êtes-vous sûr de vouloir faire un sacrifice au nom de la Rêveuse ? Un membre"
+" d'équipage aléatoire mourra à la suite du sacrifice. Les membres d'équipage"
+" uniques seront sacrifiés en dernier, et les membres d'équipage humains "
 "ordinaires seront sacrifiés en premier. Vous recevrez une récompense élevée "
 "garantie pour ce sacrifice."
 
 #: src-en/data/events_special_storage.xml.append:104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[1]/text"
-<<<<<<< Updated upstream
-msgstr "Oui, effectuez un rite sacrificiel."
-=======
 msgstr "Oui, effectuer un rite sacrificiel."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
@@ -177,13 +155,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/text"
 msgstr ""
-"Par sélection aléatoire, les membres de votre équipage sacrifient l'un des "
-<<<<<<< Updated upstream
-"leurs et placent son corps sur un piédestal au centre de la Salle des "
-"Rêves..."
-=======
-"leurs et déposent son corps sur un piédestal au centre du Hall des Rêves..."
->>>>>>> Stashed changes
+"Par tirage au sort, vos membres d'équipage sacrifient l'un des leurs et "
+"déposent son corps sur un piédestal au centre de la Salle des Rêves..."
 
 #: src-en/data/events_special_storage.xml.append:116
 msgid ""
@@ -201,19 +174,11 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque le corps de votre membre d'équipage sacrifié a disparu du "
-"piédestal. Il semble que la Rêveuse ait accepté ce terrible sacrifice et "
-"vous ait récompensé en conséquence. Mais est-ce vraiment ce qu'elle voulait "
-"?"
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous découvrez que le corps de votre membre "
-"d'équipage sacrifié a disparu du piédestal. Il semble que le Rêve Tout-"
-"Désiré ait accepté ce terrible sacrifice et vous ait récompensé en "
-"conséquence. Mais est-ce vraiment ce qu'il voulait ?"
->>>>>>> Stashed changes
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous découvrez que le corps de votre membre d'équipage "
+"sacrifié a disparu du piédestal. Il semble que le Rêve Tout-Désiré ait "
+"accepté ce terrible sacrifice et vous ait récompensé en conséquence. Mais "
+"est-ce vraiment ce qu'elle voulait ?"
 
 #: src-en/data/events_special_storage.xml.append:132
 msgid ""
@@ -224,92 +189,64 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE\"]/text"
 msgstr ""
-"Vos appels au Rêveur ont été couronnés de succès. Vous observez un puissant "
-"rayon bleu percer la coque ennemie, infligeant 2 dégâts et créant des "
-"brèches !"
+"Vos appels à la Rêveuse ont été couronnés de succès. Vous regardez un "
+"puissant rayon bleu percer la coque de l'ennemi, infligeant 2 dégâts et "
+"créant des brèches !"
 
 #: src-en/data/events_special_storage.xml.append:153
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE_FIRE\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vos appels à la Rêveuse ont été couronnés de succès. Vous observez un "
-"puissant rayon bleu percer la coque de l'ennemi, provoquant un incendie dans"
-" les salles de systèmes !"
-=======
-"Vos appels au Rêveur ont été couronnés de succès. Vous observez un puissant "
-"rayon bleu percer la coque ennemie, déclenchant un incendie dans les salles "
-"des systèmes !"
->>>>>>> Stashed changes
+"Vos appels à la Rêveuse ont été couronnés de succès. Vous regardez un "
+"puissant rayon bleu percer la coque de l'ennemi, allumant un feu dans les "
+"salles des systèmes !"
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_SYSTEM_DAMAGE\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
 "Vos appels à la Rêveuse ont été couronnés de succès. Vous observez les "
-"systèmes de l'ennemi qui se mettent subitement à mal fonctionner et sont mis"
-" hors service !"
-=======
-"Vos appels au Rêveur ont été couronnés de succès. Vous observez les systèmes"
-" de l'ennemi se mettre soudainement à dysfonctionner et être mis hors "
-"d'action !"
->>>>>>> Stashed changes
+"systèmes ennemis soudainement commencer à mal fonctionner et être mis hors "
+"service !"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_3\"]/text"
 msgstr ""
-"Vos appels au Rêveur ont été couronnés de succès. La coque de votre vaisseau"
-" est restaurée de 3 !"
+"Vos appels à la Rêveuse ont été couronnés de succès. La coque de votre "
+"vaisseau est réparée de 3 !"
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_5\"]/text"
 msgstr ""
-"Vos appels au Rêveur ont été couronnés de succès. La coque de votre vaisseau"
-" est restaurée de 5 !"
+"Vos appels à la Rêveuse ont été couronnés de succès. La coque de votre "
+"vaisseau est réparée de 5 !"
 
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_NOTHING\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"La Rêveuse semble avoir ignoré vos supplications, ou peut-être ne l'ont-"
-"elles tout simplement pas atteinte. Vous continuez le combat."
-=======
 "Le Rêve Tout-Désiré semble avoir ignoré vos suppliques, ou peut-être ne "
-"l'ont-elles tout simplement pas atteintes. Vous continuez le combat."
->>>>>>> Stashed changes
+"l'ont-elles simplement pas atteinte. Vous continuez le combat."
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PRAYING_FOR_DREAMS_CULT\"]/text"
 msgstr ""
 "Pendant un court instant, le vaisseau ennemi est enveloppé d'une lueur "
-<<<<<<< Updated upstream
-"bleue. Une seconde plus tard, vous remarquez que plusieurs de ses systèmes "
-"sont désactivés, que certaines pièces présentent des brèches et des "
-"incendies, et que la coque subit 5 dégâts. Après cela, la lueur bleue "
-"disparaît, et vous ressentez une certaine lourdeur dans votre âme, qui "
-"s'estompe rapidement."
-=======
 "bleue. Une seconde plus tard, vous remarquez que bon nombre de ses systèmes "
-"sont désactivés, dans certaines pièces il y a des brèches et des incendies, "
-"et la coque subit 5 dégâts. Ensuite, la lueur bleue disparaît, et vous "
-"ressentez une certaine lourdeur dans votre âme, qui disparaît rapidement."
->>>>>>> Stashed changes
+"sont désactivés, que des brèches et des incendies se déclarent dans "
+"certaines pièces, et que la coque subit 5 points de dégâts. Après cela, la "
+"lueur bleue disparaît, et vous ressentez une certaine lourdeur dans votre "
+"âme, qui s'estompe rapidement."
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
 "Vous offrez une prière à la Rêveuse... Que vous accordera-t-elle cette fois-"
 "ci ?"
-=======
-"Vous offrez une prière au Rêveur... Que vous accordera-t-il cette fois-ci ?"
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:186
 msgid ""
@@ -320,13 +257,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque que vous trouvez une petite quantité de ferraille."
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous trouvez une petite quantité de ferraille."
->>>>>>> Stashed changes
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous trouvez une petite quantité de ferraille."
 
 #: src-en/data/events_special_storage.xml.append:196
 msgid ""
@@ -337,15 +269,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque que vous trouvez une petite quantité de missiles et de pièces de "
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous trouvez une petite quantité de missiles et de pièces de "
 "drones."
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous trouvez une petite quantité de missiles et "
-"de pièces de drones."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:207
 msgid ""
@@ -356,15 +282,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque que vous trouvez une petite quantité de cellules de carburant au "
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous trouvez une petite quantité de piles à combustible au "
 "centre de la pièce."
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous trouvez une petite quantité de cellules de "
-"carburant au centre de la pièce."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:217
 msgid ""
@@ -375,16 +295,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque que vous trouvez diverses récompenses au centre de la pièce. Il "
-"semble que la Rêveuse ait été plus favorable cette fois-ci."
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous trouvez diverses récompenses au centre de la"
-" pièce. Il semble que le Rêve Tout-Désiré ait été plus favorable cette fois-"
-"ci."
->>>>>>> Stashed changes
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous trouvez une variété de récompenses au centre de la pièce."
+" Il semble que le Rêve Tout-Désiré ait été plus favorable cette fois-ci."
 
 #: src-en/data/events_special_storage.xml.append:230
 msgid ""
@@ -395,15 +308,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Après votre prière, absolument rien ne s'est passé. La Rêveuse semble avoir "
-"ignoré vos supplications, ou peut-être ne l'ont-elles tout simplement pas "
-"atteinte."
-=======
 "Après votre prière, absolument rien ne s'est passé. Le Rêve Tout-Désiré "
-"semble avoir ignoré vos suppliques, ou peut-être ne l'ont-elles tout "
-"simplement pas atteintes."
->>>>>>> Stashed changes
+"semble avoir ignoré vos suppliques, ou peut-être ne l'ont-elles simplement "
+"pas atteinte."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
@@ -414,35 +321,22 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 2 : 20 % de résistance aux dégâts de coque, 50 %"
-" de résistance aux dégâts de système] Êtes-vous sûr de vouloir installer "
-"cette amélioration ? ATTENTION : Cela vous coûtera 20 points de coque."
-=======
-"[Blindage Impénétrable Niveau 2 : 20 % de résistance aux dégâts de coque, 50"
-" % de résistance aux dégâts de système] Êtes-vous sûr de vouloir installer "
-"cette amélioration ? ATTENTION : Cela vous coûtera 20 points de dégâts de "
-"coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 2 : 20% de résistance aux dégâts de coque, 50%"
+" de résistance aux dégâts système] Êtes-vous sûr de vouloir installer cette "
+"amélioration ? ATTENTION : Cela vous coûtera 20 points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:269
 msgid ""
@@ -452,11 +346,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
@@ -466,7 +356,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:279
 msgid ""
@@ -482,36 +372,23 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 3 : 30 % de résistance aux dégâts de coque, 60 %"
-" de résistance aux dégâts de système, temps de recharge des armes réduit de "
-"5 %] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : "
-"Cela vous coûtera 20 points de coque."
-=======
-"[Blindage Impénétrable Niveau 3 : 30 % de résistance aux dégâts de coque, 60"
-" % de résistance aux dégâts de système, temps de recharge des armes réduit "
-"de 5 %] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : "
-"Cela vous coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 3 : 30% de résistance aux dégâts de coque, 60%"
+" de résistance aux dégâts système, temps de recharge des armes réduit de 5%]"
+" Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela "
+"vous coûtera 20 points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:301
 msgid ""
@@ -521,11 +398,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:306
 msgid ""
@@ -535,7 +408,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:311
 msgid ""
@@ -551,36 +424,23 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 4 : 40 % de résistance aux dégâts de coque, 70 %"
-" de résistance aux dégâts de système, temps de recharge des armes réduit de "
-"10 %] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : "
-"Cela vous coûtera 20 points de coque."
-=======
-"[Blindage Impénétrable Niveau 4 : 40 % de résistance aux dégâts de coque, 70"
-" % de résistance aux dégâts de système, temps de recharge des armes réduit "
-"de 10 %] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION :"
-" Cela vous coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 4 : 40% de résistance aux dégâts de coque, 70%"
+" de résistance aux dégâts système, temps de recharge des armes réduit de "
+"10%] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : "
+"Cela vous coûtera 20 points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:333
 msgid ""
@@ -590,11 +450,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:335
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
@@ -604,7 +460,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:343
 msgid ""
@@ -620,38 +476,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 5 : 50 % de résistance aux dégâts de coque, 80 %"
-" de résistance aux dégâts de système, temps de recharge des armes réduit de "
-"15 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"[Blindage Impénétrable Niveau 5 : 50% de résistance aux dégâts de coque, 80%"
+" de résistance aux dégâts système, temps de recharge des armes réduit de "
+"15%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 5 : 50 % de résistance aux dégâts de coque, 80"
-" % de résistance aux dégâts de système, temps de recharge des armes réduit "
-"de 15 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr "
-"de vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:365
 msgid ""
@@ -661,11 +503,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:370
 msgid ""
@@ -675,7 +513,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:375
 msgid ""
@@ -691,38 +529,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 6 : 60 % de résistance aux dégâts de coque, 90 %"
-" de résistance aux dégâts de système, temps de recharge des armes réduit de "
-"20 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"[Blindage Impénétrable Niveau 6 : 60% de résistance aux dégâts de coque, 90%"
+" de résistance aux dégâts système, temps de recharge des armes réduit de "
+"20%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 6 : 60 % de résistance aux dégâts de coque, 90"
-" % de résistance aux dégâts de système, temps de recharge des armes réduit "
-"de 20 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr "
-"de vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:397
 msgid ""
@@ -732,11 +556,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:399
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:402
 msgid ""
@@ -746,7 +566,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:407
 msgid ""
@@ -762,38 +582,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 7 : 70 % de résistance aux dégâts de coque, 100 "
-"% de résistance aux dégâts de système, temps de recharge des armes réduit de"
-" 25 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de"
-" vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 7 : 70 % de résistance aux dégâts de coque, "
-"100 % de résistance aux dégâts de système, temps de recharge des armes "
-"réduit de 25 %, possibilité d'éperonner les ennemis avant le combat] Êtes-"
-"vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela vous "
-"coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 7 : 70% de résistance aux dégâts de coque, "
+"100% de résistance aux dégâts système, temps de recharge des armes réduit de"
+" 25%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
+"points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:429
 msgid ""
@@ -803,11 +609,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
@@ -817,7 +619,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:439
 msgid ""
@@ -833,38 +635,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 8 : 80 % de résistance aux dégâts de coque, 100 "
-"% de résistance aux dégâts de système, temps de recharge des armes réduit de"
-" 28 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de"
-" vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 8 : 80 % de résistance aux dégâts de coque, "
-"100 % de résistance aux dégâts de système, temps de recharge des armes "
-"réduit de 28 %, possibilité d'éperonner les ennemis avant le combat] Êtes-"
-"vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela vous "
-"coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 8 : 80% de résistance aux dégâts de coque, "
+"100% de résistance aux dégâts système, temps de recharge des armes réduit de"
+" 28%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
+"points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:458
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:461
 msgid ""
@@ -874,11 +662,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:466
 msgid ""
@@ -888,7 +672,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:471
 msgid ""
@@ -904,38 +688,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 9 : 85 % de résistance aux dégâts de coque, 100 "
-"% de résistance aux dégâts de système, temps de recharge des armes réduit de"
-" 31 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de"
-" vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 9 : 85 % de résistance aux dégâts de coque, "
-"100 % de résistance aux dégâts de système, temps de recharge des armes "
-"réduit de 31 %, possibilité d'éperonner les ennemis avant le combat] Êtes-"
-"vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela vous "
-"coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 9 : 85% de résistance aux dégâts de coque, "
+"100% de résistance aux dégâts système, temps de recharge des armes réduit de"
+" 31%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
+"points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:493
 msgid ""
@@ -945,11 +715,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
@@ -959,7 +725,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr "Vous avez réussi à améliorer votre Blindage Impénétrable !"
+msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
 #: src-en/data/events_special_storage.xml.append:503
 msgid ""
@@ -975,38 +741,24 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/text"
 msgstr ""
-<<<<<<< Updated upstream
-"[Armure Impénétrable Niveau 10 : 90 % de résistance aux dégâts de coque, 100"
-" % de résistance aux dégâts de système, temps de recharge des armes réduit "
-"de 34 %, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr "
-"de vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
-"points de coque."
-=======
-"[Blindage Impénétrable Niveau 10 : 90 % de résistance aux dégâts de coque, "
-"100 % de résistance aux dégâts de système, temps de recharge des armes "
-"réduit de 34 %, possibilité d'éperonner les ennemis avant le combat] Êtes-"
-"vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela vous "
-"coûtera 20 points de dégâts de coque."
->>>>>>> Stashed changes
+"[Blindage Impénétrable Niveau 10 : 90% de résistance aux dégâts de coque, "
+"100% de résistance aux dégâts système, temps de recharge des armes réduit de"
+" 34%, possibilité d'éperonner les ennemis avant le combat] Êtes-vous sûr de "
+"vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
+"points de dégâts de coque."
 
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/text"
-msgstr "Oui, installez l'amélioration."
+msgstr "Oui, installer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Vous commencez les préparatifs pour améliorer votre armure. Vous retirez la "
-"coque supérieure du vaisseau et la donnez à la créature vivant à l'arrière. "
-"En retour, elle vous fait pousser une nouvelle armure..."
-=======
 "Vous commencez les préparatifs pour améliorer votre blindage. Vous retirez "
-"la coque supérieure du vaisseau et la donnez à la créature vivant à "
-"l'arrière. En retour, elle vous fait pousser un nouveau blindage..."
->>>>>>> Stashed changes
+"la partie supérieure de la coque du vaisseau et la donnez à la créature "
+"vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
 #: src-en/data/events_special_storage.xml.append:525
 msgid ""
@@ -1016,11 +768,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:527
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/text"
-<<<<<<< Updated upstream
-msgstr "Vous installez la nouvelle Armure Impénétrable..."
-=======
-msgstr "Vous installez un nouveau Blindage Impénétrable..."
->>>>>>> Stashed changes
+msgstr "Vous installez un nouveau blindage impénétrable..."
 
 #: src-en/data/events_special_storage.xml.append:530
 msgid ""
@@ -1031,8 +779,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"Vous avez réussi à améliorer votre Blindage Impénétrable à son niveau final "
-"!"
+"Vous avez amélioré avec succès votre blindage impénétrable à son niveau "
+"final !"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
@@ -1048,7 +796,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr "Chercher Embryon."
+msgstr "Chercher Embryo."
 
 #: src-en/data/events_special_storage.xml.append:560
 msgid ""
@@ -1072,19 +820,19 @@ msgstr "Chercher Mirrored."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr "Chercher Empereur Blanc."
+msgstr "Chercher l'Empereur Blanc."
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr "Caresser la termite."
+msgstr "Caresser le termite."
 
 #: src-en/data/events_special_storage.xml.append:583
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr "Lancer la plateforme ASB miniature. Trois restantes."
+msgstr "Lancer une plateforme ASB miniature. Trois restantes."
 
 #: src-en/data/events_special_storage.xml.append:585
 msgid ""
@@ -1128,7 +876,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr "Lancer la plateforme ASB miniature. Deux restantes."
+msgstr "Lancer une plateforme ASB miniature. Deux restantes."
 
 #: src-en/data/events_special_storage.xml.append:610
 msgid ""
@@ -1172,7 +920,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr "Lancer la plateforme ASB miniature. Une restante."
+msgstr "Lancer une plateforme ASB miniature. Une restante."
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
@@ -1217,11 +965,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/text"
-<<<<<<< Updated upstream
-msgstr "Salle des Rêves : Offrez une prière à la Rêveuse."
-=======
-msgstr "Hall des Rêves : Offrir une prière au Rêveur."
->>>>>>> Stashed changes
+msgstr "Salle des Rêves : Offrir une prière à la Rêveuse."
 
 #: src-en/data/events_special_storage.xml.append:660
 msgid ""
@@ -1229,36 +973,32 @@ msgid ""
 "append:choice[4]/event/text"
 msgstr ""
 "Êtes-vous sûr de vouloir commencer à effectuer des cérémonies de prière au "
-"nom du Rêveur pendant la bataille ? Toutes les 15 secondes, il réparera "
-"votre coque ou infligera des dégâts à l'ennemi. Cela vous coûtera 10 "
-"ferrailles."
+"nom de la Rêveuse pendant la bataille ? Toutes les 15 secondes, elle "
+"réparera votre coque ou infligera des dégâts à l'ennemi. Cela vous coûtera "
+"10 ferrailles."
 
 #: src-en/data/events_special_storage.xml.append:662
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/text"
-msgstr "Oui, préparez-vous pour les cérémonies et commencez le combat."
+msgstr "Oui, préparez-vous pour les cérémonies et commencez la bataille."
 
 #: src-en/data/events_special_storage.xml.append:664
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Au centre de la Salle des Rêves, vous déposez une petite offrande pour la "
-"Rêveuse, qui se dissout ensuite dans l'air. Elle tentera de vous aider au "
-"combat, mais ses pouvoirs ne dureront que 4 tentatives."
-=======
-"Au centre du Hall des Rêves, vous déposez une petite offrande pour le Rêve "
-"Tout-Désiré, qui se dissout ensuite dans l'air. Maintenant, il essaiera de "
-"vous aider au combat, mais ses pouvoirs ne dureront que 4 tentatives."
->>>>>>> Stashed changes
+"Au centre de la Salle des Rêves, vous déposez une petite offrande pour le "
+"Rêve Tout-Désiré, qui se dissout ensuite dans l'air. Maintenant, elle "
+"essaiera de vous aider au combat, mais ses pouvoirs ne dureront que 4 "
+"tentatives."
 
 #: src-en/data/events_special_storage.xml.append:671
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "Vous vous préparez à déposer des offrandes pour la Rêveuse..."
+msgstr ""
+"Vous vous préparez à déposer des offrandes pour le Rêve Tout-Désiré..."
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
@@ -1282,45 +1022,34 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/text"
-msgstr "Culte des Rêves : Offrir un sacrifice au Rêveur"
+msgstr "Culte des Rêves : Offrir un sacrifice à la Rêveuse"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/text"
 msgstr ""
-"Êtes-vous sûr de vouloir faire un sacrifice au nom du Rêveur ? Un membre "
-"d'équipage aléatoire mourra à la suite du sacrifice. Les membres d'équipage "
-"uniques seront sacrifiés en dernier, et les membres d'équipage humains "
-"ordinaires seront sacrifiés en premier. Le Rêveur vous aidera grandement au "
-"combat."
+"Êtes-vous sûr de vouloir faire un sacrifice au nom de la Rêveuse ? Un membre"
+" d'équipage aléatoire mourra à la suite du sacrifice. Les membres d'équipage"
+" uniques seront sacrifiés en dernier, et les membres d'équipage humains "
+"ordinaires seront sacrifiés en premier. La Rêveuse vous aidera grandement au"
+" combat."
 
 #: src-en/data/events_special_storage.xml.append:693
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/text"
-<<<<<<< Updated upstream
-msgstr "Oui, effectuez un rite sacrificiel."
-=======
 msgstr "Oui, effectuer un rite sacrificiel."
->>>>>>> Stashed changes
 
 #: src-en/data/events_special_storage.xml.append:695
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/text"
 msgstr ""
-<<<<<<< Updated upstream
-"Les lumières de la Salle des Rêves s'éteignent et se rallument subitement, "
-"et lorsque le corps de votre membre d'équipage sacrifié a disparu du "
-"piédestal. La Rêveuse vous assistera 3 fois au combat en attaquant "
-"activement le vaisseau ennemi."
-=======
-"Les lumières du Hall des Rêves s'estompent et s'éteignent soudainement, et "
-"lorsqu'elles se rallument, vous découvrez que le corps de votre membre "
-"d'équipage sacrifié a disparu du piédestal. Le Rêve Tout-Désiré vous aidera "
-"au combat 3 fois en attaquant activement le vaisseau ennemi."
->>>>>>> Stashed changes
+"Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
+"rallument, et vous découvrez que le corps de votre membre d'équipage "
+"sacrifié a disparu du piédestal. Le Rêve Tout-Désiré vous aidera 3 fois au "
+"combat en attaquant activement le vaisseau ennemi."
 
 #: src-en/data/events_special_storage.xml.append:698
 msgid ""
@@ -1334,7 +1063,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "La Rêveuse prépare sa punition..."
+msgstr "Le Rêve Tout-Désiré prépare sa punition..."
 
 #: src-en/data/events_special_storage.xml.append:709
 msgid ""
@@ -1370,11 +1099,7 @@ msgstr "Êtes-vous sûr de vouloir lancer la plateforme ASB ?"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/text"
-<<<<<<< Updated upstream
-msgstr "Lancez-la, puis utilisez le bras de ferraille."
-=======
-msgstr "Lancez-la, puis utilisez le bras de récupération de ferraille."
->>>>>>> Stashed changes
+msgstr "Lancez-la, puis utilisez le collecteur de ferraille."
 
 #: src-en/data/events_special_storage.xml.append:736
 msgid ""
@@ -1406,15 +1131,15 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/text"
-msgstr "Lancez-la avec 3 cellules de carburant."
+msgstr "Lancez-la avec 3 piles à combustible."
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/event/text"
 msgstr ""
-"Vous versez beaucoup de carburant dans le modèle de plateforme ASB achevé et"
-" l'envoyez dans l'espace. À grande vitesse, elle s'éloigne de vous et "
+"Vous versez beaucoup de carburant dans le modèle de plateforme ASB terminé "
+"et l'envoyez dans l'espace. À grande vitesse, elle s'éloigne de vous et "
 "commence à se déployer près du vaisseau ennemi."
 
 #: src-en/data/events_special_storage.xml.append:769
@@ -1480,13 +1205,9 @@ msgid ""
 msgstr ""
 "PROFIL : Slavik\n"
 "\t\t\tTitres : mercenaire, ancien rebelle\n"
-"\t\t\tEspèce : Humain - Âge : 20 - Sexe : Masculin\n"
+"\t\t\tEspèce : Humain - Âge : 20 ans - Sexe : Masculin\n"
 "\t\t\t\n"
-<<<<<<< Updated upstream
-"\t\t\tCertainement Slavik. Il n'est pas très différent des autres personnes, et à certains égards, il peut même être plus ordinaire que la moyenne, mais au moins il essaie de donner le meilleur de lui-même. Il n'y a rien de plus à dire sur lui."
-=======
-"\t\t\tDéfinitivement Slavik. Il n'est pas très différent des autres humains, et à certains égards, il pourrait même être plus ordinaire que la moyenne, mais au moins, il essaie de donner le meilleur de lui-même. Il n'y a rien de plus à dire sur lui."
->>>>>>> Stashed changes
+"\t\t\tC'est bien Slavik. Il n'est pas très différent des autres personnes, et à certains égards, il est peut-être même plus ordinaire que la moyenne, mais au moins il essaie de donner le meilleur de lui-même. Il n'y a rien de plus à dire sur lui."
 
 #: src-en/data/events_special_storage.xml.append:817
 msgid ""
@@ -1505,15 +1226,11 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/event/text"
 msgstr ""
-"PROFIL : Vakans Peace\n"
-"\t\t\tTitre : Ermite\n"
-"\t\t\tEspèce : Zoltan - Âge : [Ne se souvient pas] - Sexe : Masculin\n"
+"PROFIL : Vakans Paix\n"
+"\t\t\tTitre : Hermite\n"
+"\t\t\tEspèce : Zoltan - Âge : [Impossible de s'en souvenir] - Sexe : Masculin\n"
 "\t\t\t\n"
-<<<<<<< Updated upstream
-"\t\t\tCe zoltan âgé ne se souvient pas de sa vie avant qu'il ne commence à vivre et à voyager seul il y a des décennies. Ses errances se sont poursuivies jusqu'à ce qu'il s'installe sur une planète isolée qu'il pouvait appeler sa maison. En explorant ses environs, il a trouvé l'épave d'un vaisseau ancien d'origine inconnue et l'a restaurée seul au cours de quelques années. En raison de son âge avancé, son énergie intérieure sera bientôt épuisée, et avant sa mort, il a décidé de faire une dernière bonne action dans sa vie - démêler le mystère de ce vaisseau et en parler au monde entier. Cependant, ses compétences sociales avaient grandement souffert après une longue période d'isolement, rendant impossible pour lui d'obtenir officiellement le titre de capitaine de vaisseau, et vous, en tant que Renégat, avez décidé de l'aider."
-=======
-"\t\t\tCe zoltan âgé ne se souvient pas de sa vie avant qu'il ne commence à vivre et à voyager seul il y a des décennies. Ses errances se sont poursuivies jusqu'à ce qu'il s'établisse sur une planète lointaine qu'il pouvait appeler son foyer. En explorant ses environs, il a découvert l'épave d'un ancien vaisseau d'origine inconnue et l'a restauré seul au cours de quelques années. En raison de son âge avancé, son énergie intérieure sera bientôt épuisée, et avant sa mort, il a décidé de faire une dernière bonne action dans sa vie - percer le mystère de ce vaisseau et en parler au monde entier. Cependant, ses compétences sociales avaient grandement souffert après une longue période d'isolement, ce qui l'empêchait d'obtenir officiellement le titre de capitaine de vaisseau, et vous, en tant que Renégat, avez décidé de l'aider en cela."
->>>>>>> Stashed changes
+"\t\t\tCe zoltan âgé ne se souvient pas de sa vie avant qu'il ne commence à vivre et à voyager seul il y a des décennies. Ses errances ont continué jusqu'à ce qu'il s'installe sur une planète isolée qu'il pouvait appeler sa maison. En explorant ses environs, il a trouvé l'épave d'un ancien vaisseau d'origine inconnue et l'a restauré par lui-même au cours de quelques années. En raison de son âge avancé, son énergie intérieure sera bientôt épuisée, et avant sa mort, il a décidé de faire une dernière bonne action dans sa vie - percer le mystère de ce vaisseau et en parler au monde entier. Cependant, ses compétences sociales avaient grandement souffert après une longue période d'isolement, rendant impossible pour lui d'obtenir officiellement le titre de capitaine de vaisseau, et vous, en tant que Renegade, avez décidé de l'aider dans cette tâche."
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
@@ -1534,13 +1251,9 @@ msgid ""
 msgstr ""
 "PROFIL : Mirrored\n"
 "\t\t\tTitres : membre des Chercheurs de Miracles, anomalie cosmique\n"
-"\t\t\tEspèce : [Inconnu] - Âge : De 20 à 970 ans - Sexe : Féminin\n"
+"\t\t\tEspèce : [Inconnue] - Âge : De 20 à 970 ans - Sexe : Féminin\n"
 "\t\t\t\n"
-<<<<<<< Updated upstream
-"\t\t\tL'histoire des origines de Mirrored est très vague et mystérieuse. Essentiellement, elle est une anomalie cosmique qui a acquis une conscience. Elle ne connaît pas les détails de sa naissance, et son premier souvenir est d'avoir été libérée des confins du vide par l'un des Chercheurs de Miracles nommé L'Épéiste. Elle a ensuite rejoint cette organisation parce qu'elle n'avait nulle part où aller. Il semble qu'elle cache plus qu'elle ne devrait, mais cela est difficile à prouver."
-=======
-"\t\t\tL'histoire des origines de Mirrored est très vague et mystérieuse. Essentiellement, elle est une anomalie cosmique qui a acquis une conscience. Elle ne connaît pas les détails de sa naissance, et son premier souvenir est d'avoir été libérée des confins du vide par l'un des Chercheurs de Miracles nommé Épéiste. Elle a ensuite rejoint cette organisation parce qu'elle n'avait nulle part ailleurs où aller. Il semble qu'elle cache plus de choses qu'elle ne le devrait, mais cela est difficile à prouver."
->>>>>>> Stashed changes
+"\t\t\tL'histoire des origines de Mirrored est très vague et mystérieuse. Essentiellement, c'est une anomalie cosmique qui a acquis une conscience. Elle ne connaît pas les détails de sa naissance, et son premier souvenir est d'avoir été libérée des confins du vide par l'un des Chercheurs de Miracles nommé Swordsman. Elle a ensuite rejoint cette organisation parce qu'elle n'avait nulle part ailleurs où aller. Il semble qu'elle cache plus qu'elle ne le devrait, mais cela est difficile à prouver."
 
 #: src-en/data/events_special_storage.xml.append:851
 msgid ""
@@ -1562,14 +1275,10 @@ msgstr ""
 "PROFIL : Alexander White\n"
 "\t\t\tTitre : clone de l'Empereur Blanc\n"
 "\t\t\tEspèce : Humain (Anomalie)\n"
-"\t\t\tÂge : 156 (chronologiquement), 52 (biologiquement)\n"
+"\t\t\tÂge : 156 ans (chronologiquement), 52 ans (biologiquement)\n"
 "\t\t\tSexe : Masculin\n"
 "\t\t\t\n"
-<<<<<<< Updated upstream
-"\t\t\tL'Empereur Blanc a établi l'empire humain dans l'un des univers isolés. Il a admirablement rempli ses fonctions et a mené l'humanité dans l'espace grâce à ses qualités de leader. Un jour, un androïde portant un masque de hibou d'un autre univers est apparu devant lui et a commencé à s'insinuer auprès de lui. Malgré son histoire étrange, l'androïde a aidé l'humanité dans toutes ses entreprises et, ayant gagné la confiance totale de l'Empereur, lui a donné un vaisseau contenant le « sang de Dieu » de son univers, lui suggérant de le boire pour acquérir des pouvoirs divins. Blanc, assuré par l'androïde que c'était sans danger, a vidé le vaisseau et est devenu divin. Cependant, son nouveau pouvoir n'a fait qu'exacerber ses qualités négatives, développant la paranoïa en lui. L'Empereur Blanc sur ce vaisseau n'est qu'un clone de l'Empereur original, destiné à le remplacer en cas de mort. Il s'est retrouvé dans cet univers par erreur, mais pour l'instant ne souhaite pas retourner dans son monde natal."
-=======
-"\t\t\tL'Empereur Blanc a établi l'empire humain dans l'un des univers isolés. Il a admirablement rempli ses fonctions et a mené l'humanité dans l'espace grâce à ses qualités de leader. Un jour, un androïde portant un masque de hibou d'un autre univers est apparu devant lui et a commencé à s'attirer ses faveurs. Malgré son étrange histoire, l'androïde a aidé l'humanité dans toutes ses entreprises et, ayant gagné la confiance totale de l'Empereur, lui a donné un récipient contenant le « sang de Dieu » de son univers, suggérant qu'il le boive pour acquérir des pouvoirs divins. Blanc, assuré par l'androïde que c'était sans danger, a vidé le récipient et est devenu semblable à un dieu. Cependant, son nouveau pouvoir n'a fait qu'exacerber ses qualités négatives, développant la paranoïa en lui. L'Empereur Blanc sur ce vaisseau n'est qu'un clone de l'Empereur original, destiné à le remplacer en cas de mort. Il s'est retrouvé dans cet univers par erreur, mais jusqu'à présent, il ne souhaite pas retourner dans son monde natal."
->>>>>>> Stashed changes
+"\t\t\tL'Empereur Blanc a établi l'empire humain dans l'un des univers isolés. Il a admirablement rempli ses fonctions et a mené l'humanité dans l'espace grâce à ses qualités de leadership. Un jour, un androïde portant un masque de hibou d'un autre univers est apparu devant lui et a commencé à s'insinuer auprès de lui. Malgré son étrange histoire, l'androïde a aidé l'humanité dans toutes ses entreprises et, ayant gagné la confiance totale de l'Empereur, lui a donné un vaisseau contenant le \" sang de Dieu \" de son univers, suggérant qu'il le boive pour acquérir des pouvoirs divins. White, assuré par l'androïde que c'était sans danger, a vidé le vaisseau et est devenu divin. Cependant, son nouveau pouvoir n'a fait qu'exacerber ses qualités négatives, développant la paranoïa en lui. L'Empereur Blanc sur ce vaisseau n'est qu'un clone de l'Empereur original, destiné à le remplacer en cas de décès. Il s'est retrouvé dans cet univers par erreur, mais jusqu'à présent, il ne souhaite pas retourner dans son monde natal."
 
 #: src-en/data/events_special_storage.xml.append:870
 msgid ""
@@ -1581,7 +1290,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/text"
-msgstr "Semence de Conception"
+msgstr "Graine de Conception"
 
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
@@ -1589,17 +1298,10 @@ msgid ""
 "append:choice/event/text"
 msgstr ""
 "PROFIL : Embryon de Création\n"
-<<<<<<< Updated upstream
-"\t\t\tTitres : Créateur mort, Anomalie de l'Apocalypse, Embryon non-né\n"
+"\t\t\tTitres : Créateur Mort, Anomalie de l'Apocalypse, Embryon Non-né\n"
 "\t\t\tEspèce : Créature Divine - Âge : 0 - Sexe : Aucun\n"
 "\t\t\t\n"
-"\t\t\tUn avertissement final et un ultimatum – pourtant pas plus qu'une enveloppe de ce qui devrait être une divinité vivante. Un organisme fragile et déjà en décomposition, un enfant maladif conçu dans le péché et les tourments de la vie par ceux qui ont été témoins de la naissance de la réalité des ténèbres éternelles. Cela ne devrait pas exister, mais néanmoins, vous devrez accepter de partager un vaisseau avec elle. C'est à peine dangereux, mais plutôt effrayant et sauvage. Je me demande si les Chercheurs de Miracles savent quelque chose à ce sujet ?"
-=======
-"\t\t\tTitres : Créateur Mort, Anomalie de l'Apocalypse, Embryon Non-Né\n"
-"\t\t\tEspèce : Dieu-Créature - Âge : 0 - Sexe : Aucun\n"
-"\t\t\t\n"
-"\t\t\tUn dernier avertissement et un ultimatum - mais pas plus qu'une coquille de ce qui devrait être une divinité vivante. Un organisme fragile et déjà en décomposition, un enfant malade conçu dans le péché et les tourments de la vie par ceux qui ont été témoins de la naissance de la réalité des ténèbres éternelles. Cela ne devrait pas exister, mais néanmoins, vous devrez accepter de partager un vaisseau avec lui. Il est à peine dangereux, mais plutôt effrayant et sauvage. Je me demande, les Chercheurs de Miracles en savent-ils quelque chose ?"
->>>>>>> Stashed changes
+"\t\t\tUn dernier avertissement et un ultimatum – pourtant pas plus qu'une enveloppe de ce qui devrait être une divinité vivante. Un organisme fragile et déjà en décomposition, un enfant malade conçu dans le péché et les tourments de la vie par ceux qui ont été témoins de la naissance de la réalité des ténèbres éternelles. Cela ne devrait pas exister, mais néanmoins, vous devrez accepter de partager un vaisseau avec lui. Il est à peine dangereux, mais plutôt effrayant et sauvage. Je me demande si les Chercheurs de Miracles savent quelque chose à ce sujet ?"
 
 #: src-en/data/events_special_storage.xml.append:887
 msgid ""

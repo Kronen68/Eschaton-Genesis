@@ -22,11 +22,12 @@
 
 <mod:findName type="event" name="STORAGE_CHECK_BUTTON">
 	<mod-append:choice req="termite_insect_meat" lvl="1" blue="true" hidden="true">
-		<text>(Insect meat) Find a place where it can be sold. [Fleet will approach by 1 jump]</text>
+		<text>(Insect meat) Find a place where it can be sold.
+		[Fleet will approach by 1 jump]</text>
 		<event>
 			<text load="TERMITE_INSECT_MEAT_SELL"/>
 			<modifyPursuit amount="1"/>
-			<autoReward level="MED">standard</autoReward>
+			<autoReward level="HIGH">standard</autoReward>
 			<autoReward level="HIGH">stuff</autoReward>
 			<variable name="termite_insect_meat" op="add" val="-1"/>
 			<choice hidden="true">
@@ -113,7 +114,7 @@
 	<text>By random selection, your crew members sacrifice one of their own and place his body on a pedestal in the center of the Hall of Dreams...</text>
 	<removeCrew>
 		<clone>false</clone>
-		<text>The data in the clone-bay about your crew member have been irretrievably deleted. It is impossible to bring him back to life.</text>
+		<text>The data in the clone-bay about your crew member have been irretrievably deleted. It is impossible to bring them back to life.</text>
 	</removeCrew>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -695,7 +696,7 @@
 					<text>The lights in the Hall of Dreams suddenly dim and go out, and when they come back on, you discover that the body of your crew member who was sacrificed has disappeared from the pedestal. All-Desired Dream will assist you in battle 3 times by actively attacking the enemy ship.</text>
 					<removeCrew>
 						<clone>false</clone>
-						<text>The data in the clone-bay about your crew member have been irretrievably deleted. It is impossible to bring him back to life.</text>
+						<text>The data in the clone-bay about your crew member have been irretrievably deleted. It is impossible to bring them back to life.</text>
 					</removeCrew>
 					<triggeredEvent event="PRAYING_FOR_DREAMS_CULT" seeded="false" loops="3" thisFight="true" minTime="25.0" maxTime="25.0">
 					<triggeredEventBox load="DEFAULT_TIMER">

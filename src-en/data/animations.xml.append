@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<animSheet name="eg_neostar_thruster" w="124" h="48" fw="31" fh="48">thrusters/eg_neostar_thruster.png</animSheet>
+<anim name="eg_neostar_thruster">
+	<sheet>eg_neostar_thruster</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.6</time>
+</anim>
+
+<animSheet name="eg_second_voice_thruster" w="20" h="242" fw="10" fh="242">thrusters/eg_second_voice_thruster.png</animSheet>
+<anim name="eg_second_voice_thruster">
+	<sheet>eg_second_voice_thruster</sheet>
+	<desc length="2" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<animSheet name="eg_neostar_laser" w="224" h="71" fw="28" fh="71">weapons/eg_neostar_laser.png</animSheet>
+<weaponAnim name="eg_neostar_laser">
+	<sheet>eg_neostar_laser</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint  x="18" y="10"/>
+	<mountPoint x="6" y="45"/>
+</weaponAnim>
+
+<animSheet name="eg_neostar_cargo" w="42" h="32" fw="42" fh="32">weapons/eg_neostar_cargo.png</animSheet>
+<anim name="eg_neostar_cargo">
+	<sheet>eg_neostar_cargo</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
 <animSheet name="termite1x1" w="35" h="35" fw="35" fh="35">effects/termite1x1.png</animSheet>
 <anim name="termite1x1">
 	<sheet>termite1x1</sheet>
@@ -75,6 +106,16 @@
 	<time>1</time>
 </anim>
 
+<animSheet name="eg_erudite_beam" w="518" h="44" fw="37" fh="44">weapons/eg_erudite_beam.png</animSheet>
+<weaponAnim name="eg_erudite_beam">
+	<sheet>eg_erudite_beam</sheet>
+	<desc length="14" x="0" y="0"/>
+	<chargedFrame>12</chargedFrame>
+	<fireFrame>13</fireFrame>
+	<firePoint x="22" y="3"/>
+	<mountPoint x="1" y="22"/>
+</weaponAnim>
+
 <animSheet name="eg_player_barley" w="234" h="71" fw="26" fh="71">weapons/eg_player_barley.png</animSheet>
 <weaponAnim name="eg_player_barley">
 	<sheet>eg_player_barley</sheet>
@@ -83,8 +124,6 @@
 	<fireFrame>6</fireFrame>
 	<firePoint  x="13" y="29"/>
 	<mountPoint x="3" y="48"/>
-	<chargeImage>weapon_laser/heavy_chain_glow.png</chargeImage>
-	<boost>laser_heavy_chain_charge</boost>
 </weaponAnim>
 
 <animSheet name="eg_gem_violet" w="35" h="25" fw="35" fh="25">weapons/eg_gem_violet.png</animSheet>
@@ -136,13 +175,6 @@
 	<firePoint x="16" y="26" />
 	<mountPoint x="16" y="52" />
 </weaponAnim>
-
-<animSheet name="resist_1x1" w="35" h="35" fw="35" fh="35">effects/resist_1x1.png</animSheet>
-<anim name="resist_1x1">
-	<sheet>resist_1x1</sheet>
-	<desc length="1" x="0" y="0"/>
-	<time>1</time>
-</anim>
 
 <FTL>
 <animSheet name="eg_termite" w="350" h="385" fw="35" fh="35">people/eg_termite_base.png</animSheet>
@@ -873,124 +905,124 @@
 	<time>1</time>
 </anim>
 
-<animSheet name="second_voice_officiary" w="315" h="455" fw="35" fh="35">people/second_voice_officiary_base.png</animSheet>
-<anim name="second_voice_officiary_clone">
-	<sheet>second_voice_officiary</sheet>
+<animSheet name="eg_second_voice_officiary" w="315" h="455" fw="35" fh="35">people/eg_second_voice_officiary_base.png</animSheet>
+<anim name="eg_second_voice_officiary_clone">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="6" x="0" y="2"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_death_right">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_death_right">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="5" x="3" y="0"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_death_left">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_death_left">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="5" x="0" y="2"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_walk_down">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_walk_down">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="12"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_walk_right">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_walk_right">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="12"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_walk_up">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_walk_up">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="11"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_walk_left">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_walk_left">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="11"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_shoot_down">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_shoot_down">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="3" x="0" y="10"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_shoot_right">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_shoot_right">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="3" x="3" y="10"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_shoot_up">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_shoot_up">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="3" x="6" y="10"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_shoot_left">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_shoot_left">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="3" x="0" y="1"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_fire_down">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_fire_down">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="9"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_fire_right">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_fire_right">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="9"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_fire_up">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_fire_up">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="8"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_fire_left">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_fire_left">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="8"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_repair">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_repair">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="9" x="0" y="7"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_punch_up">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_punch_up">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="6" x="3" y="1"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_punch_down">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_punch_down">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="6" x="0" y="6"/>
 	<time>1.0</time>
 </anim>
-<anim name="second_voice_officiary_teleport">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_teleport">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="9" x="0" y="3"/>
 	<time>0.5</time>
 </anim>
-<anim name="second_voice_officiary_type_right">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_type_right">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="5"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_type_left">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_type_left">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="5"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_type_up">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_type_up">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="0" y="4"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_type_down">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_type_down">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="4" x="4" y="4"/>
 	<time>0.75</time>
 </anim>
-<anim name="second_voice_officiary_portrait">
-	<sheet>second_voice_officiary</sheet>
+<anim name="eg_second_voice_officiary_portrait">
+	<sheet>eg_second_voice_officiary</sheet>
 	<desc length="1" x="0" y="0"/>
 	<time>1</time>
 </anim>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mod:findName type="event" name="ATLAS_EQUIPMENT">
+	<mod-append:choice hidden="true" req="EG_LOYALTY_PROGRAM">
+		<text>Get more cargo delivery tasks.</text>
+		<event load="EG_NEOSTAR_VARIABLE_ADD"/>
+	</mod-append:choice>
+</mod:findName>
+
+<event name="EG_NEOSTAR_VARIABLE_ADD">
+	<text load="EG_NEOSTAR_VARIABLE_ADD_TEXT"/>
+	<variable name="neostar_cargo_available_task" op="add" val="2"/>
+	<playSound>eg_neostar_blank</playSound>
+	<eventAlias name="ATLAS_MENU" jumpClear="true">ATLAS_MENU_NOEQUIPMENT</eventAlias>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="LOAD_ATLAS"/>
+	</choice>
+</event>
+
+<textList name="EG_NEOSTAR_VARIABLE_ADD_TEXT">
+	<text>You contact your employers. A corpulent, three-eyed amphibian appears on the vidscreen, presumably some supervisor whose name you don't know. "Hmm... Our representative office in your Universe is nothing but trouble. Oh well, here are a couple more delivery requests."</text>
+	<text>You contact your employers. Your supervisor for the Neostar Megacorp expansion project in this cluster of universes appears on the vidscreen. "Need new delivery requests? Fine, I'll send them to you and let Uriel the Tailed know he'll have some extra work."</text>
+	<text>You contact your employers. To your surprise, Uriel the Tailed appears on the vidscreen. "Oh, you need more delivery requests? Okay... I've got them for you. See you soon!"</text>
+</textList>

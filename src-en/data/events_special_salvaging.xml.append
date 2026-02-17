@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FTL>
+
+<textList name="EG_MIRRORED_WARNING_TEXT">
+	<text>Mirrored warns you. Should you listen to her?</text>
+</textList>
+
+<textList name="EG_MIRRORED_WARNING_2_TEXT">
+	<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crew members to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+</textList>
+
 <mod:findName type="event" name="SALVAGE_DEFAULT_MINEFIELD">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -20,9 +29,9 @@
 </mod:findName>
 <mod:findName type="event" name="SALVAGE_DEFAULT_CACHE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -37,9 +46,9 @@
 </mod:findName>
 <mod:findName type="event" name="SALVAGE_DEFAULT_COLONY">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -53,7 +62,7 @@
     </mod-append:choice>
 </mod:findName>
 
-
+<!-- 
 <mod:findName type="event" name="DROPPOINT_PROTESTORS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
 		<text>Mirrored wants to take the situation into her own hands.</text>
@@ -121,9 +130,9 @@
 
 <mod:findName type="event" name="ASTEROID_CACHE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -138,9 +147,9 @@
 </mod:findName>
 <mod:findName type="event" name="ASTEROID_HURTMINER">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -155,9 +164,9 @@
 </mod:findName>
 <mod:findName type="event" name="ASTEROID_STANDOFF">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -172,9 +181,9 @@
 </mod:findName>
 <mod:findName type="event" name="DISTRESS_ASTEROID_PRESSURE_TANK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -189,9 +198,9 @@
 </mod:findName>
 <mod:findName type="event" name="ABANDONED_COLONY">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -206,9 +215,9 @@
 </mod:findName>
 <mod:findName type="event" name="ABANDONED_REBEL_DELUSIONAL">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -223,9 +232,9 @@
 </mod:findName>
 <mod:findName type="event" name="ABANDONED_FUELING_STATION">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -240,9 +249,9 @@
 </mod:findName>
 <mod:findName type="event" name="DISTRESS_ABANDONED_ASTEROID_COLONY">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -257,9 +266,9 @@
 </mod:findName>
 <mod:findName type="event" name="ANCIENT_LOST_DUDE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -274,9 +283,9 @@
 </mod:findName>
 <mod:findName type="event" name="ROYAL_CRYSTALS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -291,9 +300,9 @@
 </mod:findName>
 <mod:findName type="event" name="AUTO_FOREST">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -308,9 +317,9 @@
 </mod:findName>
 <mod:findName type="event" name="VAMPWEED_RIOT">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -325,9 +334,9 @@
 </mod:findName>
 <mod:findName type="event" name="COALITION_FED_AUTO_WIN">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -342,9 +351,9 @@
 </mod:findName>
 <mod:findName type="event" name="DUSK_MILITIA_ESCORT_DESTROY">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -359,9 +368,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_DUSK_PRISONERS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -376,9 +385,9 @@
 </mod:findName>
 <mod:findName type="event" name="MANTIS_CAPTURE_SUZERAIN_COMMANDO">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -393,9 +402,9 @@
 </mod:findName>
 <mod:findName type="event" name="DISTRESS_ESTATE_SHIPWRECK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -410,9 +419,9 @@
 </mod:findName>
 <mod:findName type="event" name="KNIGHT_TRAP_PLANET">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -427,9 +436,9 @@
 </mod:findName>
 <mod:findName type="event" name="DISTRESS_NODE17_FLAMINGFED">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -444,9 +453,9 @@
 </mod:findName>
 <mod:findName type="event" name="ASTEROID_EXPLORE_LOSTSUN">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -461,9 +470,9 @@
 </mod:findName>
 <mod:findName type="event" name="LOSTSUN_PRISONERS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -478,9 +487,9 @@
 </mod:findName>
 <mod:findName type="event" name="QUEST_LOSTSUN_DISRUPTION_QUEST">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -495,9 +504,9 @@
 </mod:findName>
 <mod:findName type="event" name="ZOLTAN_REVOLT">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -512,9 +521,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_ZOLTAN_BATTLEFIELD">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -529,9 +538,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_LIGHT_MORPH_SOLAR">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -546,9 +555,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_MORPH_SMUGGLER_CONFUSED">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -563,9 +572,9 @@
 </mod:findName>
 <mod:findName type="event" name="QUEST_SMUGGLER_RAID">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -580,9 +589,9 @@
 </mod:findName>
 <mod:findName type="event" name="REBEL_BOOTCAMP">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -597,9 +606,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_LIGHT_LEECH_DARWIN_FTL">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -614,9 +623,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_LIGHT_STARGROVE_ITEMS_TWIN_PULSARS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -631,9 +640,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_LIGHT_STARGROVE_ITEMS_SUN_JUNK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -648,9 +657,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_LIGHT_STARGROVE_CRUSADER_MADROCK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -665,9 +674,9 @@
 </mod:findName>
 <mod:findName type="event" name="ROCK_ASTEROID_DERELICT_SHIP">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -682,9 +691,9 @@
 </mod:findName>
 <mod:findName type="event" name="ROCK_LIVE_MINE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -699,9 +708,9 @@
 </mod:findName>
 <mod:findName type="event" name="ROCK_SLUG_ARGUMENT_MV">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -716,9 +725,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_STORM_ITEMS">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -733,9 +742,9 @@
 </mod:findName>
 <mod:findName type="event" name="NEBULA_MINE_WRECK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -750,9 +759,9 @@
 </mod:findName>
 <mod:findName type="event" name="VAGABOND_STORM">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -767,9 +776,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_TIMER">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -784,9 +793,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_EXPLORE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -801,9 +810,9 @@
 </mod:findName>
 <mod:findName type="event" name="DOCK_DRONE_SALESMAN">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -818,9 +827,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_SOLARWRECK">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -835,9 +844,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_DISTRESS_MINER">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -852,9 +861,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_DISTRESS_SATELLITE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -869,9 +878,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_DISTRESS_FIRE">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -886,9 +895,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_DISTRESS_STRANDED">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -903,9 +912,9 @@
 </mod:findName>
 <mod:findName type="event" name="FILLER_DISTRESS_FACTORY">
 	<mod-append:choice req="unique_mirrored" blue="true" hidden="true">
-		<text>Mirrored warns you. Should you listen to her?</text>
+		<text load="EG_MIRRORED_WARNING_TEXT"/>
 		<event>
-			<text>"I sense danger ahead. Let me help you explore the surrounding area and look for something useful." You instruct your crewmembers to stand down, and Mirrored disappears. A few minutes later, she returns with some scrap that she managed to find and carry away herself.</text>
+			<text load="EG_MIRRORED_WARNING_2_TEXT"/>
 			<autoReward level="LOW">standard</autoReward>
 			<choice>
 				<text>Do something onboard the ship.</text>
@@ -917,6 +926,6 @@
 			</choice>
 		</event>
     </mod-append:choice>
-</mod:findName>
+</mod:findName> -->
 
 </FTL>

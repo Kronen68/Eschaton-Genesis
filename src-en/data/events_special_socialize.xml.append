@@ -145,13 +145,13 @@
 	<text>"The Moonless Homeland still exists today. Many believe that it was swallowed up by Pharos, the largest beacon imaginable. Lunar and Solara may have been mythical deities, but it seems that the peace of this place and its starry inhabitants is still guarded by someone very mysterious."</text>
 </event>
 <event name="SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_26" unique="true">
-	<text>"Her first children are the Ultimates. These beings created the concepts of materiality, spirituality, and meaning. Their names are Eternal Body, Boundless Love, and Living Idea, respectively. They live beyond our understanding and are stronger than anyone could ever imagine. Together, their power is almost limitless, but he managed to restrict them, to ensure that they no longer had any influence in his domain."</text>
+	<text>"Her first children are the Ultimates. These beings created the concepts of materiality, spirituality, and meaning. Their names are Immortal Carcass, Boundless Love, and Living Idea, respectively. They live beyond our understanding and are stronger than anyone could ever imagine. Together, their power is almost limitless, but he managed to restrict them, to ensure that they no longer had any influence in his domain."</text>
 </event>
 <event name="SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_27" unique="true">
 	<text>"The Pale Prince had a close relationship with Dawn, the daughter of the Dreamer. In the Blooming Garden, he was nothing more than a guest who had fled his homeland due to a developing illness. Dawn saw her love in this mortal, and, of course, he reciprocated her attentions. But, in the end, it was he who caused the fall of the last ark of life of that time."</text>
 </event>
 <event name="SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_28" unique="true">
-	<text>"The Prince of the Abyss once broke free from his chains. It was after his liberation that Darkness entered the Aleer's Sleep - he became its vessel and ruler. But his Darkness is not the Darkness of the Postulate. It is a noble, living Darkness. A Darkness in which sparks of hope constantly appear."</text>
+	<text>"The Prince of the Abyss once broke free from his chains. It was after his liberation that Darkness entered the Alseer's Sleep - he became its vessel and ruler. But his Darkness is not the Darkness of the Postulate. It is a noble, living Darkness. A Darkness in which sparks of hope constantly appear."</text>
 </event>
 <event name="SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_29" unique="true">
 	<text>"Guardians of the three realms are still alive today. They have endured... numerous changes, not only externally, but also internally. However, one thing is certain: they defend their possessions in their own way, albeit sometimes using very radical methods that may seem cruel."</text>
@@ -165,7 +165,7 @@
 		</event>
 	</choice>
 	<choice hidden="true">
-		<text>Ignore him.</text>
+		<text>Ignore it.</text>
 		<event>
 			<text>"Your business."</text>
 		</event>
@@ -208,7 +208,7 @@
 	<text>"My captor was dubbed the Person of Exceptional Importance. He was the first ambassador of the Thesis' Incarnation who decided to arrange an official meeting with the Fleet of Six Sickles - the established defenders of the Alseer's Sleep. Their meeting went... to put it mildly, awkwardly. Broadly speaking, he threatened to launch a full-scale invasion of their precious worlds by the forces of the Postulate if they did not stop resisting the natural end of history. His own brother, Mourner, was supposed to assassinate him, but due to one mistake, he was unable to do so. This is probably why the future of the Alseer's Sleep now looks so blurred, uncertain, and even dramatic."</text>
 </event>
 <event name="SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_43" unique="true">
-	<text>"Thila. THILA-X. Optimal solution search protocol. This is the real reason why the Miracle Seekers are in such a difficult situation at the moment. She arranged everything so that they would be transported to the Jester's domain and end up in this universe. But they are not her target. Her target is me. By capturing me, she will be able to study our common enemy. I would not want that to happen. No one would want that to happen, no matter what. Better to perish in the eternal grip of Darkness than in her embrace."
+	<text>"Thila. THILA-X. Optimal Solution Search Protocol. This is the real reason why the Miracle Seekers are in such a difficult situation at the moment. She arranged everything so that they would be transported to the Jester's domain and end up in this universe. But they are not her target. Her target is me. By capturing me, she will be able to study our common enemy. I would not want that to happen. No one would want that to happen, no matter what. Better to perish in the eternal grip of Darkness than in her embrace."
 	
 	"Just in case, I didn't tell you this. Miracle Seekers are not yet ready to face the truth. Although they are only pawns in her grand, terrible plans. I'll say more - one of the Miracle Seekers is an agent of Thila herself, and no one even suspects it. But who exactly - even I don't know yet. Let this be food for thought, if you're interested at all."</text>
 </event>

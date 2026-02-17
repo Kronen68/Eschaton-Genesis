@@ -12,7 +12,8 @@
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
+		<removeNebula>true</removeNebula>
 		<aggressive>2</aggressive>
 	</quest>
 	<jumpEvent>SPACE_RIFT_CLEAR_MUSIC</jumpEvent>
@@ -24,7 +25,7 @@
 	<choice hidden="true">
 		<text>Accept the transmission.</text>
 		<event>
-			<text>You accept the transmission, and a pre-recorded message begins to play in your piloting. You hear a synthesized male voice that clearly does not belong to a living being. "Finally, someone is interested in me. I managed to escape from my own decaying universe, but I am stuck in the space between worlds, like all those who tried to escape from my "homeland" with me. Every year there are more and more of them, and there is very little room for all of us in this swamp between universes, and I'm tired of their company. Whoever you are, I propose a deal: I will redirect these creatures to you, and you deal with them in any way you see fit; I know how to pay. If you want to carry out this simple task, just send the message “I accept” to this space-time rift. Make sure you are strong enough to face these creatures - I take no pleasure in seeing more suffering than there already is."</text>
+			<text>You accept the transmission, and a pre-recorded message begins to play in your piloting. You hear a synthesized male voice that clearly does not belong to a living being. "Finally, someone is interested in me. I managed to escape from my own decaying universe, but I am stuck in the space between worlds, like all those who tried to escape from my "homeland" with me. Every year there are more and more of them, and there is very little room for all of us in this swamp between universes, and I'm tired of their company. Whoever you are, I propose a deal: I will redirect these creatures to you, and you deal with them in any way you see fit; I know how to pay. If you want to carry out this simple task, just send the message "I accept" to this space-time rift. Make sure you are strong enough to face these creatures - I take no pleasure in seeing more suffering than there already is."</text>
 
 			<choice hidden="true">
 				<text>Send the message "I accept."</text>
@@ -236,7 +237,7 @@
 			<choice hidden="true" req="ANTI_VIRUS">
 			<text>(Anti-Virus) Prevent a cyberattack.</text>
 			<event>
-				<text>(Anti-Virus) successfully repels the separatists' cyberattack. Time to go into battle.</text>
+				<text>Anti-Virus successfully repels the separatists' cyberattack. Time to go into battle.</text>
 				<status type="clear" target="player" system="shields" amount="100"/>
 				<status type="clear" target="player" system="medbay" amount="100"/>
 				<status type="clear" target="player" system="clonebay" amount="100"/>
@@ -385,7 +386,7 @@
 <event name="SPACE_RIFT_GEM_1_WIN">
 	<text>After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.
 	
-	“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
+	"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
 	<changeBackground>EG_SPACE_RIFT_BG_WIN</changeBackground>
 	<unlockCustomShip silent="false">PLAYER_EG_GEM</unlockCustomShip>
 	<metaVariable name="jester_win_gem" op="set" val="1"/>
@@ -423,7 +424,7 @@
 <event name="SPACE_RIFT_GEM_2_WIN">
 	<text>After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.
 	
-	“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
+	"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
 	<changeBackground>EG_SPACE_RIFT_BG_WIN</changeBackground>
 	<unlockCustomShip silent="false">PLAYER_EG_GEM_2</unlockCustomShip>
 	<metaVariable name="jester_win_gem" op="set" val="1"/>
@@ -461,7 +462,7 @@
 <event name="SPACE_RIFT_GEM_3_WIN">
 	<text>After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.
 	
-	“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
+	"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart." Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here.</text>
 	<changeBackground>EG_SPACE_RIFT_BG_WIN</changeBackground>
 	<unlockCustomShip silent="false">PLAYER_EG_GEM_3</unlockCustomShip>
 	<item_modify>
@@ -571,7 +572,6 @@
 		<event name="DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_5"/>
 		<event name="DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_10"/>
 		<event name="DREAMSEEKER_PRAYER_ENEMY_NOTHING"/>
-		<event name="DREAMSEEKER_PRAYER_ENEMY_NOTHING"/>
 	</loadEventList>
 </event>
 
@@ -640,7 +640,7 @@
 </ship>
 
 <event name="SPACE_RIFT_CLEAR_MUSIC">
-    <playMusic/>
+	<playMusic/>
 </event>
 
 </FTL>

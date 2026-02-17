@@ -8,21 +8,23 @@
 <customTextStyle enabled="true"/>
 
 <mod:findLike type="scripts">
-	<mod-append:script>data/eg_scripts/mirrored_resist.lua</mod-append:script>
-	<mod-append:script>data/eg_scripts/crew_gives_scrap.lua</mod-append:script>
+	<mod-append:script>data/eg_scripts/eg_mirrored_resist.lua</mod-append:script>
+	<mod-append:script>data/eg_scripts/eg_crew_gives_scrap.lua</mod-append:script>
+	<mod-append:script>data/eg_scripts/eg_autorepair_thing.lua</mod-append:script>
 </mod:findLike>
 
 <events>
 
-	<bossShip>EG_ENEMY_ROBUR</bossShip>
-	<bossShip>EG_ENEMY_GEM_1</bossShip>
-	<bossShip>EG_ENEMY_GEM_2</bossShip>
-	<bossShip>EG_ENEMY_GEM_3</bossShip>
-	<bossShip>EG_ENEMY_REAPER</bossShip>
-	<bossShip>EG_ENEMY_DREAMSEEKER</bossShip>
-	<bossShip>EG_ENEMY_MIRACLE_SEEKERS</bossShip>
-	<bossShip>EG_ENEMY_GOLIATH</bossShip>
-	<bossShip>EG_ENEMY_TERMITES</bossShip>
+	<bossShip yOffset="125">EG_ENEMY_ROBUR</bossShip>
+	<bossShip yOffset="125">EG_ENEMY_GEM_1</bossShip>
+	<bossShip yOffset="125">EG_ENEMY_GEM_2</bossShip>
+	<bossShip yOffset="125">EG_ENEMY_GEM_3</bossShip>
+	<bossShip yOffset="125">EG_ENEMY_REAPER</bossShip>
+	<bossShip yOffset="80">EG_ENEMY_DREAMSEEKER</bossShip>
+	<bossShip yOffset="80">EG_ENEMY_MIRACLE_SEEKERS</bossShip>
+	<bossShip yOffset="80">EG_ENEMY_GOLIATH</bossShip>
+	<bossShip yOffset="80">EG_ENEMY_TERMITES</bossShip>
+	<bossShip yOffset="80">EG_ENEMY_NEOSTAR</bossShip>
 	
 	<metaVariable name="juke_spaceriftevent" op="set" val="0"/>
 	<metaVariable name="juke_miracleseekers" op="set" val="0"/>
@@ -50,7 +52,9 @@
 	<variable name="seekers_quest_started" op="set" val="0"/>
 	<variable name="seekers_shop_visited" op="set" val="0"/>
 	<variable name="seekers_gift_taked" op="set" val="0"/>
-	<variable name="seekers_task_failed" op="set" val="0"/>
+	<variable name="eg_seekers_task_failed" op="set" val="0"/>
+	
+	<variable name="seekers_corporate_visited" op="set" val="0"/>
 	
 	<variable name="space_rift_quest_accepted" op="set" val="0"/>
 	<variable name="white_thread_quest_accepted" op="set" val="0"/>
@@ -58,15 +62,35 @@
 	<variable name="warmth_quest_accepted" op="set" val="0"/>
 	<variable name="horn_of_god_quest_accepted" op="set" val="0"/>
 	<variable name="alliance_agreement_quest_accepted" op="set" val="0"/>
+	<variable name="neostar_form_quest_accepted" op="set" val="0"/>
 
 	<variable name="thank_you_counter" op="set" val="0"/>
 	<variable name="helped_lesser_guardian" op="set" val="0"/>
 	<variable name="termite_doors_unlocked" op="set" val="0"/>
 	<variable name="termite_location_received" op="set" val="0"/>
 	<variable name="termites_contacted" op="set" val="0"/>
+	<variable name="alliance_miracle_received" op="set" val="0"/>
+	<variable name="alliance_miracle_info" op="set" val="0"/>
+	<variable name="alliance_miracle_questions_answered" op="set" val="0"/>
+	<variable name="alliance_miracle_total_questions" op="set" val="0"/>
 
 	<variable name="miniature_asb" op="set" val="0"/>
+	<variable name="second_voice_civilian" op="set" val="0"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	
 	<variable name="neostar_loyalty_program" op="set" val="0"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="0"/>
+	<variable name="neostar_cargo_available_task" op="set" val="0"/>
+	<variable name="neostar_cargo_check" op="set" val="0"/>
+	<variable name="neostar_loyalty_program_chance_used" op="set" val="0"/>
+	
+	<variable name="neostar_req_loyalty_program_1" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_2" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_3" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_4" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_5" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_6" op="set" val="0"/>
+	<variable name="neostar_req_loyalty_program_7" op="set" val="0"/>
 	<variable name="neostar_loyalty_program_final" op="set" val="0"/>
 	
 	<metaVariable name="miracle_seeker_marauder_tricks" op="set" val="0"/>
@@ -83,19 +107,139 @@
 	<variable name="termite_language" op="set" val="0"/>
 	<variable name="termite_insect_meat" op="set" val="0"/>
 	
-	<variable name="eg_seekers_met" op="set" val="0"/> <!-- Thank you Arc -->
+	<metaVariable name="eg_corporate_when_we_get_to_know_each_other_better" op="set" val="0"/>
+	<metaVariable name="eg_corporate_debt" op="set" val="0"/>
+
+	<metaVariable name="eg_puzzle_piece_1" op="set" val="0"/>
+	<metaVariable name="eg_puzzle_piece_2" op="set" val="0"/>
+	<metaVariable name="eg_puzzle_piece_3" op="set" val="0"/>
+	<metaVariable name="eg_puzzle_piece_4" op="set" val="0"/>
+	<metaVariable name="eg_puzzle_piece_5" op="set" val="0"/>
+	
+	<variable name="eg_miracle_seekers_met" op="set" val="0"/> <!-- Thank you Arc -->
 	<req name="SEEKERS_SPAWN_CHECK" type="all">
 		<req lvl="3" max_lvl="3">
 			<name>loc_sector_count</name>
 		</req>
 	<req lvl="0" max_lvl="0">
-		<name>eg_seekers_met</name>
+		<name>eg_miracle_seekers_met</name>
 	</req>
+	</req>
+	
+	<req name="EG_CORPORATE_FREE_SCRAP" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>eg_corporate_debt</name>
+		</req>
+		<req lvl="1">
+			<name>eg_corporate_when_we_get_to_know_each_other_better</name>
+		</req>
+	</req>
+	
+	<req name="EG_CIVILIAN_BUTTON_USABLE" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>loc_laststand</name>
+		</req>
+		<req lvl="1">
+			<name>second_voice_civilian</name>
+		</req>
+	</req>
+	
+	<req name="EG_SECOND_VOICE_REQ_REAL" type="all">
+		<req>	
+			<name>EG_SHIP_SECOND_VOICE</name>
+		</req>
+		<req lvl="1">
+			<name>eg_second_voice_req</name>
+		</req>
+	</req>
+	
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_1" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_1</name>
+		</req>
+		<req lvl="4">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_2" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_2</name>
+		</req>
+		<req lvl="7">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_3" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_3</name>
+		</req>
+		<req lvl="10">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_4" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_4</name>
+		</req>
+		<req lvl="15">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_5" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_5</name>
+		</req>
+		<req lvl="20">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_6" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_6</name>
+		</req>
+		<req lvl="25">
+			<name>neostar_loyalty_program</name>
+		</req>
+	</req>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_7" type="all">
+		<req lvl="0" max_lvl="0">
+			<name>neostar_req_loyalty_program_7</name>
+		</req>
+		<req lvl="30">
+			<name>neostar_loyalty_program</name>
+		</req>
 	</req>
 
-	<eventFile>special_miracleseekers</eventFile>
-	<eventFile>special_mirrored</eventFile>
-	<eventFile>special_jesterspacerift</eventFile>
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_FINAL" type="all">
+		<req lvl="1" type="all">
+			<name>neostar_req_loyalty_program_1</name>
+			<name>neostar_req_loyalty_program_2</name>
+			<name>neostar_req_loyalty_program_3</name>
+			<name>neostar_req_loyalty_program_4</name>
+			<name>neostar_req_loyalty_program_5</name>
+			<name>neostar_req_loyalty_program_6</name>
+			<name>neostar_req_loyalty_program_7</name>
+		</req>
+		<req lvl="0" max_lvl="0">
+			<name>neostar_loyalty_program_final</name>
+		</req>
+	</req>
+
+	<req name="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE" type="all">
+		<req lvl="1">
+			<name>loc_laststand</name>
+		</req>
+		<req lvl="27" max_lvl="29">
+			<name>neostar_loyalty_program_final</name>
+		</req>
+		<req lvl="0" max_lvl="0">
+			<name>neostar_loyalty_program_chance_used</name>
+		</req>
+	</req>
+
+	<eventFile>special_eg_neostar_cargo</eventFile>
+	<eventFile>special_eg_miracle_seekers</eventFile>
+	<eventFile>special_eg_jester_space_rift</eventFile>
 
 </events>
 	
@@ -115,6 +259,7 @@
 		<canSabotage>false</canSabotage>
 		<canMan>false</canMan>
 		<canTeleport>false</canTeleport>
+		<validTarget>false</validTarget>
 		<crewSlots>0</crewSlots>
 		<deathEffect>
 			<spawnCrew>
@@ -175,7 +320,7 @@
 			<activateWhenReady enemiesOnly="true">true</activateWhenReady>
 			<buttonText>POWER</buttonText>
 			<tooltip>[COOLDOWN:55s]
-				Allows the ship to ignore all hull damage (except damage from sabotage) for 6 seconds.</tooltip>
+				Allows the ship to ignore system damage with 50% chance and hull damage with 100% chance (except damage from sabotage) for 7 seconds.</tooltip>
 			<cooldownColor r="125" g="185" b="185"/>
 			<temporaryEffect>
 				<duration>6</duration>
@@ -231,17 +376,17 @@
 		<maxHealth>350</maxHealth>
 		<lowHealthThreshold>2500.0</lowHealthThreshold>
 		<lowHealthThresholdPercentage>0.2</lowHealthThresholdPercentage>
-		<moveSpeedMultiplier>0.7</moveSpeedMultiplier>
+		<moveSpeedMultiplier>0.65</moveSpeedMultiplier>
 		<allDamageTakenMultiplier>0.9</allDamageTakenMultiplier>
 		<defaultSkillLevel>2</defaultSkillLevel>
 		<damageMultiplier>0.35</damageMultiplier>
 		<noClone>true</noClone>
 		<powerEffect>
 			<buttonText>NEURAL IMP.</buttonText>
-			<tooltip>[COOLDOWN:25s]
-				Activation of neural implant. Each member of the White Guard on your ship and the enemy ship receives a 2.2x multiplier to damage in combat, speed, repair speed, and sabotage speed, as well as 2.5 HP/s regeneration for 15 seconds.</tooltip>
+			<tooltip>[COOLDOWN:20s]
+				Activation of neural implant. Each member of the White Guard on your ship and the enemy ship receives a 2.2x multiplier to damage in combat, speed, repair speed, and sabotage speed, as well as 2 HP/s regeneration for 15 seconds.</tooltip>
 			<cooldownColor r="255" g="255" b="255"/>
-			<cooldown>25</cooldown>
+			<cooldown>20</cooldown>
 			<jumpCooldown>reset</jumpCooldown>
 			<powerSounds>
 				<powerSound>shieldsUp</powerSound>
@@ -260,18 +405,16 @@
 						<affectsSelf>false</affectsSelf>
 						<shipTarget>ALL</shipTarget>
 						<crewTarget>ALLIES</crewTarget>
-						<droneTarget>CREW</droneTarget>
 						<whiteList>
 							<white_guard/>
 						</whiteList>
 					</statBoost>
 					<statBoost name="passiveHealAmount">
 						<boostType>FLAT</boostType>
-						<amount>2.5</amount>
+						<amount>2</amount>
 						<affectsSelf>false</affectsSelf>
 						<shipTarget>ALL</shipTarget>
 						<crewTarget>ALLIES</crewTarget>
-						<droneTarget>CREW</droneTarget>
 						<whiteList>
 							<white_guard/>
 						</whiteList>
@@ -282,7 +425,6 @@
 						<affectsSelf>false</affectsSelf>
 						<shipTarget>ALL</shipTarget>
 						<crewTarget>ALLIES</crewTarget>
-						<droneTarget>CREW</droneTarget>
 						<whiteList>
 							<white_guard/>
 						</whiteList>
@@ -293,7 +435,6 @@
 						<affectsSelf>false</affectsSelf>
 						<shipTarget>ALL</shipTarget>
 						<crewTarget>ALLIES</crewTarget>
-						<droneTarget>CREW</droneTarget>
 						<whiteList>
 							<white_guard/>
 						</whiteList>
@@ -304,7 +445,6 @@
 						<affectsSelf>false</affectsSelf>
 						<shipTarget>ALL</shipTarget>
 						<crewTarget>ALLIES</crewTarget>
-						<droneTarget>CREW</droneTarget>
 						<whiteList>
 							<white_guard/>
 						</whiteList>
@@ -325,11 +465,11 @@
 	</mod-append:race>
 	<mod-append:race name="white_guard">
 		<essential>1</essential>
-		<maxHealth>180</maxHealth>
+		<maxHealth>170</maxHealth>
 		<lowHealthThreshold>2500.0</lowHealthThreshold>
 		<lowHealthThresholdPercentage>0.3</lowHealthThresholdPercentage>
-		<damageMultiplier>1.5</damageMultiplier>
-		<moveSpeedMultiplier>1.5</moveSpeedMultiplier>
+		<damageMultiplier>1.35</damageMultiplier>
+		<moveSpeedMultiplier>1.35</moveSpeedMultiplier>
 		<defaultSkillLevel>1</defaultSkillLevel>
 		<cloneLoseSkills>false</cloneLoseSkills>
 		<deathSounds>
@@ -359,7 +499,6 @@
 				<affectsSelf>false</affectsSelf>
 				<shipTarget>CURRENT_ROOM</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<priority>0</priority>
 				<whiteList>
 					<eg_termite/>
@@ -371,7 +510,6 @@
 				<affectsSelf>false</affectsSelf>
 				<shipTarget>CURRENT_ROOM</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<priority>0</priority>
 				<whiteList>
 					<eg_termite/>
@@ -379,7 +517,7 @@
 			</statBoost>
 		</passiveStatBoosts>
 		<animSheet>eg_termite</animSheet>
-		<animBase>eg_termite</animBase>
+		<animBase>mantis</animBase>
 		<deathSounds>
 			<deathSound>mantisDeath</deathSound>
 		</deathSounds>
@@ -394,7 +532,7 @@
 		<maxHealth>400</maxHealth>
 		<lowHealthThreshold>2500.0</lowHealthThreshold>
 		<lowHealthThresholdPercentage>0.2</lowHealthThresholdPercentage>
-		<moveSpeedMultiplier>0.6</moveSpeedMultiplier>
+		<moveSpeedMultiplier>0.55</moveSpeedMultiplier>
 		<allDamageTakenMultiplier>0.9</allDamageTakenMultiplier>
 		<animSheet>unique_white_clone</animSheet>
 		<defaultSkillLevel>2</defaultSkillLevel>
@@ -412,7 +550,7 @@
 		</repairSounds>
 	</mod-append:race>
 	
-	<mod-append:race name="second_voice_officiary">
+	<mod-append:race name="eg_second_voice_officiary">
 		<essential>1</essential>
 		<maxHealth>100</maxHealth>
 		<lowHealthThreshold>2500.0</lowHealthThreshold>
@@ -421,7 +559,6 @@
 		<fireDamageMultiplier>0.83</fireDamageMultiplier>
 		<canRepair>false</canRepair>
 		<canMan>false</canMan>
-		<canTeleport>false</canTeleport>
 		<crewSlots>0.5</crewSlots>
 		<deathSounds>
 			<deathSound>death1</deathSound>
@@ -435,14 +572,49 @@
 
 <augments>
 
+	<aug name="EG_CORPORATE_GIFT">
+		<statBoosts>
+			<statBoost name="repairSpeed">
+				<boostType>FLAT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>0.2</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="moveSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>1.2</amount>
+				<priority>0</priority>
+			</statBoost>
+			<statBoost name="healSpeed">
+				<boostType>MULT</boostType>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<amount>1.3</amount>
+				<priority>0</priority>
+			</statBoost>
+		</statBoosts>
+	</aug>
+
+	<aug name="EG_SECOND_VOICE_CIVIL">
+		<function name="SCRAP_COLLECTOR" value="0.25" useForReqs="false"/>
+		<function name="AUTO_COOLDOWN" value="0.10" useForReqs="false"/>
+		<function name="SHIELD_RECHARGE" value="0.15" useForReqs="false" warning="false"/>
+		<locked/>
+	</aug>
+
+	<aug name="EG_LOYALTY_PROGRAM">
+		<locked/>
+	</aug>
+
 	<aug name="EG_DREAM_SEEKER_HEART">
-		<function name="FAST_MIND" value="1" useForReqs="true" warning="false"/>
 		<statBoosts>
 			<statBoost name="resistsMindControl">
 				<boostType>SET</boostType>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>CURRENT_ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<value>true</value>
 				<priority>0</priority>
 			</statBoost>			
@@ -475,6 +647,7 @@
     	<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false"/>
 		<crystalShard weapon="EG_GEM_ARMOR_VIOLET" value="1.0" stackable="false"/>
     	<function name="ION_ARMOR" value="0.5" useForReqs="true"/>
+		<function name="ARTILLERY_ORDER" value="1" useForReqs="true" warning="false"/>
 		<icon>icon_gem_violet_armor</icon>
 		<locked/>
     </aug>
@@ -482,13 +655,15 @@
     	<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false"/>
 		<crystalShard weapon="EG_GEM_ARMOR_CYAN" value="1.0" stackable="false"/>
 		<function name="SLUG_GEL" value="1" useForReqs="false"/>
+		<function name="ARTILLERY_ORDER" value="1" useForReqs="true" warning="false"/>
 		<icon>icon_gem_cyan_armor</icon>
 		<locked/>
-    </aug>
+	</aug>
 	<aug name="EG_GEM_CORAL">
-    	<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false"/>
+		<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false"/>
 		<crystalShard weapon="EG_GEM_ARMOR_CORAL" value="1.0" stackable="false"/>
 		<function name="FIRE_EXTINGUISHERS" value="1" useForReqs="false" warning="false"/>
+		<function name="ARTILLERY_ORDER" value="1" useForReqs="true" warning="false"/>
 		<icon>icon_gem_coral_armor</icon>
 		<locked/>
     </aug>
@@ -579,7 +754,6 @@
 			<boostType>SET</boostType>
 			<shipTarget>ALL</shipTarget>
 			<crewTarget>CURRENT_ALLIES</crewTarget>
-			<droneTarget>CREW</droneTarget>
 			<value>true</value>
 			<priority>0</priority>
 		</statBoost>			
@@ -659,7 +833,6 @@
 				<boostType>MULT</boostType>
 				<shipTarget>ORIGINAL_SHIP</shipTarget>
 				<crewTarget>CURRENT_ALLIES</crewTarget>
-				<droneTarget>DRONES</droneTarget>
 				<amount>0.5</amount>
 				<priority>0</priority>
 			</statBoost>
@@ -688,7 +861,6 @@
 				<boostType>MULT</boostType>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<amount>1.1</amount>
 				<priority>0</priority>
 				<blackList>
@@ -714,8 +886,7 @@
 				<boostType>MULT</boostType>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
-				<amount>1.1</amount>
+				<amount>1.15</amount>
 				<priority>0</priority>
 				<blackList>
 					<human_technician_drone/>
@@ -740,7 +911,6 @@
 				<boostType>FLAT</boostType>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<amount>1</amount>
 				<priority>0</priority>
 			</statBoost>
@@ -748,29 +918,26 @@
 				<boostType>MULT</boostType>
 				<shipTarget>ALL</shipTarget>
 				<crewTarget>ALLIES</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<amount>0.7</amount>
 				<priority>0</priority>
 			</statBoost>
 		</statBoosts>
-    </aug>
+	</aug>
 	<aug name="EG_SEARCHER_SENSE">
 		<function name="ADV_SCANNERS" value="2" useForReqs="true"/>
 		<function name="SLUG_GEL" value="1" useForReqs="false"/>
-		<function name="AUTOMATED_SHIP" value="3" useForReqs="true"/>
 		<locked/>
 	</aug>
 	<aug name="EG_TERMITE_COLONY">
-		<function name="SLUG_GEL" value="1.5" useForReqs="false"/>
+		<function name="SLUG_GEL" value="1" useForReqs="false"/>
 		<function name="ROCK_ARMOR" value="0.15" useForReqs="false" warning="false"/>
-		<function name="FIRE_EXTINGUISHERS" value="1" useForReqs="false" warning="false"/>
-		<function name="AUTOMATED_REPAIR" value="2.2"/>
+		<function name="FIRE_EXTINGUISHERS" value="3" useForReqs="false" warning="false"/>
+		<function name="EG_AUTO_REPAIR" value="3"/>
 		<statBoosts>
 			<statBoost name="teleportMove">
 				<boostType>SET</boostType>
 				<shipTarget>ORIGINAL_SHIP</shipTarget>
 				<crewTarget>ALL</crewTarget>
-				<droneTarget>CREW</droneTarget>
 				<value>true</value>
 				<whiteList load="LIST_CREW_INSECTOID"/>
 			</statBoost>
@@ -849,8 +1016,8 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<mod-append:ship>PLAYER_EG_SHIP_GLASSSHIP</mod-append:ship>
 		<mod-append:empty/>
 		<mod-append:empty/>
-		<mod-append:empty/>
-		<mod-append:empty/>
+		<mod-append:ship>PLAYER_EG_NEOSTAR</mod-append:ship>
+		<mod-append:ship>PLAYER_EG_SECOND_VOICE</mod-append:ship>
 		<mod-append:ship>PLAYER_EG_CREWSER</mod-append:ship>
 		<mod-append:empty/>
 
@@ -865,207 +1032,122 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<mod-append:empty/>
 		<mod-append:empty/>
 	</mod:findLike>
+	
+	<mod-append:ship name="PLAYER_EG_SECOND_VOICE" a="true" b="true" c="true">
+		<unlock variant="a" silent="false">
+            <type>4</type>
+        </unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_EG_SECOND_VOICE</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_EG_SECOND_VOICE_2</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_EG_SECOND_VOICE</shipReq>
+        </unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="PLAYER_EG_SECOND_VOICE">
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<hiddenAug>EG_SHIP_SECOND_VOICE</hiddenAug>
+		<crewLimit>6</crewLimit>
+		<systemLimit>8</systemLimit>
+		<cargoSlots>2</cargoSlots>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_EG_SECOND_VOICE_2">
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<hiddenAug>EG_SHIP_SECOND_VOICE</hiddenAug>
+		<rooms>
+            <room id="0"> 
+                <roomAnim renderLayer="0">resist_1x2</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+                <sysDamageResistChance>100</sysDamageResistChance>
+            </room>
+            <room id="5"> 
+                <roomAnim renderLayer="0">resist_2x1</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+                <sysDamageResistChance>100</sysDamageResistChance>
+            </room>
+            <room id="6"> 
+                <roomAnim renderLayer="0">resist_2x1</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+                <sysDamageResistChance>100</sysDamageResistChance>
+            </room>
+            <room id="9"> 
+                <roomAnim renderLayer="0">resist_2x1</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+                <sysDamageResistChance>100</sysDamageResistChance>
+            </room>
+            <room id="10"> 
+                <roomAnim renderLayer="0">resist_2x1</roomAnim>
+				<roomAnim renderLayer="3">resist_icon</roomAnim>
+                <sysDamageResistChance>100</sysDamageResistChance>
+            </room>
+		</rooms>
+		<crewLimit>6</crewLimit>
+		<systemLimit>8</systemLimit>
+		<cargoSlots>2</cargoSlots>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_EG_SECOND_VOICE_3">
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<hiddenAug>EG_SHIP_SECOND_VOICE</hiddenAug>
+		<crewLimit>6</crewLimit>
+		<systemLimit>8</systemLimit>
+		<cargoSlots>2</cargoSlots>
+	</mod-append:customShip>
 
-	<mod-append:customShip name="EG_ENEMY_TERMITES">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-			<shipIcon>icon_invasion</shipIcon>
-        </shipIcons>
-		<rooms>
-			<room id="0">
-				<roomAnim renderLayer="0">termite2x2</roomAnim>
-			</room>
-			<room id="1">
-				<roomAnim renderLayer="0">termite1x2</roomAnim>
-			</room>
-			<room id="2">
-				<roomAnim renderLayer="0">termite1x1</roomAnim>
-			</room>
-			<room id="3">
-				<roomAnim renderLayer="0">termite1x2</roomAnim>
-			</room>
-			<room id="4">
-				<roomAnim renderLayer="0">termite2x2</roomAnim>
-			</room>
-			<room id="5">
-				<roomAnim renderLayer="0">termite1x3</roomAnim>
-			</room>
-			<room id="6">
-				<roomAnim renderLayer="0">termite1x1</roomAnim>
-			</room>
-			<room id="7">
-				<roomAnim renderLayer="0">termite1x2</roomAnim>
-			</room>
-			<room id="8">
-				<roomAnim renderLayer="0">termite2x1</roomAnim>
-			</room>
-			<room id="9">
-				<roomAnim renderLayer="0">termite2x2</roomAnim>
-			</room>
-			<room id="10">
-				<roomAnim renderLayer="0">termite1x2</roomAnim>
-			</room>
-			<room id="11">
-				<roomAnim renderLayer="0">termite1x2</roomAnim>
-			</room>
-			<room id="12">
-				<roomAnim renderLayer="0">termite2x3</roomAnim>
-			</room>
-			<room id="13">
-				<roomAnim renderLayer="0">termite3x1</roomAnim>
-			</room>
-			<room id="14">
-				<roomAnim renderLayer="0">termite2x2</roomAnim>
-			</room>
-			<room id="15">
-				<roomAnim renderLayer="0">termite1x3</roomAnim>
-			</room>
-			<room id="16">
-				<roomAnim renderLayer="0">termite1x1</roomAnim>
-			</room>
-			<room id="17">
-				<roomAnim renderLayer="0">termite2x1</roomAnim>
-			</room>
-		</rooms>
+	<mod-append:ship name="PLAYER_EG_NEOSTAR" a="true" b="true" c="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_EG_NEOSTAR</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_EG_NEOSTAR_2</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_EG_NEOSTAR</shipReq>
+        </unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="PLAYER_EG_NEOSTAR">
+		<hiddenAug>EG_SHIP_NEOSTAR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+		<systemLimit>8</systemLimit>
+		<augSlots>4</augSlots>
+		<cargoSlots>10</cargoSlots>
 	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_GOLIATH">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-			<shipIcon>icon_backupdna</shipIcon>
-			<shipIcon>icon_bypass</shipIcon>
-        </shipIcons>
+	<mod-append:customShip name="PLAYER_EG_NEOSTAR_2">
+		<hiddenAug>EG_SHIP_NEOSTAR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crewLimit>8</crewLimit>
+		<systemLimit>8</systemLimit>
+		<augSlots>7</augSlots>
+		<cargoSlots>8</cargoSlots>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_EG_NEOSTAR_3">
+		<hiddenAug>EG_SHIP_NEOSTAR</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crew>
-			<unique_white_anomaly room="0" name="White"/>
-			<white_guard room="6"/>
-			<white_guard room="5"/>
-			<white_guard room="2"/>
-			<white_guard room="8"/>
-			<white_guard room="17"/>
+			<slug_hektar room="0" name="Bob"/>
+			<lizard room="1"/>
+			<lizard room="3"/>
 		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_LESSER_GUARDIAN">
-		<shipIcons>
-			<shipIcon>icon_lowthreat</shipIcon>
-        </shipIcons>
-		<crew>
-			<unique_slavik room="0" name="Slavik"/>
-			<mantis_free room="14"/>
-			<zoltan room="15"/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_MIRACLE_SEEKERS">
-		<shipIcons>
-			<shipIcon>icon_majorthreat</shipIcon>
-			<shipIcon>icon_auto_fed</shipIcon>
-        </shipIcons>
-		<crew>
-			<unique_mirrored name="Mirrored"/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_ROBUR">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-        </shipIcons>
-		<crew>
-			<rock_crusader name="Robur"/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_GEM_1">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-        </shipIcons>
-		<crew>
-			<crystal_sentinel/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_GEM_2">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-        </shipIcons>
-		<crew>
-			<crystal_sentinel/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_GEM_3">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-        </shipIcons>
-		<crew>
-			<crystal_sentinel/>
-		</crew>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_REAPER">
-		<rooms>
-			<room id="0">
-				<roomAnim renderLayer="0">gas_3x1</roomAnim>
-			</room>
-			<room id="1">
-				<roomAnim renderLayer="0">gas_3x1</roomAnim>
-			</room>
-			<room id="2">
-				<roomAnim renderLayer="0">gas_2x2</roomAnim>
-			</room>
-			<room id="3">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="4">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="5">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="6">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="7">
-				<roomAnim renderLayer="0">gas_2x2</roomAnim>
-			</room>
-			<room id="8">
-				<roomAnim renderLayer="0">gas_2x2</roomAnim>
-			</room>
-			<room id="9">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="10">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="11">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="12">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="13">
-				<roomAnim renderLayer="0">gas_2x2</roomAnim>
-			</room>
-			<room id="14">
-				<roomAnim renderLayer="0">gas_1x1</roomAnim>
-			</room>
-			<room id="15">
-				<roomAnim renderLayer="0">gas_1x1</roomAnim>
-			</room>
-			<room id="16">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-			<room id="17">
-				<roomAnim renderLayer="0">gas_1x2</roomAnim>
-			</room>
-		</rooms>
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-			<shipIcon>icon_backupdna</shipIcon>
-			<shipIcon>icon_shieldboost</shipIcon>
-        </shipIcons>
-	</mod-append:customShip>
-	<mod-append:customShip name="EG_ENEMY_DREAMSEEKER">
-		<shipIcons>
-			<shipIcon>icon_threat</shipIcon>
-        </shipIcons>
-		<crew>
-			<human_medic/>
-			<human_medic/>
-			<human_medic/>
-		</crew>
+		<crewLimit>8</crewLimit>
+		<systemLimit>8</systemLimit>
+		<augSlots>4</augSlots>
+		<cargoSlots>8</cargoSlots>
 	</mod-append:customShip>
 
 	<mod-append:ship name="PLAYER_EG_DREAMSEEKER" a="true" b="true" c="true">
@@ -1109,6 +1191,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 	</mod-append:customShip>
 	
 	<mod-append:ship name="PLAYER_EG_GEM" a="true" b="true" c="true">
+		<splitUnlockQuestAchievement>false</splitUnlockQuestAchievement>
 		<unlock variant="a" silent="false">
             <type>4</type>
         </unlock>
@@ -1292,16 +1375,6 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<hiddenAug>EG_SHIP_SEARCHER</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>MVBOSS_SPAWNER</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
 		<crewLimit>5</crewLimit>
 		<systemLimit>7</systemLimit>
 	</mod-append:customShip>
@@ -1309,16 +1382,6 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<hiddenAug>EG_SHIP_SEARCHER</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>MVBOSS_SPAWNER</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
-		<hiddenAug>FUSION_NO_BREACH</hiddenAug>
 		<crewLimit>5</crewLimit>
 		<systemLimit>7</systemLimit>
 	</mod-append:customShip> -->
@@ -1390,6 +1453,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<hiddenAug>EG_SHIP_TERMITES</hiddenAug>
 		<crewLimit>8</crewLimit>
 		<systemLimit>9</systemLimit>
+		<customReactor maxLevel="30"/>
 		<rooms>
             <room id="0"> 
                 <roomAnim renderLayer="0">termite2x2</roomAnim>
@@ -1513,7 +1577,6 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 	<mod-append:customShip name="PLAYER_EG_GOLIATH">
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>EG_SHIP_GOLIATH</hiddenAug>
-		<hiddenAug>LAB_HUMAN_BASIC_SACRIFICE</hiddenAug>
 		<crew>
 			<unique_white_clone room="0" name="White"/>
 			<white_guard room="1"/>
@@ -1526,7 +1589,6 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 	<mod-append:customShip name="PLAYER_EG_GOLIATH_2">
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>EG_SHIP_GOLIATH</hiddenAug>
-		<hiddenAug>LAB_HUMAN_BASIC_SACRIFICE</hiddenAug>
 		<crew>
 			<unique_white_clone room="3" name="White"/>
 			<white_guard room="15"/>
@@ -1536,11 +1598,11 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		</crew>
 		<crewLimit>8</crewLimit>
 		<systemLimit>8</systemLimit>
+		<customReactor maxLevel="28"/>
 	</mod-append:customShip>
 	<mod-append:customShip name="PLAYER_EG_GOLIATH_3">
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>EG_SHIP_GOLIATH</hiddenAug>
-		<hiddenAug>LAB_HUMAN_BASIC_SACRIFICE</hiddenAug>
 		<crew>
 			<unique_white_clone room="0" name="White"/>
 			<white_guard room="1"/>
@@ -1551,6 +1613,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		</crew>
 		<crewLimit>16</crewLimit>
 		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="30"/>
 	</mod-append:customShip>
 	<mod-append:ship name="PLAYER_EG_REAPER" a="true" b="true" c="true">
 		<unlock variant="a" silent="false">
@@ -1900,7 +1963,6 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 	<mod-append:customShip name="PLAYER_EG_CREWSER">
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<hiddenAug>EG_SHIP_DAVID</hiddenAug>
-		<hiddenAug>LAB_HUMAN_BASIC_SACRIFICE</hiddenAug>
 		<crew>
 			<unique_white_clone room="7" name="White"/>
 			<white_guard room="14" name="Adam Berkeley"/>
@@ -1924,6 +1986,227 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 		<crewLimit>8</crewLimit>
 		<systemLimit>9</systemLimit>
 	</mod-append:customShip>
+	
+	<mod-append:customShip name="EG_ENEMY_NEOSTAR">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_respirators</shipIcon>
+			<shipIcon>icon_extinguishers</shipIcon>
+		</shipIcons>
+		<crew>
+			<slug_hektar room="0" name="Bob"/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_ERUDITE_DRONE">
+		<shipIcons>
+			<shipIcon>icon_auto</shipIcon>
+			<shipIcon>icon_no2</shipIcon>
+		</shipIcons>
+		<noFuelStalemate/>
+		<noJump/>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_TERMITES">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_invasion</shipIcon>
+        </shipIcons>
+		<rooms>
+			<room id="0">
+				<roomAnim renderLayer="0">termite2x2</roomAnim>
+			</room>
+			<room id="1">
+				<roomAnim renderLayer="0">termite1x2</roomAnim>
+			</room>
+			<room id="2">
+				<roomAnim renderLayer="0">termite1x1</roomAnim>
+			</room>
+			<room id="3">
+				<roomAnim renderLayer="0">termite1x2</roomAnim>
+			</room>
+			<room id="4">
+				<roomAnim renderLayer="0">termite2x2</roomAnim>
+			</room>
+			<room id="5">
+				<roomAnim renderLayer="0">termite1x3</roomAnim>
+			</room>
+			<room id="6">
+				<roomAnim renderLayer="0">termite1x1</roomAnim>
+			</room>
+			<room id="7">
+				<roomAnim renderLayer="0">termite1x2</roomAnim>
+			</room>
+			<room id="8">
+				<roomAnim renderLayer="0">termite2x1</roomAnim>
+			</room>
+			<room id="9">
+				<roomAnim renderLayer="0">termite2x2</roomAnim>
+			</room>
+			<room id="10">
+				<roomAnim renderLayer="0">termite1x2</roomAnim>
+			</room>
+			<room id="11">
+				<roomAnim renderLayer="0">termite1x2</roomAnim>
+			</room>
+			<room id="12">
+				<roomAnim renderLayer="0">termite2x3</roomAnim>
+			</room>
+			<room id="13">
+				<roomAnim renderLayer="0">termite3x1</roomAnim>
+			</room>
+			<room id="14">
+				<roomAnim renderLayer="0">termite2x2</roomAnim>
+			</room>
+			<room id="15">
+				<roomAnim renderLayer="0">termite1x3</roomAnim>
+			</room>
+			<room id="16">
+				<roomAnim renderLayer="0">termite1x1</roomAnim>
+			</room>
+			<room id="17">
+				<roomAnim renderLayer="0">termite2x1</roomAnim>
+			</room>
+		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_GOLIATH">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_backupdna</shipIcon>
+			<shipIcon>icon_bypass</shipIcon>
+        </shipIcons>
+		<crew>
+			<unique_white_anomaly room="0" name="White"/>
+			<white_guard room="6"/>
+			<white_guard room="5"/>
+			<white_guard room="2"/>
+			<white_guard room="8"/>
+			<white_guard room="17"/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_LESSER_GUARDIAN">
+		<shipIcons>
+			<shipIcon>icon_lowthreat</shipIcon>
+        </shipIcons>
+		<crew>
+			<unique_slavik room="0" name="Slavik"/>
+			<mantis_free room="14"/>
+			<zoltan room="15"/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_MIRACLE_SEEKERS">
+		<shipIcons>
+			<shipIcon>icon_majorthreat</shipIcon>
+			<shipIcon>icon_auto_fed</shipIcon>
+        </shipIcons>
+		<crew>
+			<unique_mirrored name="Mirrored"/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_ROBUR">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<crew>
+			<rock_crusader name="Robur"/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_GEM_1">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<crew>
+			<crystal_sentinel/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_GEM_2">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<crew>
+			<crystal_sentinel/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_GEM_3">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<crew>
+			<crystal_sentinel/>
+		</crew>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_REAPER">
+		<rooms>
+			<room id="0">
+				<roomAnim renderLayer="0">gas_3x1</roomAnim>
+			</room>
+			<room id="1">
+				<roomAnim renderLayer="0">gas_3x1</roomAnim>
+			</room>
+			<room id="2">
+				<roomAnim renderLayer="0">gas_2x2</roomAnim>
+			</room>
+			<room id="3">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="4">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="5">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="6">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="7">
+				<roomAnim renderLayer="0">gas_2x2</roomAnim>
+			</room>
+			<room id="8">
+				<roomAnim renderLayer="0">gas_2x2</roomAnim>
+			</room>
+			<room id="9">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="10">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="11">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="12">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="13">
+				<roomAnim renderLayer="0">gas_2x2</roomAnim>
+			</room>
+			<room id="14">
+				<roomAnim renderLayer="0">gas_1x1</roomAnim>
+			</room>
+			<room id="15">
+				<roomAnim renderLayer="0">gas_1x1</roomAnim>
+			</room>
+			<room id="16">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+			<room id="17">
+				<roomAnim renderLayer="0">gas_1x2</roomAnim>
+			</room>
+		</rooms>
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+			<shipIcon>icon_backupdna</shipIcon>
+			<shipIcon>icon_shieldboost</shipIcon>
+        </shipIcons>
+	</mod-append:customShip>
+	<mod-append:customShip name="EG_ENEMY_DREAMSEEKER">
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+        </shipIcons>
+		<crew>
+			<human_medic/>
+			<human_medic/>
+			<human_medic/>
+		</crew>
+	</mod-append:customShip>
+	
 </mod:findLike>
 
 <achievements>
@@ -1934,7 +2217,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
                 <description>To the one who unraveled the threads that began the story of the Miracle Seekers in this cluster of universes.</description>
 				<variable name="miracle_white_thread" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
             </achievement>
             <achievement name="ACH_MIRACLE_THE_WARMTH">
@@ -1942,7 +2225,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
                 <description>To the one who showed kindness and was able to protect the innocent</description>
 				<variable name="miracle_warmth" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
             </achievement>
             <achievement name="ACH_MIRACLE_HORN_OF_GOD">
@@ -1950,7 +2233,7 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
                 <description>To the one who was able to bring reason to the unfortunate creatures who mourned the death of their god.</description>
 				<variable name="miracle_horn_of_god" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
             </achievement>
             <achievement name="ACH_MIRACLE_THANKS">
@@ -1958,43 +2241,43 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
                 <description>To the one who showed the highest degree of appreciation - gratitude.</description>
 				<variable name="miracle_thanks" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
             </achievement>
-			<achievement name="ACH_CONTINUITY_VIOLATOR_MUSIC">
-                <name>(You are) Violator of Continuity</name>
-                <description>Link your destiny and the destiny of this cluster of universes to the activities of the Miracle Seekers.</description>
-				<variable name="juke_continuityviolator" amount="1"/>
-                <icon>music_unlocked</icon>
+            <achievement name="ACH_MIRACLE_ALLIANCE_AGREEMENT">
+                <name>Alliance Agreement</name>
+                <description>To the one who has gone through all the circles of juridical hell and demonstrated their brilliant knowledge in a certain area.</description>
+				<variable name="miracle_alliance_agreement" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
             </achievement>
-            <achievement name="ACH_MIRACLE_SEEKERS_MUSIC">
-                <name>Their Perceptive Gaze</name>
-                <description>Become a trusted visitor to the Miracle Seekers station and gain access to their Database.</description>
-				<variable name="juke_miracleseekers" amount="1"/>
-                <icon>music_unlocked</icon>
+            <achievement name="ACH_MIRACLE_NEOSTAR_FORM">
+                <name>Neostar Form</name>
+                <description>To the one who stopped the invasion of yet another Multiversal megacorporation.</description>
+				<variable name="miracle_neostar_form" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<multiDifficulty>true</multiDifficulty>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
             </achievement>
         </section>
 		
 		<section text="Hunter's Redemption" hidden="false">
 			<achievement name="ACH_WIN_ROBUR">
-                <name>The end of loneliness</name>
+                <name>End of Loneliness</name>
                 <description>To the one who eased the suffering of a warlike madman.</description>
 				<variable name="jester_win_robur" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_WIN_GEM">
-                <name>Prismatic distortions</name>
+                <name>Prismatic Distortions</name>
                 <description>To the one who survived an encounter with one of the three light-refracting brothers.</description>
 				<variable name="jester_win_gem" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_WIN_REAPER">
                 <name>[DESTRUCTION] [ERROR]</name>
@@ -2002,57 +2285,76 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 				<variable name="jester_win_reaper" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_WIN_DREAMSEEKER">
-                <name>Unfulfilled dreams</name>
+                <name>Unfulfilled Dreams</name>
                 <description>To the one who did not allow the spread of fanatical dogmas.</description>
 				<variable name="jester_win_dreamseeker" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
-            <achievement name="ACH_SPACE_RIFT_MUSIC">
+		</section>
+		
+        <section text="Eschaton Genesis Music" hidden="false">
+			<achievement name="ACH_CONTINUITY_VIOLATOR_MUSIC">
+                <name>(You are) Violator of Continuity</name>
+                <description>Link your destiny and the destiny of this cluster of universes to the activities of the Miracle Seekers.</description>
+				<variable name="juke_continuityviolator" amount="1"/>
+                <icon>music_unlocked</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_MIRACLE_SEEKERS_MUSIC">
+                <name>Their Perceptive Gaze</name>
+                <description>Become a trusted visitor to the Miracle Seekers station and gain access to their Database.</description>
+				<variable name="juke_miracleseekers" amount="1"/>
+                <icon>music_unlocked</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+			<achievement name="ACH_SPACE_RIFT_MUSIC">
                 <name>Jester's Machinations</name>
                 <description>Help close the space-time rift that has been causing problems for the Miracle Seekers.</description>
 				<secretDescription>Gain even more trust from the Miracle Seekers and help them eliminate the consequences of their stay in this cluster of universes.</secretDescription>
 				<variable name="juke_spaceriftevent" amount="1"/>
                 <icon>music_unlocked</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
-		</section>
+        </section>
 
         <section text="A moment consisting of eternity" hidden="false">
             <achievement name="ACH_UNIQUE_EMPEROR_WHITE">
-                <name>A third chance at life</name>
+                <name>A Third Chance at Life</name>
                 <description>Earn the trust of the Emperor White clone by introducing him your human.</description>
 				<secretDescription>Earn the trust of an emperor.</secretDescription>
 				<header>Character Recruited</header>
 				<variable name="the_third_emperor_white" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_UNIQUE_MIRRORED">
-                <name>Her love would be enough for the whole world</name>
+                <name>Her Love Would Be Enough for the Whole World</name>
                 <description>Thank many people and comfort Mirrored.</description>
 				<secretDescription>Thank many people.</secretDescription>
 				<header>Character Recruited</header>
 				<variable name="ach_crew_mirrored" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
 			
             <achievement name="ACH_THE_WHEEL">
-                <name>Bhavachakra, the wheel of life</name>
+                <name>Bhavachakra, the Wheel of Life</name>
                 <description>Find out that White Thread of the Expanse has been lost once again. Is there no end to their torment?</description>
 				<secretDescription>Is there no end to their torment?</secretDescription>
 				<variable name="white_thread_losted" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement_spooky</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
 <!--        <achievement name="ACH_SEED_OF_CONCEPTION_CONTACTED">
                 <name>"В чём смысл жизни?" "42"</name>
@@ -2060,56 +2362,96 @@ Attacking this enemy with multiple weapons at once can be dangerous: for each hi
 				<variable name="seed_of_conception_contacted" amount="42"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement> -->
             <achievement name="ACH_WELL_FED_TERMITES">
-                <name>Everyone is well fed!</name>
+                <name>Everyone Is Well Fed!</name>
                 <description>Feed the termites to their fill at your own expense.</description>
 				<secretDescription>Feed certain insects to their fill at your own expense.</secretDescription>
 				<variable name="well_fed_termites" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_MIRACLE_SEEKERS_METAREP_5">
-                <name>Their new friend</name>
+                <name>Their New Friend</name>
                 <description>Get the maximum current Miracle Seekers meta-reputation level.</description>
 				<variable name="miracle_seekers_metarep" amount="5"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
-<!--             <achievement name="ACH_HELPED_JESTER_5_TIMES">
-                <name>Помощник козней Шутовских</name>
-                <description>Помогите Шуту не менее 5 раз.</description>
+            <achievement name="ACH_HELPED_JESTER_5_TIMES">
+                <name>Jester's Machinations Assistant</name>
+                <description>Help Jester at least 5 times.</description>
 				<variable name="jester_total_wins" amount="5"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
-            </achievement> -->
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
             <achievement name="ACH_MIRACLE_SEEKERS_PANIC_BUTTON">
-                <name>I've had enough</name>
+                <name>I've Had Enough</name>
 				<description>Try activating the panic button at the Miracle Seekers station, then sell it to Corporate.</description>
                 <secretDescription>Activate one terrible button at the Miracle Seekers station and deal with the consequences.</secretDescription>
 				<variable name="secret_miracle_panic_button" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
             <achievement name="ACH_MIRACLE_SEEKERS_GNOME">
-                <name>Eldritch horror</name>
+                <name>Eldritch Horrors</name>
                 <description>Deliver the gnome to Hail and receive a reward for your offering.</description>
 				<secretDescription>Behold how one of the Miracle Seekers disposes of an object of pure chaos.</secretDescription>
 				<variable name="secret_miracle_gnome" amount="1"/>
                 <icon>eschaton_genesis_achievement</icon>
 				<sound>achievement_spooky</sound>
-				<multiDifficulty>false</multiDifficulty>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_CORPORATE_REFUSE">
+                <name>"When we get to know each other better"</name>
+                <description>Ask a couple of additional questions to Corporate during one of the orders, and not receive all the answers.</description>
+				<secretDescription>Ask a couple of additional questions to Corporate during one of the orders.</secretDescription>
+				<variable name="eg_corporate_when_we_get_to_know_each_other_better" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_IMPENETRABLE_ARMOR_UPGRADED">
+                <name>Invincible</name>
+                <description>Successfully upgrade Impenetrable Armor to its final level.</description>
+				<variable name="impenetrable_armor_upgrade" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_NEOSTAR_LOYALTY">
+                <name>Junior Employee of the Month</name>
+                <description>Reach unbeatable heights in another Multiverse megacorporation.</description>
+				<variable name="neostar_loyalty_program_final" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_SECOND_VOICE_CIVIL">
+                <name>I Am a Civilian, I Am a Civilian!</name>
+                <description>Become a full-fledged civilian vessel.</description>
+				<variable name="second_voice_civilian" amount="1"/>
+                <icon>eschaton_genesis_achievement</icon>
+				<sound>achievement</sound>
+				<multiDifficulty>true</multiDifficulty>
+            </achievement>
+            <achievement name="ACH_EG_PUZZLE_1">
+                <name>"Good night, Creator"</name>
+                <description>Destroy Erudite's drone and access its internal memory to discover one of the many secrets of the Miracle Seekers.</description>
+				<secretDescription>Discover one of the many secrets of the Miracle Seekers.</secretDescription>
+				<lockImage>ach_locked</lockImage>
+				<variable name="eg_puzzle_piece_1" amount="1"/>
+                <icon>eg_puzzle_1</icon>
+				<sound>achievement_spooky</sound>
+				<multiDifficulty>true</multiDifficulty>
             </achievement>
         </section>
 		
-<!--         <section text="Музыка Eschaton Genesis" hidden="false">
-
-        </section> -->
     </page>
 </achievements>
 

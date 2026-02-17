@@ -1,6 +1,7 @@
 {
     "filePatterns": [
         // Files to translate (glob pattern)
+		//"data/",
 
         "data/autoBlueprints.xml.append",
 		"data/blueprints.xml.append",
@@ -16,7 +17,14 @@
 		"data/events_special_socialize.xml.append",
 		"data/events_special_storage.xml.append",
 		"data/hyperspace.xml.append",
+		
+		"data/events_special_eg_jester_space_rift.xml",
+		"data/events_special_eg_miracle_seekers.xml",
+		"data/events_special_eg_neostar_cargo.xml",
 
+		"data/events_special_lightspeed.xml.append",
+		"data/events_special_main.xml.append",
+		
 		"data/text_misc.xml.append",
 
 		"mod-appendix/metadata.xml",
@@ -47,6 +55,8 @@
 		"//unvisitedTooltip",
 		"//visitedTooltip",
 		"//undiscoveredTooltip",
+        "//eventButton/tooltip",
+        "//eventButton/inactiveTooltip",
 
 
 		// hyperspace

@@ -11,11 +11,28 @@
 	This addon specializes in adding a new storyline of the Miracle Seekers. By completing their various tasks in Sector 5 and increasing your meta-reputation from this, you will learn a lot about the worlds beyond your cluster of universes. This organization definitely has a lot of secrets, but as long as you are their friend, your relationship will be mutually beneficial.
 	
 	Currently, the addon's content list includes:
-	- 5 quests
-	- A total of 24 new ships (including types)
+	- 7 quests
+	- A total of 30 new ships (including types)
 	- 2 new unique crew
 	- 1 new race
-	- 4 challenging mini-bosses
+	- Challenging mini-bosses
 	- New augments and weapons</text>	
 </event>
+
+<event name="ADDON_UT_DISABLED">
+	<hover-text>UNIVERSAL THREATS
+	Click to see more info.</hover-text>
+	<text>Universal Threats
+	Developed by: Eschaton
+	Currently Disabled.
+			
+	Have you ever thought about how cool it would be to play as the game's bosses? This addon adds that feature!
+
+	Currently, it includes four playable bosses, including the Militia Dreadnought, the Highwayman, the Haunted Flagship, and, surprisingly, Callie the Calculator. Some of the playable bosses have unique abilities that make them more engaging to play (for example, you can solve math problems with Callie for resources, and the Haunted Flagship has a unique surge).
+
+	More playable bosses and B and C variants for existing bosses are also planned for the future.
+	
+	To enable Universal Threats, visit the Multiverse forum and the addons section, or you can find it in the official Multiverse Discord server in addon-announcements.</text>	
+</event>
+
 

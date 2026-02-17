@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FTL>
+
+<mod:findName type="event" name="START_BEACON_EXPLAIN_LOAD"> 
+    <mod:findLike type="loadEventList">
+		<mod-append:event name="EG_SECOND_VOICE_CIVIL_BUTTON" req="EG_SHIP_SECOND_VOICE"/>
+		<mod-append:event name="EG_NEOSTAR_BUTTON" req="EG_SHIP_NEOSTAR"/>
+    </mod:findLike>
+</mod:findName>
+
+<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Second Voice <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -->
+
+<event name="EG_SECOND_VOICE_CIVIL_BUTTON"> <!-- method was brazenly stolen from Forgotten Races. Thanks to Gabriel! -->
+    <eventButton name="EG_UI_CIVILIAN_BUTTON">
+        <event load="EG_CIVILIAN_BUTTON"/>
+        <image>statusUI/eg_civilian</image>
+        <customLocation x="378" y="52"/>
+        <tooltip>View the benefits of a civilian vessel.</tooltip>
+        <inactiveTooltip>Civilian vessel benefits are not currently available.</inactiveTooltip>
+        <jumpClear>false</jumpClear>
+        <noDanger>true</noDanger>
+        <req lvl="1">EG_SECOND_VOICE_REQ_REAL</req>
+        <hideInactive>false</hideInactive>
+    </eventButton>
+	<triggeredEvent event="EG_SECOND_VOICE_CIVIL_VAR" loops="999999999" jumps="1"/>
+	<loadEvent>START_BEACON_BOARDING</loadEvent>
+</event>
+
+<event name="EG_SECOND_VOICE_CIVIL_VAR">
+	<variable name="eg_second_voice_req" op="set" val="1"/>
+</event>
+
+<event name="EG_NEOSTAR_BUTTON"> <!-- method was brazenly stolen from Forgotten Races. Thanks to Gabriel! -->
+    <eventButton name="EG_UI_NEOSTAR_BUTTON">
+        <event load="EG_NEOSTAR_BUTTON_REAL"/>
+        <image>statusUI/eg_neostar</image>
+        <customLocation x="378" y="52"/>
+        <tooltip>Neostar Form (R) Menu.</tooltip>
+        <inactiveTooltip>You must be out of danger!</inactiveTooltip>
+        <jumpClear>false</jumpClear>
+        <noDanger>true</noDanger>
+        <req lvl="1">EG_SHIP_NEOSTAR</req>
+        <hideInactive>false</hideInactive>
+    </eventButton>
+	<playSound>eg_neostar_blank</playSound>
+	<variable name="neostar_cargo_available_task" op="add" val="2"/>
+	<loadEvent>START_BEACON_BOARDING</loadEvent>
+</event>
+
+<event name="EG_CIVILIAN_BUTTON">
+	<text>What do you want to do on your civilian ship? Each action takes one jump. You can only use these actions once per beacon.</text>
+	<choice req="second_voice_civilian" lvl="0 " max_lvl="0" blue="true" hidden="true">
+		<text>Complete the official registration of a civil vessel.</text>
+		<event>
+			<text>You'll go through the process of assigning and confirming your ship's civilian status. This takes some time, but at least your peaceful intentions will be much easier to demonstrate and prove. This status doesn't restrict you in any way.
+			
+			[NOTORIETY DECREASED X2 - GENERAL]
+			
+			[NOTORIETY DECREASED X2 - UNION]
+			
+			[NOTORIETY DECREASED - HARMONY]
+			
+			[NOTORIETY DECREASED - MINISTRY]
+			
+			[NOTORIETY DECREASED - GATHERING]
+			
+			[NOTORIETY DECREASED - FREE MANTIS]
+			
+			[NOTORIETY DECREASED - GENIOCRACY]
+			
+			[NOTORIETY DECREASED - OUTCASTS]</text>
+			
+			<!--ДУРНАЯ СЛАВА ПОНИЖЕНА Х3
+				А МОЖЕТ И ПОВЫШЕНА ХЗ
+				НУ ТАК ЧИСТО, ПОХ🦎Й, РАЗБЕРЁШЬСЯ ТАМ, НАБЕРЕШЬ РОДНОЙ 
+
+				(С) Консул aka Jack CognitiveE-->
+				
+			<playSound>mysteriousBeacon</playSound>
+			<modifyPursuit amount="1"/>
+			<variable name="eg_second_voice_req" op="set" val="0"/>
+			<variable name="rep_general" op="add" val="-2"/>
+			<variable name="rep_union" op="add" val="-2"/>
+			<variable name="rep_engi" op="add" val="-1"/>
+			<variable name="rep_zoltan" op="add" val="-1"/>
+			<variable name="rep_orchid" op="add" val="-1"/>
+			<variable name="rep_freemantis" op="add" val="-1"/>
+			<variable name="rep_shell" op="add" val="-1"/>
+			<variable name="rep_outcast" op="add" val="-1"/>
+			<variable name="second_voice_civilian" op="add" val="1"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="second_voice_civilian" lvl="0" max_lvl="0" blue="false">
+		<text>Complete the official registration of a civilian vessel to gain access to special features.</text>
+		<event load="OPTION_INVALID"/>
+	</choice>
+	<choice hidden="true" req="loc_laststand" lvl="1" blue="false">
+		<text>You don't have time to deal with such trifles!</text>
+		<event load="OPTION_INVALID"/>
+	</choice>
+	<choice hidden="true" req="EG_CIVILIAN_BUTTON_USABLE" lvl="1" blue="false">
+		<text>Find someone to ask for free resources.</text>
+		<event load="EG_CIVILIAN_RESOURCES"/>
+	</choice>
+	<choice hidden="true" req="EG_CIVILIAN_BUTTON_USABLE" lvl="1" blue="false">
+		<text>Trade resources with other civilian ships you can find.</text>
+		<event load="EG_CIVILIAN_BARTER"/>
+	</choice>
+	<choice hidden="true" req="EG_CIVILIAN_BUTTON_USABLE" lvl="1" blue="false">
+		<text>Look around for some store.</text>
+		<event load="EG_CIVILIAN_SHOP"/>
+	</choice>
+	<choice>
+		<text>Return.</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_RESOURCES">
+	<loadEventList seeded="false">
+		<event name="EG_CIVILIAN_RESOURCES_1"/>
+		<event name="EG_CIVILIAN_RESOURCES_2"/>
+		<event name="EG_CIVILIAN_RESOURCES_3"/>
+		<event name="EG_CIVILIAN_RESOURCES_1"/>
+		<event name="EG_CIVILIAN_RESOURCES_2"/>
+		<event name="EG_CIVILIAN_RESOURCES_1"/>
+		<event name="EG_CIVILIAN_RESOURCES_2"/>
+		<event name="EG_CIVILIAN_RESOURCES_3"/>
+		<event name="EG_CIVILIAN_RESOURCES_1"/>
+		<event name="EG_CIVILIAN_RESOURCES_2"/>
+		<event name="EG_CIVILIAN_ROBBERY"/>
+		<event name="EG_CIVILIAN_ROBBERY"/>
+		<event name="EG_CIVILIAN_ROBBERY"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+	</loadEventList>
+</event>
+
+<event name="EG_CIVILIAN_BARTER">
+	<loadEventList seeded="false">
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_BARTER_1"/>
+		<event name="EG_CIVILIAN_BARTER_2"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+	</loadEventList>
+</event>
+
+<event name="EG_CIVILIAN_SHOP">
+	<loadEventList seeded="false">
+		<event name="EG_CIVILIAN_SHOP_1"/>
+		<event name="EG_CIVILIAN_SHOP_2"/>
+		<event name="EG_CIVILIAN_SHOP_1"/>
+		<event name="EG_CIVILIAN_SHOP_2"/>
+		<event name="EG_CIVILIAN_SHOP_1"/>
+		<event name="EG_CIVILIAN_SHOP_2"/>
+		<event name="EG_CIVILIAN_SHOP_1"/>
+		<event name="EG_CIVILIAN_SHOP_2"/>
+		<event name="EG_CIVILIAN_SHOP_1"/>
+		<event name="EG_CIVILIAN_SHOP_2"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_NO"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+		<event name="EG_CIVILIAN_ASTEROIDS"/>
+	</loadEventList>
+</event>
+
+<event name="EG_CIVILIAN_BARTER_1">
+	<text load="EG_CIVILIAN_BARTER_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="fuel" min="4" max="6"/>
+				<item type="drones" min="-2" max="-1"/>
+			</item_modify>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="missiles" min="5" max="7"/>
+				<item type="fuel" min="-4" max="-3"/>
+			</item_modify>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="scrap" min="21" max="33"/>
+				<item type="missiles" min="-4" max="-3"/>
+			</item_modify>
+			<disableScrapAugments/>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="scrap" min="17" max="30"/>
+				<item type="fuel" min="-4" max="-3"/>
+			</item_modify>
+			<disableScrapAugments/>
+		</event>
+	</choice>
+	<choice>
+		<text>Do not exchange.</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_BARTER_2">
+	<text load="EG_CIVILIAN_BARTER_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="fuel" min="5" max="7"/>
+				<item type="missiles" min="-3" max="-2"/>
+			</item_modify>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="scrap" min="30" max="36"/>
+				<item type="drones" min="-5" max="-4"/>
+			</item_modify>
+			<disableScrapAugments/>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="fuel" min="6" max="9"/>
+				<item type="scrap" min="-25" max="-16"/>
+			</item_modify>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="drones" min="3" max="5"/>
+				<item type="fuel" min="-4" max="-3"/>
+			</item_modify>
+		</event>
+	</choice>
+	<choice>
+		<text>Exchange:</text>
+		<event>
+			<item_modify>
+				<item type="scrap" min="12" max="23"/>
+				<item type="fuel" min="-4" max="-3"/>
+			</item_modify>
+			<disableScrapAugments/>
+		</event>
+	</choice>
+	<choice>
+		<text>Do not exchange.</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_SHOP_1">
+	<text load="EG_CIVILIAN_SHOP_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<store>STORE_STANDARD</store>
+	<modifyPursuit amount="1"/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_SHOP_2">
+	<text load="EG_CIVILIAN_SHOP_REPAIR_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<store>STORE_STANDARD</store>
+	<modifyPursuit amount="1"/>
+	<damage amount="-5"/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_NO">
+	<text>You find nothing around. Time is wasted.</text>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_CIVILIAN_RESOURCES_1">
+	<text load="EG_CIVILIAN_RESOURCES_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<item_modify>
+		<item type="missiles" min="1" max="4"/>
+		<item type="drones" min="1" max="2"/>
+	</item_modify>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+<event name="EG_CIVILIAN_RESOURCES_2">
+	<text load="EG_CIVILIAN_RESOURCES_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<item_modify>
+		<item type="scrap" min="15" max="30"/>
+		<item type="fuel" min="1" max="4"/>
+	</item_modify>
+	<disableScrapAugments/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+<event name="EG_CIVILIAN_RESOURCES_3">
+	<text load="EG_CIVILIAN_RESOURCES_TEXT"/>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<item_modify>
+		<item type="scrap" min="10" max="30"/>
+		<item type="fuel" min="1" max="2"/>
+		<item type="missiles" min="1" max="1"/>
+		<item type="drones" min="1" max="1"/>
+	</item_modify>
+	<disableScrapAugments/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+<event name="EG_CIVILIAN_ROBBERY">
+	<text>While you were trying to find anyone nearby, sensors detected the instantaneous teleportation of your resources from your cargo hold. Someone had robbed you and instantly disappeared, leaving no trace behind.</text>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<modifyPursuit amount="1"/>
+	<item_modify>
+		<item type="scrap" min="-15" max="-10"/>
+		<item type="fuel" min="-2" max="-1"/>
+		<item type="missiles" min="-1" max="-1"/>
+		<item type="drones" min="-1" max="-1"/>
+	</item_modify>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<textList name="EG_CIVILIAN_RESOURCES_TEXT">
+	<text>Another peacefully-minded ship flies past you. You explain to it that you're slightly short on resources, and it agrees to help you out a bit.</text>
+	<text>You contact the passing ship. Its captain accepts the call, and you explain to it that you're slightly short on resources. They agree to help you a bit.</text>
+	<text>Out of the kindness of its heart, the passing ship decides to give you some resources after learning that you're planning to crush the Rebellion in this universe.</text>
+</textList>
+
+<textList name="EG_CIVILIAN_BARTER_TEXT">
+	<text>A ship damaged by pirates flies near you. You contact it and offer a barter.</text>
+	<text>Other civilians fly past you. They are short of certain resources and agree to barter.</text>
+	<text>A ship contacts you and offers a barter before you do.</text>
+</textList>
+
+<textList name="EG_CIVILIAN_SHOP_TEXT">
+	<text>You're looking for a store in the area and finally find one. Its owner is happy to see new customers.</text>
+	<text>Not far from this beacon, you find a small mobile trading station. You dock with it without any problems.</text>
+	<text>There's an outpost on the nearest planet. Its inhabitants agree to trade with you.</text>
+</textList>
+<textList name="EG_CIVILIAN_SHOP_REPAIR_TEXT">
+	<text>You're looking for a store in the area and finally find one. Its owner is happy to see new customers and is even willing to provide you with free repairs at the business's expense.</text>
+	<text>Not far from this beacon, you find a small mobile trading station. As one of its visitors, they've decided to offer you a small, free repair.</text>
+	<text>There's an outpost on the nearest planet. Its inhabitants agree to trade with you and provide free repairs.</text>
+</textList>
+
+<event name="EG_CIVILIAN_ASTEROIDS">
+	<text>You've explored the surrounding area to no avail and stumbled into an asteroid field. It seems luck is not on your side.</text>
+	<variable name="eg_second_voice_req" op="set" val="0"/>
+	<environment type="asteroid"/>
+	<modifyPursuit amount="1"/>
+	<choice>
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+
+</FTL>

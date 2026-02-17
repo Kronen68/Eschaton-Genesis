@@ -3,19 +3,19 @@
 <FTL>
 <nameList race="human" sex="male">
 	<name>Eschaton</name>
-	<name>Rab</name>
 	<name>Aramorf</name>
 	<name short="Epper">Evel Epper</name>
-	<name short="Azam">Azam Zam Zam</name>
+	<name short="Bunny">Bunny Azam</name>
 	<name>Bohday</name>
-	<name short="Mr. Penes">Mister Penes</name>
+	<name short="Toast">Toast 'n' Railguns</name>
+	<name short="R. Slime">Royal Slime</name>
 	
 	<name>Antidote</name>
 	<name>Shane</name>
 	<name>Canary</name>
 	<name short="Savinir">Savinir Rain</name>
-	<name short="Dr. Gravitas">Doctor Gravitas</name>
-	<name short="Dr. May-Lily">Doctor May-Lily</name>
+	<name short="Gravitas">Doctor Gravitas</name>
+	<name short="May-Lily">Doctor May-Lily</name>
 	<name short="Wendigo">Wendigo Rasmussen</name>
 	<name>Roi</name> <!-- 1 -->
 	<name>Bateau</name> <!-- 2  -->

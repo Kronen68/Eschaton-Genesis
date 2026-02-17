@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<shipBlueprint name="EG_ENEMY_NEOSTAR" layout="ege_neostar" img="ege_neostar">
+	<class>Neostar Forwarder</class>
+	<minSector>1</minSector>
+	<maxSector>8</maxSector>
+	<systemList>
+		<cloaking power="1" max="1" room="6" start="true" />
+		<doors power="2" max="2" room="10" start="true" />
+		<drones power="3" max="5" room="5" start="true" />
+		<engines power="3" max="5" room="2" start="true" />
+		<medbay power="1" max="2" room="13" start="true" />
+		<mind power="2" max="2" room="12" start="true" />
+		<oxygen power="2" max="3" room="14" start="true" />
+		<pilot power="1" max="1" room="0" start="true" />
+		<shields power="4" max="5" room="8" start="true" />
+		<weapons power="8" max="8" room="11" start="true" />
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="4" count="4">
+		<weapon name="FOCUS_1" />
+		<weapon name="EG_NEOSTAR_LASER" />
+		<weapon name="ENERGY_CHARGEGUN_PLAYER" />
+		<weapon name="BOMB_STUN_ENEMY" />
+	</weaponList>
+	<droneList drones="2" count="1">
+		<drone name="REPAIR" />
+	</droneList>
+	<health amount="19" />
+	<maxPower amount="24" />
+	<crewCount amount="6" max="6" class="EG_ENEMY_CREW_NEOSTAR" />
+	<boardingAI>sabotage</boardingAI>
+	<aug name="EX_O2_MASKS" />
+	<aug name="EX_FIRE_EXTINGUISHERS" />
+</shipBlueprint>
+
 <shipBlueprint name="EG_ENEMY_ERUDITE_DRONE" layout="ege_erudite_drone" img="ege_erudite_drone">
-	<class>???</class>
+	<class>Erudite's Drone</class>
 	<minSector>1</minSector>
 	<maxSector>8</maxSector>
 	<systemList>
@@ -10,7 +45,7 @@
 		<cloaking power="2" max="2" room="3" start="true" />
 		<engines power="5" max="5" room="0" start="true" />
 		<pilot power="2" max="2" room="5" start="true" />
-		<shields power="6" max="6" room="4" start="true" />
+		<shields power="8" max="8" room="4" start="true" />
 	</systemList>
 	<weaponSlots>0</weaponSlots>
 	<droneSlots>0</droneSlots>
@@ -26,7 +61,7 @@
 	<minSector>1</minSector>
 	<maxSector>8</maxSector>
 	<systemList>
-		<artillery power="2" max="2" room="3" start="true" weapon="artillery_termite3" />
+		<artillery power="3" max="3" room="3" start="true" weapon="artillery_termite3" />
 		<clonebay power="1" max="1" room="0" start="true" />
 		<doors power="1" max="1" room="14" start="true" />
 		<engines power="3" max="3" room="13" start="true" />
@@ -45,8 +80,8 @@
 	</weaponList>
 	<droneList drones="0" count="0" />
 	<health amount="19" />
-	<maxPower amount="20" />
-	<crewCount amount="7" max="8" class="eg_termite" />
+	<maxPower amount="21" />
+	<crewCount amount="8" max="9" class="eg_termite" />
 	<boardingAI>invasion</boardingAI>
 	<aug name="EG_TERMITE_COLONY" />
 </shipBlueprint>
@@ -103,8 +138,8 @@
 	<health amount="22" />
 	<maxPower amount="19" />
 	<boardingAI>sabotage</boardingAI>
-	<aug name="UPG_CLONEBAY_DNA" />
 	<aug name="EX_ZOLTAN_BYPASS" />
+	<aug name="UPG_CLONEBAY_DNA" />
 </shipBlueprint>
 
 <shipBlueprint name="EG_ENEMY_MIRACLE_SEEKERS" layout="ege_miracle_seekers" img="ege_miracle_seekers">
@@ -128,19 +163,19 @@
 	</systemList>
 	<weaponSlots>4</weaponSlots>
 	<droneSlots>3</droneSlots>
-	<weaponList missiles="38" count="4">
+	<weaponList missiles="42" count="4">
 		<weapon name="BOMB_CONSERVATIVE" />
 		<weapon name="LASER_CHAINGUN_2" />
 		<weapon name="SHOTGUN_CHAIN" />
 		<weapon name="MISSILES_4" />
 	</weaponList>
-	<droneList drones="38" count="3">
+	<droneList drones="42" count="3">
 		<drone name="ATOM_BOARDER" />
 		<drone name="DEFENSE_1_ENEMY" />
 		<drone name="DEFENSE_1" />
 	</droneList>
 	<health amount="38" />
-	<maxPower amount="38" />
+	<maxPower amount="42" />
 	<crewCount amount="1" max="1" class="easter_brick" />
 	<boardingAI>sabotage</boardingAI>
 	<aug name="EG_GUARDIANS_PROTECTOR" />
@@ -173,7 +208,7 @@
 	<droneList drones="10" count="0" />
 	<health amount="21" />
 	<maxPower amount="24" />
-	<crewCount amount="5" max="6" class="human" />
+	<crewCount amount="7" max="8" class="EG_ENEMY_CREW_DREAMSEEKER" />
 	<boardingAI>sabotage</boardingAI>
 	<aug name="UPG_MEDBAY_NANO" />
 	<aug name="EG_DREAMPRAYER" />
@@ -203,11 +238,12 @@
 	</weaponList>
 	<droneList drones="6" count="3">
 		<drone name="BATTLETOG2_BOARDER" />
+		<drone name="BATTLETOG2_BOARDER" />
 		<drone name="COMBAT_1_LASER" />
 	</droneList>
 	<health amount="65" />
 	<maxPower amount="19" />
-	<crewCount amount="7" max="8" class="rock" />
+	<crewCount amount="8" max="10" class="rock" />
 	<boardingAI>sabotage</boardingAI>
 	<aug name="EG_ENEMY_IMPENETRABLE_ARMOR" />
 </shipBlueprint>
@@ -370,12 +406,17 @@
 	<mod-append:name>unique_white_clone</mod-append:name>
 </mod:findName>
 
+<mod:findName type="blueprintList" name="LIST_CREW_ELITE_FIRE">
+	<mod-append:name>unique_white_clone</mod-append:name>
+	<mod-append:name>white_guard</mod-append:name>
+</mod:findName>
+
 <mod:findName type="blueprintList" name="LIST_CREW_HUMAN">
 	<mod-append:name>white_guard</mod-append:name>
 	<mod-append:name>unique_white_clone</mod-append:name>
 	<mod-append:name>unique_white_anomaly</mod-append:name>
 	<mod-append:name>unique_slavik</mod-append:name>
-	<mod-append:name>second_voice_officiary</mod-append:name>
+	<mod-append:name>eg_second_voice_officiary</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_CREW_SOLDIER">
@@ -415,6 +456,26 @@
 <blueprintList name="LIST_CREW_TERMITES"> 
 	<name>eg_termite</name>
 </blueprintList>
+
+<mod:findName type="blueprintList" name="BLUELIST_ANTIBIO">
+	<mod-append:name>EG_PLAYER_BARLEY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_ANTIBIO_NODAMAGE">
+	<mod-append:name>EG_PLAYER_BARLEY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_ANTIBIO_NOMISSILE">
+	<mod-append:name>EG_PLAYER_BARLEY</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_BEAMS_ALL">
+	<mod-append:name>EG_ERUDITE_BEAM_2_REAL</mod-append:name>
+</mod:findName>
+
+<mod:findName type="blueprintList" name="BLUELIST_PARTICLE">
+	<mod-append:name>EG_ERUDITE_BEAM_2_REAL</mod-append:name>
+</mod:findName>
 
 <blueprintList name="MIRACLE_SEEKERS_CORPORATE_WEAPONS">
 	<name>LASER_LIGHT</name>
@@ -488,3 +549,32 @@
 	<name>EG_SHIP_ROBUR</name>
 	<name>EG_GLASS_SHIP</name>
 </blueprintList>
+
+<blueprintList name="EG_ENEMY_CREW_DREAMSEEKER">
+	<name>human</name>
+	<name>human_medic</name>
+	<name>human_medic</name>
+	<name>human_medic</name>
+	<name>mantis_free</name>
+	<name>zoltan_monk</name>
+	<name>zoltan_monk</name>
+	<name>rock_outcast</name>
+	<name>engi</name>
+	<name>orchid</name>
+	<name>shell_mechanic</name>
+	<name>shell_scientist</name>
+</blueprintList>
+
+<blueprintList name="EG_ENEMY_CREW_NEOSTAR">
+	<name>human</name>
+	<name>human_medic</name>
+	<name>engi</name>
+	<name>slug</name>
+	<name>mantis</name>
+	<name>rock_outcast</name>
+	<name>zoltan_peacekeeper</name>
+</blueprintList>
+
+<mod:findName type="blueprintList" name="LIST_JUMPSPACE_EQUIPMENT">
+	<mod-append:name>EG_LOYALTY_PROGRAM</mod-append:name>
+</mod:findName>

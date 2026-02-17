@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Copyright (c) 2012 by Subset Games. All rights reserved.-->
+<img x="-10" y="-26" w="269" h="264" />
+<offsets>
+	<floor x="4" y="20" />
+	<cloak x="-8" y="-8" />
+</offsets>
+<weaponMounts>
+	<mount x="168" y="36" rotate="true" mirror="true" gib="-1" slide="up" />
+	<mount x="235" y="84" rotate="true" mirror="true" gib="-1" slide="right" />
+	<mount x="168" y="226" rotate="true" mirror="false" gib="-1" slide="down" />
+</weaponMounts>
+<thrusters sync="true">
+    <thruster x="18" y="11">eg_second_voice_thruster</thruster>
+</thrusters>
+<explosion />
+

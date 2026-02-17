@@ -8,7 +8,15 @@
 	<text name="eg_thanks">MIRACLE 1111 [!]</text>
 	<text name="eg_warmth">MIRACLE 3385 [!]</text>
 	<text name="eg_horn_of_god">MIRACLE 9721 [!]</text>
+	<text name="eg_alliance">MIRACLE 7302 [!]</text>
+	<text name="eg_neostar">MIRACLE 6419 [!]</text>
 	
 	<text name="eg_eatery">EATERY [!]</text>
+	<text name="eg_erudite_drone">MEETING POINT [!]</text>
+
+	<text name="eg_neostar_task">NEOSTAR DELIVERY [!]</text>
+	
+	<text name="tip_erudite_weapon">Tip: The special weapon developed by Erudite is extremely powerful, but due to its low energy efficiency, it can only be fired a few times per battle.</text>
+	<text name="tip_storage_neostar">The Neostar Crate (R) cannot be used as a weapon and is best kept in your cargo hold until you deliver it to the recipient.</text>
 	
 </FTL>

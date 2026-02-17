@@ -155,6 +155,26 @@
 					</choice>
 				</event>
             </mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="EG_SHIP_NEOSTAR" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "Another megacorporation, huh? We'll consider entering into an agreement to supply your products to the Federation if your stated quality standards meet our expectations. But first... the Flagship."</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2"/>
+					</choice>
+				</event>
+            </mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="EG_SHIP_SECOND_VOICE" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "Civilians... Who commissioned civilians to deal with the Rebellion?.. Well, it looks like you're our last hope. Take care."</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2"/>
+					</choice>
+				</event>
+            </mod-append:choice>
 		</mod:findLike>
     </mod:findLike>
 </mod:findName>

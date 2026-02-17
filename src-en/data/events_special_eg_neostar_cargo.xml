@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<event name="EG_NEOSTAR_BUTTON_REAL_TWEAK">
+	<loadEvent>EG_NEOSTAR_BUTTON_REAL</loadEvent>
+</event>
+<event name="EG_NEOSTAR_TUTORIAL_MENU_TWEAK">
+	<loadEvent>EG_NEOSTAR_TUTORIAL_MENU</loadEvent>
+</event>
+
+<event name="EG_NEOSTAR_BUTTON_REAL">
+	<text>NEOSTAR FREIGHT TRANSPORTATION - WE'RE FASTER THAN LIGHT!
+
+	Greetings, Neostar Megacorp (R) Junior Employee! What would you like to accomplish?</text>
+	<choice req="neostar_cargo_beacon_task" lvl="1" blue="true" hidden="true">
+		<text>Hand over the cargo.</text>
+		<event load="EG_NEOSTAR_CARGO_CHECK"/>
+	</choice>
+	<choice req="neostar_cargo_available_task" lvl="1" blue="true" hidden="true">
+		<text>Take the task of delivering cargo.</text>
+		<event load="EG_NEOSTAR_LIST_OF_TASKS"/>
+	</choice>
+	<choice hidden="true" req="neostar_cargo_available_task" lvl="0" max_lvl="0" blue="false">
+		<text>To take on two more cargo delivery tasks, you need to jump between sectors and contact your superiors.</text>
+		<event load="OPTION_INVALID"/>
+	</choice>
+	<choice hidden="true">
+		<text>Go to the Loyalty Program (R) menu.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_MENU"/>
+	</choice>
+	<choice hidden="true">
+		<text>Junior Employee FAQ (R).</text>
+		<event load="EG_NEOSTAR_TUTORIAL_MENU"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE" lvl="1" blue="true" hidden="true">
+		<text>Suddenly someone contacts you...</text>
+		<event>
+			<text>Uriel the Tailed appears on your screen. "Hello, colleague! It seems you're in a difficult situation... You're just a couple of Loyalty Program points short of a promotion!.. I could pass on one of my delivery requests to you - free of charge, just as a friend!"
+			
+			"And also... good luck with that monster. The Rebellion's Flagship, right?... It sounds pretty scary. But I'm sure you can handle it!"</text>
+			<variable name="neostar_cargo_available_task" op="add" val="1"/>
+			<variable name="neostar_loyalty_program_chance_used" op="set" val="1"/>
+			<playSound>eg_neostar_blank</playSound>
+		</event>
+	</choice>
+	<choice>
+		<text>Put aside the Neostar Form.</text>
+		<event/>
+	</choice>
+</event>
+
+<!-- 
+cargo:
+2 - 4
+3 - 7
+4 - 4
+cargo average:
+3 -->
+
+<!-- 
+points max:
+48
+points min:
+32
+points average:
+40
+points for lvl7:
+30
+ -->
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_MENU">
+	<text>Welcome to the Loyalty Program (R) menu for Neostar (R) Junior Employees. What would you like to do?</text>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_1" lvl="1" blue="false" hidden="true">
+		<text>Receive your first bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_1"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_2" lvl="1" blue="false" hidden="true">
+		<text>Receive your second bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_2"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_3" lvl="1" blue="false" hidden="true">
+		<text>Receive your third bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_3"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_4" lvl="1" blue="false" hidden="true">
+		<text>Receive your fourth bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_4"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_5" lvl="1" blue="false" hidden="true">
+		<text>Receive your fifth bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_5"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_6" lvl="1" blue="false" hidden="true">
+		<text>Receive your sixth bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_6"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_7" lvl="1" blue="false" hidden="true">
+		<text>Receive your seventh bonus payment.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_7"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_FINAL" lvl="1" blue="true" hidden="true">
+		<text>Go through the promotion procedure.</text>
+		<event load="EG_NEOSTAR_LOYALTY_PROGRAM_FINAL"/>
+	</choice>
+	<choice req="EG_REQ_NEOSTAR_LOYALTY_PROGRAM_FINAL" lvl="1" blue="false" hidden="true">
+		<text>[WARNING! YOU ARE ELIGIBLE FOR A PROMOTION]</text>
+		<event load="OPTION_INVALID"/>
+	</choice>
+	<choice req="neostar_loyalty_program_final" lvl="1" blue="false" hidden="true">
+		<text>You've reached the maximum Loyalty Level (R) for a Neostar (R) Junior Employee. Congratulations!</text>
+		<event load="OPTION_INVALID"/>
+	</choice>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_1">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your first premium reward: resources and a small device called a Neostar Thrust Booster (R), which you can install on your engines to improve them.</text>
+	<variable name="neostar_req_loyalty_program_1" op="set" val="1"/>
+	<item_modify>
+		<item type="fuel" min="3" max="5"/>
+		<item type="missiles" min="2" max="2"/>
+		<item type="drones" min="2" max="2"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Install the device into the engines.</text>
+		<event>
+			<text>You install the Neostar Thrust Booster (R) on your engines.</text>
+			<upgrade amount="1" system="engines"/>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Disassemble the device.</text>
+		<event>
+			<text>You dismantle the Neostar Thrust Booster (R) for scrap. You also discover a fuel cell inside.</text>
+			<item_modify>
+				<item type="scrap" min="15" max="20"/>
+				<item type="fuel" min="1" max="1"/>
+			</item_modify>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_2">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your second premium reward inside.</text>
+	<variable name="neostar_req_loyalty_program_2" op="set" val="1"/>
+	<item_modify>
+		<item type="scrap" min="40" max="45"/>
+		<item type="fuel" min="2" max="2"/>
+		<item type="missiles" min="1" max="2"/>
+		<item type="drones" min="1" max="2"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_3">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your third premium reward in the form of resources and a Neostar Laser (R), which is for internal use only.</text>
+	<variable name="neostar_req_loyalty_program_3" op="set" val="1"/>
+	<weapon name="EG_NEOSTAR_LASER"/>
+	<item_modify>
+		<item type="scrap" min="10" max="15"/>
+		<item type="fuel" min="3" max="3"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_4">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your fourth premium reward inside.</text>
+	<variable name="neostar_req_loyalty_program_4" op="set" val="1"/>
+	<item_modify>
+		<item type="scrap" min="50" max="55"/>
+		<item type="fuel" min="3" max="5"/>
+		<item type="missiles" min="2" max="4"/>
+		<item type="drones" min="2" max="3"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_5">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your fifth premium reward: resources and a small device called a Neostar Thrust Booster (R), which you can install on your engines to improve them.</text>
+	<variable name="neostar_req_loyalty_program_5" op="set" val="1"/>
+	<item_modify>
+		<item type="scrap" min="30" max="45"/>
+		<item type="fuel" min="3" max="4"/>
+		<item type="missiles" min="2" max="3"/>
+		<item type="drones" min="2" max="2"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Install the device into the engines.</text>
+		<event>
+			<text>You install the Neostar Thrust Booster (R) on your engines.</text>
+			<upgrade amount="1" system="engines"/>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Disassemble the device.</text>
+		<event>
+			<text>You dismantle the Neostar Thrust Booster (R) for scrap. You also discover fuel cells inside.</text>
+			<item_modify>
+				<item type="scrap" min="20" max="25"/>
+				<item type="fuel" min="2" max="3"/>
+			</item_modify>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_6">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your third premium reward in the form of resources and a Neostar Combat Drone (R), which is for internal use only.</text>
+	<variable name="neostar_req_loyalty_program_6" op="set" val="1"/>
+	<drone name="EG_NEOSTAR_DRONE"/>
+	<item_modify>
+		<item type="scrap" min="40" max="45"/>
+		<item type="fuel" min="3" max="6"/>
+		<item type="missiles" min="2" max="4"/>
+		<item type="drones" min="2" max="3"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_7">
+	<text>A small wormhole opens near you. A sealed Neostar Crate flies through it, and a Neostar Blank gives you a unique code to open it. Once you open it, you find your seventh premium reward inside.</text>
+	<variable name="neostar_req_loyalty_program_7" op="set" val="1"/>
+	<item_modify>
+		<item type="scrap" min="70" max="80"/>
+		<item type="fuel" min="3" max="7"/>
+		<item type="missiles" min="2" max="5"/>
+		<item type="drones" min="2" max="4"/>
+	</item_modify>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LOYALTY_PROGRAM_FINAL">
+	<text>You press the button in anticipation of a promotion...</text>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>Neostar Form's screen lights up with exploding fireworks, and a large notification with just one word slowly appears: "PROMOTION."
+			
+			The fireworks continue to explode for a couple of seconds, and the image on the screen changes to that of Neostar Megacorp founder Saul. Luckily, it's just a pre-recorded video.</text>
+			<choice>
+				<text>Continue...</text>
+				<event>
+					<text>"Congratulations, Neostar's Junior Employe! You've achieved your first promotion and are now a full-fledged Neostar employee. This means you'll have the opportunity to choose which cargo deliveries you want to handle, you'll have the opportunity to earn a higher salary, and, most importantly, from now on, you'll officially be provided with housing within our company boundaries!"</text>
+					<choice>
+						<text>Continue...</text>
+						<event>
+							<text>The video ends abruptly and the following text appears on the Neostar Form:
+							
+							ATTENTION! These free opportunities in the form of Additional Premium Rewards will be available to you only if you have opted out of receiving Premium Rewards issued to you under the Loyalty Program (R), and they are available only to Neostar (R) employees of at least the Neostar (R) Third-Class Average Employee rank.
+							
+							Number of Premium Rewards you have received: 7
+							ATTENTION! You are not eligible for the Additional Premium Rewards program! Please submit your Premium Rewards, along with the required fee, to your nearest Neostar (R) Representative Office to be eligible for Additional Premium Rewards.
+							Your current Neostar (R) employee rank: Neostar (R) Junior Employee
+							ATTENTION! You are not eligible for the Additional Premium Rewards program!
+							
+							Number of remaining ranks to earn Additional Premium Rewards: 5
+							Your remaining ranks:
+							1. Neostar (R) Second-Class Junior Employee
+							2. Neostar (R) Third-Class Junior Employee
+							3. Neostar (R) Average Employee
+							4. Neostar (R) Second-Class Average Employee
+							5. Neostar (R) Third-Class Average Employee
+							
+							To officially achieve the rank of Neostar (R) Second-Class Junior Employee, you must visit the nearest Neostar (R) Representative Office. Failure to do so within the next nine system days will result in a penalty.
+							
+							The nearest Neostar Representative Office is located in: ERROR! Unable to determine distance. Possible cause: You are currently in another Universe. Please contact a Neostar (R) Technical Specialist to resolve this issue.</text>
+							<choice>
+								<text>Continue...</text>
+								<event>
+									<text>This probably isn't quite what you wanted to see. But then, what would you expect from a megacorporation led by a shady, fish-faced individual?
+
+									Well, at least you can ignore all of that and start life afresh once you've completed your primary task of saving the Federation. You won't even have to return the Neostar Form, any Neostar products, or the very ship you're currently traveling on. As vast as Neostar Megacorp is, even they can't break the laws that apply to most universes...</text>
+									<variable name="neostar_loyalty_program_final" op="set" val="1"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TUTORIAL_MENU">
+	<text>Welcome to the Neostar (R) Junior Employee FAQ. What's your favorite question?</text>
+	<choice hidden="true">
+		<text>What is Neostar Megacorp (R)?</text>
+		<event>
+			<text>Neostar Megacorp (R) is a leading manufacturer of Neostar Products (R), a distributor of Neostar Products (R), and a private transportation company. Neostar (R) is renowned throughout the Thesis Incarnation. We partner with most space empires and space political entities due to the low prices and high quality of our products. Another Neostar (R) achievement is the high speed of delivery of our products and those of our clients – in the Thesis Incarnation, there are no faster space transport ships than those used by Neostar Megacorp (R), thanks to Light Bridge Intersection (R) technology.</text>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_TUTORIAL_MENU_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>How often will I receive bonus payments under the Loyalty Program (R)?</text>
+		<event>
+			<text>Receiving bonus payments directly depends on the number of Loyalty Program Points (R) you earn to reach new Loyalty Levels (R). The number of Loyalty Program Points (R) you earn upon completion of a given delivery is usually limited to 2 Loyalty Program Points (R), but in special cases, if you need to deliver more cargo than usual, you'll receive 3 Loyalty Program Points (R). Typically, to reach a new Loyalty Level (R) and the corresponding bonus payment, you need to accumulate 5 Loyalty Program Points (R). However, when you start your career as a Neostar (R) Junior Employee, your first bonus payments may be issued with fewer points. There are 7 Loyalty Levels (R) in total, which directly lead to promotion.</text>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_TUTORIAL_MENU_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>What awaits me after I get promoted?</text>
+		<event>
+			<text>Please contact your immediate Neostar Megacorp (R) senior management representative for an answer to this question. If this is not possible, you can submit a special request for an answer to this question and receive it within the next system year.</text>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_TUTORIAL_MENU_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>What happens if I somehow lose Neostar Crates (R) during my work?</text>
+		<event>
+			<text>While you are a Neostar (R) Junior Employee, there are no penalties for this. However, once you achieve promotion, penalties for cargo loss while you were a Neostar (R) Junior  Employee will be imposed. These penalties may include (but are not limited to): a reduction in your current salary, complete forfeiture of your previous salary, and forced labor on the planet Firstflood in the Neostar star system.</text>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_TUTORIAL_MENU_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>As a Neostar (R) Junior Employee, can I receive a bonus to my salary?</text>
+		<event>
+			<text>No.</text>
+			<choice>
+				<text>Go back.</text>
+				<event load="EG_NEOSTAR_TUTORIAL_MENU_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Go back.</text>
+		<event load="EG_NEOSTAR_BUTTON_REAL_TWEAK"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_CARGO_CHECK">
+	<text>You're preparing to hand over the cargo. The process shouldn't take long.</text>
+	<choice req="neostar_cargo_check" lvl="2" max_lvl="2" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event load="EG_NEOSTAR_CARGO_CHECK_2_СARGO"/>
+	</choice>
+	<choice req="neostar_cargo_check" lvl="3" max_lvl="3" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event load="EG_NEOSTAR_CARGO_CHECK_3_СARGO"/>
+	</choice>
+	<choice req="neostar_cargo_check" lvl="4" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event load="EG_NEOSTAR_CARGO_CHECK_4_СARGO"/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_CARGO_CHECK_2_СARGO">
+	<text>Your ship docks with another Neostar vessel, and you begin transferring your cargo.
+
+	Neostar Crates (R) required for delivery: 2</text>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>You hand over the first Neostar Crate (R).</text>
+			<remove name="EG_NEOSTAR_CARGO"/>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You hand over the second Neostar Crate (R).</text>
+					<remove name="EG_NEOSTAR_CARGO"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>Uriel the Tailed contacts you. "Excellent, that's all. For this delivery, you'll receive two points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!"
+							
+							Your colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too.</text>
+							<item_modify>
+								<item type="fuel" min="1" max="2"/>
+								<item type="scrap" min="10" max="12"/>
+							</item_modify>
+							<changeBackground>BACKGROUND</changeBackground>
+							<clearJumpEvent/>
+							<variable name="neostar_loyalty_program" op="add" val="2"/>
+							<variable name="neostar_cargo_beacon_task" op="set" val="0"/>
+							<variable name="neostar_cargo_check" op="add" val="-2"/>
+							<instantEscape/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+					<clearJumpEvent/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+			<clearJumpEvent/>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_CARGO_CHECK_3_СARGO">
+	<text>Your ship docks with another Neostar vessel, and you begin transferring your cargo.
+
+Neostar Crates (R) required for delivery: 3</text>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>You hand over the first Neostar Crate (R).</text>
+			<remove name="EG_NEOSTAR_CARGO"/>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You hand over the second Neostar Crate (R).</text>
+					<remove name="EG_NEOSTAR_CARGO"/>
+					<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>You hand over the third Neostar Crate (R).</text>
+							<remove name="EG_NEOSTAR_CARGO"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event>
+									<text>Uriel the Tailed contacts you. "Excellent, that's all. For this delivery, you'll receive two points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!"
+							
+									Your colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too.</text>
+									<item_modify>
+										<item type="fuel" min="1" max="2"/>
+										<item type="scrap" min="15" max="18"/>
+									</item_modify>
+									<changeBackground>BACKGROUND</changeBackground>
+									<clearJumpEvent/>
+									<variable name="neostar_loyalty_program" op="add" val="2"/>
+									<variable name="neostar_cargo_beacon_task" op="set" val="0"/>
+									<variable name="neostar_cargo_check" op="add" val="-3"/>
+									<instantEscape/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+					<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+							<clearJumpEvent/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+					<clearJumpEvent/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+			<clearJumpEvent/>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_CARGO_CHECK_4_СARGO">
+	<text>Your ship docks with another Neostar vessel, and you begin transferring your cargo.
+
+Neostar Crates (R) required for delivery: 4</text>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>You hand over the first Neostar Crate (R).</text>
+			<remove name="EG_NEOSTAR_CARGO"/>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You hand over the second Neostar Crate (R).</text>
+					<remove name="EG_NEOSTAR_CARGO"/>
+					<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>You hand over the third Neostar Crate (R).</text>
+							<remove name="EG_NEOSTAR_CARGO"/>
+							<choice hidden="true" req="EG_NEOSTAR_CARGO" blue="false" hidden="true">
+								<text>Continue...</text>
+								<event>
+									<text>You hand over the fourth Neostar Crate (R).</text>
+									<remove name="EG_NEOSTAR_CARGO"/>
+									<choice hidden="true">
+										<text>Continue...</text>
+										<event>
+											<text>Uriel the Tailed contacts you. "Excellent, that's all. For this delivery, you'll receive three points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!"
+							
+											Your colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too.</text>
+											<item_modify>
+												<item type="fuel" min="2" max="2"/>
+												<item type="scrap" min="20" max="22"/>
+											</item_modify>
+											<changeBackground>BACKGROUND</changeBackground>
+											<clearJumpEvent/>
+											<variable name="neostar_loyalty_program" op="add" val="3"/>
+											<variable name="neostar_cargo_beacon_task" op="set" val="0"/>
+											<variable name="neostar_cargo_check" op="add" val="-2"/>
+											<instantEscape/>
+											<choice>
+												<text>Continue...</text>
+												<event/>
+											</choice>
+										</event>
+									</choice>
+								</event>
+							</choice>
+							<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+								<text>Continue...</text>
+								<event>
+									<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+									<clearJumpEvent/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+					<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+							<clearJumpEvent/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+					<clearJumpEvent/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="EG_NEOSTAR_CARGO" lvl="0" max_lvl="0" blue="false" hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed contacts you. "Um... it looks like you don't have the required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in this universe, you won't be punished in any way, but still, be more responsible next time... You won't be receiving payment for this delivery."</text>
+			<clearJumpEvent/>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS">
+	<loadEventList seeded="false">
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_1"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_2"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_3"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_4"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_5"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_6"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_7"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_8"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_9"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_10"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_11"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_12"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_13"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_14"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_15"/>
+		<event name="EG_NEOSTAR_LIST_OF_TASKS_16"/>
+	</loadEventList>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_1" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): D-12-M
+	DESTINATION POINT: U-E33, Great League, Upper Plants, Section KS-0S
+	PRODUCT: Rare Metals, Military Products
+	TOTAL CARGO QUANTITY: 4
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_1"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue preparation...</text>
+						<event>
+							<text>You continue to prepare cargo for delivery.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Finish preparation.</text>
+								<event>
+									<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+									<weapon name="EG_NEOSTAR_CARGO"/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_1">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+	On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="4"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Deliveries to the Great League always pay well. Cargo is constantly being delivered here in large quantities - the constant development of machine intelligence requires a constant supply. The robots behind the Great League are generous with their expenses, just to ensure the longevity of their projects - like the Supreme Repository, for example. It's strange for robots to exhibit religious behavior, I admit, but it seems they've been asking themselves too many existential questions and haven't been able to answer most of them, leading them to invent new gods for themselves - mythological ones that have nothing to do with—..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_2" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): Ego Sum
+	DESTINATION POINT: U-E33, Peaks, Planetary Formation Stones, Planetoid Sharps
+	PRODUCT: Artillery Systems
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_2"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_2">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Neostar is also involved in military development. It's no surprise that we received an order for artillery systems from the local capital government, the Peaks. "Peaks... Life is hard here," is a favorite phrase among the inhabitants of this zone of space. It's home to the poor, outcasts, fugitive criminals, and representatives of the lower classes of the entire Thesis Incarnation. There are always some kind of feuds and infighting among them, leading to internal conflicts, sometimes even bloody ones. Nevertheless, more than ten percent of Neostar's employees are former residents of the Peaks. I suppose it's only natural - rather than live there and fear you won't live to see the next day, it's better to sell your soul to our megacorporation, and..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_3" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Isolan the Scalied
+	DESTINATION POINT: U-E33, Neostar Megacorp, Neostar Star System, Planet Firstflood, Distribution Node No.14
+	PRODUCT: Parts for the Neostar Collapse Generator (R)
+	COMMENT: Product recall for further disposal.
+	TOTAL CARGO QUANTITY: 2
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_3"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Finish preparation.</text>
+				<event>
+					<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_3">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="2"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"It's not often we return goods to our homeland, much less dispose of them there." For some reason, Uriel the Tailed becomes sad after these words, and then descends into nostalgia. "Oh, I remember the time when Saul the Smallgilled had just founded his company on our planet, Firstflood. I was just a kid then, but I distinctly remember how his corporation - I'm talking about Neostar - began to grow at breakneck speed. Neostar's products - home appliances, furniture, and household items in general - were manufactured and shipped throughout the ocean and terrestrial world. Then Neostar began producing food and medical supplies, and began receiving government grants and industrial-scale orders. The number of factories across Firstflood grew daily. Neostar then became a megacorporation, absorbing the rest of our world's leading corporations, and also began engaging in military development, space expansion, and hydroforming..."
+			
+			"And one day, the government of most of the states on our planet fell. I won't go into details of how it happened, but Saul the Smallgilled didn't miss his chance, and, using his reputation and authority, became our sole ruler. Then he proclaimed a new vector of development of our planet - an industrial utopia capable of satisfying the needs of every individual. Now that Firstflood no longer had internal conflicts, we began to develop very quickly, went into space and began to conduct diplomatic relations with other space empires. Neostar... or rather, then Neostar Megacorp, expanded its borders at an enviable speed. Everything was really good, hell, I would even like to go back to that time!.. However, one day, the ambitions of our... ruler... went too far. He decided to use the energy of our star, after which the company was named, for the benefit of the company itself. When most of the representatives of our species had already gone into space, he decided to artificially accelerate the production of solar energy. This led to catastrophic events... Most of the water on our planet evaporated. We had a very small sea level due to the properties of our planet, and it simply dried up when our star became a red giant. Not all of it, of course, but... It's hard to call our planet a Firstflood now. Can you imagine how dependent we were on water?"
+			
+			"Now, almost no one lives on Firstflood. It's too hot there for water-loving creatures like us, and there's no humidity at all. Our species was forced to migrate to other star systems or orbital stations on other planets, just to live in comfort and not have to worry about being boiled on the surface of our planet. I'd be sad to go back there, even if I delivered a couple of crates and then immediately left. But what choice do I have as a direct employee of Neostar? Eh... I used to be a teacher, you know, colleague? I taught history to the fry... Where has all that gone now?.."
+			
+			Uriel the Tailed stares at vidscreen strangely, expecting something. "Um, I think I've said too much. I usually get fined if I talk to my colleagues for too long. The system has decided to pardon me this time... Well, let's get to work!"
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_4" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): E.N.B.
+	DESTINATION POINT: U-E33, Ermi News Block, Warehouse A-2
+	PRODUCT: Neostar Videographers (R)
+	TOTAL CARGO QUANTITY: 2
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_4"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Finish preparation.</text>
+				<event>
+					<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_4">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="2"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"The Ermi News Block employs over a billion people across the universe - can you even imagine that number? They come from a variety of races, usually working as intelligence agents or journalists, but more often, they write news articles on absolutely any topic! Ermi Station allows the entire universe to stay informed about the most important topics on the agenda. This organization also has its own representative office in most peaceful civilizations - an advantage that even Neostar Megacorp doesn't have! Their role is very, very important—at the Hour of Judgment, for example, they-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_5" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Vipi-Suvi
+	DESTINATION POINT: U-E33, Central Alliance, Novalethe Empire, Protolethe Star System, Planet Lethe, Minilethe Orbital City
+	PRODUCT: Rare Metals, Medical Devices
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_5"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_5">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Oh, a delivery to Novalethe! The Letherians are a peaceful people. It's unlikely you'll find more peaceful creatures in the entire universe. They possess a genetically developed sense of empathy, and they simply can't stand to see other living beings suffer, instead striving to benefit neighboring empires in every way possible. I don't know why I'm telling you this, especially without the details of this delivery, but I really like this race. They even look harmless and cute, can you imagine? Such miniature creatures with a pair of wings, one eye, and gray skin. They look like little angels, honestly! And they are-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_6" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): Castrophis
+	DESTINATION POINT: U-E33, Terra Ultima, Castrophis Station, Lower Tier, Third Floor
+	PRODUCT: Radio Devices, Camouflage Field Generators
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_6"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_6">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"We've been receiving a lot of deliveries from Castrophis Station lately. Does this mean the Eschatologists have more work for some reason? Despite how young the Eschatological Society is, they already have considerable influence in their field of research. They help prevent certain conflicts, so to speak, related to the possibility of certain worlds being consumed by the Darkness before others. It's difficult to explain why their work is important in our Universe, and even more difficult for someone from another Universe to understand, but I'd still like to try. Let's start with-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_7" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Prototheus Prime
+	DESTINATION POINT: U-E33, Belfry
+	PRODUCT: Medical Devices, Leisure Items
+	COMMENT: Deliver the goods to the nearest sanctuary. Thank you.
+	TOTAL CARGO QUANTITY: 4
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_7"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue preparation...</text>
+						<event>
+							<text>You continue to prepare cargo for delivery.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Finish preparation.</text>
+								<event>
+									<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+									<weapon name="EG_NEOSTAR_CARGO"/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_7">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="4"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"It's not often we receive requests for deliveries directly to the Center of the Universe. Even more rarely do we receive requests for humanitarian aid. The Belfry, despite its high status and immense importance, isn't very popular for reasons unknown to me, so Neostar Megacorp probably delivers even fewer supplies there than to the Peaks or the Omega Sector. Of course, the natives of the Belfry and both Causality Pillars are pure ascetics, ignorant of the benefits of civilization. But that doesn't mean they don't need them at all. No matter how hard Secunda tries to-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_8" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Day
+	DESTINATION POINT: U-E33, Eos
+	PRODUCT: Special Marked Order No.42
+	COMMENT: Leave it with the guard. He'll find you himself.
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_8"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_8">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Delivery to Eos, huh? The owner of Eos, Day, is a very important figure in our Universe. He's the head of the Sols Project - intelligent machines that contacted the Young Universe, which was born from a single artifact of terrible power. He's a protector of the innocent, a brilliant inventor and scientist, personally acquainted with a pair of Creators, and has authority and recognition in almost every corner of the Universe. Frankly, he's my idol. It's great that this delivery fell to you and me. I'll be very happy to see Eos in person - I've never been there. Oh, do you know what might be stored in this crate? Day probably decided to take on another-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_9" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): Lumen Foundation
+	DESTINATION POINT: U-E33, Foreign Lands, Lighthouse Station, Logistics Compartment
+	PRODUCT: Anti-darkness Regulators
+	TOTAL CARGO QUANTITY: 2
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_9"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Finish preparation.</text>
+				<event>
+					<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_9">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="2"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Hmm... This delivery is directly to Lighthouse Station! A rare opportunity to see Postulate's body. Did you know that this is the only station, and indeed the only place in the Universe, located outside the boundaries of our observable Universe? The scientists working there constantly expose themselves to danger, making forays into the very depths of the Darkness. It's safe as long as the Anti-Darkness Regulators that corrode Postulate are working. If it isn't stopped by enough Regulators, the Darkness destroys everything - everything inanimate and everything living. It's a danger that even the Creators fear. It's a danger that we fear. It's inevitable, multifaceted, incomprehensible, and-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_10" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): Militant Shelter
+	DESTINATION POINT: U-E33, Lion Corps, Incisor Star System, Incisor II Planet, Cedia Hestatoria City, Great House
+	PRODUCT: Quark-Level Disintegrators
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_10"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Finish preparation.</text>
+				<event>
+					<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_10">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Immortal lions! The Lion Corps is the eternal home of their eternal bodies! These are the most warlike apex predators; if they wanted, they could unleash a war on the entire universe and certainly emerge victorious. Well, that's a bit of a stretch, of course, but you get the gist... Basically, they're immortal; it's their undeniable advantage. But the thing is, while immortality may seem like an unattainable blessing to the outside world, for the Lions themselves, it's the most terrible curse. Considering the fact that you'd never be able to get rid of a Lion serial killer, for example, because you couldn't do anything to them. For such cases, Vitae Nostra scientists developed Quark-Level Disintegrators - machines capable of splitting Lions into millions of particles, then destroying each particle one by one. It's a rather terrifying method of execution, considering that Lions-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_11" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (LEGAL): New Roads Project
+	DESTINATION POINT: U-E33, Star Shipyards, Astrotrain Station, Engine Compartment
+	PRODUCT: Special Marked Order No.14
+	TOTAL CARGO QUANTITY: 4
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_11"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue preparation...</text>
+						<event>
+							<text>You continue to prepare cargo for delivery.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Finish preparation.</text>
+								<event>
+									<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+									<weapon name="EG_NEOSTAR_CARGO"/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_11">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="4"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Hmm... We haven't received orders from the Star Shipyards in a while. They're usually self-sufficient in laying out new Lightways, but something must have gone wrong this time. It's a good thing the Central Alliance has taken a serious approach to renovating the space ways. Traveling along them has become much more pleasant, less unsettling. There were reports earlier, though hardly provable, that Light Bridges have a certain chance of being completely destroy... No, that's not the word. Completely ERASE from ALL reality certain ships, with an extremely small chance. Nothing remains of such an erased ship - it disappears not just as a ship, but as the concept of a ship! Don't you understand? Well, there are certain peculiarities of our universe at play here, basically, it all boils down to the fact that the Prime God Thesis once-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_12" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Gikok Perpetiel
+	DESTINATION POINT: U-E33, Outer Consulate, Gerves Star System, Planet Andrion, Nakatomi Settlement
+	PRODUCT: Multifunctional Drones
+	TOTAL CARGO QUANTITY: 4
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_12"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue preparation...</text>
+						<event>
+							<text>You continue to prepare cargo for delivery.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Finish preparation.</text>
+								<event>
+									<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+									<weapon name="EG_NEOSTAR_CARGO"/>
+									<choice>
+										<text>Continue...</text>
+										<event/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_12">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="4"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"We know little about the Outer Consulate... Its agents are somehow connected to the Work, to the Creators, interacting with them somehow, despite being at a great distance from them... What's even funnier is that this time, one of the agents ordered four whole crates of drones! Did you know that they simply hate any mechanics? Even their spaceships don't have a single mechanical part - only biocomponents, and instead of artificial intelligence, the ships have the developed consciousness of a living being! Isn't it amazing? You know what's even more amazing? There are rumors that one of the agents once killed one of the-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_13" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Pus Coloris <!-- pus coloris -->
+	DESTINATION POINT: U-E33, Monochrome, Hopeless Star System, Planet Monochrome, Exodus, Military Base Zero
+	PRODUCT: Military Products, Medical Devices, Combat Drones
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_13"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_13">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Oh, Monochrome. A dying world. One of the worlds with the most tragic fate. It so happens to be located right on the border between Postulate's body and our observable universe. The Darkness consumes Monochrome daily, but this planet is incapable of dying completely. It is a deeply mystical world, not destroyed by Postulate's powers, but perhaps rather fed by them. However, this does not mean that Monochrome's inhabitants should not defend themselves - on the contrary, a complete transition to the power of the Darkness, while making them much stronger, will hardly make them happier, I suppose... Oh, I never told you who Postulate is, did I? Well, this being - or rather, the Creator - from whose flesh all things are woven in-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_14" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): [UNDEFINED]
+	DESTINATION POINT: U-E33, First Nebulae
+	PRODUCT: Educational Materials
+	COMMENT: Throw the cargo into the nebula space.
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_14"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_14">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Funny delivery. The First Nebulae are essentially one large collective intelligence in the form of a nebula. Each individual particle, of course, has consciousness and can communicate with other particles individually, but together they represent something like a Boltzmann brain. Ever heard of such a thing? The First Nebulae - as a single collective intelligence - rarely interact with other representatives of intelligent life, but it seems they have now shown an interest in us for some reason. Oh, did you know that these are some of the most ancient beings in our Universe? Although there is debate about which space civilizations exactly were among the First, the First Nebulae surely hide in their depths one of the fragments of the key that unlocks the mysterious-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_15" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): [UNDEFINED]
+	DESTINATION POINT: U-E33, Work, Sphere of Notation
+	PRODUCT: Special Marked Order No.02
+	TOTAL CARGO QUANTITY: 3
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_15"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Continue preparation...</text>
+				<event>
+					<text>You continue to prepare cargo for delivery.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Finish preparation.</text>
+						<event>
+							<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+							<weapon name="EG_NEOSTAR_CARGO"/>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_15">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="3"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"Is it... Delivery directly to the Work? I mean... TO THE WORK? Seriously, and you were the one tasked with preserving this cargo and bringing it here? Did you know that the Creators are the gods of our world? They have mastered any craft; if they so choose, they can craft themselves a THOUSAND of these boxes! Knowing this makes me think that this cargo might contain something very important - for the Creators and for the Work as a whole. Something that even the gods cannot create or recreate... Wait, so this is also delivery directly to the SPHERE OF NOTATION! Colleague, the Creator who lives within it has never before-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_LIST_OF_TASKS_16" unique="true">
+	<text>ATTENTION! New delivery available.
+	
+	CUSTOMER (INDIVIDUAL): Savinir Rain
+	DESTINATION POINT: U-E33, Terra Ultima, Solar Star System, Planet Earth, Floating City Hereditas, Terra Research Institute
+	PRODUCT: Scientific Products
+	TOTAL CARGO QUANTITY: 2
+	CARGO TRANSFER PROCESS: Indirect</text>
+	<quest event="EG_NEOSTAR_TASK_16"/>
+	<variable name="neostar_cargo_available_task" op="add" val="-1"/>
+	<choice>
+		<text>Prepare cargo for delivery.</text>
+		<event>
+			<text>You prepare cargo for delivery.</text>
+			<weapon name="EG_NEOSTAR_CARGO"/>
+			<choice>
+				<text>Finish preparation.</text>
+				<event>
+					<text>You're finishing preparing the cargo for delivery. It's time to deliver it to its destination.</text>
+					<weapon name="EG_NEOSTAR_CARGO"/>
+					<choice>
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_TASK_16">
+	<beaconType id="eg_neostar_task" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>This is where you must deliver Neostar cargo.</unvisitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_NEOSTAR_WARNING</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<sectorEight>true</sectorEight>
+		<lastStand>true</lastStand> 
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. 
+
+On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally.</text>
+	<img back="BACK_EVENT_RIFT"/>
+	<variable name="neostar_cargo_check" op="set" val="2"/>
+	<variable name="neostar_cargo_beacon_task" op="set" val="1"/>
+	<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+	<choice>
+		<text>Continue...</text>
+		<event>
+			<text>Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.
+			
+			"You know, colleague, Savinir Rain is a very important person. He was essentially one of the original founders of Terra Ultima, along with... Elizabeth? Yes, that's her name, I think. I wonder why he needed even more scientific instruments when the Terra Research Institute already has plenty. Did you know that institute is one of the largest in the entire Terra Ultima? It practically takes up the entire area of the floating city! Oh, and you don't even know why the entire Earth is now completely covered in water, with not a single patch of land, do you? Well, it all began when the Earth's oceans turned the color of blood-..."
+			
+			Suddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.
+			
+			ATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_WARNING">
+	<text>Are you sure you have transferred all Neostar Crates (R)?</text>
+	<choice>
+		<text>Yes.</text>
+		<event>
+			<text>Your colleagues are returning to their home universe through the wormhole, which is quickly closing. It's time for you to leave too.</text>
+			<changeBackground>BACKGROUND</changeBackground>
+			<clearJumpEvent/>
+			<variable name="neostar_cargo_beacon_task" op="set" val="0"/>
+			<variable name="neostar_cargo_check" op="set" val="0"/>
+			<instantEscape/>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice>
+		<text>No.</text>
+		<event>
+			<text>You decide to make sure that all the cargo has been delivered.</text>
+			<jumpEvent>EG_NEOSTAR_WARNING_TWEAK</jumpEvent>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_WARNING_TWEAK">
+	<loadEvent>EG_NEOSTAR_WARNING</loadEvent>
+</event>

@@ -2,6 +2,92 @@
 
 <FTL>
 
+<augBlueprint name="EG_AUTO_REPAIR">
+	<title>Splinter</title>
+	<desc>A splinter. You were hardly supposed to see this.</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<value>1</value>
+	<stackable>true</stackable>
+</augBlueprint>
+
+<weaponBlueprint name="EG_NEOSTAR_CARGO">
+	<type>BEAM</type>
+	<tip>tip_storage_neostar</tip>
+	<title>Neostar Crate (R)</title>
+	<short>Neostar Crate (R)</short>
+	<desc>A crate filled to the brim with a wide variety of cargo, a cutting-edge development from Neostar Megacorp (R)! Thanks to certain disruptions in the space-time continuum, it can hold at least three times more cargo than any similarly sized crate from our competitors!
+	NOTE for Neostar (R) employees: Deliver the cargo at any cost. Do not attempt to sell it by any known means or hack it - the Neostar Megacorp Specialized Security System (R) will immediately destroy the contents of the crate, and if the cargo is confirmed lost, you will be subject to penalties.</desc>
+	<tooltip>Storage Weapon</tooltip>
+	<damage>0</damage>
+	<sp>0</sp>
+	<cooldown>-1</cooldown>
+	<speed>0</speed>
+	<length>0</length>
+	<rarity>0</rarity>
+	<power>0</power>
+	<cost>40</cost>
+	<image>beam_contact</image>
+	<weaponArt>invisible</weaponArt>
+	<iconReplace>eg_neostar_cargo</iconReplace>
+</weaponBlueprint>
+
+<augBlueprint name="EG_CORPORATE_GIFT"> 
+	<title>Corporate's Portrait</title>
+	<desc>A golden-haired man in a pressed formal suit and sunglasses looks out at you from this portrait, smiling gently. It's a personal gift from Corporate, and it features him, no matter how arrogant it may seem. While the portrait is on your ship, your crew receives a 20% bonus to repair and movement speed, and a 30% bonus to healing speed on all ships.</desc>
+	<cost>70</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EG_MIRACLE_ALLIANCE"> 
+	<title>Alliance Agreement</title>
+	<desc>A completely useless document. Does absolutely nothing. Can be sold for 30 scrap.</desc>
+	<cost>60</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<augBlueprint name="EG_SECOND_VOICE_CIVIL">
+	<title>Civilians</title>
+	<desc>Your ship is a Second Voice civilian vessel. Like any civilian ship, it's very small and has a number of significant drawbacks, but it also offers you subtle advantages. You can declare your ship as a civilian ship in a special menu, receiving a reduction in overall notoriety and notoriety for most peaceful factions, and then gaining access to other features in this menu. The maneuverability and speed of a civilian ship allows you to salvage 25% more scrap from most sources. Ship's small size allows weapons to recharge 10% faster and shields to recharge 15% faster.</desc>
+	<cost>0</cost>
+	<bp>0</bp>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>1</value>
+</augBlueprint>
+<augBlueprint name="EG_SHIP_SECOND_VOICE">
+	<title>Second Voice Ship</title>
+	<desc>You probably shouldn't have seen that.</desc>
+	<cost>0</cost>
+	<bp>0</bp>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>1</value>
+</augBlueprint>
+
+<augBlueprint name="EG_LOYALTY_PROGRAM">
+	<title>Loyalty Program (R)</title>
+	<desc>Are you a Junior Employee at Neostar Megacorp (R), a cutting-edge space Megacorporation (R) focused on Innovative Developments (R) and Cargo Transportation (R)? Did you take this job without any idea what to expect? No problem - our Neostar Megacorp Junior Delivery Employee Training Guide (R), integrated directly into your Neostar Form (R), as well as our Loyalty Program (R), will help you adapt to the new work environment! You've probably noticed your expanded cargo hold, filled to the brim with various cargo. With your Neostar Form (R), you can receive special cargo delivery tasks, complete them, and earn pay for them, which also increases your Loyalty Level (R). Each new Loyalty Level (R) brings you closer to promotion and earns you Premium Rewards (R). Wasn't it all much easier than you imagined, and now you're relieved to find out you've landed such a simple job? Well then, good luck, Neostar Megacorp (R) Junior Employee! Any questions? Please refer to the Junior Employee FAQ (R) on your Neostar Form (R)!
+
+	NOTE: Neostar Megacorp (R) does not guarantee your safety during cargo delivery. Call 8-800-555-35-35 to file complaints or suggestions. Remember: Neostar Megacorp (R) cares about your well-being!</desc>
+	<cost>0</cost>
+	<bp>0</bp>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>1</value>
+</augBlueprint>
+<augBlueprint name="EG_SHIP_NEOSTAR">
+	<title>Neostar Ship</title>
+	<desc>You probably shouldn't have seen that.</desc>
+	<cost>0</cost>
+	<bp>0</bp>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<value>1</value>
+</augBlueprint>
+
 <augBlueprint name="EG_DREAM_SEEKER_HEART">
 	<title>Dream Seeker's Heart</title>
 	<desc>Allows your crew to ignore mind control. Your own mind control will recharge 5 seconds faster.</desc>
@@ -242,7 +328,7 @@
 </augBlueprint>
 <augBlueprint name="EG_WHITE_GARDEN">
 	<title>White Garden</title>
-	<desc>Emperor's clone's beautiful garden is located at the stern of the ship. If the oxygen system is powered, each unit of energy in it gives +10% to the maximum health and +10% to the movement speed of each allied crew member on your ship and the enemy ship. In addition, it provides a fixed +30% resistance to suffocation and 1 HP/s regeneration.</desc>
+	<desc>Emperor's clone's beautiful garden is located at the stern of the ship. If the oxygen system is powered, each unit of energy in it gives +15% to the maximum health and +10% to the movement speed of each allied crew member on your ship and the enemy ship. In addition, it provides a fixed +30% resistance to suffocation and 1 HP/s regeneration.</desc>
 	<cost>0</cost>
 	<rarity>0</rarity>
 	<stackable>false</stackable>
@@ -426,65 +512,6 @@
 	<stackable>false</stackable>
 </augBlueprint>
 
-<weaponBlueprint name="EG_ERUDITE_BEAM_1">
-    <type>LASER</type>
-    <title>"Point of View"</title>
-    <short>"Point of View"</short>
-    <desc>[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 point of hull damage for each room it hits. It guarantees to stun the enemy crew for 15 seconds.</desc>
-    <tooltip>[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 point of hull damage for each room it hits. It guarantees to stun the enemy crew for 15 seconds.</tooltip>
-	<damage>1</damage>
-	<noSysDamage>true</noSysDamage>
-	<noPersDamage>true</noPersDamage>
-	<ion>0</ion>
-	<sp>10</sp>
-	<fireChance>0</fireChance>
-	<breachChance>0</breachChance>
-    <stun>15</stun>
-    <stunChance>10</stunChance>
-    <power>0</power>
-    <cooldown>14</cooldown>
-	<color>
-		<r>0</r>
-		<g>140</g>
-		<b>255</b>
-	</color>
-	<length>125</length>
-	<cost>100</cost>
-	<rarity>0</rarity>
-	<launchSounds>
-		<sound>beam2</sound>
-	</launchSounds>
-	<weaponArt>eg_arti_empty</weaponArt>
-</weaponBlueprint>
-<weaponBlueprint name="EG_ERUDITE_BEAM_2">
-    <type>LASER</type>
-    <title>"Persuasion"</title>
-    <short>"Persuasion"</short>
-    <desc>[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 system damage.</desc>
-    <tooltip>[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 system damage.</tooltip>
-	<damage>0</damage>
-	<sysDamage>1</sysDamage>
-	<noPersDamage>true</noPersDamage>
-	<ion>0</ion>
-	<sp>10</sp>
-	<fireChance>0</fireChance>
-	<breachChance>0</breachChance>
-    <power>0</power>
-    <cooldown>11</cooldown>
-	<color>
-		<r>0</r>
-		<g>140</g>
-		<b>255</b>
-	</color>
-	<length>125</length>
-	<cost>100</cost>
-	<rarity>0</rarity>
-	<launchSounds>
-		<sound>beam2</sound>
-	</launchSounds>
-	<weaponArt>eg_arti_empty</weaponArt>
-</weaponBlueprint>
-
 <weaponBlueprint name="EG_GEM_ARMOR_VIOLET">
 	<type>BURST</type>
 	<title>EG CRYSTAL SHARD</title>
@@ -497,7 +524,7 @@
 	<noSysDamage>true</noSysDamage>
 	<noPersDamage>true</noPersDamage>
 	<accuracyMod>100</accuracyMod>
-	<speed>10</speed>
+	<speed>25</speed>
 	<shots>1</shots>
 	<projectiles>
 		<projectile count="1" fake="false">eg_gem_violet</projectile>
@@ -540,7 +567,7 @@
 	<noSysDamage>true</noSysDamage>
 	<noPersDamage>true</noPersDamage>
 	<accuracyMod>100</accuracyMod>
-	<speed>10</speed>
+	<speed>25</speed>
 	<shots>1</shots>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -581,7 +608,7 @@
 	<damage>2</damage>
 	<noPersDamage>true</noPersDamage>
 	<accuracyMod>100</accuracyMod>
-	<speed>10</speed>
+	<speed>25</speed>
 	<shots>1</shots>
 	<sp>0</sp>
 	<fireChance>10</fireChance>
@@ -707,18 +734,196 @@
 	<iconImage>beam</iconImage>
 </weaponBlueprint>
 
+<weaponBlueprint name="EG_NEOSTAR_LASER">
+	<type>LASER</type>
+	<title>Neostar Laser (R)</title>
+	<short>Neostar Laser (R)</short>
+	<desc>An advanced laser weapon designed for internal use by Neostar Megacorp ships. It fires three shots, each dealing two damage and having a small chance to create a breach.</desc>
+	<tooltip>An advanced laser weapon designed for internal use by Neostar Megacorp ships. It fires three shots, each dealing two damage and having a small chance to create a breach.</tooltip>
+	<damage>2</damage>
+	<persDamage>1</persDamage>
+	<shots>3</shots>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>3</breachChance>
+	<cooldown>22</cooldown>
+	<power>3</power>
+	<cost>65</cost>
+	<bp>10</bp>
+	<rarity>0</rarity>
+	<image>laser_heavy</image>
+	<launchSounds>
+		<sound>heavyLaser1</sound>
+		<sound>heavyLaser2</sound>
+		<sound>heavyLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull1</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>eg_neostar_laser</weaponArt>
+</weaponBlueprint>
+
+<droneBlueprint name="EG_NEOSTAR_DRONE">
+	<type>COMBAT</type>
+	<title>Neostar Combat Drone (R)</title>
+	<short>Neostar Drone (R)</short>
+	<desc>An advanced laser drone designed for internal use by Neostar Megacorp ships. Each shot deals 2 damage and has a small chance to create a fire.</desc>
+	<power>4</power>
+	<cooldown>900</cooldown>
+	<dodge>0</dodge>
+	<speed>25</speed>
+	<cost>65</cost>
+	<bp>10</bp>
+	<droneImage>eg_neostar_drone</droneImage>
+	<image>weapons/laser_light2_strip4.png</image>
+	<weaponBlueprint>EG_NEOSTAR_DRONE_LASER</weaponBlueprint>
+	<rarity>0</rarity>
+</droneBlueprint>
+
+<weaponBlueprint name="EG_NEOSTAR_DRONE_LASER">
+	<type>LASER</type>
+	<title>Drone laser</title>
+	<damage>2</damage>
+	<shots>1</shots>
+	<fireChance>3</fireChance>
+	<breachChance>0</breachChance>
+	<rarity>0</rarity>
+	<image>laser_light</image>
+	<launchSounds>
+		<sound>lightLaser1</sound>
+		<sound>lightLaser2</sound>
+		<sound>lightLaser3</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_burst_1</weaponArt>
+</weaponBlueprint>
+
+<weaponBlueprint name="EG_ERUDITE_BEAM_1">
+    <type>BEAM</type>
+    <title>'Point of View'</title>
+    <short>'Point of View'</short>
+    <desc>[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 point of hull damage for each room it hits. It guarantees to stun the enemy crew for 15 seconds.</desc>
+    <tooltip>[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 point of hull damage for each room it hits. It guarantees to stun the enemy crew for 15 seconds.</tooltip>
+	<damage>1</damage>
+	<noSysDamage>true</noSysDamage>
+	<noPersDamage>true</noPersDamage>
+	<ion>0</ion>
+	<sp>10</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+    <stun>15</stun>
+    <stunChance>10</stunChance>
+    <power>0</power>
+    <cooldown>12</cooldown>
+	<color>
+		<r>0</r>
+		<g>140</g>
+		<b>255</b>
+	</color>
+	<length>160</length>
+	<image>beam_contact</image>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>eg_erudite_beam</weaponArt>
+</weaponBlueprint>
+<weaponBlueprint name="EG_ERUDITE_BEAM_2">
+    <type>BEAM</type>
+    <title>'Persuasion'</title>
+    <short>'Persuasion'</short>
+    <desc>[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 system damage.</desc>
+    <tooltip>[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 system damage.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<noPersDamage>true</noPersDamage>
+	<ion>0</ion>
+	<sp>11</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+    <power>0</power>
+    <cooldown>8</cooldown>
+	<color>
+		<r>0</r>
+		<g>140</g>
+		<b>255</b>
+	</color>
+	<length>160</length>
+	<image>beam_contact</image>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>eg_erudite_beam</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="EG_ERUDITE_BEAM_2_REAL">
+	<type>BEAM</type>
+	<title>'Persuasion'</title>
+	<short>'Persuasion'</short>
+	<tip>tip_erudite_weapon</tip>
+	<desc>A special development by Erudite. This beam weapon pierces all layers of the shield, dealing 1 system damage. It can only be fired twice per battle due to its low energy efficiency.</desc>
+	<tooltip>This beam weapon pierces all layers of the shield, dealing 1 system damage. It can only be fired twice per battle due to its low energy efficiency.</tooltip>
+	<damage>0</damage>
+	<sysDamage>1</sysDamage>
+	<noPersDamage>true</noPersDamage>
+	<ion>0</ion>
+	<sp>11</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+    <power>1</power>
+    <cooldown>6</cooldown>
+	<color>
+		<r>0</r>
+		<g>140</g>
+		<b>255</b>
+	</color>
+	<shotLimit>2</shotLimit>
+	<length>170</length>
+	<image>beam_contact</image>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>eg_erudite_beam</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
 <weaponBlueprint name="artillery_termite1">
     <type>LASER</type>
     <title>Bioacid beetle</title>
     <short>Bioacid beetle</short>
-    <desc>[Base cooldown: 20] This beetle spits acid projectiles that corrode the enemy crew. Their spit deal 30 damage to the crew and have a guaranteed chance to stun it for 10 seconds. Pierces 1 sheild layer.</desc>
-    <tooltip>[Base cooldown: 20] This beetle spits acid projectiles that corrode the enemy crew. Their spit deal 30 damage to the crew and have a guaranteed chance to stun it for 10 seconds. Pierces 1 sheild layer.</tooltip>
+    <desc>[Base cooldown: 20] This beetle spits acid projectiles that corrode the enemy crew. Their spit deal 45 damage to the crew and have a guaranteed chance to stun them for 10 seconds. Pierces 5 shield layers.</desc>
+    <tooltip>[Base cooldown: 20] This beetle spits acid projectiles that corrode the enemy crew. Their spit deal 45 damage to the crew and have a guaranteed chance to stun them for 10 seconds. Pierces 5 shield layers.</tooltip>
     <ionDamage>0</ionDamage>
     <sysDamage>0</sysDamage>
-    <persDamage>2</persDamage>
+    <persDamage>3</persDamage>
     <speed>15</speed>
-    <shots>2</shots>
-	<sp>1</sp>
+    <shots>4</shots>
+	<sp>5</sp>
     <stun>10</stun>
     <fireChance>0</fireChance>
     <breachChance>0</breachChance>
@@ -749,17 +954,17 @@
     <type>LASER</type>
     <title>Acid beetle</title>
     <short>Acid beetle</short>
-    <desc>[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's systems, dealing 2 damage each. Creates a breach in the room with a moderate chance.</desc>
-    <tooltip>[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's systems, dealing 2 damage each. Creates a breach in the room with a moderate chance.</tooltip>
+    <desc>[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's systems, dealing 2 damage each. Creates a breach in the room with a moderate chance. Pierces 2 shield layers.</desc>
+    <tooltip>[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's systems, dealing 2 damage each. Creates a breach in the room with a moderate chance. Pierces 2 shield layers.</tooltip>
     <ionDamage>0</ionDamage>
     <sysDamage>2</sysDamage>
     <persDamage>0</persDamage>
     <speed>20</speed>
     <shots>2</shots>
-    <sp>0</sp>
+    <sp>2</sp>
     <stun>0</stun>
     <fireChance>0</fireChance>
-    <breachChance>5</breachChance>
+    <breachChance>6</breachChance>
     <stunChance>0</stunChance>
     <power>0</power>
     <cooldown>20</cooldown>
@@ -1755,7 +1960,7 @@
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors power="1" max="3" room="5" start="true" img="room_doors_4">
+		<doors power="2" max="3" room="5" start="true" img="room_doors_4">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
@@ -1805,7 +2010,8 @@
 	<weaponSlots>3</weaponSlots>
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="6" count="3">
-		<weapon name="LASER_BURST_3" />
+		<weapon name="LASER_BURST_2" />
+		<weapon name="LASER_BURST_2" />
 		<weapon name="BEAM_FIRE_INSTANT" />
 	</weaponList>
 	<droneList drones="4" count="2" />
@@ -1813,6 +2019,7 @@
 	<maxPower amount="7" />
 	<crewCount amount="1" class="engi_separatist" />
 	<crewCount amount="1" class="mantis" />
+	<crewCount amount="1" class="shell_guardian" />
 	<crewCount amount="1" class="zoltan" />
 	<aug name="EG_GLASS_SHIP" />
 	<shieldImage>mup_orb1</shieldImage>
@@ -1831,7 +2038,7 @@
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors power="1" max="3" room="7" start="true" img="room_doors_5">
+		<doors power="2" max="3" room="7" start="true" img="room_doors_5">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
@@ -1882,6 +2089,7 @@
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="6" count="3">
 		<weapon name="LASER_BURST_2" />
+		<weapon name="LASER_BURST_1" />
 		<weapon name="ION_INSTANT" />
 	</weaponList>
 	<droneList drones="4" count="2" />
@@ -1907,7 +2115,7 @@
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors power="1" max="3" room="7" start="true" img="room_doors_4">
+		<doors power="2" max="3" room="7" start="true" img="room_doors_4">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
@@ -1980,7 +2188,7 @@
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors power="1" max="3" room="7" start="true" img="room_doors">
+		<doors power="2" max="3" room="7" start="true" img="room_doors">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
@@ -2077,7 +2285,7 @@
 			</slot>
 		</medbay>
 		<mind power="1" max="3" room="11" start="false" img="room_mind_9" />
-		<oxygen power="1" room="13" start="true" img="room_oxygen" />
+		<oxygen power="1" room="18" start="true" img="room_eg_oxygen_mini" />
 		<pilot power="1" max="3" room="0" start="true" img="room_pilot_5">
 			<slot>
 				<direction>right</direction>
@@ -2345,14 +2553,13 @@
 	<health amount="30" />
 	<maxPower amount="8" />
 	<aug name="EX_ZOLTAN_BYPASS" />
-	<aug name="EX_O2_MASKS" />
 	<aug name="SYSTEM_CASING_NEW" />
 	<shieldImage>mup_orb2</shieldImage>
 </shipBlueprint>
 
 <shipBlueprint name="PLAYER_EG_GOLIATH_2" layout="eg_goliath_b" img="goliath_b">
-	<class>Phytocenosis Model</class>
-	<name>Phytocenosis Prototype</name>
+	<class>Phytocenosis Prototype</class>
+	<name>Phytocenosis Model</name>
 	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
 	<desc>An experimental ship that uses technology to extract energy from biological source, allowing it to travel to any beacon in the sector for just 1 fuel cells. Although the phytocenosis seems to have escaped from its containment capsules, the ship is still functioning normally... just don't go into engines room.</desc>
 	<systemList>
@@ -2414,7 +2621,6 @@
 	<health amount="30" />
 	<maxPower amount="10" />
 	<aug name="EG_PHYTOCENOSIS_PROTOTYPE" />
-	<aug name="EX_BACKUP_DNA" />
 	<shieldImage>mup_standard1</shieldImage>
 </shipBlueprint>
 
@@ -2424,7 +2630,7 @@
 	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
 	<desc>A copy of the current Imperial ship of the Emperor White, reduced a hundredfold in size, but with greater potential than its two previous versions. Combining the best qualities of the first version with the latest reactor based on living phytocenosis, this machine spreads the word of the greatness of the White Empire throughout space.</desc>
 	<systemList>
-		<artillery power="1" max="3" room="13" start="true" weapon="LASER_HULL_3_PLAYER" img="room_artillery_4" />
+		<artillery power="1" max="3" room="13" start="true" weapon="LASER_HULL_3" img="room_artillery_4" />
 		<artillery power="1" max="2" room="14" start="true" weapon="BEAM_CHAIN" img="room_artillery" />
 		<battery power="1" max="2" room="15" start="false" img="room_battery_6" />
 		<cloaking power="1" max="3" room="20" start="false" img="room_cloaking_5" />
@@ -2482,7 +2688,6 @@
 	<health amount="40" />
 	<maxPower amount="14" />
 	<aug name="EG_PHYTOCENOSIS_LIVING" />
-	<aug name="CRATE_FUEL" />
 	<shieldImage>mup_disk</shieldImage>
 </shipBlueprint>
 
@@ -2533,7 +2738,7 @@
 				<number>0</number>
 			</slot>
 		</shields>
-		<teleporter power="1" max="3" room="6" start="true" />
+		<teleporter power="2" max="3" room="6" start="true" />
 		<weapons power="2" max="8" room="2" start="true" img="room_weapons_7">
 			<slot>
 				<direction>up</direction>
@@ -2549,7 +2754,7 @@
 	</weaponList>
 	<droneList drones="4" count="2" />
 	<health amount="30" />
-	<maxPower amount="8" />
+	<maxPower amount="9" />
 	<aug name="EG_WHITE_GARDEN" />
 	<aug name="LAB_HUMAN_TEAMWORK" />
 	<shieldImage>mup_orb3</shieldImage>
@@ -3078,7 +3283,7 @@
 	<class>Lesser Guardian</class>
 	<name>Little Rascal</name>
 	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
-	<desc>All things that become obsolete, whether morally or physically, inevitably end up in the scrapyard, and so this ship once found itself in the scrapyard. At least Phantoms who found it were able to restore its basic functionality and even attach a scrap arm to it, which, incidentally, is capable of collecting spent ASB platforms.</desc>
+	<desc>All things that become obsolete, whether morally or physically, inevitably end up in the scrapyard, and so this ship once found itself in the scrapyard. At least Phantoms who found it were able to restore its basic functionality and even significantly improve the shields system.</desc>
 	<systemList>
 		<battery power="1" max="2" room="7" start="false" img="room_battery_15" />
 		<cloaking power="1" max="3" room="11" start="false" img="room_cloaking_3" />
@@ -3120,7 +3325,7 @@
 				<number>1</number>
 			</slot>
 		</sensors>
-		<shields power="3" max="8" room="16" start="true" img="room_shields_4">
+		<shields power="5" max="8" room="16" start="true" img="room_shields_4">
 			<slot>
 				<direction>left</direction>
 				<number>0</number>
@@ -3898,13 +4103,472 @@
 	<cloakImage>eg_dreamseeker</cloakImage>
 </shipBlueprint>
 
+<shipBlueprint name="PLAYER_EG_SECOND_VOICE" layout="eg_second_voice" img="eg_second_voice">
+	<class>Second Voice Civilian Vessel</class>
+	<name>Rainy-1</name>
+	<desc>This Second Voice ship, primarily a civilian vessel, was designed for comfortable travel within Central Alliance space. While it's very small and has a number of drawbacks, it also has a number of advantages that can make your life easier.</desc>
+	<unlock>Complete the order for the Miracle 7302 "Alliance Agreement" for Miracle Seekers and demonstrate your brilliant knowledge in a specific field.</unlock>
+	<systemList>
+		<cloaking power="1" max="3" room="6" start="false" img="room_cloaking_4" />
+		<clonebay power="1" max="2" room="3" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="2" max="3" room="5" start="true" img="room_doors_6">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="6" room="1" start="false" img="room_drones_7" />
+		<engines power="4" max="6" room="7" start="true" img="room_engines_6">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="4" start="false" img="room_hacking_11" />
+		<medbay power="1" max="3" room="3" start="true" img="room_medbay_16">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="10" start="false" img="room_mini_empty" />
+		<oxygen power="1" max="2" room="9" start="true" img="room_oxygen_18" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="8" start="true" img="room_sensors_4">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="2" start="true" img="room_shields">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<weapons power="2" max="6" room="11" start="true" img="room_eg_weapons">
+			<slot>
+				<direction>down</direction>
+				<number>0</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="6" count="3">
+		<weapon name="LASER_LIGHT_2" />
+		<weapon name="BOMB_CONSERVRECYCLER" />
+		<weapon name="BOMB_CONSERVRECYCLER" />
+	</weaponList>
+	<droneList drones="6" count="3" />
+	<health amount="20" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="orchid" />
+	<crewCount amount="1" class="human_soldier" />
+	<aug name="EG_SECOND_VOICE_CIVIL" />
+	<aug name="EX_SHIELD_RECHARGE" />
+	<aug name="DISTRACTION_BUOY" />
+	<shieldImage>eg_second_voice</shieldImage>
+	<cloakImage>eg_second_voice</cloakImage>
+</shipBlueprint>
+<shipBlueprint name="PLAYER_EG_SECOND_VOICE_2" layout="eg_second_voice_b" img="eg_second_voice_b">
+	<class>Second Voice Civilian Vessel</class>
+	<name>The Star Rover</name>
+	<desc>This variation of the Second Voice civilian ship was specifically designed for long-range space travel to other territories bordering the Central Alliance and has a more advanced defense system.</desc>
+	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
+	<systemList>
+		<battery power="1" max="2" room="12" start="false" img="room_mini_empty" />
+		<cloaking power="1" max="3" room="7" start="false" img="room_cloaking_8" />
+		<clonebay power="1" max="2" room="9" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="2" max="3" room="10" start="true" img="room_doors_10">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="6" room="1" start="false" img="room_eg_drones_4" />
+		<engines power="4" max="6" room="6" start="true" img="room_engines_10">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="8" start="false" img="room_hacking_3" />
+		<medbay power="1" max="3" room="9" start="true" img="room_medbay_2">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="11" start="false" img="room_mini_empty" />
+		<oxygen power="1" max="2" room="5" start="true" img="room_oxygen_2" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="2" start="true" img="room_sensors_2">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="4" start="true" img="room_shields_9">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<weapons power="2" max="6" room="3" start="true" img="room_weapons_2">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="6" count="3">
+		<weapon name="LASER_PIERCE" />
+		<weapon name="BEAM_1" />
+		<weapon name="ENERGY_CONSERVATIVE" />
+	</weaponList>
+	<droneList drones="6" count="3" />
+	<health amount="20" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="engi_separatist" />
+	<crewCount amount="1" class="orchid" />
+	<aug name="EG_SECOND_VOICE_CIVIL" />
+	<aug name="FTL_JUMPER_SCANNER" />
+	<aug name="SYSTEM_CASING_NEW" />
+	<shieldImage>eg_second_voice</shieldImage>
+	<cloakImage>eg_second_voice</cloakImage>
+</shipBlueprint>
+<shipBlueprint name="PLAYER_EG_SECOND_VOICE_3" layout="eg_second_voice_c" img="eg_second_voice_c">
+	<class>Second Voice Civilian Vessel</class>
+	<name>Competencies</name>
+	<desc>A standard civilian ship has been refitted specifically for Central Alliance officials. Officials are included - and while they won't do anything on the ship, as long as they're part of your crew, they'll pay you for protecting them.</desc>
+	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
+	<systemList>
+		<cloaking power="1" max="3" room="1" start="true" img="room_cloaking_9" />
+		<clonebay power="1" max="2" room="7" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="2" max="3" room="9" start="true" img="room_doors_8">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="2" max="6" room="4" start="false" img="room_drones_3" />
+		<engines power="4" max="6" room="6" start="true" img="room_engines">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="8" start="false" img="room_hacking_4" />
+		<medbay power="1" max="3" room="7" start="true" img="room_medbay_13">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="2" start="false" img="room_mind_2" />
+		<oxygen power="1" max="2" room="11" start="true" img="room_oxygen" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="10" start="true" img="room_sensors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="3" start="true" img="room_shields_11">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</shields>
+		<weapons power="2" max="6" room="5" start="true" img="room_weapons">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>3</droneSlots>
+	<weaponList missiles="6" count="3">
+		<weapon name="LASER_HEAVY_2" />
+		<weapon name="ION_CONSERVATIVE" />
+	</weaponList>
+	<droneList drones="6" count="3" />
+	<health amount="20" />
+	<maxPower amount="9" />
+	<crewCount amount="1" class="zoltan_peacekeeper" />
+	<crewCount amount="1" class="eg_second_voice_officiary" />
+	<crewCount amount="1" class="eg_second_voice_officiary" />
+	<aug name="EG_SECOND_VOICE_CIVIL" />
+	<aug name="NANOBOT_DEFENSE_SYSTEM" />
+	<aug name="ENERGY_SHIELD" />
+	<shieldImage>eg_second_voice</shieldImage>
+	<cloakImage>eg_second_voice</cloakImage>
+</shipBlueprint>
+
+<shipBlueprint name="PLAYER_EG_NEOSTAR" layout="eg_neostar" img="eg_neostar">
+	<class>Neostar Forwarder</class>
+	<name>Faster-Than-Light</name>
+	<desc>A standard supercausal cargo ship owned by Neostar. With the Loyalty Program, you can complete deliveries, earn scrap, and increase your Loyalty Level. Expanded cargo hold will help you achieve this.</desc>
+	<unlock>Complete the order for the Miracle 6419 "Neostar Form" for Miracle Seekers and prevent another Multiversal megacorporation from invading the local cluster of universes.</unlock>
+	<systemList>
+		<battery power="1" max="2" room="9" start="false" img="room_battery_11" />
+		<cloaking power="1" max="3" room="12" start="false" img="room_cloaking_10" />
+		<clonebay power="1" max="3" room="5" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</clonebay>
+		<doors power="2" max="3" room="1" start="true" img="room_doors">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="6" start="false" img="room_drones_17" />
+		<engines power="2" max="8" room="8" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="14" start="false" img="room_hacking_2" />
+		<medbay power="1" max="3" room="5" start="true" img="room_medbay">
+			<slot>
+				<number>1</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="15" start="false" img="room_mind_5" />
+		<oxygen power="1" max="3" room="2" start="true" img="room_oxygen_3" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot_7">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="11" start="true" img="room_sensors_7">
+			<slot>
+				<direction>down</direction>
+				<number>3</number>
+			</slot>
+		</sensors>
+		<shields power="4" max="8" room="13" start="true" img="room_shields_6">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" max="3" room="7" start="false" />
+		<weapons power="3" max="8" room="3" start="true" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="0" count="4">
+		<weapon name="EG_NEOSTAR_LASER" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="10" />
+	<crewCount amount="1" class="orchid_vampweed" />
+	<crewCount amount="1" class="zoltan" />
+	<crewCount amount="1" class="rock" />
+	<crewCount amount="1" class="human_engineer" />
+	<aug name="EG_LOYALTY_PROGRAM" />
+	<aug name="MAGNET_ARM" />
+	<shieldImage>mup_small_long1</shieldImage>
+</shipBlueprint>
+<shipBlueprint name="PLAYER_EG_NEOSTAR_2" layout="eg_neostar_b" img="eg_neostar_b">
+	<class>Neostar Forwarder</class>
+	<name>Right On Time!</name>
+	<desc>This version of the Neostar Forwarder is designed for delivering cargo to particularly dangerous corners of the universe. A powerful drone will assist you in your deliveries, but the ship's weapons system has been significantly weakened. Additionally, you can install more augments on this ship.</desc>
+	<unlock>Get to Sector 5 with the Type A to unlock this ship.</unlock>
+	<systemList>
+		<battery power="1" max="2" room="19" start="false" img="room_battery_15" />
+		<cloaking power="1" max="3" room="13" start="false" img="room_cloaking_10" />
+		<clonebay power="1" max="3" room="15" start="true">
+			<slot>
+				<number>3</number>
+			</slot>
+		</clonebay>
+		<doors power="1" max="3" room="9" start="true" img="room_doors_8">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</doors>
+		<drones power="4" max="11" room="2" start="true" img="room_eg_drones_2" />
+		<engines power="4" max="8" room="1" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="4" start="false" img="room_hacking" />
+		<medbay power="1" max="3" room="15" start="false" img="room_medbay_3">
+			<slot>
+				<number>3</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="5" start="false" img="room_mind_9" />
+		<oxygen power="1" max="3" room="20" start="false" img="room_oxygen_8" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot_7">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="10" start="true" img="room_sensors_4">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="16" start="true" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" max="3" room="6" start="false" />
+		<weapons power="1" max="4" room="11" start="true" img="room_weapons_5">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="0" count="2" />
+	<droneList drones="6" count="4">
+		<drone name="DRONE_SHIELD" />
+		<drone name="EG_NEOSTAR_DRONE" />
+		<drone name="COMBAT_CONSERVATIVE_LASER" />
+	</droneList>
+	<health amount="30" />
+	<maxPower amount="10" />
+	<crewCount amount="1" class="engi_separatist_nano" />
+	<crewCount amount="1" class="lanius" />
+	<crewCount amount="1" class="phantom" />
+	<aug name="EG_LOYALTY_PROGRAM" />
+	<aug name="DRONE_RECOVERY" />
+	<aug name="EX_SHIELD_RECHARGE" />
+	<shieldImage>mup_small_long1</shieldImage>
+</shipBlueprint>
+<shipBlueprint name="PLAYER_EG_NEOSTAR_3" layout="eg_neostar_c" img="eg_neostar_c">
+	<class>Neostar Forwarder</class>
+	<name>M&amp;A</name>
+	<desc>It seems that Neostar Megacorp and Hektar Industries somehow decided to start a partnership with each other, but the heads of both companies couldn't agree on what exactly this cooperation would manifest itself in, and this ship was born... What does the panic button do here?</desc>
+	<unlock>Get to Sector 5 with the Type B or beat the game with the Type A to unlock this ship.</unlock>
+	<systemList>
+		<battery power="1" max="2" room="14" start="false" img="room_battery_18" />
+		<cloaking power="1" max="3" room="6" start="false" img="room_cloaking_13" />
+		<clonebay power="1" max="3" room="16" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</clonebay>
+		<doors power="2" max="3" room="9" start="true" img="room_doors_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="11" start="false" img="room_drones_15" />
+		<engines power="3" max="8" room="1" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>1</number>
+			</slot>
+		</engines>
+		<hacking power="1" max="3" room="13" start="false" img="room_hacking_4" />
+		<medbay power="1" max="3" room="16" start="true" img="room_medbay_7">
+			<slot>
+				<number>2</number>
+			</slot>
+		</medbay>
+		<mind power="1" max="3" room="12" start="false" img="room_mind_1" />
+		<oxygen power="1" max="3" room="5" start="true" img="room_oxygen_15" />
+		<pilot power="1" max="3" room="0" start="true" img="room_pilot_7">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</pilot>
+		<sensors power="1" max="3" room="8" start="true" img="room_sensors">
+			<slot>
+				<direction>down</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="3" max="8" room="15" start="true" img="room_shields_8">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" max="3" room="20" start="false" />
+		<weapons power="4" max="8" room="3" start="true" img="room_weapons_7">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>3</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="12" count="3">
+		<weapon name="MODULAR_LASER_BASE" />
+		<weapon name="MODULAR_MISSILE_BASE" />
+	</weaponList>
+	<droneList drones="0" count="2" />
+	<health amount="30" />
+	<maxPower amount="10" />
+	<aug name="EG_LOYALTY_PROGRAM" />
+	<aug name="MODULAR_STORE" />
+	<aug name="COMBAT_PANIC_BUTTON" />
+	<shieldImage>mup_small_long1</shieldImage>
+</shipBlueprint>
+
 <crewBlueprint name="unique_seed_of_conception">
 	<desc>3D514E5B4E1460525555144B4E1457581456585B4E14595B584B554E565C14585B145C5E
 4F4F4E5B52575017143D514E5B4E1460525555144B4E1457585D51525750144A576256585
 B4E17</desc>
 	<title>Embryo of Creation</title>
 	<short>Embryo of Creation</short>
-	<cost>80000000000000000000000000000000000000000000000000000000000</cost>
+	<cost>8</cost>
 	<bp>4</bp>
 	<rarity>0</rarity>
 	<powerList>
@@ -3969,7 +4633,7 @@ B4E17</desc>
 	<bp>4</bp>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Active Ability: Allows the ship to ignore all hull damage (except damage from sabotage) for 6 seconds</power>
+		<power>Active Ability: Allows the ship to ignore system damage with 50% chance and hull damage with 100% chance (except damage from sabotage) for 7 seconds</power>
 		<power>Has 30 health, but takes only 0.1x damage from all sources</power>
 		<power>Cannot fight - loves all creatures, even direct enemies, but can still sabotage systems</power>
 	    <power>Ignores mind control</power>
@@ -3984,7 +4648,7 @@ B4E17</desc>
 	<rarity>0</rarity>
 	<powerList>
 		<power>Anomaly of the Continuity. Destroy at any cost.</power>
-		<power>Has 400 health and takes only 0.9x damage from all sources, but movement speed is reduced to 0.6x and damage is reduced to 0.45x.</power>
+		<power>Has 400 health and takes only 0.9x damage from all sources, but movement speed is reduced to 0.55x and damage is reduced to 0.45x.</power>
 	    <power>Cannot be cloned</power>
 	</powerList>
 </crewBlueprint>
@@ -3996,8 +4660,8 @@ B4E17</desc>
 	<bp>4</bp>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Active Ability: Activation of neural implant. Each member of the White Guard on your ship and the enemy ship receives a 2.2x multiplier to damage in combat, speed, repair speed, and sabotage speed, as well as 2.5 HP/s regeneration for 15 seconds.</power>
-		<power>Has 350 health and takes only 0.9x damage from all sources, but movement speed is reduced to 0.7x and damage is reduced to 0.35x</power>
+		<power>Active Ability: Activation of neural implant. Each member of the White Guard on your ship and the enemy ship receives a 2.2x multiplier to damage in combat, speed, repair speed, and sabotage speed, as well as 2 HP/s regeneration for 15 seconds.</power>
+		<power>Has 350 health and takes only 0.9x damage from all sources, but movement speed is reduced to 0.65x and damage is reduced to 0.35x</power>
 	    <power>Trained in lvl2 skills</power>
 	    <power>Cannot be cloned</power>
 	</powerList>
@@ -4010,31 +4674,31 @@ B4E17</desc>
 	<bp>4</bp>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Max Health increased to 180</power>
-		<power>Damage and movement speed increased to 1.5x</power>
+		<power>Max Health increased to 170</power>
+		<power>Damage and movement speed increased to 1.35x</power>
 	    <power>Trained in lvl1 skills, does not lose them when cloned</power>
 	</powerList>
 </crewBlueprint>
 
-<crewBlueprint name="second_voice_officiary">
+<crewBlueprint name="eg_second_voice_officiary">
 	<desc>Second Voice's officiary. They are busy with the political affairs of their home Universe, and therefore will not help you on your way, but they will pay you for their presence on the ship.
 	
 	Inherited Human stat: minor hazardous damage resistance</desc>
-	<title>Second Voice's officiary</title>
+	<title>Second Voice's Officiary</title>
 	<short>SV Officiary</short>
 	<cost>50</cost>
 	<bp>4</bp>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Will not man systems or perform repairs. Can defend themselves, but will not participate in boarding</power>
-	    <power>Occupies half a crew slot on the ship manifest</power>
+		<power>Will not man systems or perform repairs</power>
+		<power>Occupies half a crew slot on the ship manifest</power>
 		<power>While on your ship, will give you 2 scrap each beacon</power>
 	</powerList>
 </crewBlueprint>
 </FTL>
 
 <mod:findName type="systemBlueprint" name="battery">
-    <mod:findLike type="upgradeCost">
-        <mod-append:level>75</mod-append:level>
-    </mod:findLike>
+	<mod:findLike type="upgradeCost">
+		<mod-append:level>75</mod-append:level>
+	</mod:findLike>
 </mod:findName>

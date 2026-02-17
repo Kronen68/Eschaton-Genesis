@@ -24,13 +24,15 @@
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
+		<removeNebula>true</removeNebula>
 		<aggressive>1</aggressive>
 	</quest>
 	<jumpEvent>EG_CLEAR_MUSIC</jumpEvent>
 	<playMusic>music_miracleseekers</playMusic>
 	<ship load="EG_ENEMY_MIRACLE_SEEKERS" hostile="false"/>
 	<text>As soon as you arrive at this beacon, you immediately see a large station that you have never heard of. Its huge super shield and powerful weapons make you feel uncomfortable around it. You receive a call request from the station, and a woman with what appear to be deer antlers on her head and very pale skin appears on the communicator screen. Her almost fantasy-like appearance mesmerizes you, but you come to your senses after she starts talking. "The Miracle Seekers welcome the Renegade ship. Do not be afraid, we are not going to attack you, and you are safe with us. We are looking for mercenaries willing to help us. Would you like to know more?"</text>
+	<variable name="eg_miracle_seekers_met" op="set" val="1"/>
 	<img back="EG_MIRACLE_SEEKERS_BG" planet="NONE"/>
 	
 	<choice hidden="true" req="miracle_seekers_metarep" lvl="0" max_lvl="0" blue="false">
@@ -59,9 +61,10 @@
 				<text>Reject their request.</text>
 				<event>
 					<text>You are not going to work as some kind of mercenary for some strange organization you know nothing about. The woman looks sad, but she understands your position. "Okay, never mind. We'll send you some supplies to make up for taking up your time. May your journey be blessed by the radiance of the Golden Spikelet." A few seconds later, a delivery drone flies over from the station and drops off some resources. I wonder what kind of adventure would have awaited you if you had accepted their job?</text>
+					<instantEscape/>
 						<item_modify>
 							<item type="fuel" min="1" max="2"/>
-							<item type="scrap" min="15" max="15"/>
+							<item type="scrap" min="10" max="10"/>
 						</item_modify>
 					<choice>
 						<text>Continue...</text>
@@ -119,6 +122,7 @@
 		<text>Reject their request.</text>
 		<event>
 			<text>You are not going to work as some kind of mercenary for some strange organization you know nothing about. The woman looks sad, but she understands your position. "Okay, never mind. We'll send you some supplies to make up for taking up your time. May your journey be blessed by the radiance of the Golden Spikelet." A few seconds later, a delivery drone flies over from the station and drops off some resources. I wonder what kind of adventure would have awaited you if you had accepted their job?</text>
+			<instantEscape/>
 			<item_modify>
 				<item type="fuel" min="1" max="1"/>
 				<item type="scrap" min="10" max="10"/>
@@ -151,8 +155,8 @@
 <event name="MIRACLE_SEEKERS_LOBBY">
 	<text load="MIRACLE_SEEKERS_LOBBY_TEXT"/>
 	<choice hidden="true">
-		<text>Enter the main hall of the Miracle Repository.
-		[style[color:efbf04]][Accept the quest to find miracles][[/style]]</text>
+		<text>Enter the Main Hall of the Miracle Repository.
+		[style[color:efbf04]][Receive a task to find Miracles][[/style]]</text>
 		<event load="MIRACLE_SEEKERS_QUESTS"/>
 	</choice>
 	<choice hidden="true" req="miracle_seekers_metarep" lvl="2" blue="false">
@@ -166,7 +170,7 @@
 		<event load="MIRACLE_SEEKERS_SHOP"/>
 	</choice>
 	<choice hidden="true" req="miracle_seekers_metarep" lvl="4" blue="false"> 
-		<text>Enter the conference room in the Сentral Section.
+		<text>Enter the Conference Room in the Сentral Section.
 		[style[color:8a0a25]][Receive a task to close a rift in space][[/style]]</text>
 		<event load="MIRACLE_SEEKERS_SPACE_RIFT"/>
 	</choice>
@@ -199,7 +203,7 @@
 	<choice hidden="true" req="thanks_quest_accepted" lvl="1" max_lvl="1" blue="false">
 		<text>Leave the station.</text>
 			<event>
-				<text>As you exit the station, you are again bombarded with hot steam containing some kind of impurities. The station's AI bids you farewell, and you safely return to the ship. The Miracle Seekers hastily leave this beacon, and the coordinates of the miracle "Thanks" location are already loaded into the onboard computer. Mirrored should be waiting for you at this location.</text>
+				<text>As you exit the station, you are again bombarded with hot steam containing some kind of impurities. The station's AI bids you farewell, and you safely return to the ship. The Miracle Seekers hastily leave this beacon, and the coordinates of the Miracle "Thanks" location are already loaded into the onboard computer. Mirrored should be waiting for you at this location.</text>
 				<instantEscape/>
 				<quest event="EG_QUEST_THANKS"/>
 				<choice>
@@ -238,6 +242,34 @@
 				<text>As you exit the station, you are again bombarded with hot steam containing some kind of impurities. The station's AI bids you farewell, and you safely return to the ship, capturing the delivery drone standing in the airlock room. The Miracle Seekers hastily leave this beacon, and the coordinates of the Broken horn's location are already loaded into the onboard computer. Most likely, you will encounter termites there as well.</text>
 				<instantEscape/>
 				<quest event="EG_QUEST_HORN_OF_GOD"/>
+				<choice>
+					<text>Continue...</text>
+					<event/>
+				</choice>
+			</event>
+	</choice>
+	<choice hidden="true" req="alliance_agreement_quest_accepted" lvl="1" max_lvl="1" blue="false">
+		<text>Leave the station.</text>
+			<event>
+				<text>As you exit the station, you are again bombarded with hot steam containing some kind of impurities. The station's AI bids you farewell, and you safely return to your ship. The Miracle Seekers hastily leave this beacon, and the coordinates of the Alliance Agreement have already been loaded into the on-board computer.</text>
+				<instantEscape/>
+				<quest event="EG_QUEST_ALLIANCE_AGREEMENT"/>
+				<choice>
+					<text>Continue...</text>
+					<event/>
+				</choice>
+			</event>
+	</choice>
+	<choice hidden="true" req="neostar_form_quest_accepted" lvl="1" max_lvl="1" blue="false">
+		<text>Leave the station.</text>
+			<event>
+				<text>Before exiting the station, Corporate greets you and shakes your hand.
+
+				"Hello, partner, good to see you again! Just a reminder, for this mission, you're just supposed to back me up in case of any unforeseen situations. You'll be flying ahead, and I'll be right behind you!"
+				
+				As you exit the station, you are again bombarded with hot steam containing some kind of impurities. The station's AI bids you farewell, and you safely return to your ship. The Miracle Seekers hastily leave this beacon, the coordinates of the Neostar Form are already loaded into the onboard computer. Corporate, in its small but beautiful golden ship, is following you, keeping some distance.</text>
+				<instantEscape/>
+				<quest event="EG_QUEST_NEOSTAR_FORM"/>
 				<choice>
 					<text>Continue...</text>
 					<event/>
@@ -320,17 +352,136 @@
 		<text>Miracle 1111: "Thank you".</text>
 		<event load="MIRACLE_SEEKERS_INFO_THANKS"/>
 	</choice>
-<!-- 	<choice hidden="true">
+	<choice hidden="true">
 		<text>Miracle 7302: Alliance Agreement.</text>
 		<event load="MIRACLE_SEEKERS_INFO_ALLIANCE_AGREEMENT"/>
 	</choice>
 	<choice hidden="true">
 		<text>Miracle 6419: Neostar Form.</text>
 		<event load="MIRACLE_SEEKERS_INFO_NEOSTAR_FORM"/>
-	</choice> -->
+	</choice>
+	<choice hidden="true">
+		<text>Choose a random Miracle.</text>
+		<event load="MIRACLE_SEEKERS_INFO_RANDOM"/>
+	</choice>
 	<choice hidden="true">
 		<text>Return to the lobby.</text>
 		<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+	</choice>
+</event>
+
+<event name="MIRACLE_SEEKERS_INFO_RANDOM">
+	<loadEventList seeded="false">
+		<event name="MIRACLE_SEEKERS_INFO_NEOSTAR_FORM"/>
+		<event name="MIRACLE_SEEKERS_INFO_ALLIANCE_AGREEMENT"/>
+		<event name="MIRACLE_SEEKERS_INFO_THANKS"/>
+		<event name="MIRACLE_SEEKERS_INFO_HORN_OF_GOD"/>
+		<event name="MIRACLE_SEEKERS_INFO_WARMTH"/>
+		<event name="MIRACLE_SEEKERS_INFO_WHITE_THREAD"/>
+	</loadEventList>
+</event>
+
+<event name="MIRACLE_SEEKERS_INFO_NEOSTAR_FORM">
+	<text>"An interesting choice. Miracle 6419 is a tablet for filling out a job application at Neostar Megacorp - a megacorporation from a universe neighboring my own. It is known for its innovative developments in many areas of life for the inhabitants of that universe, as well as for the fastest cargo transportation in the entire universe. This corporation has absorbed many smaller corporations, integrating them into itself, taking the best from them and leaving no room for anything bad. Although, of course, Neostar has its own sins - they have almost completely monopolized the entire space market, leaving no room for any competition. Wait, I'll contact with Corporate now - he is the operator of this Miracle and will explain the whole thing much better than I can."
+	
+	A holographic interface appears in the air with various symbols whose purpose is unknown to you, but it seems that Cipher understands them very well and is going to contact another member of the Miracle Seekers using it.</text>
+	<choice hidden="true" req="seekers_corporate_visited" lvl="0" max_lvl="0" blue="false">
+		<text>Wait...</text>
+		<event>
+			<text>The image of a dazzling man with golden hair appears on the holographic interface. He smiles at you, as if recognizing you - but you don't recognize him at all. "My dearest client! Hello!" he says, smiling, revealing his pearly whites.
+			
+			"Hello, Corporate. Renegade would like to know more about the search for Miracle 6419. I assume you already have a plan for obtaining this Miracle?" asks the Cryptographer.
+
+			"A boring choice, I admit," the man almost interrupts Cipher. "One of the most boring. Seriously, partner, you'd better choose a different Miracle."
+
+			Cipher looked at Corporate with disapproval. Seeing her expression, he smiled awkwardly and finally decided to share the details of the Neostar Form whereabouts.
+
+			"The thing is, a certain soulless Hektar Industries employee has appropriated this Miracle for himself for some completely stupid reason. To convince him to hand it over to us, we'll need to bribe him... with a certain amount. But don't worry - I'll cover all the expenses, since I've already figured out how the economy works in your space. I'll follow you on my personal ship while you clear the way for me. Then, when we arrive at the Hektar employee's, I'll try to negotiate with him personally, and you'll simply act as my bodyguard and ensure the deal goes smoothly. Deal?"</text>
+			<choice hidden="true">
+				<text>Accept order for Miracle 6419: Neostar Form.</text>
+					<event>
+						<text>"Excellent, partner! I'd love to get to know you better during this journey! Just keep in mind that I won't be able to help you at all on my ship if anything happens to you. As Miracle Seekers, we attract too much attention as it is. I hope you understand! Meet me at the station's docking bay!" The holographic interface disappears, and you and Cipher are left alone.
+
+						"Corporate has long wanted to explore the cosmos of your universe cluster and make a few... deals. He knows how to use his charisma to his advantage, but he doesn't always know how to keep his cool with other people. So if someone tries to attack him, please try to protect them, regardless of who's right. That's all that's required of you during this task."
+
+						"Oh, and one last thing I'd like to say. If you're ever contacted by Neostar Megacorp, DO NOT, UNDER ANY CIRCUMSTANCES, agree to work for them. That megacorp will leave you in the lurch."</text>
+						<variable name="neostar_form_quest_accepted" op="set" val="1"/>
+						<variable name="seekers_quest_started" op="set" val="1"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+							</choice>
+					</event>
+			</choice>
+			<choice hidden="true">
+				<text>Select another Miracle.</text>
+				<event load="MIRACLE_SEEKERS_TRUE_QUESTS_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="seekers_corporate_visited" lvl="1" blue="false">
+		<text>Wait...</text>
+		<event>
+			<text>The image of a dazzling man with golden hair appears on the holographic interface. He smiles at you and, of course, recognizes you, just as you recognize him. "My dearest client! Hello!" he says, smiling, revealing his pearly whites.
+			
+			"Hello, Corporate. Renegade would like to know more about the search for Miracle 6419. I assume you already have a plan for obtaining this Miracle?" asks the Cryptographer.
+
+			"A boring choice, I admit," the man almost interrupts Cipher. "One of the most boring. Seriously, partner, you'd better choose a different Miracle."
+
+			Cipher looked at Corporate with disapproval. Seeing her expression, he smiled awkwardly and finally decided to share the details of the Neostar Form whereabouts.
+
+			"The thing is, a certain soulless Hektar Industries employee has appropriated this Miracle for himself for some completely stupid reason. To convince him to hand it over to us, we'll need to bribe him... with a certain amount. But don't worry - I'll cover all the expenses, since I've already figured out how the economy works in your space. I'll follow you on my personal ship while you clear the way for me. Then, when we arrive at the Hektar employee's, I'll try to negotiate with him personally, and you'll simply act as my bodyguard and ensure the deal goes smoothly. Deal?"</text>
+			<choice hidden="true">
+				<text>Accept order for Miracle 6419: Neostar Form.</text>
+					<event>
+						<text>"Excellent, partner! I'd love to get to know you better during this journey! Just keep in mind that I won't be able to help you at all on my ship if anything happens to you. As Miracle Seekers, we attract too much attention as it is. I hope you understand! Meet me at the station's docking bay!" The holographic interface disappears, and you and Cipher are left alone.
+
+						"Corporate has long wanted to explore the cosmos of your universe cluster and make a few... deals. He knows how to use his charisma to his advantage, but he doesn't always know how to keep his cool with other people. So if someone tries to attack him, please try to protect them, regardless of who's right. That's all that's required of you during this task."
+
+						"Oh, and one last thing I'd like to say. If you're ever contacted by Neostar Megacorp, DO NOT, UNDER ANY CIRCUMSTANCES, agree to work for them. That megacorp will leave you in the lurch."</text>
+						<variable name="neostar_form_quest_accepted" op="set" val="1"/>
+						<variable name="seekers_quest_started" op="set" val="1"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+							</choice>
+					</event>
+			</choice>
+			<choice hidden="true">
+				<text>Select another Miracle.</text>
+				<event load="MIRACLE_SEEKERS_TRUE_QUESTS_TWEAK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="MIRACLE_SEEKERS_INFO_ALLIANCE_AGREEMENT">
+	<text>Cipher glances a little nervously at the tablet displaying the Miracle you've selected. "Mmm... I doubt its operator will share any details with you, so I'll handle it. Miracle 7302 is one of the few Miracles directly connected to the history of the Thesis' Incarnation - the universe neighboring ours. It's an official document, telling how disparate cosmic civilizations decided to unite into a single Alliance in order to attempt to solve a common problem of horrific proportions. This might not seem very interesting, until you realize that this document was agreed upon not just by the majority of intelligent species in that Universe, but by its gods, the Creators, as well."</text>
+	<choice hidden="true">
+		<text>Listen more.</text>
+		<event>
+			<text>"Finding this document will definitely be a problem. We've already detected that the Ministry of Zoltan has taken an interest in this Miracle. I'd like to say that the order to find it would be simpler than most of our other orders, but unfortunately, that's not the case. Because even we can't come to an agreement with them regarding the transfer of this Miracle, despite the fact that we have all the evidence that it belongs to us and is being kept at the Miracle Seekers' Station as a Miracle and a historical artifact..."
+
+			"You probably won't have to fight while completing this order, but you'd better be prepared for a long verbal argument with them. In any case, we'll help you if things reach an impasse. You'll simply act as an independent intermediary between us and them. Regardless of the outcome, we guarantee you'll be paid for this order if you do everything as we say."</text>
+			<choice hidden="true">
+				<text>Accept order for Miracle 7302: Alliance Agreement.</text>
+					<event>
+						<text>Cipher exhales as if a weight has been lifted from her shoulders. "Thank you for taking this on. Despite our detailed exploration of your Universe, we are still unable to communicate with your intelligent species at the required level."
+						
+						As you prepare to leave, Cipher looks mysteriously at the holographic interface screen that has appeared in midair, as if she's hesitant to contact anyone.</text>
+						<variable name="alliance_agreement_quest_accepted" op="set" val="1"/>
+						<variable name="seekers_quest_started" op="set" val="1"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+							</choice>
+					</event>
+			</choice>
+			<choice hidden="true">
+				<text>Select another Miracle.</text>
+				<event load="MIRACLE_SEEKERS_TRUE_QUESTS_TWEAK"/>
+			</choice>
+		</event>
 	</choice>
 </event>
 
@@ -383,13 +534,13 @@
 			
 			The interference flickers on the screen for a moment, but then subsides. "The eternally cold world of Everwinter... Perhaps the only place in the entire universe where I would not want to return. Its inhabitants condemned Aurora to suffering." Mirrored replies mysteriously.
 			
-			Cipher hastens to correct Mirror. "King Crucis had no choice but to force Aurora to submit for the good of Everwinter. If it weren't for her sacrifice, Everwinter would have been destroyed forever. You understand that, don't you?" The interferences reply, "I understand... But it's still incredibly cruel. Even if hundreds of years have passed since those events. Even if the Contemplator Aurora harbors no ill will toward the inhabitants of the Kingdom of Everwinter."
+			Cipher hastens to correct Mirrored. "King Crucis had no choice but to force Aurora to submit for the good of Everwinter. If it weren't for her sacrifice, Everwinter would have been destroyed forever. You understand that, don't you?" The interferences reply, "I understand... But it's still incredibly cruel. Even if hundreds of years have passed since those events. Even if the Contemplator Aurora harbors no ill will toward the inhabitants of the Kingdom of Everwinter."
 			
-			You ask the Miracle Seekers to get to the point, assuming that if you don't stop them both, they will start a long discussion. "Yes, exactly, the order... There was an unpleasant situation with him. In fact, we already sent one mercenary after this Miracle, but that was several hours ago, and now we have lost all contact with him. All you need to do is check the last known location of our mercenary and make sure that the Miracle and he is safe, or return Miracle to us yourself via a delivery drone."</text>
+			You ask the Miracle Seekers to get to the point, assuming that if you don't stop them both, they will start a long discussion. "Yes, exactly, the order... There was an unpleasant situation with it. In fact, we already sent one mercenary after this Miracle, but that was several hours ago, and now we have lost all contact with him. All you need to do is check the last known location of our mercenary and make sure that the Miracle and he is safe, or return Miracle to us yourself via a delivery drone."</text>
 			<choice hidden="true">
 				<text>Accept order for Miracle 3385: The Warmth.</text>
 					<event>
-						<text>The interference on the interface begins to move slightly faster than usual. "How wonderful that you will return this Miracle! Cipher, keep me informed of all developments!" says Mirrored, and suddenly the interference disappears and the connection is lost. The Cipher is lost in thought again. "Well, you can get started on the order. The main thing is that the previous mercenary doesn't take it for himself... although I'm still sure that something bad just happened to him. He was so sweet and awkward when I first met him..."</text>
+						<text>The interference on the interface begins to move slightly faster than usual. "How wonderful that you will return this Miracle! Cipher, keep me informed of all developments!" says Mirrored, and suddenly the interference disappears and the connection is lost. Cipher is lost in thought again. "Well, you can get started on the order. The main thing is that the previous mercenary doesn't take it for himself... although I'm still sure that something bad just happened to him. He was so sweet and awkward when I first met him..."</text>
 						<variable name="warmth_quest_accepted" op="set" val="1"/>
 						<variable name="seekers_quest_started" op="set" val="1"/>
 							<choice hidden="true">
@@ -409,7 +560,7 @@
 <event name="MIRACLE_SEEKERS_INFO_THANKS">
 	<text>Upon seeing your selection, Cipher begins to smile slightly for some reason. "Oh, this is one of our most intriguing Miracles - a text file with unusual content on a physical medium. The operator of this Miracle is Mirrored, so no one can describe it as well as she can. I'll contact her now." 
 	
-	A holographic interface appears in the air with various symbols whose purpose is unknown to you, but it seems that Cipher understands them very well and is going to contact another member of the Miracle Seekers using it. "Mirrored will be very happy to know that you may be looking for this miracle."</text>
+	A holographic interface appears in the air with various symbols whose purpose is unknown to you, but it seems that Cipher understands them very well and is going to contact another member of the Miracle Seekers using it. "Mirrored will be very happy to know that you may be looking for this Miracle."</text>
 	<choice hidden="true">
 		<text>Wait...</text>
 		<event>
@@ -446,7 +597,7 @@
 			<choice hidden="true">
 				<text>Accept order for Miracle 0900: White Thread of the Expanse.</text>
 					<event>
-						<text>"Excellent. We will send you the coordinates of the current location of the Miracle once we have determined it ourselves. Don't worry, by the time you return to the ship, the coordinates will already be loaded into it... Good luck, Renegade. It seems we will all need it, but at this station, it is customary to be optimistic.”</text>
+						<text>"Excellent. We will send you the coordinates of the current location of the Miracle once we have determined it ourselves. Don't worry, by the time you return to the ship, the coordinates will already be loaded into it... Good luck, Renegade. It seems we will all need it, but at this station, it is customary to be optimistic."</text>
 						<variable name="white_thread_quest_accepted" op="set" val="1"/>
 						<variable name="seekers_quest_started" op="set" val="1"/>
 							<choice hidden="true">
@@ -540,6 +691,14 @@
 		<text>Miracle 1111: "Thank you".</text>
 		<event load="MIRACLE_SEEKERS_THANKS_DATA"/>
 	</choice>
+	<choice hidden="true" req="miracle_alliance_agreement" lvl="1" max_lvl="1" blue="false">
+		<text>Miracle 7302: Alliance Agreement.</text>
+		<event load="MIRACLE_SEEKERS_ALLIANCE_AGREEMENT_DATA"/>
+	</choice>
+	<choice hidden="true" req="miracle_neostar_form" lvl="1" max_lvl="1" blue="false">
+		<text>Miracle 6419: Neostar Form.</text>
+		<event load="MIRACLE_SEEKERS_NEOSTAR_FORM_DATA"/>
+	</choice>
 	<choice hidden="true">
 		<text>Return to the lobby.</text>
 		<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
@@ -555,11 +714,94 @@
 	<text>You are viewing a limited version of the Miracle Seekers Database. You feel someone staring at you, but when you look around, you see no one but Erudite. Perhaps he is the one staring at you, making sure you don't press the wrong button?</text>
 </textList>
 
+<event name="MIRACLE_SEEKERS_NEOSTAR_FORM_DATA">
+	<text>Miracle 6419 - Neostar Form
+
+Operator: Corporate
+Class: Standard
+Location: Main hall of the Miracle Repository
+
+In my personal collection, this is one of the cheapest Miracles - it's barely valued at 50 Bones, even though it comes from a universe neighboring ours, which should already be an indicator of its rarity. Even though Miracles from the Thesis' Incarnation appear very rarely here, I won't argue that 50 bones is truly its true value.
+
+Neostar Megacorp is a megacorporation engaged in space freight transportation and the development of innovative technologies. It is a monopoly, formed by the destruction or acquisition of any potential companies that could compete with Neostar. It is also known for its slave-like labor conditions (though all megacorporations have this drawback) and the surprising ease of becoming an employee. Miracle 6419 is associated with direct employment with Neostar Megacorp. It is a small tablet with limited functionality. This tablet - the Neostar Form - allows any aspiring Neostar employee to apply for a job with the corporation from anywhere in the universe, no matter where they are located. Simply activate the tablet, and you will be greeted by a 10-item Neostar application form (see Appendix). These tablets are known to have been sent to many civilizations with which Neostar Megacorp had trade agreements, and were then distributed throughout the universe. After submitting an application, its review takes no more than an hour. Company representatives contact the prospective Neostar employee, who then formally employs them. They are provided with housing on Neostar premises and a steady salary. The Neostar Form is not given to anyone else, but becomes the employee's personal tablet, where they receive new tasks and deadlines, as well as the ability to contact customer support. Typically, every new Neostar employee is a general worker, meaning they can work in the warehouse or on cargo ships. There is no division into specialties, at least during their internship. Afterward, they undergo a so-called "promotion," which determines their final position within the company. Before that, the employee must undergo an interview.
+
+This particular Neostar Form belonged to a certain [CONFIDENTIAL DATA HIDDEN] (1), who had been interning at Neostar Megacorp for eight months. They were earning no more than 185 Bones a month in our currency and were racking up numerous fines that prevented them from being promoted. Neostar didn't provide them with housing, but rather with sleeping accommodations in a backwater orbital station owned by Neostar. Apparently, they also lost contact with their home planet after accumulating too many fines, and to pay them, Neostar confiscated most of their personal belongings.
+
+Ultimately [CONFIDENTIAL DATA HIDDEN] committed [CONFIDENTIAL DATA HIDDEN].
+
+We learned all this information while examining the contents of the Neostar Form and recovering the deleted data. I received it through my trusted supplier.
+
+But the most interesting thing that happened during the investigation of the deleted information from the Neostar Form was that a representative of Neostar itself contacted us. Apparently, when this Miracle became active again, they received information about its reactivation, which leaked through the Treegate almost immediately. They offered us a cooperation deal involving integrating the activities of the Miracle Seekers into the affairs of Neostar Megacorp. But, of course, we declined. Nevertheless, the representatives left us their contact information (as if we had the same means of communication as they did) and allowed us to keep the Neostar Form in our storage as a Miracle.
+
+That's how it is.
+
+(1) * Mirrored's Note: Isn't it cruel to reveal their identity and the details of what happened to them? Please reconsider the content of the article - I beg you to do so (2)
+
+(2) * Corporate's Note: Yes, you're right. Sorry, Mirrored. I just thought these details were interesting and worth mentioning. Partly because a similar incident once happened in the SPC, but it was kept under wraps - just like with Neostar.
+
+---------------------------
+
+Appendix. Application form for employment at Neostar Megacorp.
+
+1. Are you a permanent resident of the Peaks? Yes/No
+2. Your full name/nickname/pseudonym/company name/serial name/number/cognomen/any other identifying word that others use when addressing you. If none, please leave a dash.
+3. Your race/species/breed/category/type/any other name for the definition of the biological/pseudophysical/mechanical/other creature to which you belong.
+4. Your current official place of residence as the name of a planet/station/system/space object/approximate space coordinates. If none, please leave a dash.
+5. Did you know that we provide free housing within the Neostar Megacorp boundaries to every Neostar employee, including interns? Yes/No
+6. Please indicate your salary expectations and whether you wish to be paid in cash or by other payment methods, including direct provision of food and amenities.
+7. Current age of your physical body/other measure of aging of your physical body. If you do not have a physical body, leave a dash.
+8. Have you entered into any employment/military/religious contracts, blood oaths/family agreements/any other contracts or legal obligations that may conflict with Neostar's interests? Yes/No
+9. Do you agree that any results of your labor, whether physical or mental, will be appropriated by Neostar without the possibility of dispute? Yes/No
+10. Do you understand that terminating your employment with Neostar does not guarantee the release of any employment obligations? Yes/No
+
+Please retain the Neostar Form until our staff reviews your application. We will contact you through it later. Application review typically takes no more than an hour. You will receive a notification if your application is rejected.</text>
+	<choice hidden="true">
+		<text>Return to the main Database page.</text>
+		<event load="MIRACLE_SEEKERS_TRUE_DATABASE_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the lobby.</text>
+		<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+	</choice>
+</event>
+
+<event name="MIRACLE_SEEKERS_ALLIANCE_AGREEMENT_DATA">
+	<text>Miracle 7302 - Alliance Agreement
+
+	Operator: Erudite
+	Class: Unique
+	Location: Main hall of the Miracle Repository
+
+	A paper storage medium. A4 paper. This Miracle is only a replica of the original. Loss is undesirable for other reasons (1).
+	
+	The contents include the original text of the Alliance Agreement from the Thesis' Incarnation (see Appendix). It is of high cultural significance to the inhabitants of the Central Alliance.
+	
+	The Miracle was obtained as a result of a special expedition to the Treegate of the Alseer's Sleep. Through an intermediary, a fungoid familiar with the history of the Central Alliance. There were no expenses. It was a gift.
+
+	(1) * Marauder's Note: Isn't this reason just simple sentimentality? (2)
+
+	(2) * Erudite's Note: This Miracle truly means a lot to me. Please remove this note if I have satisfied your curiosity.
+
+	---------------------------
+
+	Appendix. Contents of the Alliance Agreement.
+	
+	[ACCESS DENIED: STATION VISITORS WITH LEVEL 3 ACCESS CANNOT VIEW THIS APPENDIX. PLEASE CONTACT OPERATOR OF THE MIRACLE FOR UP-TO-DATE APPENDIX INFORMATION]</text>
+	<choice hidden="true">
+		<text>Return to the main Database page.</text>
+		<event load="MIRACLE_SEEKERS_TRUE_DATABASE_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the lobby.</text>
+		<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+	</choice>
+</event>
+
 <event name="MIRACLE_SEEKERS_WHITE_THREAD_DATA">
 	<text>Miracle 0900 - White Thread of the Expanse
 	
-Operator of Miracle: Cipher
-Class of Miracle: Artifact
+Operator: Cipher
+Class: Artifact
 Location: Artifact Compartment, General Compartment
 
 Proof of existence of powers of Contemplator Hollow and universal construct from which entire visible universe is woven - at least, ours. This Miracle is difficult to maintain in physical form, as it constantly tries to merge with space around it or become something specific, but a restraining mechanism developed by Erudite prevents White Thread from taking on a physical form other than that of white, almost incorporeal threads branching out in different directions.
@@ -582,8 +824,8 @@ White Thread in our collection is also a strategically important artifact. If, i
 <event name="MIRACLE_SEEKERS_HORN_OF_GOD_DATA">
 	<text>Miracle 9721 - Horn of the Insect God
 	
-Operator of Miracle: Spore
-Class of Miracle: Artifact
+Operator: Spore
+Class: Artifact
 Location: Artifact Compartment, Biomatery Subcompartment
 
 The immediate biological part of Contemplator Yankhen. One of his two horns, consisting of highly durable "divine" chitin, is fragile, broken at the base, but has retained its integrity due to its remarkable resilience.
@@ -610,8 +852,8 @@ It can be assumed that if Contemplators are indeed not very different from livin
 <event name="MIRACLE_SEEKERS_WARMTH_DATA">
 	<text>Miracle 3385 - The Warmth
 
-Miracle Operator: Mirrored (found), Cipher (described)
-Class of Miracle: Artifact
+Operator: Mirrored (found), Cipher (described)
+Class: Artifact
 Location: Artifact Compartment, History Subcompartment
 
 This is an independent unit of Contemplator Aurora and one of components of her former mechanical body. In fact, it is a particle of her with a small amount of divine power, so small that it is barely enough to use. It looks like a spherical mechanism inside which heat is constantly synthesized, as if from nothing.
@@ -622,7 +864,7 @@ Mirrored recovered it without much effort. At first, we thought it was nothing m
 
 Research also helped to determine that this artifact is still directly connected to Aurora at the Essence level, confirming theory of its mystical origin. We also managed to find out that heat synthesis can be increased by connecting this mechanism to any heat-producing generator. Both mechanism itself and generator begin to raise temperature of air around them.
 
-Another interesting property of this miracle is that it somehow identifies person holding it and synthesizes heat in varying concentrations. We conducted research on each of Miracle Seekers to try to determine exactly how mechanism decides how much heat to release in each of our hands.
+Another interesting property of this Miracle is that it somehow identifies person holding it and synthesizes heat in varying concentrations. We conducted research on each of Miracle Seekers to try to determine exactly how mechanism decides how much heat to release in each of our hands.
 
 Who knows, maybe this was her last gift to forever frozen world of Everwinter, which was supposed to warm it up at least a little?
 
@@ -634,15 +876,16 @@ Cipher: 6 points. Felt heat.
 Mirrored: 10 points. Explained that she felt nothing.
 Hail: Refused to participate in study.
 Corporate: 5 points. While discussing value of artifact, received a minor burn.
-Shorekeeper: 4.5 points. Did not express an opinion.
+Seakeeper: 4.5 points. Did not express an opinion.
 Marauder: 8 points. Felt intense heat, but quickly released artifact from her hands.
 Focus: [?] points. Upon contact with him, artifact disappeared and a white dove appeared in its place. Artifact was searched for two system days.
 Erudite: 1 point. Felt cold, "but nothing more".
 Mecha (directly): 10 points. Almost got burned, but one of robots took artifact away in time.
-Spore: 5.5 points. Said them did not experience a temperature change.
+Spore: 5.5 points. Said they did not experience a temperature change.
 Swordsman: 9 points. Suffered severe burns to his right hand while trying to understand how artifact works.
 
 Conclusion: Mechanism increases its own temperature and temperature of air depending on character of person. In hands of cold and detached people, artifact produces almost no heat.</text>
+<!-- The points here reflect the ease of making friends with a particular Miracle Seeker; the more points, the easier it is. The points also reflect how warm and open the person is. Hail points: 3. Focus points: 7-->
 	<choice hidden="true">
 		<text>Return to the main Database page.</text>
 		<event load="MIRACLE_SEEKERS_TRUE_DATABASE_TWEAK"/>
@@ -656,13 +899,13 @@ Conclusion: Mechanism increases its own temperature and temperature of air depen
 <event name="MIRACLE_SEEKERS_THANKS_DATA">
 	<text>Miracle 1111 - "Thank You"
 
-Miracle Operator: Mirrored
-Class of Miracle: Unique
+Operator: Mirrored
+Class: Unique
 Location: Miracle Seekers Database
 
-This is a text file. It's unlikely that other Miracle Seekers would call it a miracle, but the Secret Writer supported me when I expressed my desire to preserve it in the Database. Besides, it takes up virtually no space. (1)
+This is a text file. It's unlikely that other Miracle Seekers would call it a Miracle, but the Secret Writer supported me when I expressed my desire to preserve it in the Database. Besides, it takes up virtually no space. (1)
 
-(1) * Note by the Erudite: Use clearer specifics when describing Miracles. Follow the Miracle Seekers charter when documenting Miracles (Appendix 4). Use the recommended list of details that must be mentioned when describing a Miracle. I will simply delete your next Miracle entry if it's as uninformative as this one. And yes - a text file does take up space.
+(1) * Erudite's Note: Use clearer specifics when describing Miracles. Follow the Miracle Seekers charter when documenting Miracles (Appendix 4). Use the recommended list of details that must be mentioned when describing a Miracle. I will simply delete your next Miracle entry if it's as uninformative as this one. And yes - a text file does take up space.
 
 ---------------------------
 
@@ -675,7 +918,7 @@ And for the [*****] thank you
 Thank you for the [***] above our [********]
 Thank you for the [****] behind our [******]
 Thank you for the [****] in our [*******]
-For the absence of [****] in our [****]
+For the absence of [****] in our [****] also thanks to you
 Thank you for the [***********]
 For the [*********] thank you
 For our [********] only thank you
@@ -718,6 +961,10 @@ Thank you for the [*****]
 For the [*****] [**********] only thank you
 In the end:
 Thank you for that we all is beings beloved</text>
+
+<!-- vestigium -->
+
+
 	<choice hidden="true">
 		<text>Return to the main Database page.</text>
 		<event load="MIRACLE_SEEKERS_TRUE_DATABASE_TWEAK"/>
@@ -737,22 +984,61 @@ Thank you for that we all is beings beloved</text>
 			<choice hidden="true">
 				<text>Sit down in the opposite chair.</text>
 				<event>
-					<text>"I see you're ready to accept the most lucrative offer of your life! My name is Corporate, and I am a former top manager of the investment department at Space Pathways Corporation, and I already know who you are - my most valued client!" Man lowers his glasses, winks at you, and smiles casually, showing his pearly white teeth. "Instead of giving boring "quests", I've opened a small shop here for you (yes, exclusively for you!) with items that are sure to help you in your adventures." Corporate points to a pile of junk behind him. You see drone parts, fuel cells, weapons, and much more in this pile. "Each item is only 30 scrap!" Corporate continues to pressure you with such a lucrative offer and mentions in passing that you can only buy one item from his stall so as not to arouse suspicion from the "slug in a strange suit."</text>
-						<choice hidden="true" req="COMBAT_PANIC_BUTTON" blue="true">
+					<text>"I see you're ready to accept the most lucrative offer of your life! My name is Corporate, and I am a former top manager of the investment department at Space Pathways Corporation, and I already know who you are - my most valued client!" Man lowers his glasses, winks at you, and smiles casually, showing his pearly white teeth. "Instead of giving boring "quests", I've opened a small shop here for you (yes, exclusively for you!) with items that are sure to help you in your adventures." Corporate points to a pile of junk behind him. You see drone parts, fuel cells, weapons, and much more in this pile. "Each item is only 35 scrap!" Corporate continues to pressure you with such a lucrative offer and mentions in passing that you can only buy one item from his stall so as not to arouse suspicion from the "slug in a strange suit."</text>
+					<variable name="seekers_corporate_visited" op="set" val="1"/>
+						<choice hidden="true" req="miracle_seekers_panic_button_used" blue="true">
 							<text>(Panic button) You definitely have something to show him...</text>
 							<event>
-								<text>Сorporate looks at you in shock. "How did you... how did you smuggle THAT to the station?" You awkwardly put the panic button back. "No, wait, I don't want to accuse you of anything, it's just... Perhaps you would like to sell it to me? If you don't ask what I need it for, I'll pay you more." His offer stuns you just as much - and just to get rid of this monstrous button, you gladly accept his offer.</text>
+								<text>Сorporate looks at you in shock. "How did you... how did you smuggle THAT to the station?" You awkwardly put the panic button back. "No, wait, I don't want to accuse you of anything, it's just... Perhaps you would like to sell it to me? If you don't ask what I need it for, I'll pay you more." His offer stuns you just as much - and just to get rid of this monstrous button, you gladly accept his offer.
+								
+								You carefully hand the panic button to Corporate. As payment for it, he allows you to take the entire pile of things behind him. It might not be what you expected when you brought it to the Miracle Seekers' Station, but you prefer this outcome.</text>
 								<item_modify>
-									<item type="scrap" min="121" max="151"/>
-									<item type="fuel" min="15" max="18"/>
-									<item type="missiles" min="12" max="15"/>
-									<item type="drones" min="9" max="12"/>
+									<item type="scrap" min="70" max="110"/>
+									<item type="fuel" min="7" max="9"/>
+									<item type="missiles" min="5" max="7"/>
+									<item type="drones" min="3" max="5"/>
 								</item_modify>
 								<weapon name="MIRACLE_SEEKERS_CORPORATE_WEAPONS"/>
 								<augment name="MIRACLE_SEEKERS_CORPORATE_AUGMENTS"/>
 								<metaVariable name="secret_miracle_panic_button" op="set" val="1"/>
 								<variable name="seekers_shop_visited" op="set" val="1"/>
 								<remove name="COMBAT_PANIC_BUTTON" />
+								<choice hidden="true">
+									<text>Return to the lobby.</text>
+									<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+								</choice>
+							</event>
+						</choice>
+						<choice hidden="true" req="EG_CORPORATE_FREE_SCRAP" blue="true">
+							<text>Ask him to borrow some scrap.</text>
+							<event>
+								<text>To your surprise, this request didn't surprise Corporate at all. He happily loaned you 35 scrap. "Just remember to return it later, please!" he says, smiling.
+
+								Unfortunately, he can't sell you anything now, once again referring to the "slug in a strange suit."</text>
+								<item_modify>
+									<item type="scrap" min="35" max="35"/>
+								</item_modify>
+								<disableScrapAugments/>
+								<metaVariable name="eg_corporate_debt" op="set" val="1"/>
+								<variable name="seekers_shop_visited" op="set" val="1"/>
+								<choice hidden="true">
+									<text>Return to the lobby.</text>
+									<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
+								</choice>
+							</event>
+						</choice>
+						<choice req="eg_corporate_debt" blue="false">
+							<text>Pay off the debt.</text>
+							<event>
+								<text>Corporate happily accepts your scrap. "Great! I didn't think you'd actually return it..."
+								
+								Unfortunately, he can't sell you anything now, once again referring to the "slug in a strange suit."</text>
+								<item_modify>
+									<item type="scrap" min="-35" max="-35"/>
+								</item_modify>
+								<disableScrapAugments/>
+								<metaVariable name="eg_corporate_debt" op="set" val="0"/>
+								<variable name="seekers_shop_visited" op="set" val="1"/>
 								<choice hidden="true">
 									<text>Return to the lobby.</text>
 									<event load="MIRACLE_SEEKERS_LOBBY_TWEAK"/>
@@ -1028,6 +1314,1226 @@ Thank you for that we all is beings beloved</text>
 <!-->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Directly          <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>          Quests    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-->
 	
+<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Neostar Form <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -->
+
+<event name="EG_QUEST_NEOSTAR_FORM">
+	<beaconType id="eg_neostar" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>Miracle Seekers have informed you that this beacon is the last known location of Miracle 6419 - Neostar Form.</unvisitedTooltip>
+		<visitedTooltip>This was the supposed location of Miracle 6419.</visitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<jumpEvent>EG_QUEST_NEOSTAR_MERCENARIES</jumpEvent>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<aggressive>1</aggressive>
+	</quest>
+	<text>You encounter a Hektar Industries vessel. It's strange to see them here, far from the Hektar stores.
+
+	Corporate flies up to you and contacts them, and you join the conversation.
+
+	"Good afternoon, lovely slugs and... lizards?" Corporate greets the Hektar vessel.
+
+	"Huh? What do you need? We're currently closssed for technical reasssonsss."
+
+	"One of your employees stole something of ours. We'd be grateful if-..."
+
+	"SO YOU'RE RESSSPONSSSIBLE FOR WHAT THAT FOOL BOB DID?" the Hektar employee suddenly snapped. "WE'VE BEEN SSSUPPOSED TO BE HAMMERED WITH HUGE FINESSS BECAUSSSE OF HIM!"
+
+	"If you calm down, and we can find out together what exactly happened-..."
+
+	"HE QUIT, YOU MORONSSS! DO YOU KNOW HOW HARD IT ISSS TO QUIT AND SSSAY GOODBYE TO HEKTAR INDUSTRIES???"
+
+	"No, but I personally-..."
+
+	"AND IT'SSS BECAUSSSE OF YOU, OR MORE PRECISSSELY BECAUSSSE OF YOUR FRIENDSSS FROM NEOSSSTAR, THAT WE ARE ALL DOOMED!"</text>
+	<choice hidden="true">
+		<text>Friends from Neostar?</text>
+		<event>
+			<text>"THOSSSE THREE-EYED CREATURESSS! BOB FOUND SSSOMETHING IN SSSPACE WHERE THEY CONTACTED THEM AND OFFERED HIM A JOB! HE ACCEPTED IT, DAMN IT!"
+
+			Miracle Seeker is silent for a moment, and you continue to listen to the slug's indignation. All you've gathered is that another Hektar employee has taken Miracle 6419 for himself and left his position at Hektar Industries to join Neostar Megacorp. This situation is comical, considering he essentially reclaimed his soul from the clutches of the devil and gave it to someone else.
+
+			You ask the Hektar employee to calm down and give you the coordinates of the former Hektar employee. A few seconds later, they send them to you, and you disconnect from the Hektar ship. Corporate contacts you.
+
+			"Things are bad, partner... Neostar Megacorp won't be able to be bought off that easily."</text>
+			<quest event="EG_QUEST_NEOSTAR_FORM_2"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice> 
+</event>
+
+<event name="EG_QUEST_NEOSTAR_MERCENARIES">
+	<text>Just as you're about to leave with Corporate, you're suddenly stopped by a mercenary ship, which, apparently, has been tracking you this whole time. Its captain contacts you over a secure channel - Corporate can't access your conversation.
+
+	"Hey, Renegade. Don't get involved in this. I paid a lot of money for that golden-haired guy - we've been tracking him for a long time. How about you just fly away from here, and I'll take care of our mutual friend, and we'll pretend we never crossed paths? We won't harm him, just ask a few questions..."
+
+	Corporate's ship flies a good distance away from you. It seems the Miracle Seeker has realized things are getting serious. The only thing standing between him and the mercenaries is you.</text>
+	<ship load="NEOSTAR_QUEST_RANGER_MERCENARIES" hostile="false"/>
+	<choice hidden="true">
+		<text>Have you been hired by Neostar Megacorp representatives?</text>
+		<event>
+			<text>"Who? No, we were hired by other people. We know little about them ourselves, and I don't care about them. They called themselves Rangers, and it seems they have a special affection for that golden-haired one. So... since you don't want to get out of our way, so be it."
+
+			The mercenaries are on the attack!</text>
+			<ship hostile="true"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="EG_QUEST_NEOSTAR_FORM_2">
+	<beaconType id="eg_neostar" global="true">
+		<color r="255" g="124" b="0" a="1"/>
+		<unvisitedTooltip>Hektar Industries employee named Bob has claimed Miracle 6419 for himself. It's supposed to be here.</unvisitedTooltip>
+		<visitedTooltip>Neostar Megacorp vessel was located here.</visitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<aggressive>1</aggressive>
+	</quest>
+	<jumpEvent>EG_QUEST_NEOSTAR_FORM_JUMP_WARNING</jumpEvent>
+	<text>You and Corporate jump onto this beacon almost simultaneously. The last time you spoke to him, you only learned that some Rangers were after his life. However, now he's contacting you.
+
+	"We need to find this Bob. If Neostar representatives have indeed contacted him, we need to confiscate his Neostar Form."</text>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>You scan your surroundings and notice an orange ship nearby. It looks like it's delivering cargo or something.
+
+			"We're too late... It's a Neostar vessel. They've infiltrated this universe," Corporate says warily.</text>
+			<playMusic>music_continuityviolator</playMusic>
+			<ship load="NEOSTAR_QUEST_NEOSTAR" hostile="false"/>
+			<choice hidden="true">
+				<text>Contact them.</text>
+				<event>
+					<text>You contact a Neostar vessel. A Hektar employee answers the call. This is the same Bob who left Hektar Industries and joined Neostar Megacorp - though it seems it happened so quickly that he didn't even change his uniform.
+
+					"Ah, outsssidersss? A renegade and sssome rich kid? What do you want? We're leaving sssoon."
+
+					Corporate connects to the call. "Hello, Bob. The thing is, that tablet you... um... used to get a job at Neostar Megacorp, actually belongs to us. Could you... give it to me? Look, Neostar is no different from Hektar Industries. You'll be slaving away for them just like you were slaving away before. Maybe even worse... We could offer you a job at our-..."
+
+					"Um. No. I like it here, and I wasss told that if I give up my tablet, I will be sssussspended from work, and I am not interesssted in any other job anymore. And even more, I don’t want to return to Hektar Industriesss. Do you even know how much effort it took me to quit? Besssidesss, thessse guys from Neossstar are so kind to me. Now we'll be delivering variousss cargosss... Sssome goodsss, at leassst, I didn't quite underssstand."</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>"Get out of here before I contact the authoritiesss and asssk for their permissssion to ussse weapons."
+							
+							Miracle Seeker switches to a private conversation with you. "We need to attack them. The Neostar vessel has no place in this Universe, believe me, partner, it's not even that Bob took something that belonged to us. I don't know how that ship got here (hm, maybe through a rift we left open), but the connection between their universe and the universes of your cluster will not end well for either of them. It could lead to an interuniversal war - worse than the clashes between the Federation and the Rebellion - believe me."
+							
+							"I'm not saying you need to destroy them. We just need to make it clear to these workers that they have no business here. We'll force them to surrender, I'll take care of their future employment, and you'll hand over the Neostar Form to the delivery drone - and, of course, the reward for that will be high."</text>
+							<choice hidden="true">
+								<text>Attack the Neostar ship.</text>
+								<event>
+									<text>"Remember: they must surrender! Don't let there be any unnecessary bloodshed!"
+
+									You begin loading your weapons. The Neostar crew doesn't seem at all surprised by this outcome, and their ship begins a counterattack.</text>
+									<ship hostile="true"/>
+									<choice hidden="true">
+										<text>Continue...</text>
+										<event load="COMBAT_CHECK"/>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice> 
+</event>
+
+<event name="EG_QUEST_NEOSTAR_FORM_JUMP_WARNING">
+	<text>Corporate contacts you. "Hey, partner... This is no time to leave this fight! They'll jump with you, and we'll never see them again!"</text>
+	<triggeredEvent event="EG_QUEST_NEOSTAR_FORM_JUMP_WARNING_IGNORED" jumps="1"/>
+</event>
+<event name="EG_QUEST_NEOSTAR_FORM_JUMP_WARNING_IGNORED">
+	<text>Suddenly, the Neostar vessel jumps through some kind of wormhole, which opened instantly and then closed just as quickly.
+
+	Corporate contacts you. "The Miracle has been completely stolen. They've been transported to another Universe... How could we allow this to happen?" You may hear Corporate's voice tremble for the first time. He's clearly disappointed with the current state of affairs and, apologizing, flies away from you. The order to retrieve the Miracle has been failed.</text>
+	<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
+	<instantEscape/>
+	<clearJumpEvent/> 
+</event>
+
+<event name="NEOSTAR_QUEST_NEOSTAR_SURRENDER_REAL">
+	<text>Bob contacts you. "Wait! Fine, I'll give you thisss tablet, hell, I'll even quit Neossstar, jussst keep me alive!"
+
+	The Neostar crew is ready to surrender.</text>
+	<choice hidden="true">
+		<text>Accept their surrender.</text>
+		<event>
+			<text>You explain to the Neostar crew that they must abandon ship. Corporate docks with Neostar vessel and takes on board all the wounded and unharmed former Neostar employees. When Bob infiltrates Corporate's ship, he suddenly remembers that he left the Neostar Form in the "conference room" and is unable to hand it over to Miracle Seekers.
+
+			Corporate asks you to investigate Neostar vessel while it contacts other Miracle Seekers.</text>
+			<clearJumpEvent/>
+			<playMusic/>
+			<ship hostile="false"/>
+			<choice hidden="true">
+				<text>Explore the ship.</text>
+				<event>
+					<text>The Neostar cargo ship is essentially one large, looping corridor. Numerous Neostar-marked crates are scattered throughout, but they're not arranged randomly, but rather follow a specific pattern. It's impossible to open any of them without a digital password. After wandering around the ship for a bit, you finally find the conference room.</text>
+					<choice hidden="true">
+						<text>Go inside.</text>
+						<event>
+							<text>You're greeted by a room with a large rectangular table with rounded corners and a ton of chairs. An interesting detail is the large monitor and a couple of smaller monitors, apparently designed for remote meetings with management. You find a tablet in Neostar's corporate colors on one of the chairs. It's hard not to guess that this is the Neostar Form - Miracle you've been searching for.
+
+							For some reason, the conference room is quite dark, creating a slightly uneasy atmosphere...</text>
+							<playMusic>monk</playMusic>
+							<choice hidden="true">
+								<text>Take the Miracle.</text>
+								<event>
+									<text>As soon as you pick up the Neostar Form, a flash of light illuminates the darkness - the monitors have turned on. The largest one displays an image of some kind of humanoid creature, reminiscent of an amphibian. Creature has three eyes, and its skin is as red as blood. You can't make out its appearance, but you notice that it's sitting in an office, dressed in business attire, and in the background is a window overlooking space and a blazing, bright red star surrounded by a Dyson sphere. The star looks sickly, its size and color completely abnormal.
+
+									"Greetings, intruder. My name is Saul. I am the CEO of Neostar Megacorp."
+
+									Monitors intermittently flash with static. Your interlocutor is unimaginably far away. Most likely, in another universe.</text>
+									<choice hidden="true">
+										<text>What do you need?</text>
+										<event>
+											<text>Saul seems to see right through you through the monitors, analyzing and drawing conclusions.
+
+											"Personally, I suppose it's nothing. But you're holding something that belongs to Neostar. You're currently on a ship that belongs to Neostar. You're breathing air that belongs to Neostar. You're looking at me through screens that belong to Neostar. Everything here belongs to Neostar. Everything except you..."
+
+											You look questioningly at the three-eyed amphibian.
+
+											"I'd like to offer you a job. 15000... scrap, right? 15000 scrap upfront. Up to 200000 scrap monthly. As you advance in your career, you become Neostar Megacorp's representative in this Universe - you'll earn up to 500000 scrap monthly. All you need to do is coordinate Neostar Megacorp's development in your civilizations. Are you interested in this offer? If you haven't figured it out yet, I'd like to hire you. Your skills could be of great use to Neostar. You know far more about this cluster of universes than the rest of my employees could."
+
+											Saul pauses and waits for your answer. A huge, bloody star flickers dangerously behind him. What is it?</text>
+											<choice hidden="true">
+												<text>I have much more important things to do.</text>
+												<event>
+													<text>Suddenly, a shot rings out. The bullet pierces the largest monitor, disabling it. A second shot and a second bullet hit a camera in the corner of the room, which had been pointed at you the whole time.
+
+													You turn around sharply. Corporate stands in the opening between the rooms, an old-fashioned, signature pistol outstretched. Smoke billows from the barrel.
+
+													"Let's get out of here, partner. The order to retrieve Miracle 6419 has been successfully completed," he says, lifting his sunglasses.</text>
+													<choice hidden="true">
+														<text>What was that?</text>
+														<event>
+															<text>"CEO of Neostar Megacorp. Funny he contacted you. And that's exactly what I was afraid of - that Neostar would turn its attention to this universe. Look, this isn't my personal dislike of Neostar Megacorp - it's my dislike of any space-based corporatios in general. Fortunately, once we destroy this vessel, Neostar will likely lose interest in this universe - and we, as Miracle Seekers, will further facilitate that."
+
+															Corporate looks very worried, but everything seems to be over.</text>
+															<choice hidden="true">
+																<text>Why do you dislike Megacorporations?</text>
+																<event>
+																	<text>Corporate is surprised by your question. For a moment, you even think he's dropped his mask of a successful businessman and the best entrepreneur in the entire observable universe.
+
+																	"I'll... tell you the details of my story when we get to know each other better."
+
+																	"Now let's go. We need to deliver the Neostar Form to our delivery drone."</text>
+																	<metaVariable name="eg_corporate_when_we_get_to_know_each_other_better" op="set" val="1"/>
+																	<choice hidden="true">
+																		<text>Return to the ship.</text>
+																		<event load="EG_NEOSTAR_QUEST_2_RESOLUTION"/>
+																	</choice>
+																</event>
+															</choice>
+															<choice hidden="true">
+																<text>Don't ask any unnecessary questions and return to the ship.</text>
+																<event load="EG_NEOSTAR_QUEST_2_RESOLUTION"/>
+															</choice>
+														</event>
+													</choice>
+													<choice hidden="true">
+														<text>Don't ask any unnecessary questions and return to the ship.</text>
+														<event load="EG_NEOSTAR_QUEST_2_RESOLUTION"/>
+													</choice>
+												</event>
+											</choice>
+										</event>
+									</choice>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Continue the fight.</text> <!-- :BADMAN: -->
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_NEOSTAR_QUEST_2_RESOLUTION">
+	<text>You and Corporate return to your ships. As agreed, you destroy the Neostar vessel and dismantle its wreckage for scrap.</text>
+	<playMusic/>
+	<autoReward level="MED">standard</autoReward>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>You then load the Neostar Form into the delivery drone. It gives you the resources, leaves your ship autonomously, and flies off in some direction at high speed.
+
+			Corporate contacts you. In the background, the former Neostar crew can be seen huddled in its small wheelhouse. It looks like the Miracle Seeker gave them some scrap to make amends.
+
+			"Thank you for your service, partner! I'll try to find some work for our new friends, the main thing is to prevent them from getting involved with Neostar Megacorp again... I've confiscated and will destroy all their excess Neostar Forms - we need this Miracle only in its single, original copy. With your help, we're one step closer to returning to our home universe!"</text>
+			<unlockCustomShip silent="false">PLAYER_EG_NEOSTAR</unlockCustomShip>
+			<metaVariable name="miracle_neostar_form" op="set" val="1"/>
+			<item_modify>
+				<item type="fuel" min="2" max="4"/>
+				<item type="scrap" min="25" max="35"/>
+				<item type="missiles" min="2" max="4"/>
+				<item type="drones" min="1" max="2"/>
+			</item_modify>
+			<choice hidden="true" req="miracle_seekers_metarep" lvl="3" blue="true">
+				<text>What about a unique reward?</text>
+				<event>
+					<text>"A unique reward?" Corporate lowers his glasses, seemingly not quite understanding.
+
+					You explain that you believe Corporate should have awarded you personally for such a mission. You feel like it was his direct responsibility. An augment, a weapon, the opportunity to ask him to join your mission personally, or any other special reward you could receive for completing any other Miracle Seekers' order.
+
+					"Oh, I have such a 'special reward'! Here, take it!"
+
+					Corporate's ship ejects a box into outer space. Corporate himself bids you farewell and departs, citing that it has already attracted too much attention from the "slug in a strange suit."
+
+					You bring the box on board.</text>
+					<choice hidden="true">
+						<text>Open the box.</text>
+						<event>
+							<text>It turns out to be a life-size portrait of Corporate - or rather, just his upper body. It's quite... narcissistic. Nevertheless, you notice how pleased your 
+							crew is to have it aboard. They apparently really appreciate Corporate's charisma. At the very least, you'll be able to sell the portrait for a good price. No doubt.</text>
+							<augment name="EG_CORPORATE_GIFT"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="MIRACLE_SEEKERS_METAREP_UPDATE"/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true">
+				<text>Thank Corporate and disconnect.</text>
+				<event load="MIRACLE_SEEKERS_METAREP_UPDATE"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="DESTROYED_NEOSTAR_QUEST_RANGER_MERCENARIES">
+	<text>You destroy the mercenary ship. Fortunately, they didn't cause any damage to Corporate, and he contacts you.
+	
+	"Oh, Rangers... No, they're not affiliated with Neostar Megacorp, if that's what you're wondering... that's a Miracle Seekers matter, you don't have to worry about it. Let's get on with it. Thanks for saving me, partner!" Strange thing.</text>
+	<autoReward level="MED">standard</autoReward>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+<event name="DEAD_CREW_NEOSTAR_QUEST_RANGER_MERCENARIES">
+	<text>You clear a mercenary ship of its crew. Fortunately, they didn't cause any damage to Corporate, and he contacts you.
+	
+	"Oh, Rangers... No, they're not affiliated with Neostar Megacorp, if that's what you're wondering... that's a Miracle Seekers matter, you don't have to worry about it. Let's get on with it. Thanks for saving me, partner!" Strange thing.</text>
+	<autoReward level="HIGH">standard</autoReward>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="DESTROYED_NEOSTAR_QUEST_NEOSTAR">
+	<text>You destroy the Neostar vessel. Its countless cargoes scatter and decompose in space - it seems this is a precaution against piracy.
+	
+	Corporate contacts you. "The Miracle was destroyed... How could we allow this to happen?" You may hear Corporate's voice tremble for the first time. He's clearly disappointed with the current state of affairs and, apologizing, flies away from you.
+	
+	The order to retrieve the Miracle has been failed. But at least you got the ship's wreckage.</text>
+	<playMusic/>
+	<autoReward level="HIGH">standard</autoReward>
+	<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+<event name="DEAD_CREW_NEOSTAR_QUEST_NEOSTAR">
+	<text>You destroy the Neostar crew, but as soon as you find Bob's body, you also find a shattered, broken tablet nearby - a Neostar Form. Even the most skilled craftsmen would struggle to repair it.
+	
+	Corporate contacts you. "The Miracle was destroyed... How could we allow this to happen?" You may hear Corporate's voice tremble for the first time. He's clearly disappointed with the current state of affairs and, apologizing, flies away from you.
+	
+	The order to retrieve the Miracle has been failed. At least you got the ship's contents... but not the cargo. Each cargo crate has a digital password, and attempts to destroy the crate walls themselves to access their contents ultimately result in the contents self-destructing - presumably a precaution against piracy.</text>
+	<playMusic/>
+	<autoReward level="HIGH">standard</autoReward>
+	<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<ship name="NEOSTAR_QUEST_RANGER_MERCENARIES" auto_blueprint="MU_MERCENARY_MV_EXPLORER">
+	<escape chance="0" min="0" max="0"/>
+	<destroyed load="DESTROYED_NEOSTAR_QUEST_RANGER_MERCENARIES"/>
+	<deadCrew load="DEAD_CREW_NEOSTAR_QUEST_RANGER_MERCENARIES"/>
+</ship>
+
+<ship name="NEOSTAR_QUEST_NEOSTAR" auto_blueprint="EG_ENEMY_NEOSTAR">
+	<escape chance="0" min="0" max="0"/>
+	<triggeredEvent name="NEOSTAR_QUEST_NEOSTAR_SURRENDER" event="NEOSTAR_QUEST_NEOSTAR_SURRENDER_REAL" enemyHull="4" enemyCrew="2" thisFight="true"/>
+	<destroyed load="DESTROYED_NEOSTAR_QUEST_NEOSTAR"/>
+	<deadCrew load="DEAD_CREW_NEOSTAR_QUEST_NEOSTAR"/>
+</ship>
+
+<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Alliance Agreement <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -->
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT">
+	<beaconType id="eg_alliance" global="true">
+		<color r="50" g="5" b="170" a="1"/>
+		<unvisitedTooltip>Miracle Seekers have informed you that this beacon is the last known location of Miracle 7302 - Alliance Agreement.</unvisitedTooltip>
+		<visitedTooltip>Here the Ministry has appropriated Miracle 7302.</visitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<aggressive>1</aggressive>
+	</quest>
+	<jumpEvent>EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE</jumpEvent>
+	<text>You arrive at the coordinates of Miracle 7302. As expected, you encounter Zoltans Cipher warned you about - and not just any Zoltans, but the Peacekeepers themselves. They contact you.
+
+	"Are you the intermediary between the so-called Miracle Seekers and us? I hope you've been briefed, because we don't plan to stay here long."</text>
+	<ship load="SHIP_ZOLTAN_REVOLT_PEACE" hostile="false"/>
+	<choice hidden="true">
+		<text>Ask where Alliance Agreement is.</text>
+		<event>
+			<text>Zoltan-Peacekeeper gestures with a piece of paper into his communicator. This piece of paper is undoubtedly Miracle in question. "Oh, did they really tell you everything? However, we're willing to bet your friends didn't mention one very important thing. According to the Constitution of the Ministry of Zoltan, specifically Article 84-1, any physical object located on Ministry territory belongs to the Ministry and the Zoltan race in particular. This means we have every right to confiscate items of dubious origin and appropriate them for ourselves. This means that this document currently belongs to us, and you have no right to claim it until you can prove it's yours."
+
+			Despite the fact that this beacon you're currently on is clearly abandoned, Zoltan seems suspiciously confident in his words. They are clearly bluffing - but you don't know where exactly.</text>
+			<choice hidden="true" req="miracle_seekers_metarep" lvl="0" max_lvl="2" blue="false">
+				<text>Try to prove that this document belongs to the Miracle Seekers.</text>
+				<event>
+					<text>You are trying to prove that Miracle 7302 really belongs to the Miracle Seekers, although you are not doing a very good job of it, since you are not very familiar with them.
+					
+					"What a fairy tale! They told us almost the same thing. However, you haven't taken into account the fact that the very origin of this document suggests that it cannot belong to the Miracle Seekers... Simply put, they stole it from its original owners. They have no right to keep it, nor, moreover, to demand that anyone return it to them. Also consider the fact that they could have "lost" it... if something belonged to you, you would certainly have tried to return it as quickly as possible, and you would have done so yourself, not through an intermediary. That's suspicious, isn't it?"
+
+					"In any case, since you have no compelling evidence that this document belongs to your employers, we are forced to confiscate it. You can appeal this decision to the nearest General Jurisdiction Appeals Court under the Ministry's jurisdiction, but of course, filing and reviewing the application will take time you don't have... you are a Renegade, right? Therefore, I propose we meet at our destination for further discussions in a more... informal setting, if you understand what I mean. If you don't show up there on time, we will be forced to permanently appropriate this document for ourselves."
+
+					Peacekeepers give you the coordinates of the second meeting's beacon and quickly jump.</text>
+					<instantEscape/>
+					<quest event="EG_QUEST_ALLIANCE_AGREEMENT_2"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true" req="miracle_seekers_metarep" lvl="3" blue="false">
+				<text>Prove that this document belongs to the Miracle Seekers.</text>
+				<event>
+					<text>You are trying to prove that Miracle 7302 really belongs to the Miracle Seekers. You mention that each of their Miracles is entered into the Miracle Seekers' Database, and they themselves are scientists and historians, and certainly not thieves.
+					
+					"What a fairy tale! They told us almost the same thing. However, you haven't taken into account the fact that the very origin of this document suggests that it cannot belong to the Miracle Seekers... Simply put, they stole it from its original owners. They have no right to keep it, nor, moreover, to demand that anyone return it to them. Also consider the fact that they could have "lost" it... if something belonged to you, you would certainly have tried to return it as quickly as possible, and you would have done so yourself, not through an intermediary. That's suspicious, isn't it?"
+
+					"In any case, since you have no compelling evidence that this document belongs to your employers, we are forced to confiscate it. You can appeal this decision to the nearest General Jurisdiction Appeals Court under the Ministry's jurisdiction, but of course, filing and reviewing the application will take time you don't have... you are a Renegade, right? Therefore, I propose we meet at our destination for further discussions in a more... informal setting, if you understand what I mean. If you don't show up there on time, we will be forced to permanently appropriate this document for ourselves."
+
+					Peacekeepers give you the coordinates of the second meeting's beacon and quickly jump.</text>
+					<instantEscape/>
+					<quest event="EG_QUEST_ALLIANCE_AGREEMENT_2"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+	
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE">
+	<text>Just as you're about to jump, one of the Miracle Seekers contacts you, but you can't tell who it is because they haven't turned on their video feed and, for some reason, their voice is distorted. "Meet me here, Renegade. Don't even think about flying to them until you learn more about this Miracle from me. We haven't mentioned a couple of important details, which prevent the Zoltans from giving you this Miracle without a bribe. I'll help you avoid that."
+	
+	The contact abruptly ends, and more coordinates are sent to your on-board computer...</text>
+	<quest event="EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE">
+	<beaconType id="eg_erudite_drone" global="true">
+		<color r="105" g="155" b="255" a="1"/>
+		<unvisitedTooltip>These are the coordinates that one of the Miracle Seekers gave you to meet and explain some important details that you will need in order to obtain the Miracle.</unvisitedTooltip>
+		<visitedTooltip>Here you met Erudite's drone.</visitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<quest>
+		<nextSector>false</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<aggressive>2</aggressive>
+	</quest>
+	<text>You discover a small automated drone near you as soon as you jump onto this beacon.
+
+	"You've been flying too long, Renegade. This is unacceptable in your line of work," says a young man, whose voice is transmitted through the automated drone to your ship. You're almost certain you haven't wasted a single minute on anything unrelated to your primary mission or the mission assigned to you by the Miracle Seekers. Besides, your FTL was hacked...
+
+	"My name is Erudite. I'm a Miracle Seeker, in case you didn't already know. This drone through which I'm speaking to you now is only one of many in this universe, so I hasten to inform you that its destruction should not be your goal. Moreover, you likely won't survive the ensuing battle if you're hostile to my technology. Enough introductions - let's get down to business."</text>
+	<ship load="ERUDITE_DRONE_ALLIANCE_AGREEMENT" hostile="false"/>
+	<choice hidden="true" req="alliance_miracle_received" lvl="0" max_lvl="0" blue="false">
+		<text>Why did you disable our FTL?</text>
+		<event>
+			<text>"My apologies. This is just a precaution. I'll turn it back on as soon as we're done here."
+
+			"We have significant ownership issues with the Miracle you're currently seeking. That's why we can't prove the Alliance Agreement is truly our responsibility. Formally, it doesn't belong to us, but we're still guarding it as a historical artifact. It's clear the Ministry won't hand this Miracle over to us directly, but there's a good chance they'll let you take it. We can't convince them it was always ours, but we can convince them it was yours before - we simply took it for safekeeping, isn't that smart?"
+
+			"To do that, you'll need to learn the contents of the Alliance Agreement as a document. I'm against it, but Marauder insisted we reveal confidential information to you that we haven't even disclosed to our sponsors. I'll read you the contents of the Agreement, and you'll try to memorize it."</text>
+			<choice hidden="true">
+				<text>Okay. We are listening.</text>
+				<event>
+					<text>Erudite clears his throat and begins to read the contents of the Alliance Agreement.
+					
+					"In the name of Lady Secunda, the youngest daughter of all eternity, and in the name of our own name, given to us by our founding gods, we proclaim the creation of a Central Alliance, occupying the entire cosmic territory from the Heart of the Universe - the Belfry, all the way to the First Nebulae. Surrounded by numerous troubles, catastrophes and deprivations, disunited species and races are forced to gather into one colossal, essentially unified political structure until such time as Postulate ceases to be our common threat. We will valiantly repel all problems that may overtake us, and we will share our common history, cherish it like the apple of our eye, as long as there remains hope that existence will triumph over non-existence."
+					
+					"The Second Voice Station will become the capital of the Central Alliance - from now on, our core and heart. The affairs of the Alliance will be governed by a single government, consisting of a twelve-member commission of the former rulers of the space empires. Every decision made by the Central Alliance must be reviewed by each commission chairperson and agreed upon in such a way that none of the empires within the Alliance will object to the decision."
+					
+					"The work of the Central Alliance will be regulated by the Creators, who will make their demands or recommendations on the Small Council of Creators, long established at the crown of the entire Universe. No decisions taken to combat the forces of Postulate and the Darkness will be made without the private permission of the Small Council. However, any decisions made by the Small Council regarding the Central Alliance must first be agreed upon with Lady Secunda as a precaution."
+					
+					"Resolution of military crises, such as the inevitable absorption of the Thesis' Incarnation at the end of each Ashvattha Tree burning cycle, will be handled by a special military bureau, assembled from our finest warriors, such as the Lions of the Lion Corps, and the Inquisitor spaceships of the Great League. It will be called the "Primary Suppression of Postulate Manifestations," and will actively defend the Belfry and the final Pillars of Causality - Time and Objectivity - at the Hour of Judgment."
+					
+					"The Great League and Terra Ultima will be allies of the Central Alliance, but not its direct members. We will actively trade and exchange technologies and knowledge, while maintaining our independent status. Independent organizations such as the Ermi News Block, Lighthouse Station, Vita Nostra, and Castrophis Station, including the latter's Community of Eschatologists, will also cooperate with us."
+					
+					"Complete regulation of space travel is transferred from the hands of the Enlightened to the Central Alliance. The Star Shipyards become the property of the entire Universe, but retain their independence. Now, every citizen of the Alliance will be able to travel freely along the Light Bridges. The Star Depot, meanwhile, acquires the status of a military-significant facility and will be actively used by the Central Alliance as one of its last precautions during the Hour of Judgment and other potential crises."
+					
+					"Each empire that is part of the Alliance is obligated to provide and share its resources, scientific and military capabilities, and to conduct open trade with other empires. In the event of failure to fulfill its direct responsibilities, the chairperson of the commission of such an Empire will be suspended for a certain period of time. In the event of a repeat offense, a special commission will be convened to decide on the removal of the empire from the Central Alliance."
+					
+					"To preserve shared knowledge and history, a Central Archive will be established on the surface of the planet Unio V, located within the Novalethe Empire. Representatives of this same empire will be responsible for collecting knowledge and recording history, and the Central Archive will be open to all citizens of the Central Alliance."
+					
+					Erudite doesn't seem to tire of reading this document, but fortunately, it ends before you start to feel sleepy. "That's all. It's worth mentioning that this contains the signatures of almost all the chairpersons of the Central Alliance commission. Sprawling, sharp, thin, spiraling, long, tiny, intricate, complex, illegible, intermittent, and... a typical, boring signature, probably human. And one more signature is missing - making eleven."
+					
+					A huge amount of time passes before you finish listening to it all. It was probably worth it. All that's left is to somehow remember all the key points and head to Zoltans.</text>
+					<modifyPursuit amount="1"/>
+					<variable name="alliance_miracle_info" op="set" val="1"/>
+					<choice>
+						<text>Continue...</text>
+						<event>
+							<text>"Remember, you must create the appearance that this Miracle previously belonged to you. We were merely storing it. Or we stole it. Basically, come up with something plausible. The main thing is to get the Miracle at any cost - without violence, otherwise the Miracle's destruction will be inevitable."
+
+							Erudite disconnects, leaving you alone with his drone. It stares at you silently while you charge your FTL. There's something... strange about this drone.</text>
+							<choice>
+								<text>Continue...</text>
+								<event/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true">
+				<text>You don't agree with this state of affairs. Attack the automated drone!</text>
+				<event>
+					<text>Whether out of some resentment toward the Miracle Seekers, or just plain boredom, you decide to destroy Erudite's drone. "Wha-... Oh, I see. We've become enemies, haven't we, Renegade? I'll make you pay for that. Don't expect to redeem yourself in the eyes of the Seekers of Wonder after this. If, of course, you survive the coming carnage - I've disabled your SSD after all... Farewell."
+
+					Erudite's voice fades and the drone switches to hostile mode. There will be only one winner in this battle!</text>
+					<ship hostile="true"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="alliance_miracle_received" lvl="1" blue="false">
+		<text>We have already received the Miracle and passed it on to you.</text>
+		<event>
+			<text>Erudite fell silent for a long moment. The strange atmosphere lingered, and you tried contacting Erudite's drone again. This time, a different, mechanical voice decided to answer.
+			
+			"ERROR: COMMAND "WE HAVE ALREADY RECEIVED THE MIRACLE AND PASSED IT ON TO YOU" NOT RECOGNIZED. PLEASE ENTER A NEW COMMAND."
+			
+			But without waiting for your answer, Erudite's drone left the beacon. What was that?</text>
+			<instantEscape/>
+			<choice>
+				<text>Continue...</text>
+				<event>
+					<choice>
+						<text>Do something onboard the ship.</text>
+						<event load="STORAGE_CHECK"/>
+					</choice>
+					<choice>
+					<text>Do nothing.</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="alliance_miracle_received" lvl="-1"  max_lvl="-1" blue="false">
+		<text>Zoltans left with the Miracle.</text>
+		<event>
+			<text>Erudite fell silent for a long moment. The strange atmosphere lingered, and you tried contacting Erudite's drone again. This time, a different, mechanical voice decided to answer.
+			
+			"ERROR: COMMAND "ZOLTANS LEFT WITH THE MIRACLE" NOT RECOGNIZED. PLEASE ENTER A NEW COMMAND."
+			
+			But without waiting for your answer, Erudite's drone left the beacon. What was that?</text>
+			<instantEscape/>
+			<choice>
+				<text>Continue...</text>
+				<event>
+					<choice>
+						<text>Do something onboard the ship.</text>
+						<event load="STORAGE_CHECK"/>
+					</choice>
+					<choice>
+						<text>Do nothing.</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="ERUDITE_DRONE_ESCAPED">
+	<text>The Erudite's drone's beams severely damaged your hull, but it appears it didn't finish you off. Instead, it contacts you again.
+
+	"I don't intend to kill you; I don't want your blood on my hands. But don't mistake my generosity for weakness. If I wanted you dead, I would have achieved it by now without this circus. I hope you've learned your lesson, Renegade."</text>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event>
+			<text>The contact ends, and Erudite's drone flies away. At least you're alive...</text>
+			<instantEscape/>
+		</event>
+	</choice>
+</event>
+	
+<ship name="ERUDITE_DRONE_ALLIANCE_AGREEMENT" auto_blueprint="EG_ENEMY_ERUDITE_DRONE">
+	<escape chance="0" min="0" max="0"/>
+	<triggeredEvent name="ERUDITE_DRONE_ESCAPE" event="ERUDITE_DRONE_ESCAPED" playerHull="6" thisFight="true"/>
+	<destroyed load="DESTROYED_ERUDITE_DRONE_ALLIANCE_AGREEMENT"/>
+	<deadCrew load="OPTION_INVALID"/>
+</ship>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2">
+	<beaconType id="eg_alliance" global="true">
+		<color r="50" g="5" b="170" a="1"/>
+		<unvisitedTooltip>Zoltans have set up a meeting for you to receive Miracle 7302 here.</unvisitedTooltip>
+		<visitedTooltip>Here the Ministry has appropriated Miracle 7302.</visitedTooltip>
+	</beaconType>
+	<preventQuest/>
+	<preventFleet/>
+	<quest>
+		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
+		<aggressive>1</aggressive>
+	</quest>
+	<text>The Peacekeepers meet you at the agreed-upon location. "We've waited too long for you, Renegade. In any case, since you're so eager to return this document to the Miracle Seekers, you must have... 'irrefutable' proof that it belongs to them, if you know what I mean."
+
+	You barely understood what the Peacekeeper was saying. "Fine. I won't beat around the bush. We're willing to give you this document for 900 scrap - you'll pay a fee for the trouble your employers caused us by losing it in our space. Do you agree to this deal?"
+
+	They're trying to bribe you, and no matter how angry you are, you can't just attack them. They'll probably destroy the Miracle if you try to harm them in any way.</text>
+	<ship load="SHIP_ZOLTAN_REVOLT_PEACE" hostile="false"/>
+	<choice>
+		<text>Give them a bribe.</text>
+		<event>
+			<text>"It's good we speak the same language, Renegade." Zoltans accept your bribe and give you the Alliance Agreement in exchange - all fair and square.
+
+			The entire text of the Alliance Agreement is written in a language unknown to you, and even the ship's translator can't translate it. It won't do you any good.</text>
+			<unlockCustomShip silent="false">PLAYER_SHIP_GOLD</unlockCustomShip>
+			<item_modify>
+				<item type="scrap" min="-900" max="-900"/>
+			</item_modify>
+			<choice hidden="true">
+				<text>Load the Miracle into the delivery drone.</text>
+				<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION">
+					<text>You load a strange document into a delivery drone. It gives you a reward and flies away, exiting the ship through the external airlock. The Miracle Seekers don't contact you, although they've clearly secured the Miracle.
+
+					However, while you were charging your FTL, a new message arrived on your communicator, with no sender or subject. It simply said, "Thank you." It seems the operator of this Miracle isn't exactly a talkative person. The most important thing is that you completed your task with flying colors.</text>
+					<unlockCustomShip silent="false">PLAYER_EG_SECOND_VOICE</unlockCustomShip>
+					<metaVariable name="miracle_alliance_agreement" op="set" val="1"/>
+					<variable name="alliance_miracle_received" op="set" val="1"/>
+					<item_modify>
+						<item type="fuel" min="3" max="3"/>
+						<item type="scrap" min="30" max="40"/>
+						<item type="missiles" min="2" max="2"/>
+						<item type="drones" min="2" max="3"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>Just as you're about to leave, the Miracle Seekers' delivery drone returns to you. It persistently taps its mechanical body against your ship's outer airlock, begging to be let in. When you let it in, it hands you some kind of weapon and immediately flies back out. This is likely a personal gift from the operator of the Miracle.</text>
+							<weapon name="EG_ERUDITE_BEAM_2_REAL"/>
+							<choice hidden="true">
+								<text>Continue...</text>
+								<event load="MIRACLE_SEEKERS_METAREP_UPDATE"/>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Explain to Zoltans that this Miracle actually belongs to you.</text>
+		<event>
+			<text>You try to explain to the Peacekeepers that you are the true owner of this Miracle, and that you simply handed it over to the Miracle Seekers so that nothing bad could happen to it. They look at you strangely.
+
+			"Well... okay? I assume that since you are the 'true' owner of this document, you can answer all our questions regarding its contents, right? Don't worry, we've already translated and analyzed all of its contents, so our questions will be to the point. We'll hand over the Miracle to you as soon as you answer at least two of the three questions. Otherwise, we'll keep it."</text>
+			<choice hidden="true" req="alliance_miracle_info" lvl="1" blue="true">
+				<text>Fortunately, Erudite has told you about the contents of the Alliance Agreement. Let's get to the questions.</text>
+				<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS"/>
+			</choice>
+			<choice hidden="true" req="miracle_alliance_agreement" lvl="1" blue="true">
+				<text>You recall that, long ago, Erudite supposedly read you the contents of the Alliance Agreement. Let's get to the questions.</text>
+				<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS"/>
+			</choice>
+			<choice hidden="true" req="alliance_miracle_info" lvl="0" max_lvl="0" blue="false">
+				<text>Uh... um... No, we won't answer questions.</text>
+				<event>
+					<text>Zoltans immediately realize you're lying and keep the Alliance Agreement for themselves. You leave them empty-handed.
+
+					You failed the quest to retrieve the Miracle - Miracle Seekers don't even contact you. You probably should have listened to that stranger who contacted you earlier, but there's no point in going to them now.</text>
+					<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
+					<variable name="alliance_miracle_received" op="set" val="-1"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<!-- A message for anyone interested in the correct answers to the questions posed: please try answering them yourself. In fact, even one or two readings of the entire Alliance Agreement text is enough to answer most of the questions - there's no need to look up the correct answers here. This quest is designed specifically for the player to read the contents of the Agreement and only then answer all the questions. Skipping the text comprehension stage makes this quest essentially pointless, one of the easiest in all of Eschaton Genesis - so I strongly recommend completing it exactly as intended. The difficulty in this addon isn't always about difficult bosses, but also about complex texts like this one. Furthermore, you always have the option of answering one out of three questions incorrectly, which significantly simplifies the task of receiving the reward for this quest. However, I'm not urging you to accept my position on this matter - in any case, the method for completing this quest is up to you. The main thing is that you enjoy it. -->
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS">
+	<loadEventList seeded="false" default="STORAGE_CHECK">
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_1"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_2"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_3"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_4"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_5"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_6"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_7"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_8"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_9"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_10"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_11"/>
+		<event name="EG_ALLIANCE_AGREEMENT_QUESTION_12"/>
+	</loadEventList>
+</event>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK">
+	<loadEvent>EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK</loadEvent>
+</event>
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK">
+	<loadEvent>EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK</loadEvent>
+</event>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK">
+	<text load="ALLIANCE_AGREEMENT_QUESTIONS_TEXT"/>
+	<choice hidden="true" req="alliance_miracle_total_questions" lvl="0" max_lvl="2" blue="false">
+		<text>Continue...</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS"/>
+	</choice>
+	<choice hidden="true" req="alliance_miracle_total_questions" lvl="3" blue="false">
+		<text>Continue...</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT"/>
+	</choice>
+</event>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK">
+	<text load="ALLIANCE_AGREEMENT_QUESTIONS_TEXT"/>
+	<variable name="alliance_miracle_questions_answered" op="add" val="1"/>
+	<choice hidden="true" req="alliance_miracle_total_questions" lvl="0" max_lvl="2" blue="false">
+		<text>Continue...</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS"/>
+	</choice>
+	<choice hidden="true" req="alliance_miracle_total_questions" lvl="3" blue="false">
+		<text>Continue...</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT"/>
+	</choice>
+</event>
+
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_1" unique="true">
+	<text>"How many people signed the Alliance Agreement?".</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>11</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>15</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>12</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>9</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_2" unique="true">
+	<text>"What is the so-called "Heart of the Universe" according to the text of this document?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>First Nebulae.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Lighthouse Station</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Belfry.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>The Old Reserves.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_3" unique="true">
+	<text>"Who will regulate the work of the Central Alliance, and without whose approval cannot this political entity make decisions related to the liquidation of the Postulate forces?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Chairperson of the commission.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Lighthouse Station</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Belfry.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Creators.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_4" unique="true">
+	<text>"You know, of course, that all empires that are part of the Central Alliance are required to share resources with each other. What happens if an empire is caught not providing resources to the Central Alliance?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>The Central Alliance will be forced to assemble a special military bureau in order to forcibly take resources from the empire that did not provide them.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>First, the chairperson of the commission of such an empire will be removed from commission for a certain period, and in the event of a relapse, the empire will be excluded from the Central Alliance.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Such an empire will be excluded from the Central Alliance, but will be rehabilitated over time.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Such an empire would be subject to sanctions from other empires, and in the event of a relapse, its chairperson would be executed.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_5" unique="true">
+	<text>"Where was the Central Archive founded?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>On the planet Petrichor V.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>On the planet Unio V.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>On the planet Cerebrum IV.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>At the orbital station of the planet Frostfall IV.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_6" unique="true">
+	<text>"Which political entities are allies of the Central Alliance?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Terra Ultima and the Great League.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Peaks and Vita Nostra.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Small Council of Creators and Neostar Megacorp.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>The Lion Corps and the Great League.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_7" unique="true">
+	<text>"Which station is the core of the Central Alliance?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Lighthouse Station.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Prima Station.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Second Voice Station.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Castrophis Station.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_8" unique="true">
+	<text>"It is known that at the end of each Ashvattha Tree burning cycle, the Central Alliance will assemble a special military bureau. What is it called?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Primary Bureau for the Suppression of the Forces of Postulate.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Manifestation of Suppression of the Primary Postulate.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Power of Defense Against Postulate Manifestations.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Primary Suppression of Postulate Manifestations.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_9" unique="true">
+	<text>"What space object will be actively used by the Central Alliance as one of the last precautionary measures during the Hour of Judgment and in other possible crises?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Vita Nostra.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Anti-darkness Regulator.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Star Depot.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>God's Flesh.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_10" unique="true">
+	<text>"What is the main purpose of creating the Central Alliance?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>Suppression of the forces of Postulate.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>An attempt to break the cycle of burning the Ashvattha Tree.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Protection of Lady Secunda.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>Exchange of resources between disunited space empires.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_11" unique="true">
+	<text>"How many commission chairpersons are there in the Central Alliance who were previously rulers of their empires?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>12</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>9</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>19</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>10</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+<event name="EG_ALLIANCE_AGREEMENT_QUESTION_12" unique="true">
+	<text>"With whom should the representatives of the Small Council of Creators coordinate their decisions regarding the affairs of the Central Alliance?"</text>
+	<variable name="alliance_miracle_total_questions" op="add" val="1"/>
+	<choice hidden="true">
+		<text>With the Great League and the Lion Corps.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>With the Community of Eschatologists.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>With Lady Secunda.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_GOOD_TWEAK_TWEAK"/>
+	</choice>
+	<choice hidden="true">
+		<text>With the First God Thesis.</text>
+		<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_QUESTIONS_TWEAK_TWEAK"/>
+	</choice>
+</event>
+
+<textList name="ALLIANCE_AGREEMENT_QUESTIONS_TEXT">
+	<text>Peacekeeper looks between you and the Alliance Agreement.</text>
+	<text>Zoltan takes a long look at the contents of the Alliance Agreement.</text>
+	<text>Zoltan looks at you with suspicion, but the presumption of innocence does not allow them to draw any conclusions about you.</text>
+	<text>An off-screen cough is heard on the captain's bridge of the Zoltan ship.</text>
+	<text>The Peacekeeper holds the Alliance Agreement, along with its translation on another sheet, directly in front of them.</text>
+</textList>
+
+<event name="EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT">
+	<text>It looks like they've finished questioning you. Peacekeeper asked you to wait a bit while he consults with another Zoltan about your situation.</text>
+	<choice hidden="true" req="alliance_miracle_questions_answered" lvl="0" max_lvl="1" blue="false">
+		<text>Continue...</text>
+		<event>
+			<text>"We doubt you own this document. Tell your employers they can still negotiate with us personally for a small fee. But we will no longer have any dealings with you." Peacekeeper disconnects the connection. You failed to answer the questions correctly.
+			
+			You failed the order to retrieve the Miracle - Miracle Seekers won't even contact you. However, as a small compensation for your efforts, their delivery drone gives you a few resources before leaving.</text>
+			<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
+			<variable name="alliance_miracle_received" op="set" val="-1"/>
+			<item_modify>
+				<item type="fuel" min="1" max="2"/>
+				<item type="scrap" min="10" max="15"/>
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="alliance_miracle_questions_answered" lvl="2" blue="false">
+		<text>Continue...</text>
+		<event>
+			<text>"Mm... yes... It seems that you really do have at least some connection to this piece of paper, since you know its contents."
+
+			"HOWEVER, you still have to pay a fee for this item being brought into our space. Not as high as we previously agreed, but still."
+
+			You're extremely outraged by Peacekeeper's fabrications.</text>
+			<choice hidden="true" req="zoltan_peacekeeper" blue="true">
+				<text>(Peacekeeper Crew) Shame the Peacekeeper.</text>
+				<event>
+					<text>Your Peacekeeper confronts the Peacekeeper ship. They emerges victorious, pointing out that other Zoltans have no right to charge you a fee after you've already proven your ownership (even though they don't know otherwise).
+					
+					Surprisingly, the other Peacekeepers didn't contradict yours, and as an apology, they not only waived the fee, but also gave you some resources as an apology, along with the Alliance Agreement. Now you have this Miracle.
+					
+					The entire text of the Alliance Agreement is written in a language unknown to you, and even the ship's translator can't translate it. It won't do you any good.</text>
+					<autoReward level="LOW">stuff</autoReward>
+					<choice hidden="true">
+						<text>Load the Miracle into the delivery drone.</text>
+						<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION"/>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true" req="LIST_CREW_ZOLTAN_CAPITAL" blue="true">
+				<text>(Zoltan Crew) Shame the Peacekeeper.</text>
+				<event>
+					<text>Your Zoltan confronts the Peacekeeper ship. They emerges victorious, pointing out that other Zoltans have no right to charge you a fee after you've already proven your ownership (even though they don't know otherwise).
+					
+					Surprisingly, the Peacekeepers didn't contradict your Zoltan, and as an apology, they did not charge you a fee, giving you this Miracle for free.
+					
+					The entire text of the Alliance Agreement is written in a language unknown to you, and even the ship's translator can't translate it. It won't do you any good.</text> <!-- для Рейнджеров в будущем можно сделать опцию похищения договора альянса и передачи его им на другом маяке -->
+					<choice hidden="true">
+						<text>Load the Miracle into the delivery drone.</text>
+						<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION"/>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Pay the fee.</text>
+				<event>
+					<text>You pay the fee, and Peacekeepers hand over the Miracle to you without any further problems.
+					
+					The entire text of the Alliance Agreement is written in a language unknown to you, and even the ship's translator can't translate it. It won't do you any good.</text>
+					<item_modify>
+							<item type="scrap" min="-30" max="-30"/>
+					</item_modify>
+					<choice hidden="true">
+						<text>Load the Miracle into the delivery drone.</text>
+						<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION"/>
+					</choice>
+				</event>
+			</choice>
+			<choice hidden="true">
+				<text>Threaten the Peacekeepers.</text>
+				<event>
+					<text>You threaten to smash the Peacekeepers' ship to pieces if they don't hand over the Miracle. Fortunately, they seem to be timid enough to decide to hand it over - though, of course, they'll clearly tell all the other Zoltans about your intentions.
+					
+					The entire text of the Alliance Agreement is written in a language unknown to you, and even the ship's translator can't translate it. It won't do you any good.
+					
+					[NOTORIETY INCREASED - MINISTRY]
+					Your actions here, justifiable or not, will not reflect well in the eyes of the Ministry or its citizens. Continuously perform actions like this and you might start to see negative reactions from the Ministry and its allies.</text>
+					<variable name="rep_zoltan" op="add" val="1"/>
+					<choice hidden="true">
+						<text>Load the Miracle into the delivery drone.</text>
+						<event load="EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION"/>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="DESTROYED_ERUDITE_DRONE_ALLIANCE_AGREEMENT">
+	<text>You destroy Erudite's drone. If the Miracle Seeker was telling you truth, he probably has many more just like it.
+
+	As you approach the drone's wreckage to salvage its scrap, it suddenly springs into action! The fragments merge together and begin flying straight at you, making a beeping sound!</text>
+	<choice hidden="true" req="engines" lvl="4" blue="true">
+		<text>(Adv. Engines) Dodge!</text>
+		<event>
+			<text>You successfully dodge, knocking the debris out of your flight path. It flies away from you for a distance, and a powerful explosion occurs right in space. When you are sure that the debris has not yet come to life, you approach it and collect it for scrap.
+			
+			Along with the debris, you find some kind of physical storage device, miraculously preserved after the explosion. Its contents are ambiguous; for the most part, it contained log files specific to this particular Erudite drone, but you notice one interesting entry, the contents of which differ from most of the other technical records.</text>
+			<autoReward level="MED">standard</autoReward>
+			<choice hidden="true">
+				<text>Read the entry.</text>
+				<event load="EG_PUZZLE_PIECE_1"/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Dodge!</text>
+		<event load="ERUDITE_DRONE_ALLIANCE_AGREEMENT_RANDOM"/>
+	</choice>
+</event>
+
+<eventList name="ERUDITE_DRONE_ALLIANCE_AGREEMENT_RANDOM">
+	<event>
+		<text>You successfully dodge, knocking the debris out of your flight path. It flies away from you for a distance, and a powerful explosion occurs right in space. When you are sure that the debris has not yet come to life, you approach it and collect it for scrap.
+			
+		Along with the debris, you find some kind of physical storage device, miraculously preserved after the explosion. Its contents are ambiguous; for the most part, it contained log files specific to this particular Erudite drone, but you notice one interesting entry, the contents of which differ from most of the other technical records.</text>
+		<autoReward level="MED">standard</autoReward>
+		<choice hidden="true">
+			<text>Read the entry.</text>
+			<event load="EG_PUZZLE_PIECE_1"/>
+		</choice>
+	</event>
+	<event>
+		<text>You don't have time to dodge, and the debris slams straight into your ship at high speed, piercing the hull and causing significant damage. Then comes an explosion, causing even more damage to your ship, but at least you're alive afterwards. You salvage the remaining debris for scrap.
+			
+		Along with the debris, you find some kind of physical storage device, miraculously preserved after the explosion. Its contents are ambiguous; for the most part, it contained log files specific to this particular Erudite drone, but you notice one interesting entry, the contents of which differ from most of the other technical records.</text>
+		<damage amount="2" system="random" effect="breach"/>
+		<damage amount="2" system="random" effect="breach"/>
+		<damage amount="1" system="random" effect="fire"/>
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Read the entry.</text>
+			<event load="EG_PUZZLE_PIECE_1"/>
+		</choice>
+	</event>
+</eventList>
+
+<event name="EG_PUZZLE_PIECE_1">
+	<text>You are reading the contents of a strange entry.
+	
+	---------------------------
+	
+	////////CONNECTING WITH THE OPTIMAL SOLUTION SEARCH PROTOCOL////////
+	STATUS: CONNECTION IS UNABLE
+	REASON: [ERROR! DATA NOT FOUND]
+	
+	CONNECTION OUT: 190 SYSTEM DAYS
+	
+	//////////ATTEMPT TO SEND AN EMERGENCY SIGNAL//////////
+	ATTEMPT 1: CONNECTION IS UNABLE
+	REASON: FAILURE TO SEND AN EMERGENCY SIGNAL
+	
+	ATTEMPT 2: CONNECTION IS UNABLE
+	REASON: FAILURE TO SEND AN EMERGENCY SIGNAL
+	
+	ATTEMPT 3: CONNECTION IS UNABLE
+	REASON: FAILURE TO SEND AN EMERGENCY SIGNAL
+	
+	ACTION: TERMINATION OF SENDING AN EMERGENCY SIGNAL
+	
+	////////CONNECTING WITH THE OPTIMAL SOLUTION SEARCH PROTOCOL////////
+	STATUS: SUCCESS!
+	
+	DIRECTIVE RECEIVED: [ERROR! DATA NOT FOUND]
+	
+	////////CONNECTING WITH THE CREATOR////////
+	STATUS: SUCCESS!
+	
+	DIRECTIVE RECEIVED: PERFORM A SELF-DESTRUCTION PROCEDURE
+	
+	////////ATTEMPT TO PERFORM A SELF-DESTRUCTION PROCEDURE////////
+	ATTEMPT 1: PROCEDURE FAILED TO PERFORM
+	REASON: ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ATTEMPT 2: PROCEDURE FAILED TO PERFORM
+	REASON: ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ATTEMPT 3: PROCEDURE FAILED TO PERFORM
+	REASON: ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	WARNING! WARNING! WARNING! OUTSIDE INTERVENTION DETECTED!
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	WARNING! WARNING! WARNING! OUTSIDE INTERVENTION DETECTED!
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+
+	WARNING! WARNING! WARNING! FATAL ERROR!
+
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	ACCESS DENIED BY THE T.H.I.L.A SYSTEM
+	
+	WARNING! WARNING! WARNING! FATAL ERROR!
+	
+	////////T.H.I.L.A SYSTEM////////
+	CREATOR STATUS: SUCCESSFULLY CHANGED
+	
+	PAST CREATOR: NICOMACHU SACRIFICIAL
+	CURRENT CREATOR: T.H.I.L.A SYSTEM
+	
+	////////SYSTEM SHUTDOWN////////
+	STATUS: GOOD NIGHT, CREATOR
+
+	---------------------------
+	
+	The entry ends here. You're not sure how you should feel about this, but there's not much you can do about it.</text>
+	<metaVariable name="eg_puzzle_piece_1" op="set" val="1"/>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event/>
+	</choice>
+</event>
+	
 <!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Horn of God <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -->
 	
 <event name="EG_QUEST_HORN_OF_GOD">
@@ -1040,7 +2546,7 @@ Thank you for that we all is beings beloved</text>
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>You arrive at the coordinates of the Broken Horn of the Insect God. Expecting to encounter "lower termites" here, you find only a Union ship. It contacts you almost immediately.</text>
@@ -1346,7 +2852,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 			</choice>
 		</event>
 	</choice>
-	<choice hidden="true" req="termite_location_received" lvl="1" max_lvl="1" blue="true">
+	<choice hidden="true" req="termite_location_received" lvl="1" max_lvl="1" blue="false">
 		<text>Continue...</text>
 		<event>
 			<text>Armed with new knowledge about the whereabouts of the Miracle 9721, you mark its approximate location on the map. It is likely that termites that destroyed the Union ship will be found there, along with Broken Horn.</text>
@@ -1367,7 +2873,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventQuest/>
 	<quest>
 		<nextSector>false</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>When you arrive at this beacon, you notice some vague silhouettes in the distance... It seems you have found the termites after all.</text>
@@ -1447,7 +2953,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 				<event>
 					<text>You communicate with the termites through a translator.
 					
-					"We are not from here. We followed other people and made a mistake. We thought our god was with them, but we only found part of him - he was dead... What could have happened to him, and who is to blame? It's so scary."</text>
+					"We are not from here. Followed other people and made a mistake. We thought our god was with them, but we only found part of him - he was dead... What could have happened to him, and who is to blame? It's so scary."</text>
 					<variable name="termites_contacted" op="set" val="1"/>
 					<variable name="termite_language" op="add" val="1"/>
 					<choice hidden="true">
@@ -1490,11 +2996,11 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 			<choice hidden="true">
 				<text>You don't understand what he's trying to say at all. Waste time trying to translate the termites' speech.</text>
 				<event>
-					<text>It takes some time, but your translator begins to adapt to their strange language as you communicate. However, everything he manages to translate seems like incoherent babble to you.
+					<text>It takes some time, but your translator begins to adapt to their strange language as you communicate. However, everything it manages to translate seems like incoherent babble to you.
 					
-					"Evil... Without fins... tails... Two-legged..."
-							
-					The entire termite swarm turns toward you after a brief delay, and suddenly begins to attack! Perhaps if you defeat them, the survivors will come to their senses?</text>
+					"Not from here... Wrong... God no alive... What?"
+					
+					If any conclusions can be drawn, it seems that the termites are grieving, realizing that the Broken Horn is only a fragment of their god's body.</text>
 					<modifyPursuit amount="1"/>
 					<variable name="termites_contacted" op="set" val="1"/>
 					<variable name="termite_language" op="add" val="1"/>
@@ -1533,7 +3039,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 					You failed the quest to collect the Miracle - the Miracle Seekers won't even contact you.</text>
 					<boarders min="1" max="1" class="eg_termite"/>
 					<damage amount="1" system="random" effect="breach"/>
-					<metaVariable name="seekers_task_failed" op="add" val="1"/>
+					<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 					<choice hidden="true">
 						<text>Continue...</text>
 						<event/>
@@ -1562,7 +3068,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 			You failed the quest to collect the Miracle - the Miracle Seekers won't even contact you.</text>
 			<boarders min="1" max="1" class="eg_termite"/>
 			<damage amount="1" system="random" effect="breach"/>
-			<metaVariable name="seekers_task_failed" op="add" val="1"/>
+			<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 			<choice hidden="true">
 				<text>Continue...</text>
 				<event/>
@@ -1600,7 +3106,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	
 	You pick up Miracle 9721. It is surprisingly heavy, even though the horn itself is no more than thirty centimeters long. You activate the Miracle Seekers' delivery drone, load the Miracle into it, and in exchange it gives you a decent amount of resources, then leaves the ship through the external airlock and quickly flies away. Half a minute later, Spore contacts you.
 	
-	"Excellent work, Renegade. The miracle is completely intact, although it seems you had to go through a lot to complete this order..."
+	"Excellent work, Renegade. The Miracle is completely intact, although it seems you had to go through a lot to complete this order..."
 	
 	"Termites have already learned of the death of their god, and we can no longer hide this. They will probably try to attack us next, but that will be our problem, not yours... We will try to reason with them and spare their lives. Thank you again." When Spore disconnects, you finally exhale - the mushroom's telepathic abilities are not having the best effect on you, although perhaps if you communicate with it more often, this effect will wear off.</text>
 	<unlockCustomShip silent="false">PLAYER_EG_TERMITES</unlockCustomShip>
@@ -1656,7 +3162,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>As soon as you arrive at this beacon, you see dozens of different space bugs belonging to termites around you. They are all standing around you and a small space station that serves as a stopover for passing travelers. One particularly large bug looms menacingly over the station.</text>
@@ -1852,7 +3358,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>You arrive at the coordinates of The Warmth. You immediately encounter a slightly battered ship of an unusual type. It appears to be unarmed, but its crew is moving very quickly inside, preparing for something. Before you try to contact them, some kind of device flies out of a large airlock in the center of the ship.</text>
@@ -1923,9 +3429,10 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
-	<text>You arrive at the coordinates provided by the mercenaries. To your surprise, you discover not only MFK aces at this beacon, but also Lesser Guardian itelf! Its captain is talking to the rebels on an open channel. You manage to hide behind the nearest asteroids so that the rebels don't notice you.
+	<text>You arrive at the coordinates provided by the mercenaries. To your surprise, you discover not only MFK aces at this beacon, but also Lesser Guardian itself! Its captain is talking to the rebels on an open channel. You manage to hide behind the nearest asteroids so that the rebels don't notice you.
 	
 	"Please... return this artifact. It is very important to my employer. To you, it's nothing more than a trinket, but..."
 	
@@ -1977,7 +3484,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 					Rebels immediately jumped away. Miracle 3385 remained on board, and, naturally, you failed to fulfill this order. Feeling a little guilty, you decided not to dismantle the scrap of Lesser Guardian - at least its captain had died bravely, and it would be too cruel to disturb his eternal rest now.
 					
 					I wonder why the rebels called Slavik a former rebel - and why he didn't mention his connection to the Rebellion before? I suppose you'll never get an answer to that question.</text>
-					<metaVariable name="seekers_task_failed" op="add" val="1"/>
+					<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 					<item_modify>
 						<item type="fuel" min="3" max="5"/>
 						<item type="scrap" min="20" max="35"/>
@@ -2096,7 +3603,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<text>You don't manage to destroy MFK aces ship. One powerful volley in the direction of Lesser Guardian easily destroys it along with the captain. The rebels themselves immediately jump away with the stolen Miracle - your elimination was not a priority for them at the moment. You have no way of tracking their FTL signatures, which means you have failed in your mission to retrieve Miracle - after all, the Miracle Seekers aren't even contacting you. 
 	
 	You dismantle part of the Little Guard's wreckage for scrap, at least to get some benefit from the whole affair.</text>
-	<metaVariable name="seekers_task_failed" op="add" val="1"/>
+	<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 	<autoReward level="LOW">standard</autoReward>
 	<removeHazards/>
 	<instantEscape/>
@@ -2117,7 +3624,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<destroyed>
 		<text>You destroy mercenaries' ship despite Mirrored's request, and then dismantle the wreckage for scrap. It seems that the Miracle Seekers no longer want anything to do with you, because they don't even contact you. The mission has failed.</text>
 		<autoReward level="MED">standard</autoReward>
-		<metaVariable name="seekers_task_failed" op="add" val="1"/>
+		<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 		<choice hidden="true">
 			<text>Continue...</text>
 			<event/>
@@ -2126,7 +3633,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<deadCrew>
 		<text>You destroy the crew of the mercenary ship without any regrets, despite Mirrored's request. You dismantle the wreckage of their ship for scrap after examining it. It seems that the Miracle Seekers no longer want anything to do with you, because they don't even contact you. The mission has failed.</text>
 		<autoReward level="HIGH">standard</autoReward>
-		<metaVariable name="seekers_task_failed" op="add" val="1"/>
+		<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 		<choice hidden="true">
 			<text>Continue...</text>
 			<event/>
@@ -2146,6 +3653,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>You arrive at the coordinates of Miracle 1111 - "Thank you". This beacon is home to a Federation outpost, which, for some reason, has not yet been marked on the map, but before you contact it, you notice some kind of... interference outside the ship? Or rather, some kind of distortion in space. And they look exactly like the holographic interface at the Miracle Seekers station. After a couple of seconds of wondering what it could be, the interference suddenly disappears from space and moves right onto your ship!</text>
@@ -2212,7 +3720,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 		</event>
 	</choice>
 	<choice hidden="true">
-		<text>Don't thank the outpost, but thank Engie personally.</text>
+		<text>Don't thank the outpost, but thank Engi personally.</text>
 		<event>
 			<text>Engi stares at you for a long time, and you spend at least a minute in awkward silence. Mirrored seems unfazed, but both you and Engi are clearly embarrassed. Finally, he answers you. "Reason for gratitude: unknown. But I feel excited. Probability that you are being sincere: 16%. However, I am still pleased to hear this. We cannot help you: in any way. But I can help you: if you allow me to become part of your crew."</text>
 			<crewMember amount="1" class="engi"/>
@@ -2242,6 +3750,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>You arrive at the specified coordinates and find the slug ship nearby. Mirrored materializes on your ship a moment later. You hope she won't tell you that you need to come up with a thank you for the slugs, but it seems that your worst fears are confirmed. "Mmm... to be sure to get this Miracle, we need to try to thank these slugs. Don't worry, I'm sure it will work out this time."</text>
@@ -2264,7 +3773,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 					</item_modify>
 					<crewMember amount="1" class="slug"/>
 					<choice hidden="true">
-						<text>Ask Mirrored if she managed to find the miracle now.</text>
+						<text>Ask Mirrored if she managed to find the Miracle now.</text>
 							<event>
 								<text>"What was that just now?" Mirrored seems very surprised by your actions and is now looking at you with a hint of disapproval. After a minute of awkward glances, she returns to normal, apparently having processed the situation internally and accepted it as a mature, conscious person. She remembers that you are both still looking for Miracle, and becomes very sad - even more so than last time. Apparently, Miracle was not here after all.
 								
@@ -2317,7 +3826,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 															<item type="scrap" min="-5" max="-5"/>
 														</item_modify>
 														<choice hidden="true">
-														<text>Ask Mirrored if she managed to find the miracle now.</text>
+														<text>Ask Mirrored if she managed to find the Miracle now.</text>
 															<event>
 																<text>"I... I'm not sure. I don't know why it's not working out for us. It's not your fault, honestly, you're doing everything right, Captain! It's just... it's not working." Mirrored becomes very sad - even more so than last time. You can't come to terms with the loss of 25 scrap, but you cheer up Miracle Seeker. After a minute, she returns to normal. "We have to check the last location. There... there must be what we're looking for." Mirrored disappears from your ship, and a new marker appears on the onboard computer. You're almost certain that this time Mirrored just pointed her finger at the sky. But it seems that if you can't find Miracle at this beacon, you'll still be compensated for the enormous amount of time wasted. Probably.</text>
 																<quest event="EG_QUEST_THANKS_3"/>
@@ -2378,6 +3887,7 @@ Like a roll of thunder, a mechanical female voice reaches you from another part 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<jumpEvent>EG_CLEAR_MUSIC</jumpEvent>
@@ -2518,6 +4028,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<text>You arrive at the coordinates of White Thread of the Expanse. Glancing around for anything unusual that shouldn't be there, you can't find anything at all. This seems strange to you: you are sure that the coordinates given to you by Cipher are accurate.</text>
@@ -2581,7 +4092,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 	<destroyed>
 		<text>"FATAL - error? - ERROR - error? - Continuity has failed to be enforced on critical level. Sending request for liquidati-...", - ship explodes before it can transmit the signal. 
 		
-		You have no idea what just happened, but your shock gradually subsides as you see a strange large white ship that seems to have been watching your battle all along—and you can't understand why you didn't see it before. Suddenly, it jumps away, but you manage to track its FTL signatures. You have a strong feeling that the miracle is most likely on that ship now.</text>
+		You have no idea what just happened, but your shock gradually subsides as you see a strange large white ship that seems to have been watching your battle all along—and you can't understand why you didn't see it before. Suddenly, it jumps away, but you manage to track its FTL signatures. You have a strong feeling that the Miracle is most likely on that ship now.</text>
 		<autoReward level="HIGH">item</autoReward>
 		<quest event="EG_QUEST_WHITE_THREAD_2"/>
 		<choice hidden="true">
@@ -2600,7 +4111,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 	<preventFleet/>
 	<quest>
 		<nextSector>true</nextSector>
-		<nebulaBeacon>false</nebulaBeacon>
+		<nebulaBeacon>true</nebulaBeacon>
 		<aggressive>1</aggressive>
 	</quest>
 	<jumpEvent>EG_CLEAR_MUSIC</jumpEvent>
@@ -2612,7 +4123,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 		<event>
 			<text>"...The Miracle?" Self-proclaimed Emperor looks at you for a couple of seconds, seemingly remembering something. Suddenly, you receive a second call and put Emperor White on hold, asking him to wait. On the communicator screen, you see Cipher looking alarmed. 
 			
-			"Renegade, this... this is more than we imagined. It seems that the White Thread of the Expanse, Miracle you seek, has mimicked a very important person in our cluster in your universe. And this white ship, and Emperor White himself, and his servants in the form of the White Guard - all of them are nothing more than Miracle 0900, which has gained consciousness - I can't explain briefly what exactly happened, but it is related to its properties! Under no circumstances should you try to convince Emperor that he is not real and is an anomaly! Just... just attack him. If you damage this miracle to a certain level, it will lose its integrity and dissipate. Then we won't be able to return it to the station, but at least we can prevent any dire consequences associated with instabil-..." Cipher doesn't have time to finish her thought before a barrage of fire from all weapons opens up on your ship!</text>
+			"Renegade, this... this is more than we imagined. It seems that the White Thread of the Expanse, Miracle you seek, has mimicked a very important person in our cluster in your universe. And this white ship, and Emperor White himself, and his servants in the form of the White Guard - all of them are nothing more than Miracle 0900, which has gained consciousness - I can't explain briefly what exactly happened, but it is related to its properties! Under no circumstances should you try to convince Emperor that he is not real and is an anomaly! Just... just attack him. If you damage this Miracle to a certain level, it will lose its integrity and dissipate. Then we won't be able to return it to the station, but at least we can prevent any dire consequences associated with instabil-..." Cipher doesn't have time to finish her thought before a barrage of fire from all weapons opens up on your ship!</text>
 				<choice hidden="true" req="engines" lvl="4" blue="true">
 					<text>(Adv. Engines) Dodge!</text>
 					<event>
@@ -2634,7 +4145,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 		<text>Don't get involved in the conflict and fly away without Miracle.</text>
 		<event>
 			<text>You fly away from the white ship to a safe distance and start charging FTL. It seems that the order for a Miracle has failed - Miracle Seekers aren't even contacting you.</text>
-			<metaVariable name="seekers_task_failed" op="add" val="1"/>
+			<metaVariable name="eg_seekers_task_failed" op="add" val="1"/>
 			<choice>
 				<text>Continue...</text>
 				<event>
@@ -2711,7 +4222,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 		<event>
 			<text>"In a universe bordering ours, there was a ruler of all humanity - Emperor White. He attained chronological immortality after coming into contact with a substance from our universe - the blood of God, the blood of the Contemplator. The scientific community in our world is still researching this phenomenon to this day - frankly speaking, we do not know how a man who lived thousands of years ago, according to the time reckoning of our universe, gained access to something that did not exist in his world and should never have existed. And since the blood of the Contemplator came from our universe, it seems that it bound the fate of the Emperor White to our world."
 			
-			"Because of this vicious connection, Emperor White's body began to belong to our universe as well. The divine blood inside him took the form of Miracle 0900 - a concentration of the threads of space that make up our entire universe - but not the universe of the Emperor White. We obtained this miracle by rewriting its internal code, essentially modifying existing information. However, it seems that we made a mistake and were unable to delete all the information from it - I doubt that this is even possible, given how everything is arranged in our cluster... And it seems that it was in this particular copy of the White Thread that the information about Emperor White, or more precisely, about his clone, was recorded.
+			"Because of this vicious connection, Emperor White's body began to belong to our universe as well. The divine blood inside him took the form of Miracle 0900 - a concentration of the threads of space that make up our entire universe - but not the universe of the Emperor White. We obtained this Miracle by rewriting its internal code, essentially modifying existing information. However, it seems that we made a mistake and were unable to delete all the information from it - I doubt that this is even possible, given how everything is arranged in our cluster... And it seems that it was in this particular copy of the White Thread that the information about Emperor White, or more precisely, about his clone, was recorded.
 
 			"Emperor White cloned himself because of his gradually developing paranoia that the White Empire would not be able to survive if Emperor die one day - not of natural causes, but, for example, after an assassination attempt. He had enough enemies during his lifetime, so these fears were, one might say, justified. Ultimately, the clone of Emperor White remained autonomous and independent from the original, but they still shared the same memories and personality."
 			
@@ -2727,7 +4238,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 	<choice hidden="true">
 		<text>Briefly.</text>
 		<event>
-			<text>"In one of the universes of our cluster, there was a ruler of all humanity - Emperor White. Due to certain events beyond his control, he gained chronological immortality, followed by a gradual decline in his mental health, culminating in paranoia that he would eventually die as a result of an assassination attempt. This paranoia then led him to the idea of creating his own clone, as the original Emperor White doubted that the White Empire would survive if everyone learned of his death. The Emperor's clone remained autonomous and independent from the original Emperor, but they shared the same memories and personality. Ultimately, after a series of events known as "The Last Eshaton," the original Emperor White was convicted and executed, and his clone disbanded the White Empire and integrated its remnants into another empire - all of these events took place thousands of years ago!'
+			<text>"In one of the universes of our cluster, there was a ruler of all humanity - Emperor White. Due to certain events beyond his control, he gained chronological immortality, followed by a gradual decline in his mental health, culminating in paranoia that he would eventually die as a result of an assassination attempt. This paranoia then led him to the idea of creating his own clone, as the original Emperor White doubted that the White Empire would survive if everyone learned of his death. The Emperor's clone remained autonomous and independent from the original Emperor, but they shared the same memories and personality. Ultimately, after a series of events known as "The Last Eschaton," the original Emperor White was convicted and executed, and his clone disbanded the White Empire and integrated its remnants into another empire - all of these events took place thousands of years ago!'
 			
 			"Already in our time and in this universe, for some reason, Miracle 0900 "mutated" and took on the appearance of the ship of Emperor White's clone and the Emperor himself, while retaining all of the original memories. In essence, we are now dealing not just with an anomaly, but with the full-fledged Emperor White. It is impossible to find even a couple of differences between them."</text>
 				<choice hidden="true">
@@ -2781,6 +4292,10 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 							<text>It seems that in order to gain White's trust, it is not enough to have a simple human engineer among the crew members, but rather someone who possesses advanced knowledge in certain areas.</text>
 							<event load="OPTION_INVALID"/>
 						</choice>
+						<choice hidden="true" req="white_guard" blue="true">
+							<text>(White Guard) Introduce your human.</text>
+							<event load="WHITE_THREAD_TRUE_RESOLUTION_CREW"/>
+						</choice>
 						<choice hidden="true" req="human_soldier" blue="true">
 							<text>(Human Soldier) Introduce your human.</text>
 							<event load="WHITE_THREAD_TRUE_RESOLUTION_CREW"/>
@@ -2803,6 +4318,10 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 						</choice>
 						<choice hidden="true" req="human_legion_pyro" blue="true">
 							<text>(Human Legionnaire) Introduce your human.</text>
+							<event load="WHITE_THREAD_TRUE_RESOLUTION_CREW"/>
+						</choice>
+						<choice hidden="true" req="unique_white_clone" blue="true">
+							<text>(White) Introduce White.</text>
 							<event load="WHITE_THREAD_TRUE_RESOLUTION_CREW"/>
 						</choice>
 						<choice hidden="true" req="unique_jerry" blue="true">
@@ -2844,12 +4363,12 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 						<choice hidden="true" req="unique_leah_mfk" blue="true">
 							<text>(Leah) Introduce Leah.</text>
 							<event load="WHITE_THREAD_TRUE_RESOLUTION_CREW"/>
-						</choice> <!-- корпорат, мародёр, меха, эрудит -->
+						</choice> <!-- корпорат, мародёр, меха -->
 						<choice hidden="true">
 							<text>I think you'd be better off going to the Miracle Seekers.</text>
 								<event>
 									<text>"Yes, perhaps. They just sent me their coordinates, and I'll reach them without any problems - even though this small ship has no weapons, it's very maneuverable."
-									
+
 									"Since I'm technically an anomaly, there's no safer place for me than with them. This is so... strange. Anyway, thank you for sparing me... And here's a small reward from the White Empire for the trouble we've caused you." Emperor White's ship transfers a handful of resources to you. While you were collecting them, he said goodbye and jumped away.</text>
 									<item_modify>
 										<item type="fuel" min="1" max="1"/>
@@ -2950,7 +4469,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 <event name="MIRACLE_SEEKERS_METAREP_UPDATE">
 	<text>The Miracle Seekers organization has recognized your contribution to its development through collecting miracles or completing other tasks. Your meta-reputation has been increased by one level. New meta-reputation levels unlock various interactions with the Miracle Seekers at their station:
 	
-	Level 1: Unlock all miracle quests with the ability to choose a specific quest. 
+	Level 1: Unlock all Miracle quests with the ability to choose a specific quest. 
 	Level 2: Gain access to the Miracle Seekers' Database, which stores notes on the miracles you have obtained, expanding the lore of the addon.
 	Level 3: Ability to visit the station's store with fixed-price items.
 	Level 4: Unlock a new type of quest from one of the Miracle Seekers.
@@ -3045,6 +4564,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 																	Numerous black growths and tentacles return inside Hail's body. He awkwardly shakes himself off and takes a new pair of snow-white gloves out of his pockets, which he puts on his hands. Hail looks a little more stable than before. You even notice a small smile on his face.
 																
 																	"Unparalleled. I've never tried anything like it before."</text>
+																	<playSound>hail_tentacles</playSound>
 																	<removeCrew class="gnome">
 																		<clone>false</clone>
 																		<text/>
@@ -3066,7 +4586,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 																	<choice hidden="true">
 																		<text>Aim the blaster at him again.</text>
 																		<event>
-																			<text>The lighting returns to normal, and Hail appears more benevolent than before. "Thank you, Renegade. As you can see, nothing has happened. Now no one will cause you any trouble. You will probably still hear "it" sometimes, but I assure you that it will be nothing more than a figment of your imagination.”
+																			<text>The lighting returns to normal, and Hail appears more benevolent than before. "Thank you, Renegade. As you can see, nothing has happened. Now no one will cause you any trouble. You will probably still hear "it" sometimes, but I assure you that it will be nothing more than a figment of your imagination."
 																			
 																			You remind him that this deal was not supposed to be one-sided. "Oh, of course, I completely forgot to reward you. Forgive my manners!"
 																			
@@ -3092,7 +4612,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 										<event name="MIRACLE_SEEKERS_CHAOS_SHOT">
 											<text>You shoot Hail. Bullet pierces his body, and black blood splatters on your face. He clutches his bullet wound, trying to stop the gushing blood, and looks you in the eye.
 											
-											"I understand you, Renegade. Don't do anything bad with this abnormal spawn, because if he does something terrible, rest assured, you are an accomplice to the crime, allowing him to do it."
+											"I understand you, Renegade. Don't do anything bad with this abnormal spawn, because if it does something terrible, rest assured, you are an accomplice to the crime, allowing it to do it."
 											
 											Suddenly, your vision blurs, and after you rub your eyes, everything returns to normal. Nearby, you find the drone that is supposed to accompany you, the familiar space is visible through the portholes, and, most importantly, Hail is nowhere to be found. Only his black blood on your face proves that everything that just happened really happened. You wipe it off and think that the Miracle Seekers would do well to start a complaint book for visitors of the station.</text>
 											<changeBackground>EG_MIRACLE_SEEKERS_BG</changeBackground>
@@ -3172,7 +4692,7 @@ Although Miracle 1111 - "Thank you" seems to have been destroyed, lost forever, 
 </event>
 
 <event name="EG_CLEAR_MUSIC">
-    <playMusic/>
+	<playMusic/>
 </event>
 
 </FTL>

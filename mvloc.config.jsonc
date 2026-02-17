@@ -104,10 +104,10 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/Eschaton-Genesis/raw/Eschaton-Genesis-english/Eschaton_Genesis_0.3.3.zip",
+            "https://github.com/ftl-mv-translation/Eschaton-Genesis/raw/Eschaton-Genesis-english/Eschaton_Genesis_1.0.1.zip",
 
         ],
         "prefix": "Eschaton-Genesis",
-        "version": "0.3.3"
+        "version": "1.0.1"
     }
 }

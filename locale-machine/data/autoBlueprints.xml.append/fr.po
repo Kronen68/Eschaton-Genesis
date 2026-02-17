@@ -7,55 +7,60 @@ msgstr ""
 
 #: src-en/data/autoBlueprints.xml.append:4
 msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_NEOSTAR\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:39
+msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ERUDITE_DRONE\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:25
+#: src-en/data/autoBlueprints.xml.append:60
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_TERMITES\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:55
+#: src-en/data/autoBlueprints.xml.append:90
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_LESSER_GUARDIAN\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:84
+#: src-en/data/autoBlueprints.xml.append:119
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GOLIATH\"]/class"
 msgstr "Vaisseau Anormal : Goliath I"
 
-#: src-en/data/autoBlueprints.xml.append:111
+#: src-en/data/autoBlueprints.xml.append:146
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_MIRACLE_SEEKERS\"]/class"
 msgstr "Station des Chercheurs de Miracles"
 
-#: src-en/data/autoBlueprints.xml.append:153
+#: src-en/data/autoBlueprints.xml.append:188
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_DREAMSEEKER\"]/class"
 msgstr "Église de la Rêveuse : Chercheur de Rêves"
 
-#: src-en/data/autoBlueprints.xml.append:183
+#: src-en/data/autoBlueprints.xml.append:218
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ROBUR\"]/class"
 msgstr "Robur le Fou"
 
-#: src-en/data/autoBlueprints.xml.append:216
+#: src-en/data/autoBlueprints.xml.append:252
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_REAPER\"]/class"
 msgstr "Faucheur d'Orge-Empoisonneur"
 
-#: src-en/data/autoBlueprints.xml.append:250
+#: src-en/data/autoBlueprints.xml.append:286
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GEM_1\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:282
+#: src-en/data/autoBlueprints.xml.append:318
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GEM_2\"]/class"
 msgstr ""
 
-#: src-en/data/autoBlueprints.xml.append:314
+#: src-en/data/autoBlueprints.xml.append:350
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GEM_3\"]/class"
 msgstr ""

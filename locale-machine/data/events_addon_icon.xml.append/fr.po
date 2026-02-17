@@ -12,3 +12,14 @@ msgstr ""
 #: src-en/data/events_addon_icon.xml.append:7
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_EG\"]/text"
 msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:23
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_UT_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:25
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_UT_DISABLED\"]/text"
+msgstr ""

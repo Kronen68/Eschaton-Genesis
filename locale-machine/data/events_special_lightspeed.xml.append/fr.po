@@ -9,35 +9,24 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice/text"
-msgstr "Get more cargo delivery tasks."
+msgstr ""
 
 #: src-en/data/events_special_lightspeed.xml.append:16
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"EG_NEOSTAR_VARIABLE_ADD\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_lightspeed.xml.append:22
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[1]"
 msgstr ""
-"You contact your employers. A corpulent, three-eyed amphibian appears on the"
-" vidscreen, presumably some supervisor whose name you don't know. \"Hmm... "
-"Our representative office in your Universe is nothing but trouble. Oh well, "
-"here are a couple more delivery requests.\""
 
 #: src-en/data/events_special_lightspeed.xml.append:23
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[2]"
 msgstr ""
-"You contact your employers. Your supervisor for the Neostar Megacorp "
-"expansion project in this cluster of universes appears on the vidscreen. "
-"\"Need new delivery requests? Fine, I'll send them to you and let Uriel the "
-"Tailed know he'll have some extra work.\""
 
 #: src-en/data/events_special_lightspeed.xml.append:24
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[3]"
 msgstr ""
-"You contact your employers. To your surprise, Uriel the Tailed appears on "
-"the vidscreen. \"Oh, you need more delivery requests? Okay... I've got them "
-"for you. See you soon!\""

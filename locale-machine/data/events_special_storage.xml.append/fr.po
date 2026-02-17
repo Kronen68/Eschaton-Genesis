@@ -28,16 +28,14 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/text"
 msgstr ""
-"(Viande d'insecte) Trouvez un endroit où elle peut être vendue. [La flotte "
-"approchera d'un saut]"
 
-#: src-en/data/events_special_storage.xml.append:33
+#: src-en/data/events_special_storage.xml.append:34
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:40
+#: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[1]"
 msgstr ""
@@ -46,7 +44,7 @@ msgstr ""
 "heureux d'accepter n'importe quelle viande – même si elle est d'origine "
 "étrange."
 
-#: src-en/data/events_special_storage.xml.append:41
+#: src-en/data/events_special_storage.xml.append:42
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[2]"
 msgstr ""
@@ -54,84 +52,84 @@ msgstr ""
 "d'achat de viande d'insecte exotique. Il faut beaucoup de temps pour les "
 "persuader, mais son caractère unique finit par les tenter."
 
-#: src-en/data/events_special_storage.xml.append:42
+#: src-en/data/events_special_storage.xml.append:43
 msgid ""
 "data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[3]"
 msgstr ""
-"Un étrange auto-vaisseau portant le numéro \" 8 \" sur sa coque s'approche "
-"de vous. Il vous contacte. \" Le L.A.C. décrète : de la contrebande a été "
+"Un étrange auto-vaisseau portant le numéro « 8 » sur sa coque s'approche de "
+"vous. Il vous contacte. « Le L.A.C. décrète : de la contrebande a été "
 "trouvée à bord de votre vaisseau. Nous vous demandons de nous la remettre en"
 " échange d'une récompense. Dans le cas contraire, nous serons contraints de "
-"vous détruire. \" Vous acceptez les conditions de l'auto-vaisseau et lui "
+"vous détruire. » Vous acceptez les conditions de l'auto-vaisseau et lui "
 "remettez la viande, et il vous donne des ressources en retour."
 
-#: src-en/data/events_special_storage.xml.append:47
+#: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[1]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 2."
 
-#: src-en/data/events_special_storage.xml.append:51
+#: src-en/data/events_special_storage.xml.append:52
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[2]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 3."
 
-#: src-en/data/events_special_storage.xml.append:55
+#: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[3]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 4."
 
-#: src-en/data/events_special_storage.xml.append:59
+#: src-en/data/events_special_storage.xml.append:60
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[4]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 5."
 
-#: src-en/data/events_special_storage.xml.append:63
+#: src-en/data/events_special_storage.xml.append:64
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[5]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 6."
 
-#: src-en/data/events_special_storage.xml.append:67
+#: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[6]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 7."
 
-#: src-en/data/events_special_storage.xml.append:71
+#: src-en/data/events_special_storage.xml.append:72
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[7]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 8."
 
-#: src-en/data/events_special_storage.xml.append:75
+#: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[8]/text"
 msgstr "Améliorer le blindage impénétrable au niveau 9."
 
-#: src-en/data/events_special_storage.xml.append:79
+#: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
 "append:choice[9]/text"
 msgstr "Améliorer le blindage impénétrable à son niveau final 10."
 
-#: src-en/data/events_special_storage.xml.append:89
+#: src-en/data/events_special_storage.xml.append:90
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice/text"
 msgstr "Salle des Rêves : Offrir une prière à la Rêveuse"
 
-#: src-en/data/events_special_storage.xml.append:96
+#: src-en/data/events_special_storage.xml.append:97
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice/text"
 msgstr "Culte des Rêves : Offrir un sacrifice à la Rêveuse"
 
-#: src-en/data/events_special_storage.xml.append:102
+#: src-en/data/events_special_storage.xml.append:103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/text"
 msgstr ""
@@ -141,36 +139,34 @@ msgstr ""
 "ordinaires seront sacrifiés en premier. Vous recevrez une récompense élevée "
 "garantie pour ce sacrifice."
 
-#: src-en/data/events_special_storage.xml.append:104
+#: src-en/data/events_special_storage.xml.append:105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[1]/text"
 msgstr "Oui, effectuer un rite sacrificiel."
 
-#: src-en/data/events_special_storage.xml.append:108
+#: src-en/data/events_special_storage.xml.append:109
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:113
+#: src-en/data/events_special_storage.xml.append:114
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/text"
 msgstr ""
 "Par tirage au sort, vos membres d'équipage sacrifient l'un des leurs et "
 "déposent son corps sur un piédestal au centre de la Salle des Rêves..."
 
-#: src-en/data/events_special_storage.xml.append:116
+#: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/removeCrew/text"
 msgstr ""
-"Les données de la salle des clones concernant votre membre d'équipage ont "
-"été irrémédiablement supprimées. Il est impossible de le ramener à la vie."
 
-#: src-en/data/events_special_storage.xml.append:119
+#: src-en/data/events_special_storage.xml.append:120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:124
+#: src-en/data/events_special_storage.xml.append:125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/text"
 msgstr ""
@@ -180,12 +176,12 @@ msgstr ""
 "accepté ce terrible sacrifice et vous ait récompensé en conséquence. Mais "
 "est-ce vraiment ce qu'elle voulait ?"
 
-#: src-en/data/events_special_storage.xml.append:132
+#: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:147
+#: src-en/data/events_special_storage.xml.append:148
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE\"]/text"
 msgstr ""
@@ -193,7 +189,7 @@ msgstr ""
 "puissant rayon bleu percer la coque de l'ennemi, infligeant 2 dégâts et "
 "créant des brèches !"
 
-#: src-en/data/events_special_storage.xml.append:153
+#: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE_FIRE\"]/text"
 msgstr ""
@@ -201,7 +197,7 @@ msgstr ""
 "puissant rayon bleu percer la coque de l'ennemi, allumant un feu dans les "
 "salles des systèmes !"
 
-#: src-en/data/events_special_storage.xml.append:159
+#: src-en/data/events_special_storage.xml.append:160
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_SYSTEM_DAMAGE\"]/text"
 msgstr ""
@@ -209,28 +205,28 @@ msgstr ""
 "systèmes ennemis soudainement commencer à mal fonctionner et être mis hors "
 "service !"
 
-#: src-en/data/events_special_storage.xml.append:164
+#: src-en/data/events_special_storage.xml.append:165
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_3\"]/text"
 msgstr ""
 "Vos appels à la Rêveuse ont été couronnés de succès. La coque de votre "
 "vaisseau est réparée de 3 !"
 
-#: src-en/data/events_special_storage.xml.append:168
+#: src-en/data/events_special_storage.xml.append:169
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_5\"]/text"
 msgstr ""
 "Vos appels à la Rêveuse ont été couronnés de succès. La coque de votre "
 "vaisseau est réparée de 5 !"
 
-#: src-en/data/events_special_storage.xml.append:172
+#: src-en/data/events_special_storage.xml.append:173
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_NOTHING\"]/text"
 msgstr ""
 "Le Rêve Tout-Désiré semble avoir ignoré vos suppliques, ou peut-être ne "
 "l'ont-elles simplement pas atteinte. Vous continuez le combat."
 
-#: src-en/data/events_special_storage.xml.append:175
+#: src-en/data/events_special_storage.xml.append:176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"PRAYING_FOR_DREAMS_CULT\"]/text"
 msgstr ""
@@ -241,31 +237,31 @@ msgstr ""
 "lueur bleue disparaît, et vous ressentez une certaine lourdeur dans votre "
 "âme, qui s'estompe rapidement."
 
-#: src-en/data/events_special_storage.xml.append:184
+#: src-en/data/events_special_storage.xml.append:185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/text"
 msgstr ""
 "Vous offrez une prière à la Rêveuse... Que vous accordera-t-elle cette fois-"
 "ci ?"
 
-#: src-en/data/events_special_storage.xml.append:186
+#: src-en/data/events_special_storage.xml.append:187
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:191
+#: src-en/data/events_special_storage.xml.append:192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/text"
 msgstr ""
 "Les lumières de la Salle des Rêves s'éteignent soudainement, puis se "
 "rallument, et vous trouvez une petite quantité de ferraille."
 
-#: src-en/data/events_special_storage.xml.append:196
+#: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:201
+#: src-en/data/events_special_storage.xml.append:202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/text"
 msgstr ""
@@ -273,12 +269,12 @@ msgstr ""
 "rallument, et vous trouvez une petite quantité de missiles et de pièces de "
 "drones."
 
-#: src-en/data/events_special_storage.xml.append:207
+#: src-en/data/events_special_storage.xml.append:208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:212
+#: src-en/data/events_special_storage.xml.append:213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/text"
 msgstr ""
@@ -286,12 +282,12 @@ msgstr ""
 "rallument, et vous trouvez une petite quantité de piles à combustible au "
 "centre de la pièce."
 
-#: src-en/data/events_special_storage.xml.append:217
+#: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:222
+#: src-en/data/events_special_storage.xml.append:223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/text"
 msgstr ""
@@ -299,12 +295,12 @@ msgstr ""
 "rallument, et vous trouvez une variété de récompenses au centre de la pièce."
 " Il semble que le Rêve Tout-Désiré ait été plus favorable cette fois-ci."
 
-#: src-en/data/events_special_storage.xml.append:230
+#: src-en/data/events_special_storage.xml.append:231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:235
+#: src-en/data/events_special_storage.xml.append:236
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/text"
 msgstr ""
@@ -312,12 +308,12 @@ msgstr ""
 "semble avoir ignoré vos suppliques, ou peut-être ne l'ont-elles simplement "
 "pas atteinte."
 
-#: src-en/data/events_special_storage.xml.append:237
+#: src-en/data/events_special_storage.xml.append:238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:262
+#: src-en/data/events_special_storage.xml.append:263
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/text"
 msgstr ""
@@ -325,12 +321,12 @@ msgstr ""
 " de résistance aux dégâts système] Êtes-vous sûr de vouloir installer cette "
 "amélioration ? ATTENTION : Cela vous coûtera 20 points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:264
+#: src-en/data/events_special_storage.xml.append:265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:266
+#: src-en/data/events_special_storage.xml.append:267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/text"
 msgstr ""
@@ -338,37 +334,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:269
+#: src-en/data/events_special_storage.xml.append:270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:271
+#: src-en/data/events_special_storage.xml.append:272
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:274
+#: src-en/data/events_special_storage.xml.append:275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:276
+#: src-en/data/events_special_storage.xml.append:277
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:279
+#: src-en/data/events_special_storage.xml.append:280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:289
+#: src-en/data/events_special_storage.xml.append:290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:294
+#: src-en/data/events_special_storage.xml.append:295
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/text"
 msgstr ""
@@ -377,12 +373,12 @@ msgstr ""
 " Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : Cela "
 "vous coûtera 20 points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:296
+#: src-en/data/events_special_storage.xml.append:297
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:298
+#: src-en/data/events_special_storage.xml.append:299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/text"
 msgstr ""
@@ -390,37 +386,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:301
+#: src-en/data/events_special_storage.xml.append:302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:303
+#: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:306
+#: src-en/data/events_special_storage.xml.append:307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:308
+#: src-en/data/events_special_storage.xml.append:309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:311
+#: src-en/data/events_special_storage.xml.append:312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:321
+#: src-en/data/events_special_storage.xml.append:322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:326
+#: src-en/data/events_special_storage.xml.append:327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/text"
 msgstr ""
@@ -429,12 +425,12 @@ msgstr ""
 "10%] Êtes-vous sûr de vouloir installer cette amélioration ? ATTENTION : "
 "Cela vous coûtera 20 points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:328
+#: src-en/data/events_special_storage.xml.append:329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:330
+#: src-en/data/events_special_storage.xml.append:331
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/text"
 msgstr ""
@@ -442,37 +438,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:333
+#: src-en/data/events_special_storage.xml.append:334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:335
+#: src-en/data/events_special_storage.xml.append:336
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:338
+#: src-en/data/events_special_storage.xml.append:339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:340
+#: src-en/data/events_special_storage.xml.append:341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:343
+#: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:353
+#: src-en/data/events_special_storage.xml.append:354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:358
+#: src-en/data/events_special_storage.xml.append:359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/text"
 msgstr ""
@@ -482,12 +478,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:360
+#: src-en/data/events_special_storage.xml.append:361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:362
+#: src-en/data/events_special_storage.xml.append:363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/text"
 msgstr ""
@@ -495,37 +491,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:365
+#: src-en/data/events_special_storage.xml.append:366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:367
+#: src-en/data/events_special_storage.xml.append:368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:370
+#: src-en/data/events_special_storage.xml.append:371
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:372
+#: src-en/data/events_special_storage.xml.append:373
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:375
+#: src-en/data/events_special_storage.xml.append:376
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:385
+#: src-en/data/events_special_storage.xml.append:386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:390
+#: src-en/data/events_special_storage.xml.append:391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/text"
 msgstr ""
@@ -535,12 +531,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:392
+#: src-en/data/events_special_storage.xml.append:393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:394
+#: src-en/data/events_special_storage.xml.append:395
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/text"
 msgstr ""
@@ -548,37 +544,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:397
+#: src-en/data/events_special_storage.xml.append:398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:399
+#: src-en/data/events_special_storage.xml.append:400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:402
+#: src-en/data/events_special_storage.xml.append:403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:404
+#: src-en/data/events_special_storage.xml.append:405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:407
+#: src-en/data/events_special_storage.xml.append:408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:417
+#: src-en/data/events_special_storage.xml.append:418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:422
+#: src-en/data/events_special_storage.xml.append:423
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/text"
 msgstr ""
@@ -588,12 +584,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:424
+#: src-en/data/events_special_storage.xml.append:425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:426
+#: src-en/data/events_special_storage.xml.append:427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/text"
 msgstr ""
@@ -601,37 +597,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:429
+#: src-en/data/events_special_storage.xml.append:430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:431
+#: src-en/data/events_special_storage.xml.append:432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:434
+#: src-en/data/events_special_storage.xml.append:435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:436
+#: src-en/data/events_special_storage.xml.append:437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:439
+#: src-en/data/events_special_storage.xml.append:440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:449
+#: src-en/data/events_special_storage.xml.append:450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:454
+#: src-en/data/events_special_storage.xml.append:455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/text"
 msgstr ""
@@ -641,12 +637,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:456
+#: src-en/data/events_special_storage.xml.append:457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:458
+#: src-en/data/events_special_storage.xml.append:459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/text"
 msgstr ""
@@ -654,37 +650,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:461
+#: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:463
+#: src-en/data/events_special_storage.xml.append:464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:466
+#: src-en/data/events_special_storage.xml.append:467
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:468
+#: src-en/data/events_special_storage.xml.append:469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:471
+#: src-en/data/events_special_storage.xml.append:472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:481
+#: src-en/data/events_special_storage.xml.append:482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:486
+#: src-en/data/events_special_storage.xml.append:487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/text"
 msgstr ""
@@ -694,12 +690,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:488
+#: src-en/data/events_special_storage.xml.append:489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:490
+#: src-en/data/events_special_storage.xml.append:491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/text"
 msgstr ""
@@ -707,37 +703,37 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:493
+#: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:495
+#: src-en/data/events_special_storage.xml.append:496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:498
+#: src-en/data/events_special_storage.xml.append:499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:500
+#: src-en/data/events_special_storage.xml.append:501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr "Vous avez amélioré avec succès votre blindage impénétrable !"
 
-#: src-en/data/events_special_storage.xml.append:503
+#: src-en/data/events_special_storage.xml.append:504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:513
+#: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:518
+#: src-en/data/events_special_storage.xml.append:519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/text"
 msgstr ""
@@ -747,12 +743,12 @@ msgstr ""
 "vouloir installer cette amélioration ? ATTENTION : Cela vous coûtera 20 "
 "points de dégâts de coque."
 
-#: src-en/data/events_special_storage.xml.append:520
+#: src-en/data/events_special_storage.xml.append:521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/text"
 msgstr "Oui, installer l'amélioration."
 
-#: src-en/data/events_special_storage.xml.append:522
+#: src-en/data/events_special_storage.xml.append:523
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/text"
 msgstr ""
@@ -760,93 +756,93 @@ msgstr ""
 "la partie supérieure de la coque du vaisseau et la donnez à la créature "
 "vivant à l'arrière. En retour, elle vous fait pousser une nouvelle armure..."
 
-#: src-en/data/events_special_storage.xml.append:525
+#: src-en/data/events_special_storage.xml.append:526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:527
+#: src-en/data/events_special_storage.xml.append:528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/text"
 msgstr "Vous installez un nouveau blindage impénétrable..."
 
-#: src-en/data/events_special_storage.xml.append:530
+#: src-en/data/events_special_storage.xml.append:531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:532
+#: src-en/data/events_special_storage.xml.append:533
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "Vous avez amélioré avec succès votre blindage impénétrable à son niveau "
 "final !"
 
-#: src-en/data/events_special_storage.xml.append:536
+#: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:546
+#: src-en/data/events_special_storage.xml.append:547
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:556
+#: src-en/data/events_special_storage.xml.append:557
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[1]/text"
 msgstr "Chercher Embryo."
 
-#: src-en/data/events_special_storage.xml.append:560
+#: src-en/data/events_special_storage.xml.append:561
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[2]/text"
 msgstr "Chercher Slavik."
 
-#: src-en/data/events_special_storage.xml.append:564
+#: src-en/data/events_special_storage.xml.append:565
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[3]/text"
 msgstr "Chercher Vakans."
 
-#: src-en/data/events_special_storage.xml.append:568
+#: src-en/data/events_special_storage.xml.append:569
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[4]/text"
 msgstr "Chercher Mirrored."
 
-#: src-en/data/events_special_storage.xml.append:572
+#: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[5]/text"
 msgstr "Chercher l'Empereur Blanc."
 
-#: src-en/data/events_special_storage.xml.append:576
+#: src-en/data/events_special_storage.xml.append:577
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[6]/text"
 msgstr "Caresser le termite."
 
-#: src-en/data/events_special_storage.xml.append:583
+#: src-en/data/events_special_storage.xml.append:584
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/text"
 msgstr "Lancer une plateforme ASB miniature. Trois restantes."
 
-#: src-en/data/events_special_storage.xml.append:585
+#: src-en/data/events_special_storage.xml.append:586
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/text"
 msgstr "Êtes-vous sûr de vouloir lancer la plateforme ASB miniature ?"
 
-#: src-en/data/events_special_storage.xml.append:587
+#: src-en/data/events_special_storage.xml.append:588
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[1]/text"
 msgstr "Oui, lancez-la."
 
-#: src-en/data/events_special_storage.xml.append:589
+#: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[1]/event/text"
@@ -854,43 +850,43 @@ msgstr ""
 "Vous envoyez la plateforme ASB dans l'espace. À grande vitesse, elle "
 "s'éloigne de vous et commence à se déployer près du vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:596
+#: src-en/data/events_special_storage.xml.append:597
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:600
+#: src-en/data/events_special_storage.xml.append:601
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:602
+#: src-en/data/events_special_storage.xml.append:603
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[1]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:608
+#: src-en/data/events_special_storage.xml.append:609
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/text"
 msgstr "Lancer une plateforme ASB miniature. Deux restantes."
 
-#: src-en/data/events_special_storage.xml.append:610
+#: src-en/data/events_special_storage.xml.append:611
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/text"
 msgstr "Êtes-vous sûr de vouloir lancer la plateforme ASB miniature ?"
 
-#: src-en/data/events_special_storage.xml.append:612
+#: src-en/data/events_special_storage.xml.append:613
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
 msgstr "Oui, lancez-la."
 
-#: src-en/data/events_special_storage.xml.append:614
+#: src-en/data/events_special_storage.xml.append:615
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[1]/event/text"
@@ -898,44 +894,44 @@ msgstr ""
 "Vous envoyez la plateforme ASB dans l'espace. À grande vitesse, elle "
 "s'éloigne de vous et commence à se déployer près du vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:621
+#: src-en/data/events_special_storage.xml.append:622
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:625
+#: src-en/data/events_special_storage.xml.append:626
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:627
+#: src-en/data/events_special_storage.xml.append:628
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:633
+#: src-en/data/events_special_storage.xml.append:634
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/text"
 msgstr "Lancer une plateforme ASB miniature. Une restante."
 
-#: src-en/data/events_special_storage.xml.append:635
+#: src-en/data/events_special_storage.xml.append:636
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/text"
 msgstr ""
 "Êtes-vous sûr de vouloir lancer la dernière plateforme ASB miniature ?"
 
-#: src-en/data/events_special_storage.xml.append:637
+#: src-en/data/events_special_storage.xml.append:638
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[1]/text"
 msgstr "Oui, lancez-la."
 
-#: src-en/data/events_special_storage.xml.append:639
+#: src-en/data/events_special_storage.xml.append:640
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[1]/event/text"
@@ -943,31 +939,31 @@ msgstr ""
 "Vous envoyez la plateforme ASB dans l'espace. À grande vitesse, elle "
 "s'éloigne de vous et commence à se déployer près du vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:646
+#: src-en/data/events_special_storage.xml.append:647
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:650
+#: src-en/data/events_special_storage.xml.append:651
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:652
+#: src-en/data/events_special_storage.xml.append:653
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:658
+#: src-en/data/events_special_storage.xml.append:659
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/text"
 msgstr "Salle des Rêves : Offrir une prière à la Rêveuse."
 
-#: src-en/data/events_special_storage.xml.append:660
+#: src-en/data/events_special_storage.xml.append:661
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/text"
@@ -977,13 +973,13 @@ msgstr ""
 "réparera votre coque ou infligera des dégâts à l'ennemi. Cela vous coûtera "
 "10 ferrailles."
 
-#: src-en/data/events_special_storage.xml.append:662
+#: src-en/data/events_special_storage.xml.append:663
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/text"
 msgstr "Oui, préparez-vous pour les cérémonies et commencez la bataille."
 
-#: src-en/data/events_special_storage.xml.append:664
+#: src-en/data/events_special_storage.xml.append:665
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/text"
@@ -993,38 +989,38 @@ msgstr ""
 "essaiera de vous aider au combat, mais ses pouvoirs ne dureront que 4 "
 "tentatives."
 
-#: src-en/data/events_special_storage.xml.append:671
+#: src-en/data/events_special_storage.xml.append:672
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 "Vous vous préparez à déposer des offrandes pour le Rêve Tout-Désiré..."
 
-#: src-en/data/events_special_storage.xml.append:677
+#: src-en/data/events_special_storage.xml.append:678
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:681
+#: src-en/data/events_special_storage.xml.append:682
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:683
+#: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:689
+#: src-en/data/events_special_storage.xml.append:690
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/text"
 msgstr "Culte des Rêves : Offrir un sacrifice à la Rêveuse"
 
-#: src-en/data/events_special_storage.xml.append:691
+#: src-en/data/events_special_storage.xml.append:692
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/text"
@@ -1035,13 +1031,13 @@ msgstr ""
 "ordinaires seront sacrifiés en premier. La Rêveuse vous aidera grandement au"
 " combat."
 
-#: src-en/data/events_special_storage.xml.append:693
+#: src-en/data/events_special_storage.xml.append:694
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/text"
 msgstr "Oui, effectuer un rite sacrificiel."
 
-#: src-en/data/events_special_storage.xml.append:695
+#: src-en/data/events_special_storage.xml.append:696
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/text"
@@ -1051,57 +1047,55 @@ msgstr ""
 "sacrifié a disparu du piédestal. Le Rêve Tout-Désiré vous aidera 3 fois au "
 "combat en attaquant activement le vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:698
+#: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/removeCrew/text"
 msgstr ""
-"Les données de la salle des clones concernant votre membre d'équipage ont "
-"été irrémédiablement supprimées. Il est impossible de le ramener à la vie."
 
-#: src-en/data/events_special_storage.xml.append:703
+#: src-en/data/events_special_storage.xml.append:704
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "Le Rêve Tout-Désiré prépare sa punition..."
 
-#: src-en/data/events_special_storage.xml.append:709
+#: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:713
+#: src-en/data/events_special_storage.xml.append:714
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:715
+#: src-en/data/events_special_storage.xml.append:716
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[5]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:722
+#: src-en/data/events_special_storage.xml.append:723
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/text"
 msgstr "Lancer la plateforme ASB."
 
-#: src-en/data/events_special_storage.xml.append:724
+#: src-en/data/events_special_storage.xml.append:725
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/text"
 msgstr "Êtes-vous sûr de vouloir lancer la plateforme ASB ?"
 
-#: src-en/data/events_special_storage.xml.append:734
+#: src-en/data/events_special_storage.xml.append:735
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/text"
 msgstr "Lancez-la, puis utilisez le collecteur de ferraille."
 
-#: src-en/data/events_special_storage.xml.append:736
+#: src-en/data/events_special_storage.xml.append:737
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/event/text"
@@ -1111,13 +1105,13 @@ msgstr ""
 "la bataille, vous la récupérerez à l'aide du bras du vaisseau, vous ne "
 "dépenserez donc rien."
 
-#: src-en/data/events_special_storage.xml.append:750
+#: src-en/data/events_special_storage.xml.append:751
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/text"
 msgstr "Lancez-la, puis utilisez le bras magnétique."
 
-#: src-en/data/events_special_storage.xml.append:752
+#: src-en/data/events_special_storage.xml.append:753
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/event/text"
@@ -1127,13 +1121,13 @@ msgstr ""
 "la bataille, vous la récupérerez à l'aide du bras du vaisseau, vous ne "
 "dépenserez donc rien."
 
-#: src-en/data/events_special_storage.xml.append:758
+#: src-en/data/events_special_storage.xml.append:759
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/text"
 msgstr "Lancez-la avec 3 piles à combustible."
 
-#: src-en/data/events_special_storage.xml.append:760
+#: src-en/data/events_special_storage.xml.append:761
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[3]/event/text"
@@ -1142,13 +1136,13 @@ msgstr ""
 "et l'envoyez dans l'espace. À grande vitesse, elle s'éloigne de vous et "
 "commence à se déployer près du vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:769
+#: src-en/data/events_special_storage.xml.append:770
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[4]/text"
 msgstr "Lancez-la avec 2 missiles."
 
-#: src-en/data/events_special_storage.xml.append:771
+#: src-en/data/events_special_storage.xml.append:772
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[4]/event/text"
@@ -1158,13 +1152,13 @@ msgstr ""
 "vitesse, elle s'éloigne de vous et commence à se déployer près du vaisseau "
 "ennemi."
 
-#: src-en/data/events_special_storage.xml.append:780
+#: src-en/data/events_special_storage.xml.append:781
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[5]/text"
 msgstr "Lancez-la avec 2 pièces de drones."
 
-#: src-en/data/events_special_storage.xml.append:782
+#: src-en/data/events_special_storage.xml.append:783
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[5]/event/text"
@@ -1174,31 +1168,31 @@ msgstr ""
 " grande vitesse, elle s'éloigne de vous et commence à se déployer près du "
 "vaisseau ennemi."
 
-#: src-en/data/events_special_storage.xml.append:791
+#: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:795
+#: src-en/data/events_special_storage.xml.append:796
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[7]/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:797
+#: src-en/data/events_special_storage.xml.append:798
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[6]/event/choice[7]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:809
+#: src-en/data/events_special_storage.xml.append:810
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/text"
 msgstr "Slavik"
 
-#: src-en/data/events_special_storage.xml.append:811
+#: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/event/text"
@@ -1209,19 +1203,19 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\tC'est bien Slavik. Il n'est pas très différent des autres personnes, et à certains égards, il est peut-être même plus ordinaire que la moyenne, mais au moins il essaie de donner le meilleur de lui-même. Il n'y a rien de plus à dire sur lui."
 
-#: src-en/data/events_special_storage.xml.append:817
+#: src-en/data/events_special_storage.xml.append:818
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:826
+#: src-en/data/events_special_storage.xml.append:827
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/text"
 msgstr "Vakans"
 
-#: src-en/data/events_special_storage.xml.append:828
+#: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/event/text"
@@ -1232,19 +1226,19 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\tCe zoltan âgé ne se souvient pas de sa vie avant qu'il ne commence à vivre et à voyager seul il y a des décennies. Ses errances ont continué jusqu'à ce qu'il s'installe sur une planète isolée qu'il pouvait appeler sa maison. En explorant ses environs, il a trouvé l'épave d'un ancien vaisseau d'origine inconnue et l'a restauré par lui-même au cours de quelques années. En raison de son âge avancé, son énergie intérieure sera bientôt épuisée, et avant sa mort, il a décidé de faire une dernière bonne action dans sa vie - percer le mystère de ce vaisseau et en parler au monde entier. Cependant, ses compétences sociales avaient grandement souffert après une longue période d'isolement, rendant impossible pour lui d'obtenir officiellement le titre de capitaine de vaisseau, et vous, en tant que Renegade, avez décidé de l'aider dans cette tâche."
 
-#: src-en/data/events_special_storage.xml.append:834
+#: src-en/data/events_special_storage.xml.append:835
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:843
+#: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/text"
 msgstr "Mirrored"
 
-#: src-en/data/events_special_storage.xml.append:845
+#: src-en/data/events_special_storage.xml.append:846
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/event/text"
@@ -1255,19 +1249,19 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\tL'histoire des origines de Mirrored est très vague et mystérieuse. Essentiellement, c'est une anomalie cosmique qui a acquis une conscience. Elle ne connaît pas les détails de sa naissance, et son premier souvenir est d'avoir été libérée des confins du vide par l'un des Chercheurs de Miracles nommé Swordsman. Elle a ensuite rejoint cette organisation parce qu'elle n'avait nulle part ailleurs où aller. Il semble qu'elle cache plus qu'elle ne le devrait, mais cela est difficile à prouver."
 
-#: src-en/data/events_special_storage.xml.append:851
+#: src-en/data/events_special_storage.xml.append:852
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:860
+#: src-en/data/events_special_storage.xml.append:861
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/text"
 msgstr "Empereur Blanc"
 
-#: src-en/data/events_special_storage.xml.append:862
+#: src-en/data/events_special_storage.xml.append:863
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/event/text"
@@ -1278,21 +1272,21 @@ msgstr ""
 "\t\t\tÂge : 156 ans (chronologiquement), 52 ans (biologiquement)\n"
 "\t\t\tSexe : Masculin\n"
 "\t\t\t\n"
-"\t\t\tL'Empereur Blanc a établi l'empire humain dans l'un des univers isolés. Il a admirablement rempli ses fonctions et a mené l'humanité dans l'espace grâce à ses qualités de leadership. Un jour, un androïde portant un masque de hibou d'un autre univers est apparu devant lui et a commencé à s'insinuer auprès de lui. Malgré son étrange histoire, l'androïde a aidé l'humanité dans toutes ses entreprises et, ayant gagné la confiance totale de l'Empereur, lui a donné un vaisseau contenant le \" sang de Dieu \" de son univers, suggérant qu'il le boive pour acquérir des pouvoirs divins. White, assuré par l'androïde que c'était sans danger, a vidé le vaisseau et est devenu divin. Cependant, son nouveau pouvoir n'a fait qu'exacerber ses qualités négatives, développant la paranoïa en lui. L'Empereur Blanc sur ce vaisseau n'est qu'un clone de l'Empereur original, destiné à le remplacer en cas de décès. Il s'est retrouvé dans cet univers par erreur, mais jusqu'à présent, il ne souhaite pas retourner dans son monde natal."
+"\t\t\tL'Empereur Blanc a établi l'empire humain dans l'un des univers isolés. Il a admirablement rempli ses fonctions et a mené l'humanité dans l'espace grâce à ses qualités de leadership. Un jour, un androïde portant un masque de hibou d'un autre univers est apparu devant lui et a commencé à s'insinuer auprès de lui. Malgré son étrange histoire, l'androïde a aidé l'humanité dans toutes ses entreprises et, ayant gagné la confiance totale de l'Empereur, lui a donné un vaisseau contenant le « sang de Dieu » de son univers, suggérant qu'il le boive pour acquérir des pouvoirs divins. White, assuré par l'androïde que c'était sans danger, a vidé le vaisseau et est devenu divin. Cependant, son nouveau pouvoir n'a fait qu'exacerber ses qualités négatives, développant la paranoïa en lui. L'Empereur Blanc sur ce vaisseau n'est qu'un clone de l'Empereur original, destiné à le remplacer en cas de décès. Il s'est retrouvé dans cet univers par erreur, mais jusqu'à présent, il ne souhaite pas retourner dans son monde natal."
 
-#: src-en/data/events_special_storage.xml.append:870
+#: src-en/data/events_special_storage.xml.append:871
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
 "append:choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_storage.xml.append:879
+#: src-en/data/events_special_storage.xml.append:880
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/text"
 msgstr "Graine de Conception"
 
-#: src-en/data/events_special_storage.xml.append:881
+#: src-en/data/events_special_storage.xml.append:882
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/event/text"
@@ -1303,7 +1297,7 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\tUn dernier avertissement et un ultimatum – pourtant pas plus qu'une enveloppe de ce qui devrait être une divinité vivante. Un organisme fragile et déjà en décomposition, un enfant malade conçu dans le péché et les tourments de la vie par ceux qui ont été témoins de la naissance de la réalité des ténèbres éternelles. Cela ne devrait pas exister, mais néanmoins, vous devrez accepter de partager un vaisseau avec lui. Il est à peine dangereux, mais plutôt effrayant et sauvage. Je me demande si les Chercheurs de Miracles savent quelque chose à ce sujet ?"
 
-#: src-en/data/events_special_storage.xml.append:887
+#: src-en/data/events_special_storage.xml.append:888
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
 "append:choice/event/choice/text"

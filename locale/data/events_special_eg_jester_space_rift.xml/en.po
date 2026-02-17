@@ -46,8 +46,8 @@ msgstr ""
 "for all of us in this swamp between universes, and I'm tired of their "
 "company. Whoever you are, I propose a deal: I will redirect these creatures "
 "to you, and you deal with them in any way you see fit; I know how to pay. If"
-" you want to carry out this simple task, just send the message “I accept” to"
-" this space-time rift. Make sure you are strong enough to face these "
+" you want to carry out this simple task, just send the message \"I accept\" "
+"to this space-time rift. Make sure you are strong enough to face these "
 "creatures - I take no pleasure in seeing more suffering than there already "
 "is.\""
 
@@ -346,8 +346,8 @@ msgstr "(Anti-Virus) Prevent a cyberattack."
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
-"(Anti-Virus) successfully repels the separatists' cyberattack. Time to go "
-"into battle."
+"Anti-Virus successfully repels the separatists' cyberattack. Time to go into"
+" battle."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:245
 msgid ""
@@ -557,7 +557,7 @@ msgid ""
 msgstr ""
 "After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.\n"
 "\t\n"
-"\t“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
+"\t\"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:402
 msgid ""
@@ -614,7 +614,7 @@ msgid ""
 msgstr ""
 "After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.\n"
 "\t\n"
-"\t“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
+"\t\"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:440
 msgid ""
@@ -671,7 +671,7 @@ msgid ""
 msgstr ""
 "After a while, the space anomaly seems to become less active and even closes slightly. A strange-looking automatic drone in red and white colors with a gray eye flies up to you. You vaguely recognize it as one of the Miracle Seekers' delivery drones, but you don't know why this particular drone looks the way it does. It plays a pre-recorded message in the same synthetic male voice you heard earlier.\n"
 "\t\n"
-"\t“How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
+"\t\"How sad, isn't it? Well, he deserved his death, and he accepted it with dignity. I can't say the same about his biological brothers, who still cause me a lot of trouble, but now it will be much easier for me to deal with them. Thank you, Renegade, I'll take care of the rest myself. Farewell and depart.\" Drone gives you the reward and self-destructs. Its debris dissolves into the vacuum of space, leaving you alone with your confusion. You decide to fly away from here."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:478
 msgid ""

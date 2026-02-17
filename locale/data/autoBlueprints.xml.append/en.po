@@ -13,7 +13,7 @@ msgstr "Neostar Forwarder"
 #: src-en/data/autoBlueprints.xml.append:39
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ERUDITE_DRONE\"]/class"
-msgstr "???"
+msgstr "Erudite's Drone"
 
 #: src-en/data/autoBlueprints.xml.append:60
 msgid ""

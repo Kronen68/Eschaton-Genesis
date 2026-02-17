@@ -9,528 +9,418 @@ msgstr ""
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/text"
 msgstr ""
-"NEOSTAR FREIGHT TRANSPORTATION - WE'RE FASTER THAN LIGHT!\n"
-"\n"
-"\tGreetings, Neostar Megacorp (R) Junior Employee! What would you like to accomplish?"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:15
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_beacon_task\"]/text"
-msgstr "Hand over the cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:19
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_available_task\""
 " and @lvl=\"1\"]/text"
-msgstr "Take the task of delivering cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:23
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_available_task\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"To take on two more cargo delivery tasks, you need to jump between sectors "
-"and contact your superiors."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:27
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[4]/text"
-msgstr "Go to the Loyalty Program (R) menu."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:31
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[5]/text"
-msgstr "Junior Employee FAQ (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:35
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE\"]/text"
-msgstr "Suddenly someone contacts you..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:37
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE\"]/event/text"
 msgstr ""
-"Uriel the Tailed appears on your screen. \"Hello, colleague! It seems you're in a difficult situation... You're just a couple of Loyalty Program points short of a promotion!.. I could pass on one of my delivery requests to you - free of charge, just as a friend!\"\n"
-"\t\t\t\n"
-"\t\t\t\"And also... good luck with that monster. The Rebellion's Flagship, right?... It sounds pretty scary. But I'm sure you can handle it!\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:46
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[7]/text"
-msgstr "Put aside the Neostar Form."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:71
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/text"
 msgstr ""
-"Welcome to the Loyalty Program (R) menu for Neostar (R) Junior Employees. "
-"What would you like to do?"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:73
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_1\"]/text"
-msgstr "Receive your first bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:77
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_2\"]/text"
-msgstr "Receive your second bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:81
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_3\"]/text"
-msgstr "Receive your third bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:85
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_4\"]/text"
-msgstr "Receive your fourth bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:89
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_5\"]/text"
-msgstr "Receive your fifth bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:93
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_6\"]/text"
-msgstr "Receive your sixth bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:97
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_7\"]/text"
-msgstr "Receive your seventh bonus payment."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:101
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[8]/text"
-msgstr "Go through the promotion procedure."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:105
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[9]/text"
-msgstr "[WARNING! YOU ARE ELIGIBLE FOR A PROMOTION]"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:109
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"neostar_loyalty_program_final\"]/text"
 msgstr ""
-"You've reached the maximum Loyalty Level (R) for a Neostar (R) Junior "
-"Employee. Congratulations!"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:113
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[11]/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:119
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your first premium reward: resources and a small device called a "
-"Neostar Thrust Booster (R), which you can install on your engines to improve"
-" them."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:127
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/text"
-msgstr "Install the device into the engines."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:129
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/event/text"
-msgstr "You install the Neostar Thrust Booster (R) on your engines."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:132
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:138
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/text"
-msgstr "Disassemble the device."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:140
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/event/text"
 msgstr ""
-"You dismantle the Neostar Thrust Booster (R) for scrap. You also discover a "
-"fuel cell inside."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:146
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:154
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_2\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your second premium reward inside."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:163
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_2\"]/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:169
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_3\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your third premium reward in the form of resources and a Neostar "
-"Laser (R), which is for internal use only."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:177
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_3\"]/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:183
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_4\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your fourth premium reward inside."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:192
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_4\"]/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:198
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your fifth premium reward: resources and a small device called a "
-"Neostar Thrust Booster (R), which you can install on your engines to improve"
-" them."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:207
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/text"
-msgstr "Install the device into the engines."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:209
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/event/text"
-msgstr "You install the Neostar Thrust Booster (R) on your engines."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:212
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:218
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/text"
-msgstr "Disassemble the device."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:220
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/event/text"
 msgstr ""
-"You dismantle the Neostar Thrust Booster (R) for scrap. You also discover "
-"fuel cells inside."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:226
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:234
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_6\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your third premium reward in the form of resources and a Neostar "
-"Combat Drone (R), which is for internal use only."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:244
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_6\"]/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:250
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_7\"]/text"
 msgstr ""
-"A small wormhole opens near you. A sealed Neostar Crate flies through it, "
-"and a Neostar Blank gives you a unique code to open it. Once you open it, "
-"you find your seventh premium reward inside."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:259
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_7\"]/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:265
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/text"
-msgstr "You press the button in anticipation of a promotion..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:267
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:269
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/text"
 msgstr ""
-"Neostar Form's screen lights up with exploding fireworks, and a large notification with just one word slowly appears: \"PROMOTION.\"\n"
-"\t\t\t\n"
-"\t\t\tThe fireworks continue to explode for a couple of seconds, and the image on the screen changes to that of Neostar Megacorp founder Saul. Luckily, it's just a pre-recorded video."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:273
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:275
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/text"
 msgstr ""
-"\"Congratulations, Neostar's Junior Employe! You've achieved your first "
-"promotion and are now a full-fledged Neostar employee. This means you'll "
-"have the opportunity to choose which cargo deliveries you want to handle, "
-"you'll have the opportunity to earn a higher salary, and, most importantly, "
-"from now on, you'll officially be provided with housing within our company "
-"boundaries!\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:277
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:279
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"The video ends abruptly and the following text appears on the Neostar Form:\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tATTENTION! These free opportunities in the form of Additional Premium Rewards will be available to you only if you have opted out of receiving Premium Rewards issued to you under the Loyalty Program (R), and they are available only to Neostar (R) employees of at least the Neostar (R) Third-Class Average Employee rank.\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tNumber of Premium Rewards you have received: 7\n"
-"\t\t\t\t\t\t\tATTENTION! You are not eligible for the Additional Premium Rewards program! Please submit your Premium Rewards, along with the required fee, to your nearest Neostar (R) Representative Office to be eligible for Additional Premium Rewards.\n"
-"\t\t\t\t\t\t\tYour current Neostar (R) employee rank: Neostar (R) Junior Employee\n"
-"\t\t\t\t\t\t\tATTENTION! You are not eligible for the Additional Premium Rewards program!\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tNumber of remaining ranks to earn Additional Premium Rewards: 5\n"
-"\t\t\t\t\t\t\tYour remaining ranks:\n"
-"\t\t\t\t\t\t\t1. Neostar (R) Second-Class Junior Employee\n"
-"\t\t\t\t\t\t\t2. Neostar (R) Third-Class Junior Employee\n"
-"\t\t\t\t\t\t\t3. Neostar (R) Average Employee\n"
-"\t\t\t\t\t\t\t4. Neostar (R) Second-Class Average Employee\n"
-"\t\t\t\t\t\t\t5. Neostar (R) Third-Class Average Employee\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tTo officially achieve the rank of Neostar (R) Second-Class Junior Employee, you must visit the nearest Neostar (R) Representative Office. Failure to do so within the next nine system days will result in a penalty.\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tThe nearest Neostar Representative Office is located in: ERROR! Unable to determine distance. Possible cause: You are currently in another Universe. Please contact a Neostar (R) Technical Specialist to resolve this issue."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:300
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:302
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"This probably isn't quite what you wanted to see. But then, what would you expect from a megacorporation led by a shady, fish-faced individual?\n"
-"\n"
-"\t\t\t\t\t\t\t\t\tWell, at least you can ignore all of that and start life afresh once you've completed your primary task of saving the Federation. You won't even have to return the Neostar Form, any Neostar products, or the very ship you're currently traveling on. As vast as Neostar Megacorp is, even they can't break the laws that apply to most universes..."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:317
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/text"
 msgstr ""
-"Welcome to the Neostar (R) Junior Employee FAQ. What's your favorite "
-"question?"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:319
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/text"
-msgstr "What is Neostar Megacorp (R)?"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:321
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/event/text"
 msgstr ""
-"Neostar Megacorp (R) is a leading manufacturer of Neostar Products (R), a "
-"distributor of Neostar Products (R), and a private transportation company. "
-"Neostar (R) is renowned throughout the Thesis Incarnation. We partner with "
-"most space empires and space political entities due to the low prices and "
-"high quality of our products. Another Neostar (R) achievement is the high "
-"speed of delivery of our products and those of our clients – in the Thesis "
-"Incarnation, there are no faster space transport ships than those used by "
-"Neostar Megacorp (R), thanks to Light Bridge Intersection (R) technology."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:323
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:329
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/text"
 msgstr ""
-"How often will I receive bonus payments under the Loyalty Program (R)?"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:331
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/event/text"
 msgstr ""
-"Receiving bonus payments directly depends on the number of Loyalty Program "
-"Points (R) you earn to reach new Loyalty Levels (R). The number of Loyalty "
-"Program Points (R) you earn upon completion of a given delivery is usually "
-"limited to 2 Loyalty Program Points (R), but in special cases, if you need "
-"to deliver more cargo than usual, you'll receive 3 Loyalty Program Points "
-"(R). Typically, to reach a new Loyalty Level (R) and the corresponding bonus"
-" payment, you need to accumulate 5 Loyalty Program Points (R). However, when"
-" you start your career as a Neostar (R) Junior Employee, your first bonus "
-"payments may be issued with fewer points. There are 7 Loyalty Levels (R) in "
-"total, which directly lead to promotion."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:333
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:339
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/text"
-msgstr "What awaits me after I get promoted?"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:341
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/event/text"
 msgstr ""
-"Please contact your immediate Neostar Megacorp (R) senior management "
-"representative for an answer to this question. If this is not possible, you "
-"can submit a special request for an answer to this question and receive it "
-"within the next system year."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:343
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:349
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/text"
-msgstr "What happens if I somehow lose Neostar Crates (R) during my work?"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:351
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/event/text"
 msgstr ""
-"While you are a Neostar (R) Junior Employee, there are no penalties for "
-"this. However, once you achieve promotion, penalties for cargo loss while "
-"you were a Neostar (R) Junior  Employee will be imposed. These penalties may"
-" include (but are not limited to): a reduction in your current salary, "
-"complete forfeiture of your previous salary, and forced labor on the planet "
-"Firstflood in the Neostar star system."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:353
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:359
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/text"
-msgstr "As a Neostar (R) Junior Employee, can I receive a bonus to my salary?"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:361
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/event/text"
-msgstr "No."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:363
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/event/choice/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:369
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[6]/text"
-msgstr "Go back."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:375
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/text"
 msgstr ""
-"You're preparing to hand over the cargo. The process shouldn't take long."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:377
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
 " and @lvl=\"2\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:381
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
 " and @lvl=\"3\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:385
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
 " and @lvl=\"4\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:391
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/text"
 msgstr ""
-"Your ship docks with another Neostar vessel, and you begin transferring your cargo.\n"
-"\n"
-"\tNeostar Crates (R) required for delivery: 2"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:395
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:397
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/text"
-msgstr "You hand over the first Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:400
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:402
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/text"
-msgstr "You hand over the second Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:405
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:407
 msgid ""
@@ -538,22 +428,19 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Excellent, that's all. For this delivery, you'll receive two points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!\"\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tYour colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:421
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:429
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:431
 msgid ""
@@ -561,86 +448,75 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:434
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:442
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:444
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:447
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:455
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/text"
 msgstr ""
-"Your ship docks with another Neostar vessel, and you begin transferring your cargo.\n"
-"\n"
-"Neostar Crates (R) required for delivery: 3"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:459
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:461
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/text"
-msgstr "You hand over the first Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:464
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:466
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/text"
-msgstr "You hand over the second Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:469
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:471
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
-msgstr "You hand over the third Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:474
 msgid ""
@@ -648,7 +524,7 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:476
 msgid ""
@@ -657,9 +533,6 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Excellent, that's all. For this delivery, you'll receive two points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!\"\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\t\t\tYour colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:490
 msgid ""
@@ -667,14 +540,14 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:498
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:500
 msgid ""
@@ -682,10 +555,6 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:503
 msgid ""
@@ -693,13 +562,13 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:511
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:513
 msgid ""
@@ -707,86 +576,75 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:516
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:524
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:526
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:529
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:537
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/text"
 msgstr ""
-"Your ship docks with another Neostar vessel, and you begin transferring your cargo.\n"
-"\n"
-"Neostar Crates (R) required for delivery: 4"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:541
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:543
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/text"
-msgstr "You hand over the first Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:546
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:548
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/text"
-msgstr "You hand over the second Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:551
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:553
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
-msgstr "You hand over the third Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:556
 msgid ""
@@ -794,7 +652,7 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:558
 msgid ""
@@ -802,7 +660,7 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
-msgstr "You hand over the fourth Neostar Crate (R)."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:561
 msgid ""
@@ -811,7 +669,7 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:563
 msgid ""
@@ -821,9 +679,6 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Excellent, that's all. For this delivery, you'll receive three points to level up your Loyalty Program, if that still means anything to you, and some resources as direct payment for the cargo transfer. See you later, colleague!\"\n"
-"\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\t\t\t\t\tYour colleagues return to their home universe through the wormhole, which quickly closes. It's time for you to leave too."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:577
 msgid ""
@@ -832,7 +687,7 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:585
 msgid ""
@@ -840,7 +695,7 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:587
 msgid ""
@@ -849,10 +704,6 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:590
 msgid ""
@@ -861,14 +712,14 @@ msgid ""
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:598
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:600
 msgid ""
@@ -876,10 +727,6 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:603
 msgid ""
@@ -887,13 +734,13 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:611
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:613
 msgid ""
@@ -901,1411 +748,1093 @@ msgid ""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:616
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
 "@lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:624
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:626
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Uriel the Tailed contacts you. \"Um... it looks like you don't have the "
-"required cargo. Did you lose it? Uh-huh... As a Neostar Megacorp intern in "
-"this universe, you won't be punished in any way, but still, be more "
-"responsible next time... You won't be receiving payment for this delivery.\""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:629
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:658
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): D-12-M\n"
-"\tDESTINATION POINT: U-E33, Great League, Upper Plants, Section KS-0S\n"
-"\tPRODUCT: Rare Metals, Military Products\n"
-"\tTOTAL CARGO QUANTITY: 4\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:668
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:670
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:673
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:675
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:678
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:680
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:683
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:685
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:688
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:704
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:716
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"\tOn the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:724
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:726
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Deliveries to the Great League always pay well. Cargo is constantly being delivered here in large quantities - the constant development of machine intelligence requires a constant supply. The robots behind the Great League are generous with their expenses, just to ensure the longevity of their projects - like the Supreme Repository, for example. It's strange for robots to exhibit religious behavior, I admit, but it seems they've been asking themselves too many existential questions and haven't been able to answer most of them, leading them to invent new gods for themselves - mythological ones that have nothing to do with—...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:734
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:742
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): Ego Sum\n"
-"\tDESTINATION POINT: U-E33, Peaks, Planetary Formation Stones, Planetoid Sharps\n"
-"\tPRODUCT: Artillery Systems\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:752
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:754
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:757
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:759
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:762
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:764
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:767
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:781
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:793
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:801
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:803
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Neostar is also involved in military development. It's no surprise that we received an order for artillery systems from the local capital government, the Peaks. \"Peaks... Life is hard here,\" is a favorite phrase among the inhabitants of this zone of space. It's home to the poor, outcasts, fugitive criminals, and representatives of the lower classes of the entire Thesis Incarnation. There are always some kind of feuds and infighting among them, leading to internal conflicts, sometimes even bloody ones. Nevertheless, more than ten percent of Neostar's employees are former residents of the Peaks. I suppose it's only natural - rather than live there and fear you won't live to see the next day, it's better to sell your soul to our megacorporation, and...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:811
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:819
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Isolan the Scalied\n"
-"\tDESTINATION POINT: U-E33, Neostar Megacorp, Neostar Star System, Planet Firstflood, Distribution Node No.14\n"
-"\tPRODUCT: Parts for the Neostar Collapse Generator (R)\n"
-"\tCOMMENT: Product recall for further disposal.\n"
-"\tTOTAL CARGO QUANTITY: 2\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:830
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:832
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:835
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:837
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:840
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:852
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:864
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:872
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:874
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"It's not often we return goods to our homeland, much less dispose of them there.\" For some reason, Uriel the Tailed becomes sad after these words, and then descends into nostalgia. \"Oh, I remember the time when Saul the Smallgilled had just founded his company on our planet, Firstflood. I was just a kid then, but I distinctly remember how his corporation - I'm talking about Neostar - began to grow at breakneck speed. Neostar's products - home appliances, furniture, and household items in general - were manufactured and shipped throughout the ocean and terrestrial world. Then Neostar began producing food and medical supplies, and began receiving government grants and industrial-scale orders. The number of factories across Firstflood grew daily. Neostar then became a megacorporation, absorbing the rest of our world's leading corporations, and also began engaging in military development, space expansion, and hydroforming...\"\n"
-"\t\t\t\n"
-"\t\t\t\"And one day, the government of most of the states on our planet fell. I won't go into details of how it happened, but Saul the Smallgilled didn't miss his chance, and, using his reputation and authority, became our sole ruler. Then he proclaimed a new vector of development of our planet - an industrial utopia capable of satisfying the needs of every individual. Now that Firstflood no longer had internal conflicts, we began to develop very quickly, went into space and began to conduct diplomatic relations with other space empires. Neostar... or rather, then Neostar Megacorp, expanded its borders at an enviable speed. Everything was really good, hell, I would even like to go back to that time!.. However, one day, the ambitions of our... ruler... went too far. He decided to use the energy of our star, after which the company was named, for the benefit of the company itself. When most of the representatives of our species had already gone into space, he decided to artificially accelerate the production of solar energy. This led to catastrophic events... Most of the water on our planet evaporated. We had a very small sea level due to the properties of our planet, and it simply dried up when our star became a red giant. Not all of it, of course, but... It's hard to call our planet a Firstflood now. Can you imagine how dependent we were on water?\"\n"
-"\t\t\t\n"
-"\t\t\t\"Now, almost no one lives on Firstflood. It's too hot there for water-loving creatures like us, and there's no humidity at all. Our species was forced to migrate to other star systems or orbital stations on other planets, just to live in comfort and not have to worry about being boiled on the surface of our planet. I'd be sad to go back there, even if I delivered a couple of crates and then immediately left. But what choice do I have as a direct employee of Neostar? Eh... I used to be a teacher, you know, colleague? I taught history to the fry... Where has all that gone now?..\"\n"
-"\t\t\t\n"
-"\t\t\tUriel the Tailed stares at vidscreen strangely, expecting something. \"Um, I think I've said too much. I usually get fined if I talk to my colleagues for too long. The system has decided to pardon me this time... Well, let's get to work!\"\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:886
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:894
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): E.N.B.\n"
-"\tDESTINATION POINT: U-E33, Ermi News Block, Warehouse A-2\n"
-"\tPRODUCT: Neostar Videographers (R)\n"
-"\tTOTAL CARGO QUANTITY: 2\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:904
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:906
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:909
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:911
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:914
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:926
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:938
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:946
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:948
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"The Ermi News Block employs over a billion people across the universe - can you even imagine that number? They come from a variety of races, usually working as intelligence agents or journalists, but more often, they write news articles on absolutely any topic! Ermi Station allows the entire universe to stay informed about the most important topics on the agenda. This organization also has its own representative office in most peaceful civilizations - an advantage that even Neostar Megacorp doesn't have! Their role is very, very important—at the Hour of Judgment, for example, they-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:956
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:964
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Vipi-Suvi\n"
-"\tDESTINATION POINT: U-E33, Central Alliance, Novalethe Empire, Protolethe Star System, Planet Lethe, Minilethe Orbital City\n"
-"\tPRODUCT: Rare Metals, Medical Devices\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:974
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:976
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:979
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:981
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:984
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:986
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:989
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1003
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1015
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1023
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1025
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Oh, a delivery to Novalethe! The Letherians are a peaceful people. It's unlikely you'll find more peaceful creatures in the entire universe. They possess a genetically developed sense of empathy, and they simply can't stand to see other living beings suffer, instead striving to benefit neighboring empires in every way possible. I don't know why I'm telling you this, especially without the details of this delivery, but I really like this race. They even look harmless and cute, can you imagine? Such miniature creatures with a pair of wings, one eye, and gray skin. They look like little angels, honestly! And they are-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1033
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1041
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): Castrophis\n"
-"\tDESTINATION POINT: U-E33, Terra Ultima, Castrophis Station, Lower Tier, Third Floor\n"
-"\tPRODUCT: Radio Devices, Camouflage Field Generators\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1051
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1053
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1056
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1058
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1061
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1063
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1066
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1080
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1092
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1100
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1102
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"We've been receiving a lot of deliveries from Castrophis Station lately. Does this mean the Eschatologists have more work for some reason? Despite how young the Eschatological Society is, they already have considerable influence in their field of research. They help prevent certain conflicts, so to speak, related to the possibility of certain worlds being consumed by the Darkness before others. It's difficult to explain why their work is important in our Universe, and even more difficult for someone from another Universe to understand, but I'd still like to try. Let's start with-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1110
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1118
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Prototheus Prime\n"
-"\tDESTINATION POINT: U-E33, Belfry\n"
-"\tPRODUCT: Medical Devices, Leisure Items\n"
-"\tCOMMENT: Deliver the goods to the nearest sanctuary. Thank you.\n"
-"\tTOTAL CARGO QUANTITY: 4\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1129
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1131
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1134
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1136
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1139
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1141
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1144
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1146
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1149
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1165
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1177
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1185
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1187
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"It's not often we receive requests for deliveries directly to the Center of the Universe. Even more rarely do we receive requests for humanitarian aid. The Belfry, despite its high status and immense importance, isn't very popular for reasons unknown to me, so Neostar Megacorp probably delivers even fewer supplies there than to the Peaks or the Omega Sector. Of course, the natives of the Belfry and both Causality Pillars are pure ascetics, ignorant of the benefits of civilization. But that doesn't mean they don't need them at all. No matter how hard Secunda tries to-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1195
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1203
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Day\n"
-"\tDESTINATION POINT: U-E33, Eos\n"
-"\tPRODUCT: Special Marked Order No.42\n"
-"\tCOMMENT: Leave it with the guard. He'll find you himself.\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1214
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1216
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1219
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1221
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1224
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1226
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1229
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1243
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1255
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1263
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1265
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Delivery to Eos, huh? The owner of Eos, Day, is a very important figure in our Universe. He's the head of the Sols Project - intelligent machines that contacted the Young Universe, which was born from a single artifact of terrible power. He's a protector of the innocent, a brilliant inventor and scientist, personally acquainted with a pair of Creators, and has authority and recognition in almost every corner of the Universe. Frankly, he's my idol. It's great that this delivery fell to you and me. I'll be very happy to see Eos in person - I've never been there. Oh, do you know what might be stored in this crate? Day probably decided to take on another-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1273
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1281
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): Lumen Foundation\n"
-"\tDESTINATION POINT: U-E33, Foreign Lands, Lighthouse Station, Logistics Compartment\n"
-"\tPRODUCT: Anti-darkness Regulators\n"
-"\tTOTAL CARGO QUANTITY: 2\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1291
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1293
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1296
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1298
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1301
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1313
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1325
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1333
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1335
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Hmm... This delivery is directly to Lighthouse Station! A rare opportunity to see Postulate's body. Did you know that this is the only station, and indeed the only place in the Universe, located outside the boundaries of our observable Universe? The scientists working there constantly expose themselves to danger, making forays into the very depths of the Darkness. It's safe as long as the Anti-Darkness Regulators that corrode Postulate are working. If it isn't stopped by enough Regulators, the Darkness destroys everything - everything inanimate and everything living. It's a danger that even the Creators fear. It's a danger that we fear. It's inevitable, multifaceted, incomprehensible, and-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1343
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1351
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): Militant Shelter\n"
-"\tDESTINATION POINT: U-E33, Lion Corps, Incisor Star System, Incisor II Planet, Cedia Hestatoria City, Great House\n"
-"\tPRODUCT: Quark-Level Disintegrators\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1361
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1363
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1366
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1368
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1371
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1383
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1395
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1403
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1405
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Immortal lions! The Lion Corps is the eternal home of their eternal bodies! These are the most warlike apex predators; if they wanted, they could unleash a war on the entire universe and certainly emerge victorious. Well, that's a bit of a stretch, of course, but you get the gist... Basically, they're immortal; it's their undeniable advantage. But the thing is, while immortality may seem like an unattainable blessing to the outside world, for the Lions themselves, it's the most terrible curse. Considering the fact that you'd never be able to get rid of a Lion serial killer, for example, because you couldn't do anything to them. For such cases, Vitae Nostra scientists developed Quark-Level Disintegrators - machines capable of splitting Lions into millions of particles, then destroying each particle one by one. It's a rather terrifying method of execution, considering that Lions-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1413
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1421
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (LEGAL): New Roads Project\n"
-"\tDESTINATION POINT: U-E33, Star Shipyards, Astrotrain Station, Engine Compartment\n"
-"\tPRODUCT: Special Marked Order No.14\n"
-"\tTOTAL CARGO QUANTITY: 4\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1431
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1433
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1436
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1438
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1441
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1443
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1446
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1448
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1451
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1467
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1479
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1487
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1489
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Hmm... We haven't received orders from the Star Shipyards in a while. They're usually self-sufficient in laying out new Lightways, but something must have gone wrong this time. It's a good thing the Central Alliance has taken a serious approach to renovating the space ways. Traveling along them has become much more pleasant, less unsettling. There were reports earlier, though hardly provable, that Light Bridges have a certain chance of being completely destroy... No, that's not the word. Completely ERASE from ALL reality certain ships, with an extremely small chance. Nothing remains of such an erased ship - it disappears not just as a ship, but as the concept of a ship! Don't you understand? Well, there are certain peculiarities of our universe at play here, basically, it all boils down to the fact that the Prime God Thesis once-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1497
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1505
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Gikok Perpetiel\n"
-"\tDESTINATION POINT: U-E33, Outer Consulate, Gerves Star System, Planet Andrion, Nakatomi Settlement\n"
-"\tPRODUCT: Multifunctional Drones\n"
-"\tTOTAL CARGO QUANTITY: 4\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1515
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1517
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1520
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1522
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1525
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1527
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1530
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1532
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1535
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1551
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1563
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1571
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1573
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"We know little about the Outer Consulate... Its agents are somehow connected to the Work, to the Creators, interacting with them somehow, despite being at a great distance from them... What's even funnier is that this time, one of the agents ordered four whole crates of drones! Did you know that they simply hate any mechanics? Even their spaceships don't have a single mechanical part - only biocomponents, and instead of artificial intelligence, the ships have the developed consciousness of a living being! Isn't it amazing? You know what's even more amazing? There are rumors that one of the agents once killed one of the-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1581
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1589
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Pus Coloris"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1599
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1601
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1604
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1606
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1609
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1611
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1614
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1628
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1640
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1648
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1650
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Oh, Monochrome. A dying world. One of the worlds with the most tragic fate. It so happens to be located right on the border between Postulate's body and our observable universe. The Darkness consumes Monochrome daily, but this planet is incapable of dying completely. It is a deeply mystical world, not destroyed by Postulate's powers, but perhaps rather fed by them. However, this does not mean that Monochrome's inhabitants should not defend themselves - on the contrary, a complete transition to the power of the Darkness, while making them much stronger, will hardly make them happier, I suppose... Oh, I never told you who Postulate is, did I? Well, this being - or rather, the Creator - from whose flesh all things are woven in-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1658
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1666
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): [UNDEFINED]\n"
-"\tDESTINATION POINT: U-E33, First Nebulae\n"
-"\tPRODUCT: Educational Materials\n"
-"\tCOMMENT: Throw the cargo into the nebula space.\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1677
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1679
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1682
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1684
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1687
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1689
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1692
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1706
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1718
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1726
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1728
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Funny delivery. The First Nebulae are essentially one large collective intelligence in the form of a nebula. Each individual particle, of course, has consciousness and can communicate with other particles individually, but together they represent something like a Boltzmann brain. Ever heard of such a thing? The First Nebulae - as a single collective intelligence - rarely interact with other representatives of intelligent life, but it seems they have now shown an interest in us for some reason. Oh, did you know that these are some of the most ancient beings in our Universe? Although there is debate about which space civilizations exactly were among the First, the First Nebulae surely hide in their depths one of the fragments of the key that unlocks the mysterious-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1736
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1744
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): [UNDEFINED]\n"
-"\tDESTINATION POINT: U-E33, Work, Sphere of Notation\n"
-"\tPRODUCT: Special Marked Order No.02\n"
-"\tTOTAL CARGO QUANTITY: 3\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1754
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1756
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1759
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/text"
-msgstr "Continue preparation..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1761
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/text"
-msgstr "You continue to prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1764
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1766
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1769
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1783
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1795
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1803
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1805
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"Is it... Delivery directly to the Work? I mean... TO THE WORK? Seriously, and you were the one tasked with preserving this cargo and bringing it here? Did you know that the Creators are the gods of our world? They have mastered any craft; if they so choose, they can craft themselves a THOUSAND of these boxes! Knowing this makes me think that this cargo might contain something very important - for the Creators and for the Work as a whole. Something that even the gods cannot create or recreate... Wait, so this is also delivery directly to the SPHERE OF NOTATION! Colleague, the Creator who lives within it has never before-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1813
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1821
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/text"
 msgstr ""
-"ATTENTION! New delivery available.\n"
-"\t\n"
-"\tCUSTOMER (INDIVIDUAL): Savinir Rain\n"
-"\tDESTINATION POINT: U-E33, Terra Ultima, Solar Star System, Planet Earth, Floating City Hereditas, Terra Research Institute\n"
-"\tPRODUCT: Scientific Products\n"
-"\tTOTAL CARGO QUANTITY: 2\n"
-"\tCARGO TRANSFER PROCESS: Indirect"
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1831
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/text"
-msgstr "Prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1833
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/text"
-msgstr "You prepare cargo for delivery."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1836
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/text"
-msgstr "Finish preparation."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1838
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/event/text"
 msgstr ""
-"You're finishing preparing the cargo for delivery. It's time to deliver it "
-"to its destination."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1841
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1853
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/beaconType/unvisitedTooltip"
-msgstr "This is where you must deliver Neostar cargo."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1865
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/text"
 msgstr ""
-"You arrive at the delivery coordinates. There's an active wormhole nearby, near which another Neostar ship is drifting arounf. It contacts you. \n"
-"\n"
-"On the vidscreen appears anthropomorphic amphibian of the same race as your employers, albeit very tired. This is Uriel the Tailed, assigned to Neostar as your assistant, fulfilling your duties in the other universe while you are a Junior Associate. Due to your special status, you cannot deliver cargo directly - you must do so through him personally."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1873
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1875
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/event/text"
 msgstr ""
-"Uriel the Tailed greets you in a friendly manner and for some reason decides to tell you about this delivery.\n"
-"\t\t\t\n"
-"\t\t\t\"You know, colleague, Savinir Rain is a very important person. He was essentially one of the original founders of Terra Ultima, along with... Elizabeth? Yes, that's her name, I think. I wonder why he needed even more scientific instruments when the Terra Research Institute already has plenty. Did you know that institute is one of the largest in the entire Terra Ultima? It practically takes up the entire area of the floating city! Oh, and you don't even know why the entire Earth is now completely covered in water, with not a single patch of land, do you? Well, it all began when the Earth's oceans turned the color of blood-...\"\n"
-"\t\t\t\n"
-"\t\t\tSuddenly, an audio alert comes from your colleague's Neostar Form, informing that Uriel the Tailed has been fined for excessive chatter. Well, time to get to work.\n"
-"\t\t\t\n"
-"\t\t\tATTENTION: Transfer any Neostar Crates (R) you have via the Neostar Form (R) menu."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1883
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1891
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/text"
-msgstr "Are you sure you have transferred all Neostar Crates (R)?"
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1893
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/text"
-msgstr "Yes."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1895
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/event/text"
 msgstr ""
-"Your colleagues are returning to their home universe through the wormhole, "
-"which is quickly closing. It's time for you to leave too."
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1902
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1908
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/text"
-msgstr "No."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1910
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/event/text"
-msgstr "You decide to make sure that all the cargo has been delivered."
+msgstr ""
 
 #: src-en/data/events_special_eg_neostar_cargo.xml:1913
 msgid ""
 "data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/event/choice/text"
-msgstr "Continue..."
+msgstr ""

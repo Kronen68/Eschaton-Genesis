@@ -15,7 +15,7 @@ msgid ""
 "data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_2_TEXT\"]/text"
 msgstr ""
 "\"I sense danger ahead. Let me help you explore the surrounding area and "
-"look for something useful.\" You instruct your crewmembers to stand down, "
+"look for something useful.\" You instruct your crew members to stand down, "
 "and Mirrored disappears. A few minutes later, she returns with some scrap "
 "that she managed to find and carry away herself."
 

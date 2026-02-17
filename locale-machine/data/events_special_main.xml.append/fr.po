@@ -8,292 +8,243 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:19
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/tooltip"
-msgstr "View the benefits of a civilian vessel."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:20
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/inactiveTooltip"
-msgstr "Civilian vessel benefits are not currently available."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:39
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/tooltip"
-msgstr "Neostar Form (R) Menu."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:40
 msgid ""
 "data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/inactiveTooltip"
-msgstr "You must be out of danger!"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:52
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/text"
 msgstr ""
-"What do you want to do on your civilian ship? Each action takes one jump. "
-"You can only use these actions once per beacon."
 
 #: src-en/data/events_special_main.xml.append:54
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
 " and @lvl=\"0 \"]/text"
-msgstr "Complete the official registration of a civil vessel."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:56
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
 " and @lvl=\"0 \"]/event/text"
 msgstr ""
-"You'll go through the process of assigning and confirming your ship's civilian status. This takes some time, but at least your peaceful intentions will be much easier to demonstrate and prove. This status doesn't restrict you in any way.\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED X2 - GENERAL]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED X2 - UNION]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - HARMONY]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - MINISTRY]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - GATHERING]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - FREE MANTIS]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - GENIOCRACY]\n"
-"\t\t\t\n"
-"\t\t\t[NOTORIETY DECREASED - OUTCASTS]"
 
 #: src-en/data/events_special_main.xml.append:93
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
 " and @lvl=\"0 \"]/event/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:99
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Complete the official registration of a civilian vessel to gain access to "
-"special features."
 
 #: src-en/data/events_special_main.xml.append:103
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"loc_laststand\"]/text"
-msgstr "You don't have time to deal with such trifles!"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:107
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[4]/text"
-msgstr "Find someone to ask for free resources."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:111
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[5]/text"
-msgstr "Trade resources with other civilian ships you can find."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:115
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[6]/text"
-msgstr "Look around for some store."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:119
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[7]/text"
-msgstr "Return."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:194
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[1]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:203
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[2]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:212
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[3]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:222
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[4]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:232
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[5]/text"
-msgstr "Do not exchange."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:242
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[1]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:251
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[2]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:261
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[3]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:270
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[4]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:279
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[5]/text"
-msgstr "Exchange:"
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:289
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[6]/text"
-msgstr "Do not exchange."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:300
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_1\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:312
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_2\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:318
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/text"
-msgstr "You find nothing around. Time is wasted."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:322
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:336
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_1\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:350
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_2\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:366
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_3\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:371
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/text"
 msgstr ""
-"While you were trying to find anyone nearby, sensors detected the "
-"instantaneous teleportation of your resources from your cargo hold. Someone "
-"had robbed you and instantly disappeared, leaving no trace behind."
 
 #: src-en/data/events_special_main.xml.append:381
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/choice/text"
-msgstr "Continue..."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:387
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[1]"
 msgstr ""
-"Another peacefully-minded ship flies past you. You explain to it that you're"
-" slightly short on resources, and it agrees to help you out a bit."
 
 #: src-en/data/events_special_main.xml.append:388
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[2]"
 msgstr ""
-"You contact the passing ship. Its captain accepts the call, and you explain "
-"to it that you're slightly short on resources. They agree to help you a bit."
 
 #: src-en/data/events_special_main.xml.append:389
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[3]"
 msgstr ""
-"Out of the kindness of its heart, the passing ship decides to give you some "
-"resources after learning that you're planning to crush the Rebellion in this"
-" universe."
 
 #: src-en/data/events_special_main.xml.append:393
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[1]"
 msgstr ""
-"A ship damaged by pirates flies near you. You contact it and offer a barter."
 
 #: src-en/data/events_special_main.xml.append:394
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[2]"
 msgstr ""
-"Other civilians fly past you. They are short of certain resources and agree "
-"to barter."
 
 #: src-en/data/events_special_main.xml.append:395
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[3]"
-msgstr "A ship contacts you and offers a barter before you do."
+msgstr ""
 
 #: src-en/data/events_special_main.xml.append:399
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[1]"
 msgstr ""
-"You're looking for a store in the area and finally find one. Its owner is "
-"happy to see new customers."
 
 #: src-en/data/events_special_main.xml.append:400
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[2]"
 msgstr ""
-"Not far from this beacon, you find a small mobile trading station. You dock "
-"with it without any problems."
 
 #: src-en/data/events_special_main.xml.append:401
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[3]"
 msgstr ""
-"There's an outpost on the nearest planet. Its inhabitants agree to trade "
-"with you."
 
 #: src-en/data/events_special_main.xml.append:404
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[1]"
 msgstr ""
-"You're looking for a store in the area and finally find one. Its owner is "
-"happy to see new customers and is even willing to provide you with free "
-"repairs at the business's expense."
 
 #: src-en/data/events_special_main.xml.append:405
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[2]"
 msgstr ""
-"Not far from this beacon, you find a small mobile trading station. As one of"
-" its visitors, they've decided to offer you a small, free repair."
 
 #: src-en/data/events_special_main.xml.append:406
 msgid ""
 "data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[3]"
 msgstr ""
-"There's an outpost on the nearest planet. Its inhabitants agree to trade "
-"with you and provide free repairs."
 
 #: src-en/data/events_special_main.xml.append:410
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/text"
 msgstr ""
-"You've explored the surrounding area to no avail and stumbled into an "
-"asteroid field. It seems luck is not on your side."
 
 #: src-en/data/events_special_main.xml.append:415
 msgid ""
 "data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/choice/text"
-msgstr "Continue..."
+msgstr ""

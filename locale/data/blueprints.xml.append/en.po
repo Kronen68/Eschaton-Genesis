@@ -497,7 +497,7 @@ msgstr "White Garden"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
 "Emperor's clone's beautiful garden is located at the stern of the ship. If "
-"the oxygen system is powered, each unit of energy in it gives +10% to the "
+"the oxygen system is powered, each unit of energy in it gives +15% to the "
 "maximum health and +10% to the movement speed of each allied crew member on "
 "your ship and the enemy ship. In addition, it provides a fixed +30% "
 "resistance to suffocation and 1 HP/s regeneration."
@@ -923,18 +923,18 @@ msgstr "Drone laser"
 #: src-en/data/blueprints.xml.append:822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr "\"Point of View\""
+msgstr "'Point of View'"
 
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr "\"Point of View\""
+msgstr "'Point of View'"
 
 #: src-en/data/blueprints.xml.append:824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
 msgstr ""
-"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
+"[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 "
 "point of hull damage for each room it hits. It guarantees to stun the enemy "
 "crew for 15 seconds."
 
@@ -942,32 +942,32 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
 msgstr ""
-"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
+"[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 "
 "point of hull damage for each room it hits. It guarantees to stun the enemy "
 "crew for 15 seconds."
 
 #: src-en/data/blueprints.xml.append:853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr "\"Persuasion\""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr "\"Persuasion\""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
 msgstr ""
-"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
+"[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 "
 "system damage."
 
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
 msgstr ""
-"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
+"[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 "
 "system damage."
 
 #: src-en/data/blueprints.xml.append:884
@@ -1010,16 +1010,16 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
 msgstr ""
 "[Base cooldown: 20] This beetle spits acid projectiles that corrode the "
-"enemy crew. Their spit deal 30 damage to the crew and have a guaranteed "
-"chance to stun it for 10 seconds. Pierces 1 sheild layer."
+"enemy crew. Their spit deal 45 damage to the crew and have a guaranteed "
+"chance to stun them for 10 seconds. Pierces 5 shield layers."
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
 msgstr ""
 "[Base cooldown: 20] This beetle spits acid projectiles that corrode the "
-"enemy crew. Their spit deal 30 damage to the crew and have a guaranteed "
-"chance to stun it for 10 seconds. Pierces 1 sheild layer."
+"enemy crew. Their spit deal 45 damage to the crew and have a guaranteed "
+"chance to stun them for 10 seconds. Pierces 5 shield layers."
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
@@ -1037,7 +1037,7 @@ msgid ""
 msgstr ""
 "[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's "
 "systems, dealing 2 damage each. Creates a breach in the room with a moderate"
-" chance."
+" chance. Pierces 2 shield layers."
 
 #: src-en/data/blueprints.xml.append:958
 msgid ""
@@ -1045,7 +1045,7 @@ msgid ""
 msgstr ""
 "[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's "
 "systems, dealing 2 damage each. Creates a breach in the room with a moderate"
-" chance."
+" chance. Pierces 2 shield layers."
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
@@ -1939,8 +1939,7 @@ msgstr ""
 "All things that become obsolete, whether morally or physically, inevitably "
 "end up in the scrapyard, and so this ship once found itself in the "
 "scrapyard. At least Phantoms who found it were able to restore its basic "
-"functionality and even attach a scrap arm to it, which, incidentally, is "
-"capable of collecting spent ASB platforms."
+"functionality and even significantly improve the shields system."
 
 #: src-en/data/blueprints.xml.append:3362
 msgid ""
@@ -2520,8 +2519,8 @@ msgstr "Miracle Seeker"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
 msgstr ""
-"Active Ability: Allows the ship to ignore all hull damage (except damage "
-"from sabotage) for 6 seconds"
+"Active Ability: Allows the ship to ignore system damage with 50% chance and "
+"hull damage with 100% chance (except damage from sabotage) for 7 seconds"
 
 #: src-en/data/blueprints.xml.append:4637
 msgid ""
@@ -2565,7 +2564,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
 msgstr ""
 "Has 400 health and takes only 0.9x damage from all sources, but movement "
-"speed is reduced to 0.6x and damage is reduced to 0.45x."
+"speed is reduced to 0.55x and damage is reduced to 0.45x."
 
 #: src-en/data/blueprints.xml.append:4652
 msgid ""
@@ -2596,7 +2595,7 @@ msgid ""
 msgstr ""
 "Active Ability: Activation of neural implant. Each member of the White Guard"
 " on your ship and the enemy ship receives a 2.2x multiplier to damage in "
-"combat, speed, repair speed, and sabotage speed, as well as 2.5 HP/s "
+"combat, speed, repair speed, and sabotage speed, as well as 2 HP/s "
 "regeneration for 15 seconds."
 
 #: src-en/data/blueprints.xml.append:4664
@@ -2604,7 +2603,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
 msgstr ""
 "Has 350 health and takes only 0.9x damage from all sources, but movement "
-"speed is reduced to 0.7x and damage is reduced to 0.35x"
+"speed is reduced to 0.65x and damage is reduced to 0.35x"
 
 #: src-en/data/blueprints.xml.append:4665
 msgid ""
@@ -2634,12 +2633,12 @@ msgstr "White Guard"
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
-msgstr "Max Health increased to 180"
+msgstr "Max Health increased to 170"
 
 #: src-en/data/blueprints.xml.append:4678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
-msgstr "Damage and movement speed increased to 1.5x"
+msgstr "Damage and movement speed increased to 1.35x"
 
 #: src-en/data/blueprints.xml.append:4679
 msgid ""
@@ -2657,7 +2656,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
-msgstr "Second Voice's officiary"
+msgstr "Second Voice's Officiary"
 
 #: src-en/data/blueprints.xml.append:4688
 msgid ""

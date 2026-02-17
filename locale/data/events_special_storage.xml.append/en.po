@@ -28,8 +28,8 @@ msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/text"
 msgstr ""
-"(Insect meat) Find a place where it can be sold. [Fleet will approach by 1 "
-"jump]"
+"(Insect meat) Find a place where it can be sold.\n"
+"\t\t[Fleet will approach by 1 jump]"
 
 #: src-en/data/events_special_storage.xml.append:34
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/removeCrew/text"
 msgstr ""
 "The data in the clone-bay about your crew member have been irretrievably "
-"deleted. It is impossible to bring him back to life."
+"deleted. It is impossible to bring them back to life."
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
@@ -1032,7 +1032,7 @@ msgid ""
 "append:choice[5]/event/choice[1]/event/removeCrew/text"
 msgstr ""
 "The data in the clone-bay about your crew member have been irretrievably "
-"deleted. It is impossible to bring him back to life."
+"deleted. It is impossible to bring them back to life."
 
 #: src-en/data/events_special_storage.xml.append:704
 msgid ""

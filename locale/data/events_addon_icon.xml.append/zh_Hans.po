@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-26 12:44+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/eschaton-genesis/dataevents_addon_iconxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_addon_icon.xml.append:4
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_EG\"]/hover-text"
@@ -25,9 +18,7 @@ msgstr ""
 "\t开发者：Eschaton\n"
 "\t当前状态：已启用\n"
 "\t\t\t\n"
-"\t本扩展模组专注于新增“奇迹追寻者”的故事线。通过在第五星区完成其各类任务并提"
-"升声望，你将深入了解本宇宙之外的诸般世界。该组织无疑隐藏着诸多秘密，但只要作"
-"为其盟友，双方关系将互利共存。\n"
+"\t本扩展模组专注于新增“奇迹追寻者”的故事线。通过在第五星区完成其各类任务并提升声望，你将深入了解本宇宙之外的诸般世界。该组织无疑隐藏着诸多秘密，但只要作为其盟友，双方关系将互利共存。\n"
 "\t\n"
 "\t当前模组内容包含：\n"
 "\t5条任务线\n"
@@ -36,3 +27,14 @@ msgstr ""
 "\t1个全新种族\n"
 "\t4场高难度迷你首领战\n"
 "\t新增增强模块块与武器"
+
+#: src-en/data/events_addon_icon.xml.append:23
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_UT_DISABLED\"]/hover-"
+"text"
+msgstr ""
+
+#: src-en/data/events_addon_icon.xml.append:25
+msgid ""
+"data/events_addon_icon.xml.append$//event[@name=\"ADDON_UT_DISABLED\"]/text"
+msgstr ""

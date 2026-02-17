@@ -9,16 +9,16 @@ msgstr ""
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[1]/text"
-msgstr "EG: 他的洞悉之瞳 (成功确认 - 罗科特)"
+msgstr "EG: Their Perceptive Gaze (Success Affirmations - Rockot)"
 
 #: src-en/data/events_special_jukebox.xml.append:14
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[2]/text"
-msgstr "EG: （你是）连续性破坏者（颤栗通告 - 罗科特）"
+msgstr "EG: (You are) Violator of Continuity (TREMORE - Rockot)"
 
 #: src-en/data/events_special_jukebox.xml.append:21
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[3]/text"
-msgstr "EG: 弄臣之诡谋（伺服宣告 - 罗科特）"
+msgstr "EG: Jester's Machinations (SERVER - Rockot)"

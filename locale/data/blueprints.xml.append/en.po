@@ -6,45 +6,151 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src-en/data/blueprints.xml.append:6
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
+msgstr "Splinter"
+
+#: src-en/data/blueprints.xml.append:7
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
+msgstr "A splinter. You were hardly supposed to see this."
+
+#: src-en/data/blueprints.xml.append:17
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
+msgstr "Neostar Crate (R)"
+
+#: src-en/data/blueprints.xml.append:18
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
+msgstr "Neostar Crate (R)"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
+msgstr ""
+"A crate filled to the brim with a wide variety of cargo, a cutting-edge development from Neostar Megacorp (R)! Thanks to certain disruptions in the space-time continuum, it can hold at least three times more cargo than any similarly sized crate from our competitors!\n"
+"\tNOTE for Neostar (R) employees: Deliver the cargo at any cost. Do not attempt to sell it by any known means or hack it - the Neostar Megacorp Specialized Security System (R) will immediately destroy the contents of the crate, and if the cargo is confirmed lost, you will be subject to penalties."
+
+#: src-en/data/blueprints.xml.append:21
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
+msgstr "Storage Weapon"
+
+#: src-en/data/blueprints.xml.append:36
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
+msgstr "Corporate's Portrait"
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
+msgstr ""
+"A golden-haired man in a pressed formal suit and sunglasses looks out at you"
+" from this portrait, smiling gently. It's a personal gift from Corporate, "
+"and it features him, no matter how arrogant it may seem. While the portrait "
+"is on your ship, your crew receives a 20% bonus to repair and movement "
+"speed, and a 30% bonus to healing speed on all ships."
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
+msgstr "Alliance Agreement"
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
+msgstr ""
+"A completely useless document. Does absolutely nothing. Can be sold for 30 "
+"scrap."
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
+msgstr "Civilians"
+
+#: src-en/data/blueprints.xml.append:53
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
+msgstr ""
+"Your ship is a Second Voice civilian vessel. Like any civilian ship, it's "
+"very small and has a number of significant drawbacks, but it also offers you"
+" subtle advantages. You can declare your ship as a civilian ship in a "
+"special menu, receiving a reduction in overall notoriety and notoriety for "
+"most peaceful factions, and then gaining access to other features in this "
+"menu. The maneuverability and speed of a civilian ship allows you to salvage"
+" 25% more scrap from most sources. Ship's small size allows weapons to "
+"recharge 10% faster and shields to recharge 15% faster."
+
+#: src-en/data/blueprints.xml.append:61
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
+msgstr "Second Voice Ship"
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/desc"
+msgstr "You probably shouldn't have seen that."
+
+#: src-en/data/blueprints.xml.append:71
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
+msgstr "Loyalty Program (R)"
+
+#: src-en/data/blueprints.xml.append:72
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
+msgstr ""
+"Are you a Junior Employee at Neostar Megacorp (R), a cutting-edge space Megacorporation (R) focused on Innovative Developments (R) and Cargo Transportation (R)? Did you take this job without any idea what to expect? No problem - our Neostar Megacorp Junior Delivery Employee Training Guide (R), integrated directly into your Neostar Form (R), as well as our Loyalty Program (R), will help you adapt to the new work environment! You've probably noticed your expanded cargo hold, filled to the brim with various cargo. With your Neostar Form (R), you can receive special cargo delivery tasks, complete them, and earn pay for them, which also increases your Loyalty Level (R). Each new Loyalty Level (R) brings you closer to promotion and earns you Premium Rewards (R). Wasn't it all much easier than you imagined, and now you're relieved to find out you've landed such a simple job? Well then, good luck, Neostar Megacorp (R) Junior Employee! Any questions? Please refer to the Junior Employee FAQ (R) on your Neostar Form (R)!\n"
+"\n"
+"\tNOTE: Neostar Megacorp (R) does not guarantee your safety during cargo delivery. Call 8-800-555-35-35 to file complaints or suggestions. Remember: Neostar Megacorp (R) cares about your well-being!"
+
+#: src-en/data/blueprints.xml.append:82
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
+msgstr "Neostar Ship"
+
+#: src-en/data/blueprints.xml.append:83
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
+msgstr "You probably shouldn't have seen that."
+
+#: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
 msgstr "Dream Seeker's Heart"
 
-#: src-en/data/blueprints.xml.append:7
+#: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
 msgstr ""
 "Allows your crew to ignore mind control. Your own mind control will recharge"
 " 5 seconds faster."
 
-#: src-en/data/blueprints.xml.append:16
+#: src-en/data/blueprints.xml.append:102
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
 msgstr "Armor Plate"
 
-#: src-en/data/blueprints.xml.append:17
+#: src-en/data/blueprints.xml.append:103
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
 msgstr ""
 "Armor Plate attaches to your ship, preventing damage to the hull with a 5% "
 "chance and damage to systems with a 10% chance. It can be integrated into "
 "the ship via storage menu so that it does not occupy an augment slot."
 
-#: src-en/data/blueprints.xml.append:25
+#: src-en/data/blueprints.xml.append:111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
 msgstr "Armor Plate"
 
-#: src-en/data/blueprints.xml.append:26
+#: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
 msgstr ""
 "Armor Plate attaches to your ship, preventing damage to the hull with a 5% "
 "chance and damage to systems with a 10% chance."
 
-#: src-en/data/blueprints.xml.append:35
+#: src-en/data/blueprints.xml.append:121
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
 msgstr "Hall of Dreams"
 
-#: src-en/data/blueprints.xml.append:36
+#: src-en/data/blueprints.xml.append:122
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
 msgstr ""
 "Your faith allows you to pray to All-Desired Dream for specific assistance "
@@ -52,12 +158,12 @@ msgstr ""
 "empty beacons. The residual powers of Dreamer, which entered this universe "
 "along with this ship, will try to fulfill your dream."
 
-#: src-en/data/blueprints.xml.append:44
+#: src-en/data/blueprints.xml.append:130
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
 msgstr "Cult of Dreams"
 
-#: src-en/data/blueprints.xml.append:45
+#: src-en/data/blueprints.xml.append:131
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
 msgstr ""
@@ -67,44 +173,44 @@ msgstr ""
 "assistance in battle, but you will have to pay for it with the life of one "
 "of your crew members..."
 
-#: src-en/data/blueprints.xml.append:53
+#: src-en/data/blueprints.xml.append:139
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
 msgstr "Church of the All-Desired Dream"
 
-#: src-en/data/blueprints.xml.append:54
+#: src-en/data/blueprints.xml.append:140
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:63
+#: src-en/data/blueprints.xml.append:149
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
 msgstr "Guardians Protector"
 
-#: src-en/data/blueprints.xml.append:64
+#: src-en/data/blueprints.xml.append:150
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
 msgstr ""
 "An almost indestructible super shield with 120 points of integrity. "
 "Increases the recharge rate of normal shields by 150%."
 
-#: src-en/data/blueprints.xml.append:73
+#: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
 msgstr "Impenetrable Armor"
 
-#: src-en/data/blueprints.xml.append:74
+#: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:82
+#: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
 msgstr "Impenetrable Armor I"
 
-#: src-en/data/blueprints.xml.append:83
+#: src-en/data/blueprints.xml.append:169
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
 msgstr ""
@@ -118,12 +224,12 @@ msgstr ""
 "ram enemies before combat. Each ship armor upgrade will cost your ship 20 "
 "damage."
 
-#: src-en/data/blueprints.xml.append:91
+#: src-en/data/blueprints.xml.append:177
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
 msgstr "Impenetrable Armor II"
 
-#: src-en/data/blueprints.xml.append:92
+#: src-en/data/blueprints.xml.append:178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
 msgstr ""
@@ -136,12 +242,12 @@ msgstr ""
 "will gain the ability to ram enemies before combat. Each ship armor upgrade "
 "will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:100
+#: src-en/data/blueprints.xml.append:186
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/title"
 msgstr "Impenetrable Armor III"
 
-#: src-en/data/blueprints.xml.append:101
+#: src-en/data/blueprints.xml.append:187
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
 msgstr ""
@@ -154,12 +260,12 @@ msgstr ""
 " your ship will gain the ability to ram enemies before combat. Each ship "
 "armor upgrade will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:109
+#: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
 msgstr "Impenetrable Armor IV"
 
-#: src-en/data/blueprints.xml.append:110
+#: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
 msgstr ""
@@ -172,12 +278,12 @@ msgstr ""
 " your ship will gain the ability to ram enemies before combat. Each ship "
 "armor upgrade will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:118
+#: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/title"
 msgstr "Impenetrable Armor V"
 
-#: src-en/data/blueprints.xml.append:119
+#: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
 msgstr ""
@@ -190,12 +296,12 @@ msgstr ""
 " now ram your enemy before combat. Each ship armor upgrade will cost your "
 "ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:127
+#: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/title"
 msgstr "Impenetrable Armor VI"
 
-#: src-en/data/blueprints.xml.append:128
+#: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
 msgstr ""
@@ -208,12 +314,12 @@ msgstr ""
 " now ram your enemy before combat. Each ship armor upgrade will cost your "
 "ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:136
+#: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/title"
 msgstr "Impenetrable Armor VII"
 
-#: src-en/data/blueprints.xml.append:137
+#: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
 msgstr ""
@@ -225,12 +331,12 @@ msgstr ""
 "subsequent upgrade. In addition, you can now ram your enemy before combat. "
 "Each ship armor upgrade will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:145
+#: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/title"
 msgstr "Impenetrable Armor VIII"
 
-#: src-en/data/blueprints.xml.append:146
+#: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
 msgstr ""
@@ -242,12 +348,12 @@ msgstr ""
 "subsequent upgrade. In addition, you can now ram your enemy before combat. "
 "Each ship armor upgrade will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:154
+#: src-en/data/blueprints.xml.append:240
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/title"
 msgstr "Impenetrable Armor IX"
 
-#: src-en/data/blueprints.xml.append:155
+#: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
 msgstr ""
@@ -259,12 +365,12 @@ msgstr ""
 "subsequent upgrade. In addition, you can now ram your enemy before combat. "
 "Each ship armor upgrade will cost your ship 20 damage."
 
-#: src-en/data/blueprints.xml.append:163
+#: src-en/data/blueprints.xml.append:249
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/title"
 msgstr "Impenetrable Armor X"
 
-#: src-en/data/blueprints.xml.append:164
+#: src-en/data/blueprints.xml.append:250
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
 msgstr ""
@@ -273,12 +379,12 @@ msgstr ""
 "reload by 34%. You have the ability to ram enemies before combat. Good luck,"
 " Renegade."
 
-#: src-en/data/blueprints.xml.append:173
+#: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
 msgstr "ASB-Platform Printer"
 
-#: src-en/data/blueprints.xml.append:174
+#: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
 msgstr ""
@@ -287,12 +393,12 @@ msgstr ""
 "You can also install a Scrap Arm or Magnetic Arm and launch the platform for"
 " free."
 
-#: src-en/data/blueprints.xml.append:182
+#: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
 msgstr "ASB-Platform Printer"
 
-#: src-en/data/blueprints.xml.append:183
+#: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
 msgstr ""
@@ -302,22 +408,22 @@ msgstr ""
 " free. [You can discard or sell this augment; it is built into the ship and "
 "is only here for informational purposes]."
 
-#: src-en/data/blueprints.xml.append:191
+#: src-en/data/blueprints.xml.append:277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/title"
 msgstr "Lesser Guardian"
 
-#: src-en/data/blueprints.xml.append:192
+#: src-en/data/blueprints.xml.append:278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:199
+#: src-en/data/blueprints.xml.append:285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/title"
 msgstr "Termite Colony"
 
-#: src-en/data/blueprints.xml.append:200
+#: src-en/data/blueprints.xml.append:286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
 msgstr ""
@@ -327,37 +433,37 @@ msgstr ""
 "chance to ignore damage to the hull. Only insectoid races are capable of "
 "moving between beetles."
 
-#: src-en/data/blueprints.xml.append:208
+#: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/title"
 msgstr "Termite Swarm"
 
-#: src-en/data/blueprints.xml.append:209
+#: src-en/data/blueprints.xml.append:295
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:216
+#: src-en/data/blueprints.xml.append:302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
 msgstr "Emperor White's ship"
 
-#: src-en/data/blueprints.xml.append:217
+#: src-en/data/blueprints.xml.append:303
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:223
+#: src-en/data/blueprints.xml.append:309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
 msgstr "Emperor White's clone ship"
 
-#: src-en/data/blueprints.xml.append:224
+#: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:230
+#: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
 msgstr "Phytocenosis Prototype"
 
-#: src-en/data/blueprints.xml.append:231
+#: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
 msgstr ""
@@ -368,12 +474,12 @@ msgstr ""
 "the instability of the prototype, the repair speed of the ship's systems is "
 "reduced to 50%."
 
-#: src-en/data/blueprints.xml.append:237
+#: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/title"
 msgstr "Living Phytocenosis"
 
-#: src-en/data/blueprints.xml.append:238
+#: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
 msgstr ""
@@ -383,11 +489,11 @@ msgstr ""
 "phytocenosis spread throughout the ship and deal 1 HP/s damage to enemy "
 "boarders and repair breaches in the rooms."
 
-#: src-en/data/blueprints.xml.append:244
+#: src-en/data/blueprints.xml.append:330
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
 msgstr "White Garden"
 
-#: src-en/data/blueprints.xml.append:245
+#: src-en/data/blueprints.xml.append:331
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
 "Emperor's clone's beautiful garden is located at the stern of the ship. If "
@@ -396,19 +502,19 @@ msgstr ""
 "your ship and the enemy ship. In addition, it provides a fixed +30% "
 "resistance to suffocation and 1 HP/s regeneration."
 
-#: src-en/data/blueprints.xml.append:252
+#: src-en/data/blueprints.xml.append:338
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
 msgstr "Robur's Ship"
 
-#: src-en/data/blueprints.xml.append:253
+#: src-en/data/blueprints.xml.append:339
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:260
+#: src-en/data/blueprints.xml.append:346
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
 msgstr "Glass Ship"
 
-#: src-en/data/blueprints.xml.append:261
+#: src-en/data/blueprints.xml.append:347
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
 msgstr ""
 "The hull of this ship is made entirely of a special type of glass. Although "
@@ -417,61 +523,61 @@ msgstr ""
 "extinguished on the ship, and crew memberes become immune to mind control. "
 "As a bonus, you get a 10% increase in weapons reload speed."
 
-#: src-en/data/blueprints.xml.append:269
+#: src-en/data/blueprints.xml.append:355
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/title"
 msgstr "Glass Ship"
 
-#: src-en/data/blueprints.xml.append:270
+#: src-en/data/blueprints.xml.append:356
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:276
+#: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/title"
 msgstr "Mirrored's Ship"
 
-#: src-en/data/blueprints.xml.append:277
+#: src-en/data/blueprints.xml.append:363
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:284
+#: src-en/data/blueprints.xml.append:370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
 msgstr "Battery Pack"
 
-#: src-en/data/blueprints.xml.append:285
+#: src-en/data/blueprints.xml.append:371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
 msgstr ""
 "This pack obviously contains batteries. You can sell it for 65 scrap, or "
 "keep it to get +7% to your shield recharge and +5% to your weapon recharge."
 
-#: src-en/data/blueprints.xml.append:293
+#: src-en/data/blueprints.xml.append:379
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
 msgstr "High-Tech Battery"
 
-#: src-en/data/blueprints.xml.append:294
+#: src-en/data/blueprints.xml.append:380
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
 msgstr ""
 "You have recovered the high-tech batteries that were stolen from you by "
 "pirates. You can sell each one for 150 scrap, or keep them to gain +12% to "
 "your shield recharge and +9% to your weapon recharge."
 
-#: src-en/data/blueprints.xml.append:302
+#: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/title"
 msgstr "Battery Merchant's Ship"
 
-#: src-en/data/blueprints.xml.append:303
+#: src-en/data/blueprints.xml.append:389
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:310
+#: src-en/data/blueprints.xml.append:396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
 msgstr "Lunar Kiss"
 
-#: src-en/data/blueprints.xml.append:311
+#: src-en/data/blueprints.xml.append:397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
 msgstr ""
 "Thanks to the miniature star that serves as the ship's reactor and keeps it "
@@ -481,11 +587,11 @@ msgstr ""
 "to the star's activity. To keep the star operational, you are forced to burn"
 " 50% of all the scrap you find in it."
 
-#: src-en/data/blueprints.xml.append:319
+#: src-en/data/blueprints.xml.append:405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
 msgstr "Solara Kiss"
 
-#: src-en/data/blueprints.xml.append:320
+#: src-en/data/blueprints.xml.append:406
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
 msgstr ""
 "Thanks to the miniature star that serves as the ship's reactor and keeps it "
@@ -496,11 +602,11 @@ msgstr ""
 "star operational, you are forced to burn 50% of all the scrap you find in "
 "it."
 
-#: src-en/data/blueprints.xml.append:328
+#: src-en/data/blueprints.xml.append:414
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/title"
 msgstr "Astra Kiss"
 
-#: src-en/data/blueprints.xml.append:329
+#: src-en/data/blueprints.xml.append:415
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/desc"
 msgstr ""
 "Thanks to the miniature star that serves as the ship's reactor and keeps it "
@@ -512,37 +618,37 @@ msgstr ""
 " made sure that the other negative effects of the miniature star would no "
 "longer bother you."
 
-#: src-en/data/blueprints.xml.append:337
+#: src-en/data/blueprints.xml.append:423
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/title"
 msgstr "Moonless Ship"
 
-#: src-en/data/blueprints.xml.append:338
+#: src-en/data/blueprints.xml.append:424
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:344
+#: src-en/data/blueprints.xml.append:430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
 msgstr "Vakans' Ship"
 
-#: src-en/data/blueprints.xml.append:345
+#: src-en/data/blueprints.xml.append:431
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:352
+#: src-en/data/blueprints.xml.append:438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
 msgstr "Reapers' Ship"
 
-#: src-en/data/blueprints.xml.append:353
+#: src-en/data/blueprints.xml.append:439
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:360
+#: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/title"
 msgstr "Eschatologists"
 
-#: src-en/data/blueprints.xml.append:361
+#: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/desc"
 msgstr ""
@@ -554,22 +660,22 @@ msgstr ""
 "interference that the ship's crew follows, now it is up to you to decide "
 "whether to continue using them in your situation."
 
-#: src-en/data/blueprints.xml.append:369
+#: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/title"
 msgstr "Eschatologists' Ship"
 
-#: src-en/data/blueprints.xml.append:370
+#: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:377
+#: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/title"
 msgstr "Searcher"
 
-#: src-en/data/blueprints.xml.append:378
+#: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/desc"
 msgstr ""
@@ -581,28 +687,28 @@ msgstr ""
 "the Multiverse and can redirect them to yourself for battle for 7 fuel "
 "cells."
 
-#: src-en/data/blueprints.xml.append:386
+#: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/title"
 msgstr "Searcher"
 
-#: src-en/data/blueprints.xml.append:387
+#: src-en/data/blueprints.xml.append:473
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:394
+#: src-en/data/blueprints.xml.append:480
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
 msgstr "Precious Shard"
 
-#: src-en/data/blueprints.xml.append:395
+#: src-en/data/blueprints.xml.append:481
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
 msgstr "You probably shouldn't have seen that."
 
-#: src-en/data/blueprints.xml.append:401
+#: src-en/data/blueprints.xml.append:487
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
 msgstr "Sugilite Stone"
 
-#: src-en/data/blueprints.xml.append:402
+#: src-en/data/blueprints.xml.append:488
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/desc"
 msgstr ""
 "When an enemy weapon hits your ship's hull, a powerful shard of sugilite "
@@ -610,11 +716,11 @@ msgstr ""
 "shard almost always hits the target. Additionally, your ship has a 50% "
 "chance to ignore ion damage."
 
-#: src-en/data/blueprints.xml.append:408
+#: src-en/data/blueprints.xml.append:494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/title"
 msgstr "Aquamarine Stone"
 
-#: src-en/data/blueprints.xml.append:409
+#: src-en/data/blueprints.xml.append:495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/desc"
 msgstr ""
 "When an enemy weapon hits your ship's hull, a powerful shard of aquamarine "
@@ -622,11 +728,11 @@ msgstr ""
 "and guarantees a breache. The shard almost always hits the target. "
 "Additionally, your ship will automatically repair all breaches."
 
-#: src-en/data/blueprints.xml.append:415
+#: src-en/data/blueprints.xml.append:501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/title"
 msgstr "Carnelian Stone"
 
-#: src-en/data/blueprints.xml.append:416
+#: src-en/data/blueprints.xml.append:502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/desc"
 msgstr ""
 "When an enemy weapon hits your ship's hull, a powerful shard of carnelian "
@@ -634,138 +740,88 @@ msgstr ""
 "the hull, and is guaranteed to start a fire. The shard almost always hits "
 "the target. Additionally, your ship will automatically extinguish fires."
 
-#: src-en/data/blueprints.xml.append:422
+#: src-en/data/blueprints.xml.append:508
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/title"
 msgstr "Crystal Shards"
 
-#: src-en/data/blueprints.xml.append:423
+#: src-en/data/blueprints.xml.append:509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/desc"
 msgstr ""
 "These are fragments of a large crystal left over after your victory over the"
 " Precious Shard near the space-time rift. You can sell them for a profit of "
 "90 scrap."
 
-#: src-en/data/blueprints.xml.append:431
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr "\"Point of View\""
-
-#: src-en/data/blueprints.xml.append:432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr "\"Point of View\""
-
-#: src-en/data/blueprints.xml.append:433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
-msgstr ""
-"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
-"point of hull damage for each room it hits. It guarantees to stun the enemy "
-"crew for 15 seconds."
-
-#: src-en/data/blueprints.xml.append:434
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
-msgstr ""
-"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
-"point of hull damage for each room it hits. It guarantees to stun the enemy "
-"crew for 15 seconds."
-
-#: src-en/data/blueprints.xml.append:461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr "\"Persuasion\""
-
-#: src-en/data/blueprints.xml.append:462
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr "\"Persuasion\""
-
-#: src-en/data/blueprints.xml.append:463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
-msgstr ""
-"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
-"system damage."
-
-#: src-en/data/blueprints.xml.append:464
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
-msgstr ""
-"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
-"system damage."
-
-#: src-en/data/blueprints.xml.append:490
+#: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/title"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:491
+#: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/short"
 msgstr "EGCRYS"
 
-#: src-en/data/blueprints.xml.append:492
+#: src-en/data/blueprints.xml.append:519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/desc"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:493
+#: src-en/data/blueprints.xml.append:520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/tooltip"
 msgstr "Should Never See This Description."
 
-#: src-en/data/blueprints.xml.append:533
+#: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/title"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:534
+#: src-en/data/blueprints.xml.append:561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/short"
 msgstr "EGCRYS"
 
-#: src-en/data/blueprints.xml.append:535
+#: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/desc"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:536
+#: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/tooltip"
 msgstr "Should Never See This Description."
 
-#: src-en/data/blueprints.xml.append:576
+#: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/title"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:577
+#: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/short"
 msgstr "EGCRYS"
 
-#: src-en/data/blueprints.xml.append:578
+#: src-en/data/blueprints.xml.append:605
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/desc"
 msgstr "EG CRYSTAL SHARD"
 
-#: src-en/data/blueprints.xml.append:579
+#: src-en/data/blueprints.xml.append:606
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/tooltip"
 msgstr "Should Never See This Description."
 
-#: src-en/data/blueprints.xml.append:618
+#: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/title"
 msgstr "Sugilite"
 
-#: src-en/data/blueprints.xml.append:619
+#: src-en/data/blueprints.xml.append:646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/short"
 msgstr "Sugilite"
 
-#: src-en/data/blueprints.xml.append:620
+#: src-en/data/blueprints.xml.append:647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/desc"
 msgstr ""
@@ -773,7 +829,7 @@ msgstr ""
 "after a short delay, fires an ion beam at the enemy ship. It deals 1 ion "
 "damage to all systems in its path and deals 30 damage to the crew."
 
-#: src-en/data/blueprints.xml.append:621
+#: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/tooltip"
 msgstr ""
@@ -781,15 +837,15 @@ msgstr ""
 "after a short delay, fires an ion beam at the enemy ship. It deals 1 ion "
 "damage to all systems in its path and deals 30 damage to the crew."
 
-#: src-en/data/blueprints.xml.append:649
+#: src-en/data/blueprints.xml.append:676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/title"
 msgstr "Aquamarine"
 
-#: src-en/data/blueprints.xml.append:650
+#: src-en/data/blueprints.xml.append:677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/short"
 msgstr "Aquamarine"
 
-#: src-en/data/blueprints.xml.append:651
+#: src-en/data/blueprints.xml.append:678
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/desc"
 msgstr ""
 "[Base cooldown: 20] Aquamarine stone concentrates light within itself and, "
@@ -797,7 +853,7 @@ msgstr ""
 "created with an average chance. Beam deals 1 damage to the hull for each "
 "room it hits. Pierces 1 shield layer."
 
-#: src-en/data/blueprints.xml.append:652
+#: src-en/data/blueprints.xml.append:679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/tooltip"
 msgstr ""
@@ -806,17 +862,17 @@ msgstr ""
 "created with an average chance. Beam deals 1 damage to the hull for each "
 "room it hits. Pierces 1 shield layer."
 
-#: src-en/data/blueprints.xml.append:681
+#: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/title"
 msgstr "Carnelian"
 
-#: src-en/data/blueprints.xml.append:682
+#: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/short"
 msgstr "Carnelian"
 
-#: src-en/data/blueprints.xml.append:683
+#: src-en/data/blueprints.xml.append:710
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/desc"
 msgstr ""
 "[Base cooldown: 20] Carnelian stone concentrates light within itself and, "
@@ -824,7 +880,7 @@ msgstr ""
 "damage to each system it hits and has a moderate chance of setting it on "
 "fire."
 
-#: src-en/data/blueprints.xml.append:684
+#: src-en/data/blueprints.xml.append:711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/tooltip"
 msgstr ""
@@ -833,17 +889,123 @@ msgstr ""
 "damage to each system it hits and has a moderate chance of setting it on "
 "fire."
 
-#: src-en/data/blueprints.xml.append:712
+#: src-en/data/blueprints.xml.append:739
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
+msgstr "Neostar Laser (R)"
+
+#: src-en/data/blueprints.xml.append:740
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
+msgstr "Neostar Laser (R)"
+
+#: src-en/data/blueprints.xml.append:741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
+msgstr ""
+"An advanced laser weapon designed for internal use by Neostar Megacorp "
+"ships. It fires three shots, each dealing two damage and having a small "
+"chance to create a breach."
+
+#: src-en/data/blueprints.xml.append:742
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
+msgstr ""
+"An advanced laser weapon designed for internal use by Neostar Megacorp "
+"ships. It fires three shots, each dealing two damage and having a small "
+"chance to create a breach."
+
+#: src-en/data/blueprints.xml.append:793
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
+msgstr "Drone laser"
+
+#: src-en/data/blueprints.xml.append:822
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
+msgstr "\"Point of View\""
+
+#: src-en/data/blueprints.xml.append:823
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
+msgstr "\"Point of View\""
+
+#: src-en/data/blueprints.xml.append:824
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
+msgstr ""
+"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
+"point of hull damage for each room it hits. It guarantees to stun the enemy "
+"crew for 15 seconds."
+
+#: src-en/data/blueprints.xml.append:825
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
+msgstr ""
+"[Base cooldown: 14] This beam weapon pierces all shields layers, dealing 1 "
+"point of hull damage for each room it hits. It guarantees to stun the enemy "
+"crew for 15 seconds."
+
+#: src-en/data/blueprints.xml.append:853
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
+msgstr "\"Persuasion\""
+
+#: src-en/data/blueprints.xml.append:854
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
+msgstr "\"Persuasion\""
+
+#: src-en/data/blueprints.xml.append:855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
+msgstr ""
+"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
+"system damage."
+
+#: src-en/data/blueprints.xml.append:856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
+msgstr ""
+"[Base cooldown: 11] This beam weapon pierces all shields layers, dealing 1 "
+"system damage."
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
+msgstr "'Persuasion'"
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
+msgstr "'Persuasion'"
+
+#: src-en/data/blueprints.xml.append:887
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
+msgstr ""
+"A special development by Erudite. This beam weapon pierces all layers of the"
+" shield, dealing 1 system damage. It can only be fired twice per battle due "
+"to its low energy efficiency."
+
+#: src-en/data/blueprints.xml.append:888
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
+msgstr ""
+"This beam weapon pierces all layers of the shield, dealing 1 system damage. "
+"It can only be fired twice per battle due to its low energy efficiency."
+
+#: src-en/data/blueprints.xml.append:917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/title"
 msgstr "Bioacid beetle"
 
-#: src-en/data/blueprints.xml.append:713
+#: src-en/data/blueprints.xml.append:918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/short"
 msgstr "Bioacid beetle"
 
-#: src-en/data/blueprints.xml.append:714
+#: src-en/data/blueprints.xml.append:919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
 msgstr ""
@@ -851,7 +1013,7 @@ msgstr ""
 "enemy crew. Their spit deal 30 damage to the crew and have a guaranteed "
 "chance to stun it for 10 seconds. Pierces 1 sheild layer."
 
-#: src-en/data/blueprints.xml.append:715
+#: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
 msgstr ""
@@ -859,17 +1021,17 @@ msgstr ""
 "enemy crew. Their spit deal 30 damage to the crew and have a guaranteed "
 "chance to stun it for 10 seconds. Pierces 1 sheild layer."
 
-#: src-en/data/blueprints.xml.append:750
+#: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/title"
 msgstr "Acid beetle"
 
-#: src-en/data/blueprints.xml.append:751
+#: src-en/data/blueprints.xml.append:956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/short"
 msgstr "Acid beetle"
 
-#: src-en/data/blueprints.xml.append:752
+#: src-en/data/blueprints.xml.append:957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
 msgstr ""
@@ -877,7 +1039,7 @@ msgstr ""
 "systems, dealing 2 damage each. Creates a breach in the room with a moderate"
 " chance."
 
-#: src-en/data/blueprints.xml.append:753
+#: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
 msgstr ""
@@ -885,41 +1047,41 @@ msgstr ""
 "systems, dealing 2 damage each. Creates a breach in the room with a moderate"
 " chance."
 
-#: src-en/data/blueprints.xml.append:788
+#: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/title"
 msgstr "Hull-acidifier beetle"
 
-#: src-en/data/blueprints.xml.append:789
+#: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/short"
 msgstr "Hull-acidifier beetle"
 
-#: src-en/data/blueprints.xml.append:790
+#: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/desc"
 msgstr ""
 "[Base cooldown: 25] This beetle spits acid projectiles that deal 1 damage to"
 " hull and systems, and 1 point of ion damage to shields or systems."
 
-#: src-en/data/blueprints.xml.append:791
+#: src-en/data/blueprints.xml.append:996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/tooltip"
 msgstr ""
 "[Base cooldown: 25] This beetle spits acid projectiles that deal 1 damage to"
 " hull and systems, and 1 point of ion damage to shields or systems."
 
-#: src-en/data/blueprints.xml.append:827
+#: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/title"
 msgstr "Barley fields"
 
-#: src-en/data/blueprints.xml.append:828
+#: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/short"
 msgstr "Barley fields"
 
-#: src-en/data/blueprints.xml.append:829
+#: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/desc"
 msgstr ""
@@ -929,7 +1091,7 @@ msgstr ""
 "fires a burst of 5 projectiles that do not penetrate shields and do not "
 "cause any other damage."
 
-#: src-en/data/blueprints.xml.append:830
+#: src-en/data/blueprints.xml.append:1035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/tooltip"
 msgstr ""
@@ -939,17 +1101,17 @@ msgstr ""
 "fires a burst of 5 projectiles that do not penetrate shields and do not "
 "cause any other damage."
 
-#: src-en/data/blueprints.xml.append:874
+#: src-en/data/blueprints.xml.append:1079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/title"
 msgstr "Barley fields"
 
-#: src-en/data/blueprints.xml.append:875
+#: src-en/data/blueprints.xml.append:1080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/short"
 msgstr "Barley fields"
 
-#: src-en/data/blueprints.xml.append:876
+#: src-en/data/blueprints.xml.append:1081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/desc"
 msgstr ""
@@ -959,7 +1121,7 @@ msgstr ""
 "fires a burst of 5 projectiles that do not penetrate shields and do not "
 "cause any other damage."
 
-#: src-en/data/blueprints.xml.append:877
+#: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/tooltip"
 msgstr ""
@@ -969,17 +1131,17 @@ msgstr ""
 "fires a burst of 5 projectiles that do not penetrate shields and do not "
 "cause any other damage."
 
-#: src-en/data/blueprints.xml.append:921
+#: src-en/data/blueprints.xml.append:1126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/title"
 msgstr "Sprayer"
 
-#: src-en/data/blueprints.xml.append:922
+#: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/short"
 msgstr "Sprayer"
 
-#: src-en/data/blueprints.xml.append:923
+#: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/desc"
 msgstr ""
@@ -987,7 +1149,7 @@ msgstr ""
 "members and also have negative effects on them. Each shot reduces the "
 "weapon's reload time by 3 seconds 3 times. Does not require power."
 
-#: src-en/data/blueprints.xml.append:924
+#: src-en/data/blueprints.xml.append:1129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/tooltip"
 msgstr ""
@@ -995,17 +1157,17 @@ msgstr ""
 " base reload time, reduced by 3 seconds with each shot 3 times. Does not "
 "require power."
 
-#: src-en/data/blueprints.xml.append:973
+#: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/title"
 msgstr "Miniature star"
 
-#: src-en/data/blueprints.xml.append:974
+#: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/short"
 msgstr "Miniature star"
 
-#: src-en/data/blueprints.xml.append:975
+#: src-en/data/blueprints.xml.append:1180
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/desc"
 msgstr ""
@@ -1013,7 +1175,7 @@ msgstr ""
 "projectile of its energy into an enemy ship. It deals 4 ion damage, 30 crew "
 "damage, and has an almost guaranteed chance to set the room on fire."
 
-#: src-en/data/blueprints.xml.append:976
+#: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/tooltip"
 msgstr ""
@@ -1021,17 +1183,17 @@ msgstr ""
 "projectile of its energy into an enemy ship. It deals 4 ion damage, 30 crew "
 "damage, and has an almost guaranteed chance to set the room on fire."
 
-#: src-en/data/blueprints.xml.append:1012
+#: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/title"
 msgstr "Moonstone field"
 
-#: src-en/data/blueprints.xml.append:1013
+#: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/short"
 msgstr "Moonstone field"
 
-#: src-en/data/blueprints.xml.append:1014
+#: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/desc"
 msgstr ""
@@ -1040,7 +1202,7 @@ msgstr ""
 "asteroids deal 1 damage to the hull and systems and have a moderate chance "
 "of creating breaches."
 
-#: src-en/data/blueprints.xml.append:1015
+#: src-en/data/blueprints.xml.append:1220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/tooltip"
 msgstr ""
@@ -1049,17 +1211,17 @@ msgstr ""
 "asteroids deal 1 damage to the hull and systems and have a moderate chance "
 "of creating breaches."
 
-#: src-en/data/blueprints.xml.append:1051
+#: src-en/data/blueprints.xml.append:1256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/title"
 msgstr "Moonstone field"
 
-#: src-en/data/blueprints.xml.append:1052
+#: src-en/data/blueprints.xml.append:1257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/short"
 msgstr "Moonstone field"
 
-#: src-en/data/blueprints.xml.append:1053
+#: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/desc"
 msgstr ""
@@ -1067,7 +1229,7 @@ msgstr ""
 "of 2 projectiles at the enemy ship as a form of self-defense. These lunar "
 "asteroids deal 2 damage to the hull and systems and locks rooms."
 
-#: src-en/data/blueprints.xml.append:1054
+#: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/tooltip"
 msgstr ""
@@ -1075,17 +1237,17 @@ msgstr ""
 "of 2 projectiles at the enemy ship as a form of self-defense. These lunar "
 "asteroids deal 2 damage to the hull and systems and locks rooms."
 
-#: src-en/data/blueprints.xml.append:1090
+#: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/class"
 msgstr "Powerhouse"
 
-#: src-en/data/blueprints.xml.append:1091
+#: src-en/data/blueprints.xml.append:1296
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/name"
 msgstr "IG-23"
 
-#: src-en/data/blueprints.xml.append:1092
+#: src-en/data/blueprints.xml.append:1297
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/desc"
 msgstr ""
@@ -1094,22 +1256,22 @@ msgstr ""
 "their ship's reactor is very weak, but this disadvantage is compensated by a"
 " powerful battery system that can be upgraded to 4 level."
 
-#: src-en/data/blueprints.xml.append:1167
+#: src-en/data/blueprints.xml.append:1372
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/class"
 msgstr "Powerhouse"
 
-#: src-en/data/blueprints.xml.append:1168
+#: src-en/data/blueprints.xml.append:1373
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/name"
 msgstr "EE-24"
 
-#: src-en/data/blueprints.xml.append:1169
+#: src-en/data/blueprints.xml.append:1374
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:1170
+#: src-en/data/blueprints.xml.append:1375
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/desc"
 msgstr ""
@@ -1118,24 +1280,24 @@ msgstr ""
 "trade had to be suspended until  merchant had accumulated enough scrap to "
 "repair their ship."
 
-#: src-en/data/blueprints.xml.append:1244
+#: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/class"
 msgstr "Powerhouse"
 
-#: src-en/data/blueprints.xml.append:1245
+#: src-en/data/blueprints.xml.append:1450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/name"
 msgstr "HG-25"
 
-#: src-en/data/blueprints.xml.append:1246
+#: src-en/data/blueprints.xml.append:1451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:1247
+#: src-en/data/blueprints.xml.append:1452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/desc"
 msgstr ""
@@ -1145,17 +1307,17 @@ msgstr ""
 "this, they had to sell parts from some secondary systems. Bring it on, "
 "battery master!"
 
-#: src-en/data/blueprints.xml.append:1322
+#: src-en/data/blueprints.xml.append:1527
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/class"
 msgstr "Eschatologists vessel"
 
-#: src-en/data/blueprints.xml.append:1323
+#: src-en/data/blueprints.xml.append:1528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/name"
 msgstr "Eschaton"
 
-#: src-en/data/blueprints.xml.append:1324
+#: src-en/data/blueprints.xml.append:1529
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
 msgstr ""
@@ -1164,17 +1326,17 @@ msgstr ""
 "interested in this universe only because the triumph of the Rebellion is "
 "also a kind of end of the world for most intelligent races."
 
-#: src-en/data/blueprints.xml.append:1393
+#: src-en/data/blueprints.xml.append:1598
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/class"
 msgstr "Eschatologists vessel"
 
-#: src-en/data/blueprints.xml.append:1394
+#: src-en/data/blueprints.xml.append:1599
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/name"
 msgstr "The Last Eschaton"
 
-#: src-en/data/blueprints.xml.append:1395
+#: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/desc"
 msgstr ""
@@ -1184,17 +1346,17 @@ msgstr ""
 "universe. Subsequently, their ship became the basis for research projects by"
 " eschatologists."
 
-#: src-en/data/blueprints.xml.append:1464
+#: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/class"
 msgstr "Lunarkissed"
 
-#: src-en/data/blueprints.xml.append:1465
+#: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/name"
 msgstr "Lunar's Forgiveness"
 
-#: src-en/data/blueprints.xml.append:1466
+#: src-en/data/blueprints.xml.append:1671
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
@@ -1204,22 +1366,22 @@ msgstr ""
 "other side of the galaxy, and without hesitation, the hermit set off on his "
 "final journey."
 
-#: src-en/data/blueprints.xml.append:1534
+#: src-en/data/blueprints.xml.append:1739
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/class"
 msgstr "Solarkissed"
 
-#: src-en/data/blueprints.xml.append:1535
+#: src-en/data/blueprints.xml.append:1740
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/name"
 msgstr "Solara's Redemption"
 
-#: src-en/data/blueprints.xml.append:1536
+#: src-en/data/blueprints.xml.append:1741
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:1537
+#: src-en/data/blueprints.xml.append:1742
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
 msgstr ""
@@ -1229,24 +1391,24 @@ msgstr ""
 "of the second ship pointed to a third beacon, which was the home world of "
 "the vanished race - the Moonless Homeland."
 
-#: src-en/data/blueprints.xml.append:1604
+#: src-en/data/blueprints.xml.append:1809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/class"
 msgstr "Astrakissed"
 
-#: src-en/data/blueprints.xml.append:1605
+#: src-en/data/blueprints.xml.append:1810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/name"
 msgstr "Astra's Oblivion"
 
-#: src-en/data/blueprints.xml.append:1606
+#: src-en/data/blueprints.xml.append:1811
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:1607
+#: src-en/data/blueprints.xml.append:1812
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/desc"
 msgstr ""
@@ -1256,24 +1418,24 @@ msgstr ""
 "eventually became public property. Lunar and Solara turned their gaze to the"
 " hermit."
 
-#: src-en/data/blueprints.xml.append:1674
+#: src-en/data/blueprints.xml.append:1879
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/class"
 msgstr "Vakans' Crewser"
 
-#: src-en/data/blueprints.xml.append:1675
+#: src-en/data/blueprints.xml.append:1880
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/name"
 msgstr "Ascetic's Face"
 
-#: src-en/data/blueprints.xml.append:1676
+#: src-en/data/blueprints.xml.append:1881
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/unlock"
 msgstr ""
 "Consult the advice of a certain hermit about a certain artifact to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:1677
+#: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/desc"
 msgstr ""
@@ -1283,24 +1445,24 @@ msgstr ""
 "enough money to live comfortably in his old age, hired security guards, and "
 "set off to travel the universe once again."
 
-#: src-en/data/blueprints.xml.append:1746
+#: src-en/data/blueprints.xml.append:1951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/class"
 msgstr "Glass Vessel"
 
-#: src-en/data/blueprints.xml.append:1747
+#: src-en/data/blueprints.xml.append:1952
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/name"
 msgstr "Timid Blue"
 
-#: src-en/data/blueprints.xml.append:1748
+#: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
 msgstr ""
 "Complete the order for the Miracle 1111 \"Thank You\" for Miracle Seekers "
 "and discover what the highest degree of gratitude is."
 
-#: src-en/data/blueprints.xml.append:1749
+#: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/desc"
 msgstr ""
@@ -1309,22 +1471,22 @@ msgstr ""
 "fragile. However, its powerful initial armament and special augment make it "
 "a dangerous opponent."
 
-#: src-en/data/blueprints.xml.append:1822
+#: src-en/data/blueprints.xml.append:2029
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/class"
 msgstr "Glass Vessel"
 
-#: src-en/data/blueprints.xml.append:1823
+#: src-en/data/blueprints.xml.append:2030
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/name"
 msgstr "Heavenly Blessing"
 
-#: src-en/data/blueprints.xml.append:1824
+#: src-en/data/blueprints.xml.append:2031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:1825
+#: src-en/data/blueprints.xml.append:2032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/desc"
 msgstr ""
@@ -1333,24 +1495,24 @@ msgstr ""
 "longer. However, after all the upgrades, the strength of its hull has been "
 "reduced more than before."
 
-#: src-en/data/blueprints.xml.append:1898
+#: src-en/data/blueprints.xml.append:2106
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/class"
 msgstr "Glass Vessel"
 
-#: src-en/data/blueprints.xml.append:1899
+#: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/name"
 msgstr "World's Admiration"
 
-#: src-en/data/blueprints.xml.append:1900
+#: src-en/data/blueprints.xml.append:2108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:1901
+#: src-en/data/blueprints.xml.append:2109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/desc"
 msgstr ""
@@ -1360,24 +1522,24 @@ msgstr ""
 "search of Miracles. When it was explained to her that the ship could stop "
 "the Rebellion in this universe, she agreed to help."
 
-#: src-en/data/blueprints.xml.append:1971
+#: src-en/data/blueprints.xml.append:2179
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/class"
 msgstr "Mirrored's Crewser"
 
-#: src-en/data/blueprints.xml.append:1972
+#: src-en/data/blueprints.xml.append:2180
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/name"
 msgstr "Unattainability"
 
-#: src-en/data/blueprints.xml.append:1973
+#: src-en/data/blueprints.xml.append:2181
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/unlock"
 msgstr ""
 "Consult the advice of a certain cosmic anomaly and part-time member of the "
 "Miracle Seekers about a certain artifact to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:1974
+#: src-en/data/blueprints.xml.append:2182
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/desc"
 msgstr ""
@@ -1387,17 +1549,17 @@ msgstr ""
 "is the final end of old prejudices and the beginning of something greater "
 "than eternity and time itself."
 
-#: src-en/data/blueprints.xml.append:2046
+#: src-en/data/blueprints.xml.append:2254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/class"
 msgstr "Pollinator"
 
-#: src-en/data/blueprints.xml.append:2047
+#: src-en/data/blueprints.xml.append:2255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/name"
 msgstr "Barley"
 
-#: src-en/data/blueprints.xml.append:2048
+#: src-en/data/blueprints.xml.append:2256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
 msgstr ""
@@ -1405,7 +1567,7 @@ msgstr ""
 "anomaly, the coordinates of which will be given to you by the Miracle "
 "Seekers when you earn their respect."
 
-#: src-en/data/blueprints.xml.append:2049
+#: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
 msgstr ""
@@ -1415,22 +1577,22 @@ msgstr ""
 "biospheres, after which the Reapers abandoned it. An orchid found it and "
 "decided to unlock its potential."
 
-#: src-en/data/blueprints.xml.append:2124
+#: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/class"
 msgstr "Pollinator"
 
-#: src-en/data/blueprints.xml.append:2125
+#: src-en/data/blueprints.xml.append:2333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/name"
 msgstr "Fern"
 
-#: src-en/data/blueprints.xml.append:2126
+#: src-en/data/blueprints.xml.append:2334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2127
+#: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/desc"
 msgstr ""
@@ -1440,24 +1602,24 @@ msgstr ""
 "munitions for artillery and weapon systems. However, it does not have any "
 "weapons capable of damaging the hull."
 
-#: src-en/data/blueprints.xml.append:2203
+#: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/class"
 msgstr "Pollinator"
 
-#: src-en/data/blueprints.xml.append:2204
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/name"
 msgstr "Moss"
 
-#: src-en/data/blueprints.xml.append:2205
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:2206
+#: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
 msgstr ""
@@ -1467,24 +1629,24 @@ msgstr ""
 "and earned a lot of scrap, but for security reasons, the maximum level of "
 "the weapon system was reduced."
 
-#: src-en/data/blueprints.xml.append:2285
+#: src-en/data/blueprints.xml.append:2493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/class"
 msgstr "Goliath I"
 
-#: src-en/data/blueprints.xml.append:2286
+#: src-en/data/blueprints.xml.append:2494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/name"
 msgstr "Goliath I"
 
-#: src-en/data/blueprints.xml.append:2287
+#: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
 msgstr ""
 "Complete the order for the Miracle 0900 \"White Thread of the Expanse\" for "
 "Miracle Seekers and begin their story in this universe."
 
-#: src-en/data/blueprints.xml.append:2288
+#: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/desc"
 msgstr ""
@@ -1494,22 +1656,22 @@ msgstr ""
 "his real identity. Although the ship has no weapon system at start, it has "
 "other ways of destroying the enemy."
 
-#: src-en/data/blueprints.xml.append:2354
+#: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/class"
-msgstr "Phytocenosis Model"
-
-#: src-en/data/blueprints.xml.append:2355
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
 msgstr "Phytocenosis Prototype"
 
-#: src-en/data/blueprints.xml.append:2356
+#: src-en/data/blueprints.xml.append:2562
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
+msgstr "Phytocenosis Model"
+
+#: src-en/data/blueprints.xml.append:2563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2357
+#: src-en/data/blueprints.xml.append:2564
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/desc"
 msgstr ""
@@ -1519,24 +1681,24 @@ msgstr ""
 "capsules, the ship is still functioning normally... just don't go into "
 "engines room."
 
-#: src-en/data/blueprints.xml.append:2422
+#: src-en/data/blueprints.xml.append:2628
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/class"
 msgstr "Goliath II"
 
-#: src-en/data/blueprints.xml.append:2423
+#: src-en/data/blueprints.xml.append:2629
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/name"
 msgstr "Goliath II"
 
-#: src-en/data/blueprints.xml.append:2424
+#: src-en/data/blueprints.xml.append:2630
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:2425
+#: src-en/data/blueprints.xml.append:2631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/desc"
 msgstr ""
@@ -1546,24 +1708,24 @@ msgstr ""
 "reactor based on living phytocenosis, this machine spreads the word of the "
 "greatness of the White Empire throughout space."
 
-#: src-en/data/blueprints.xml.append:2490
+#: src-en/data/blueprints.xml.append:2695
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/class"
 msgstr "Emperor's Crewser"
 
-#: src-en/data/blueprints.xml.append:2491
+#: src-en/data/blueprints.xml.append:2696
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/name"
 msgstr "David"
 
-#: src-en/data/blueprints.xml.append:2492
+#: src-en/data/blueprints.xml.append:2697
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/unlock"
 msgstr ""
 "Consult the advice of a certain emperor's clone about a certain artifact to "
 "unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2493
+#: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/desc"
 msgstr ""
@@ -1573,17 +1735,17 @@ msgstr ""
 "to his liking and, on the advice of an old acquaintance, grew a small garden"
 " in it. Now, freed from the shackles of his role, he was finally happy."
 
-#: src-en/data/blueprints.xml.append:2559
+#: src-en/data/blueprints.xml.append:2764
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/class"
 msgstr "Termite Mound"
 
-#: src-en/data/blueprints.xml.append:2560
+#: src-en/data/blueprints.xml.append:2765
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/name"
 msgstr "Sacer Isoptera"
 
-#: src-en/data/blueprints.xml.append:2561
+#: src-en/data/blueprints.xml.append:2766
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
 msgstr ""
@@ -1591,7 +1753,7 @@ msgstr ""
 "for Miracle Seekers and calm the creatures who mourned the death of their "
 "god."
 
-#: src-en/data/blueprints.xml.append:2562
+#: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/desc"
 msgstr ""
@@ -1601,22 +1763,22 @@ msgstr ""
 "do not devour everything in their path. Specifically, this termite swarm was"
 " able to raise one bug with psi-abilities."
 
-#: src-en/data/blueprints.xml.append:2631
+#: src-en/data/blueprints.xml.append:2836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/class"
 msgstr "Termite Mound"
 
-#: src-en/data/blueprints.xml.append:2632
+#: src-en/data/blueprints.xml.append:2837
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/name"
 msgstr "Terribilis Isoptera"
 
-#: src-en/data/blueprints.xml.append:2633
+#: src-en/data/blueprints.xml.append:2838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2634
+#: src-en/data/blueprints.xml.append:2839
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/desc"
 msgstr ""
@@ -1626,24 +1788,24 @@ msgstr ""
 " at it. Specifically, this termite swarm was able to raise several beetles "
 "that spit various acids."
 
-#: src-en/data/blueprints.xml.append:2702
+#: src-en/data/blueprints.xml.append:2907
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/class"
 msgstr "Termite Mound"
 
-#: src-en/data/blueprints.xml.append:2703
+#: src-en/data/blueprints.xml.append:2908
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/name"
 msgstr "Artificialis Isoptera"
 
-#: src-en/data/blueprints.xml.append:2704
+#: src-en/data/blueprints.xml.append:2909
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:2705
+#: src-en/data/blueprints.xml.append:2910
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/desc"
 msgstr ""
@@ -1653,24 +1815,24 @@ msgstr ""
 "Specifically, this termite swarm was able to grow and modify a single cyborg"
 " beetle to assist in combat."
 
-#: src-en/data/blueprints.xml.append:2782
+#: src-en/data/blueprints.xml.append:2987
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/class"
 msgstr "Searcher"
 
-#: src-en/data/blueprints.xml.append:2783
+#: src-en/data/blueprints.xml.append:2988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/name"
 msgstr "Distant Signal"
 
-#: src-en/data/blueprints.xml.append:2784
+#: src-en/data/blueprints.xml.append:2989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/unlock"
 msgstr ""
 "The method for obtaining this ship will be added to the game in the distant "
 "future!"
 
-#: src-en/data/blueprints.xml.append:2785
+#: src-en/data/blueprints.xml.append:2990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
 msgstr ""
@@ -1679,22 +1841,22 @@ msgstr ""
 " improved sensor system and is designed to use ion weapons and rays. What "
 "awaits it at the end of its journey?"
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:3061
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/class"
 msgstr "Underwater Searcher"
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:3062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/name"
 msgstr "Nearby Signal"
 
-#: src-en/data/blueprints.xml.append:2858
+#: src-en/data/blueprints.xml.append:3063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:2859
+#: src-en/data/blueprints.xml.append:3064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
 msgstr ""
@@ -1704,24 +1866,24 @@ msgstr ""
 "installed door system and disintegration fields. What awaits it beneath the "
 "depths of the World Ocean?"
 
-#: src-en/data/blueprints.xml.append:2929
+#: src-en/data/blueprints.xml.append:3134
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/class"
 msgstr "[SIGNAL FOUND]"
 
-#: src-en/data/blueprints.xml.append:2930
+#: src-en/data/blueprints.xml.append:3135
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/name"
 msgstr "[SIGNAL FOUND]"
 
-#: src-en/data/blueprints.xml.append:2931
+#: src-en/data/blueprints.xml.append:3136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/unlock"
 msgstr ""
 "[DATA IS CORRUPTED. LOADING STANDARD CONDITIONS: Get to Sector 5 with the "
 "Type B or beat the game with the Type A to unlock this ship.]"
 
-#: src-en/data/blueprints.xml.append:2932
+#: src-en/data/blueprints.xml.append:3137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/desc"
 msgstr ""
@@ -1729,24 +1891,24 @@ msgstr ""
 " 40 106 111 122 123 124 102 117 122 116 40 117 106 40 124 110 105 40 120 117"
 " 123 124 125 114 101 124 105"
 
-#: src-en/data/blueprints.xml.append:3002
+#: src-en/data/blueprints.xml.append:3207
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/class"
 msgstr "Lesser Guardian"
 
-#: src-en/data/blueprints.xml.append:3003
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/name"
 msgstr "Innocent Defender"
 
-#: src-en/data/blueprints.xml.append:3004
+#: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
 msgstr ""
 "Complete the order for the Miracle 3385 \"The Warmth\" for Miracle Seekers "
 "and protect the innocent."
 
-#: src-en/data/blueprints.xml.append:3005
+#: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/desc"
 msgstr ""
@@ -1755,22 +1917,22 @@ msgstr ""
 " launch self-deploying ASB platforms. In addition, this variant comes with "
 "an effective defensive drone and Slavik himself!"
 
-#: src-en/data/blueprints.xml.append:3078
+#: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/class"
 msgstr "Lesser Guardian"
 
-#: src-en/data/blueprints.xml.append:3079
+#: src-en/data/blueprints.xml.append:3284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/name"
 msgstr "Little Rascal"
 
-#: src-en/data/blueprints.xml.append:3080
+#: src-en/data/blueprints.xml.append:3285
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3081
+#: src-en/data/blueprints.xml.append:3286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
 msgstr ""
@@ -1780,24 +1942,24 @@ msgstr ""
 "functionality and even attach a scrap arm to it, which, incidentally, is "
 "capable of collecting spent ASB platforms."
 
-#: src-en/data/blueprints.xml.append:3157
+#: src-en/data/blueprints.xml.append:3362
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/class"
 msgstr "Lesser Guardian"
 
-#: src-en/data/blueprints.xml.append:3158
+#: src-en/data/blueprints.xml.append:3363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/name"
 msgstr "Spidey"
 
-#: src-en/data/blueprints.xml.append:3159
+#: src-en/data/blueprints.xml.append:3364
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:3160
+#: src-en/data/blueprints.xml.append:3365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/desc"
 msgstr ""
@@ -1806,16 +1968,16 @@ msgstr ""
 "it relies on capturing enemy ships with spiders and then destroying them "
 "with ASB platforms."
 
-#: src-en/data/blueprints.xml.append:3233
+#: src-en/data/blueprints.xml.append:3438
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/class"
 msgstr "Impenetrable"
 
-#: src-en/data/blueprints.xml.append:3234
+#: src-en/data/blueprints.xml.append:3439
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/name"
 msgstr "Tangibility"
 
-#: src-en/data/blueprints.xml.append:3235
+#: src-en/data/blueprints.xml.append:3440
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
 msgstr ""
@@ -1823,7 +1985,7 @@ msgstr ""
 "of which will be given to you by the Miracle Seekers when you earn their "
 "respect."
 
-#: src-en/data/blueprints.xml.append:3236
+#: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
 msgstr ""
 "Crusader named Robur received this ship from a mysterious entity from "
@@ -1832,22 +1994,22 @@ msgstr ""
 "characteristics and reduce cooldown of your weapons, but this ship's shields"
 " system is very weak."
 
-#: src-en/data/blueprints.xml.append:3306
+#: src-en/data/blueprints.xml.append:3511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/class"
 msgstr "Impenetrable"
 
-#: src-en/data/blueprints.xml.append:3307
+#: src-en/data/blueprints.xml.append:3512
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/name"
 msgstr "Lone Warrior"
 
-#: src-en/data/blueprints.xml.append:3308
+#: src-en/data/blueprints.xml.append:3513
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3309
+#: src-en/data/blueprints.xml.append:3514
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/desc"
 msgstr ""
@@ -1856,24 +2018,24 @@ msgstr ""
 "shield system and cannot be installed later, but it starts with third-level "
 "Impenetrable Armor and increased hull strength."
 
-#: src-en/data/blueprints.xml.append:3373
+#: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/class"
 msgstr "Impenetrable"
 
-#: src-en/data/blueprints.xml.append:3374
+#: src-en/data/blueprints.xml.append:3579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/name"
 msgstr "Comeback"
 
-#: src-en/data/blueprints.xml.append:3375
+#: src-en/data/blueprints.xml.append:3580
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:3376
+#: src-en/data/blueprints.xml.append:3581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/desc"
 msgstr ""
@@ -1882,15 +2044,15 @@ msgstr ""
 "guilt. After some time, he managed to rehabilitate himself, and it seemed "
 "that everything was falling into place for him."
 
-#: src-en/data/blueprints.xml.append:3446
+#: src-en/data/blueprints.xml.append:3651
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/class"
 msgstr "Precious Shard"
 
-#: src-en/data/blueprints.xml.append:3447
+#: src-en/data/blueprints.xml.append:3652
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/name"
 msgstr "Sugilite"
 
-#: src-en/data/blueprints.xml.append:3448
+#: src-en/data/blueprints.xml.append:3653
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
 msgstr ""
 "Meet and defeat the unusual Sugilite ship near the space-time anomaly, the "
@@ -1898,7 +2060,7 @@ msgstr ""
 "earn their respect, either get to Sector 5 with the Type B or beat the game "
 "with the Type C to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3449
+#: src-en/data/blueprints.xml.append:3654
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
 msgstr ""
 "This ship, inlaid with sugilite gem, has terrible initial armament and is "
@@ -1907,16 +2069,16 @@ msgstr ""
 "compensated for by a powerful ion beam that concentrates the stone inside "
 "itself."
 
-#: src-en/data/blueprints.xml.append:3525
+#: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/class"
 msgstr "Precious Shard"
 
-#: src-en/data/blueprints.xml.append:3526
+#: src-en/data/blueprints.xml.append:3731
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/name"
 msgstr "Aquamarine"
 
-#: src-en/data/blueprints.xml.append:3527
+#: src-en/data/blueprints.xml.append:3732
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
 msgstr ""
@@ -1925,7 +2087,7 @@ msgstr ""
 "earn their respect, either get to Sector 5 with the Type C or beat the game "
 "with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3528
+#: src-en/data/blueprints.xml.append:3733
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
 msgstr ""
 "This ship, inlaid with aquamarine gem, has terrible initial armament and is "
@@ -1934,16 +2096,16 @@ msgstr ""
 "compensated for by a powerful breaching beam that concentrates the stone "
 "inside itself."
 
-#: src-en/data/blueprints.xml.append:3603
+#: src-en/data/blueprints.xml.append:3808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/class"
 msgstr "Precious Shard"
 
-#: src-en/data/blueprints.xml.append:3604
+#: src-en/data/blueprints.xml.append:3809
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/name"
 msgstr "Carnelian"
 
-#: src-en/data/blueprints.xml.append:3605
+#: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
 msgstr ""
@@ -1952,7 +2114,7 @@ msgstr ""
 "earn their respect, either get to Sector 5 with the Type A or beat the game "
 "with the Type B to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3606
+#: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
 msgstr ""
 "This ship, inlaid with carnelian gem, has terrible initial armament and is "
@@ -1961,17 +2123,17 @@ msgstr ""
 "compensated for by a powerful fire beam that concentrates the stone inside "
 "itself.."
 
-#: src-en/data/blueprints.xml.append:3682
+#: src-en/data/blueprints.xml.append:3887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/class"
 msgstr "Dream Seeker"
 
-#: src-en/data/blueprints.xml.append:3683
+#: src-en/data/blueprints.xml.append:3888
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/name"
 msgstr "Promised Grace"
 
-#: src-en/data/blueprints.xml.append:3684
+#: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
 msgstr ""
@@ -1979,7 +2141,7 @@ msgstr ""
 " space-time anomaly, the coordinates of which will be given to you by the "
 "Miracle Seekers when you earn their respect."
 
-#: src-en/data/blueprints.xml.append:3685
+#: src-en/data/blueprints.xml.append:3890
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/desc"
 msgstr ""
@@ -1989,22 +2151,22 @@ msgstr ""
 "their teachings, albeit completely unsuccessfully, and even the Rebellion is"
 " unable to stop them."
 
-#: src-en/data/blueprints.xml.append:3752
+#: src-en/data/blueprints.xml.append:3957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/class"
 msgstr "Dream Seeker"
 
-#: src-en/data/blueprints.xml.append:3753
+#: src-en/data/blueprints.xml.append:3958
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/name"
 msgstr "Promised Dreams"
 
-#: src-en/data/blueprints.xml.append:3754
+#: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/unlock"
 msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
-#: src-en/data/blueprints.xml.append:3755
+#: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
 msgstr ""
@@ -2013,24 +2175,24 @@ msgstr ""
 " compensation, it has stronger initial armament and a cloaking system from "
 "the start."
 
-#: src-en/data/blueprints.xml.append:3826
+#: src-en/data/blueprints.xml.append:4031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/class"
 msgstr "Dream Seeker"
 
-#: src-en/data/blueprints.xml.append:3827
+#: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/name"
 msgstr "Promised Paradise"
 
-#: src-en/data/blueprints.xml.append:3828
+#: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/unlock"
 msgstr ""
 "Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
 "this ship."
 
-#: src-en/data/blueprints.xml.append:3829
+#: src-en/data/blueprints.xml.append:4034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
@@ -2040,7 +2202,159 @@ msgstr ""
 " has no choice but to flatter her remaining followers, just so as not to be "
 "forgotten forever."
 
-#: src-en/data/blueprints.xml.append:3902
+#: src-en/data/blueprints.xml.append:4107
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
+msgstr "Second Voice Civilian Vessel"
+
+#: src-en/data/blueprints.xml.append:4108
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
+msgstr "Rainy-1"
+
+#: src-en/data/blueprints.xml.append:4109
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
+msgstr ""
+"This Second Voice ship, primarily a civilian vessel, was designed for "
+"comfortable travel within Central Alliance space. While it's very small and "
+"has a number of drawbacks, it also has a number of advantages that can make "
+"your life easier."
+
+#: src-en/data/blueprints.xml.append:4110
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
+msgstr ""
+"Complete the order for the Miracle 7302 \"Alliance Agreement\" for Miracle "
+"Seekers and demonstrate your brilliant knowledge in a specific field."
+
+#: src-en/data/blueprints.xml.append:4183
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
+msgstr "Second Voice Civilian Vessel"
+
+#: src-en/data/blueprints.xml.append:4184
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
+msgstr "The Star Rover"
+
+#: src-en/data/blueprints.xml.append:4185
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
+msgstr ""
+"This variation of the Second Voice civilian ship was specifically designed "
+"for long-range space travel to other territories bordering the Central "
+"Alliance and has a more advanced defense system."
+
+#: src-en/data/blueprints.xml.append:4186
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/unlock"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
+
+#: src-en/data/blueprints.xml.append:4260
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
+msgstr "Second Voice Civilian Vessel"
+
+#: src-en/data/blueprints.xml.append:4261
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
+msgstr "Competencies"
+
+#: src-en/data/blueprints.xml.append:4262
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
+msgstr ""
+"A standard civilian ship has been refitted specifically for Central Alliance"
+" officials. Officials are included - and while they won't do anything on the"
+" ship, as long as they're part of your crew, they'll pay you for protecting "
+"them."
+
+#: src-en/data/blueprints.xml.append:4263
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/unlock"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
+
+#: src-en/data/blueprints.xml.append:4337
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
+msgstr "Neostar Forwarder"
+
+#: src-en/data/blueprints.xml.append:4338
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
+msgstr "Faster-Than-Light"
+
+#: src-en/data/blueprints.xml.append:4339
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
+msgstr ""
+"A standard supercausal cargo ship owned by Neostar. With the Loyalty "
+"Program, you can complete deliveries, earn scrap, and increase your Loyalty "
+"Level. Expanded cargo hold will help you achieve this."
+
+#: src-en/data/blueprints.xml.append:4340
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
+msgstr ""
+"Complete the order for the Miracle 6419 \"Neostar Form\" for Miracle Seekers"
+" and prevent another Multiversal megacorporation from invading the local "
+"cluster of universes."
+
+#: src-en/data/blueprints.xml.append:4413
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
+msgstr "Neostar Forwarder"
+
+#: src-en/data/blueprints.xml.append:4414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
+msgstr "Right On Time!"
+
+#: src-en/data/blueprints.xml.append:4415
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
+msgstr ""
+"This version of the Neostar Forwarder is designed for delivering cargo to "
+"particularly dangerous corners of the universe. A powerful drone will assist"
+" you in your deliveries, but the ship's weapons system has been "
+"significantly weakened. Additionally, you can install more augments on this "
+"ship."
+
+#: src-en/data/blueprints.xml.append:4416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/unlock"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
+
+#: src-en/data/blueprints.xml.append:4491
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
+msgstr "Neostar Forwarder"
+
+#: src-en/data/blueprints.xml.append:4492
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
+msgstr "M&A"
+
+#: src-en/data/blueprints.xml.append:4493
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
+msgstr ""
+"It seems that Neostar Megacorp and Hektar Industries somehow decided to "
+"start a partnership with each other, but the heads of both companies "
+"couldn't agree on what exactly this cooperation would manifest itself in, "
+"and this ship was born... What does the panic button do here?"
+
+#: src-en/data/blueprints.xml.append:4494
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/unlock"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
+
+#: src-en/data/blueprints.xml.append:4566
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/desc"
 msgstr ""
@@ -2048,217 +2362,217 @@ msgstr ""
 "4F4F4E5B52575017143D514E5B4E1460525555144B4E1457585D51525750144A576256585\n"
 "B4E17"
 
-#: src-en/data/blueprints.xml.append:3905
+#: src-en/data/blueprints.xml.append:4569
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/title"
 msgstr "Embryo of Creation"
 
-#: src-en/data/blueprints.xml.append:3906
+#: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/short"
 msgstr "Embryo of Creation"
 
-#: src-en/data/blueprints.xml.append:3911
+#: src-en/data/blueprints.xml.append:4575
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[1]"
 msgstr "Informed and informing"
 
-#: src-en/data/blueprints.xml.append:3912
+#: src-en/data/blueprints.xml.append:4576
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[2]"
 msgstr "Cannot do anything at all. Does not occupy a crew slot"
 
-#: src-en/data/blueprints.xml.append:3913
+#: src-en/data/blueprints.xml.append:4577
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[3]"
 msgstr "Max Health is reduced to 1. Cannot die permanently"
 
-#: src-en/data/blueprints.xml.append:3914
+#: src-en/data/blueprints.xml.append:4578
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[4]"
 msgstr "2E564B5B6258"
 
-#: src-en/data/blueprints.xml.append:3919
+#: src-en/data/blueprints.xml.append:4583
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
 msgstr ""
 "Definitely Slavik. An unlucky and socially awkward mercenary and former rebel.\n"
 "\t\n"
 "\tInherited Human stat: minor hazardous damage resistance"
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:4586
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/title"
 msgstr "Mercenary"
 
-#: src-en/data/blueprints.xml.append:3923
+#: src-en/data/blueprints.xml.append:4587
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/short"
 msgstr "Mercenary"
 
-#: src-en/data/blueprints.xml.append:3928
+#: src-en/data/blueprints.xml.append:4592
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[1]"
 msgstr "Max Health is reduced to 80"
 
-#: src-en/data/blueprints.xml.append:3929
+#: src-en/data/blueprints.xml.append:4593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[2]"
 msgstr "Does not occupy a crew slot. Please do not dismiss him"
 
-#: src-en/data/blueprints.xml.append:3934
+#: src-en/data/blueprints.xml.append:4598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
 msgstr ""
 "This species of near-sentient termites appeared in this universe quite "
 "recently. Not yet fully settled, they are still searching for a place for "
 "their new colony."
 
-#: src-en/data/blueprints.xml.append:3935
+#: src-en/data/blueprints.xml.append:4599
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/title"
 msgstr "Lower termite"
 
-#: src-en/data/blueprints.xml.append:3936
+#: src-en/data/blueprints.xml.append:4600
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/short"
 msgstr "Lower termite"
 
-#: src-en/data/blueprints.xml.append:3941
+#: src-en/data/blueprints.xml.append:4605
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[1]"
 msgstr ""
 "Passive Ability: Damage and movement speed increase by 1.3x for each other "
 "termite in the room"
 
-#: src-en/data/blueprints.xml.append:3942
+#: src-en/data/blueprints.xml.append:4606
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[2]"
 msgstr ""
 "Max Health is reduced to 90. Occupies half a crew slot on the ship manifest"
 
-#: src-en/data/blueprints.xml.append:3943
+#: src-en/data/blueprints.xml.append:4607
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[3]"
 msgstr "Takes 1.3x damage from hazards."
 
-#: src-en/data/blueprints.xml.append:3944
+#: src-en/data/blueprints.xml.append:4608
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
 msgstr "Сannot repair systems or extinguish fires because they have \"paws\""
 
-#: src-en/data/blueprints.xml.append:3948
+#: src-en/data/blueprints.xml.append:4612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
 msgstr ""
 "Elderly Zoltan found peace in his proud seclusion. Now he had to return to "
 "society for the sake of a good cause."
 
-#: src-en/data/blueprints.xml.append:3949
+#: src-en/data/blueprints.xml.append:4613
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/title"
 msgstr "Hermit"
 
-#: src-en/data/blueprints.xml.append:3950
+#: src-en/data/blueprints.xml.append:4614
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/short"
 msgstr "Hermit"
 
-#: src-en/data/blueprints.xml.append:3955
+#: src-en/data/blueprints.xml.append:4619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[1]"
 msgstr "Active Ability: Increases repair speed by up to 15x for 10 seconds"
 
-#: src-en/data/blueprints.xml.append:3956
+#: src-en/data/blueprints.xml.append:4620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[2]"
 msgstr ""
 "Does not provide energy to systems, but can teleport between ship rooms "
 "using a portable teleporter"
 
-#: src-en/data/blueprints.xml.append:3957
+#: src-en/data/blueprints.xml.append:4621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[3]"
 msgstr "2x repair speed"
 
-#: src-en/data/blueprints.xml.append:3958
+#: src-en/data/blueprints.xml.append:4622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[4]"
 msgstr ""
 "Deals 30 damage to the enemy crew and 3 ion damage to systems upon death."
 
-#: src-en/data/blueprints.xml.append:3959
+#: src-en/data/blueprints.xml.append:4623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[5]"
 msgstr ""
 "Health increased to 120 thanks to an unshakable will to live. Takes only "
 "0.5x damage from hazards."
 
-#: src-en/data/blueprints.xml.append:3963
+#: src-en/data/blueprints.xml.append:4627
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
 msgstr ""
 "A sentient anomaly and newly appointed member of the Miracle Seekers. She explores this universe in order to see a world without boundaries.\n"
 "\t\n"
 "\tInherited Phantom stats: takes no damage from suffocation, has door phasing properties"
 
-#: src-en/data/blueprints.xml.append:3966
+#: src-en/data/blueprints.xml.append:4630
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/title"
 msgstr "Miracle Seeker"
 
-#: src-en/data/blueprints.xml.append:3967
+#: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/short"
 msgstr "Miracle Seeker"
 
-#: src-en/data/blueprints.xml.append:3972
+#: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
 msgstr ""
 "Active Ability: Allows the ship to ignore all hull damage (except damage "
 "from sabotage) for 6 seconds"
 
-#: src-en/data/blueprints.xml.append:3973
+#: src-en/data/blueprints.xml.append:4637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[2]"
 msgstr "Has 30 health, but takes only 0.1x damage from all sources"
 
-#: src-en/data/blueprints.xml.append:3974
+#: src-en/data/blueprints.xml.append:4638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[3]"
 msgstr ""
 "Cannot fight - loves all creatures, even direct enemies, but can still "
 "sabotage systems"
 
-#: src-en/data/blueprints.xml.append:3975
+#: src-en/data/blueprints.xml.append:4639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[4]"
 msgstr "Ignores mind control"
 
-#: src-en/data/blueprints.xml.append:3979
+#: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/desc"
 msgstr "You weren't supposed to see that."
 
-#: src-en/data/blueprints.xml.append:3980
+#: src-en/data/blueprints.xml.append:4644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/title"
 msgstr "Anomaly"
 
-#: src-en/data/blueprints.xml.append:3981
+#: src-en/data/blueprints.xml.append:4645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/short"
 msgstr "Anomaly"
 
-#: src-en/data/blueprints.xml.append:3986
+#: src-en/data/blueprints.xml.append:4650
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[1]"
 msgstr "Anomaly of the Continuity. Destroy at any cost."
 
-#: src-en/data/blueprints.xml.append:3987
+#: src-en/data/blueprints.xml.append:4651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
 msgstr ""
 "Has 400 health and takes only 0.9x damage from all sources, but movement "
 "speed is reduced to 0.6x and damage is reduced to 0.45x."
 
-#: src-en/data/blueprints.xml.append:3988
+#: src-en/data/blueprints.xml.append:4652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[3]"
 msgstr "Cannot be cloned"
 
-#: src-en/data/blueprints.xml.append:3992
+#: src-en/data/blueprints.xml.append:4656
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/desc"
 msgstr ""
@@ -2266,17 +2580,17 @@ msgstr ""
 "the White Empire. More precisely, a clone of that person without semi-divine"
 " powers."
 
-#: src-en/data/blueprints.xml.append:3993
+#: src-en/data/blueprints.xml.append:4657
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/title"
 msgstr "Emperor"
 
-#: src-en/data/blueprints.xml.append:3994
+#: src-en/data/blueprints.xml.append:4658
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/short"
 msgstr "Emperor"
 
-#: src-en/data/blueprints.xml.append:3999
+#: src-en/data/blueprints.xml.append:4663
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
 msgstr ""
@@ -2285,84 +2599,82 @@ msgstr ""
 "combat, speed, repair speed, and sabotage speed, as well as 2.5 HP/s "
 "regeneration for 15 seconds."
 
-#: src-en/data/blueprints.xml.append:4000
+#: src-en/data/blueprints.xml.append:4664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
 msgstr ""
 "Has 350 health and takes only 0.9x damage from all sources, but movement "
 "speed is reduced to 0.7x and damage is reduced to 0.35x"
 
-#: src-en/data/blueprints.xml.append:4001
+#: src-en/data/blueprints.xml.append:4665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[3]"
 msgstr "Trained in lvl2 skills"
 
-#: src-en/data/blueprints.xml.append:4002
+#: src-en/data/blueprints.xml.append:4666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[4]"
 msgstr "Cannot be cloned"
 
-#: src-en/data/blueprints.xml.append:4006
+#: src-en/data/blueprints.xml.append:4670
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/desc"
 msgstr ""
 "The loyal personal guard of the Emperor White. Having lost all desires "
 "except the desire to serve the Emperor, these soldiers will fight their "
 "enemies to the last drop of blood."
 
-#: src-en/data/blueprints.xml.append:4007
+#: src-en/data/blueprints.xml.append:4671
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/title"
 msgstr "White Guard"
 
-#: src-en/data/blueprints.xml.append:4008
+#: src-en/data/blueprints.xml.append:4672
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/short"
 msgstr "White Guard"
 
-#: src-en/data/blueprints.xml.append:4013
+#: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
 msgstr "Max Health increased to 180"
 
-#: src-en/data/blueprints.xml.append:4014
+#: src-en/data/blueprints.xml.append:4678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
 msgstr "Damage and movement speed increased to 1.5x"
 
-#: src-en/data/blueprints.xml.append:4015
+#: src-en/data/blueprints.xml.append:4679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[3]"
 msgstr "Trained in lvl1 skills, does not lose them when cloned"
 
-#: src-en/data/blueprints.xml.append:4020
+#: src-en/data/blueprints.xml.append:4684
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/desc"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
 msgstr ""
 "Second Voice's officiary. They are busy with the political affairs of their home Universe, and therefore will not help you on your way, but they will pay you for their presence on the ship.\n"
 "\t\n"
 "\tInherited Human stat: minor hazardous damage resistance"
 
-#: src-en/data/blueprints.xml.append:4023
+#: src-en/data/blueprints.xml.append:4687
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/title"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
 msgstr "Second Voice's officiary"
 
-#: src-en/data/blueprints.xml.append:4024
+#: src-en/data/blueprints.xml.append:4688
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/short"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
 msgstr "SV Officiary"
 
-#: src-en/data/blueprints.xml.append:4029
+#: src-en/data/blueprints.xml.append:4693
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[1]"
-msgstr ""
-"Will not man systems or perform repairs. Can defend themselves, but will not"
-" participate in boarding"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
+msgstr "Will not man systems or perform repairs"
 
-#: src-en/data/blueprints.xml.append:4030
+#: src-en/data/blueprints.xml.append:4694
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[2]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[2]"
 msgstr "Occupies half a crew slot on the ship manifest"
 
-#: src-en/data/blueprints.xml.append:4031
+#: src-en/data/blueprints.xml.append:4695
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[3]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[3]"
 msgstr "While on your ship, will give you 2 scrap each beacon"

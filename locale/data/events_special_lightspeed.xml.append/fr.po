@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:5
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:16
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"EG_NEOSTAR_VARIABLE_ADD\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_lightspeed.xml.append:22
+msgid ""
+"data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:23
+msgid ""
+"data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:24
+msgid ""
+"data/events_special_lightspeed.xml.append$//textList[@name=\"EG_NEOSTAR_VARIABLE_ADD_TEXT\"]/text[3]"
+msgstr ""

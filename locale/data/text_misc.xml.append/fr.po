@@ -29,6 +29,30 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"eg_horn_of_god\"]"
 msgstr ""
 
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"eg_alliance\"]"
+msgstr ""
+
 #: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"eg_neostar\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"eg_eatery\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:15
+msgid "data/text_misc.xml.append$//text[@name=\"eg_erudite_drone\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:17
+msgid "data/text_misc.xml.append$//text[@name=\"eg_neostar_task\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:19
+msgid "data/text_misc.xml.append$//text[@name=\"tip_erudite_weapon\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:20
+msgid "data/text_misc.xml.append$//text[@name=\"tip_storage_neostar\"]"
 msgstr ""

@@ -1,1837 +1,2085 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-31 01:41+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
-"datablueprintsxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:6
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:7
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:16
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:17
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:25
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:26
+#: src-en/data/blueprints.xml.append:18
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:35
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:21
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:36
-msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:54
+#: src-en/data/blueprints.xml.append:61
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:63
+#: src-en/data/blueprints.xml.append:62
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:64
+#: src-en/data/blueprints.xml.append:71
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:73
+#: src-en/data/blueprints.xml.append:72
 msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:74
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:82
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:83
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:91
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:93
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:102
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:103
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:111
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:112
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:121
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:122
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:130
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:131
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:139
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:140
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:149
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:150
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:169
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:177
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:178
+msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:100
+#: src-en/data/blueprints.xml.append:186
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:101
+#: src-en/data/blueprints.xml.append:187
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:109
+#: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:110
+#: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:118
+#: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:119
+#: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:127
+#: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:128
+#: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:136
+#: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:137
+#: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:145
+#: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:146
+#: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:154
+#: src-en/data/blueprints.xml.append:240
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:155
+#: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:163
+#: src-en/data/blueprints.xml.append:249
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:164
+#: src-en/data/blueprints.xml.append:250
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:173
+#: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:174
+#: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:182
+#: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:183
+#: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:191
+#: src-en/data/blueprints.xml.append:277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/title"
 msgstr "Gardien Inférieur"
 
-#: src-en/data/blueprints.xml.append:192
+#: src-en/data/blueprints.xml.append:278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:199
+#: src-en/data/blueprints.xml.append:285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:200
+#: src-en/data/blueprints.xml.append:286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:208
+#: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/title"
 msgstr "Essaim de Termites"
 
-#: src-en/data/blueprints.xml.append:209
+#: src-en/data/blueprints.xml.append:295
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:216
+#: src-en/data/blueprints.xml.append:302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:217
+#: src-en/data/blueprints.xml.append:303
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:223
+#: src-en/data/blueprints.xml.append:309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:224
+#: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:230
+#: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:231
+#: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:237
+#: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:238
+#: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:244
+#: src-en/data/blueprints.xml.append:330
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:245
+#: src-en/data/blueprints.xml.append:331
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:252
+#: src-en/data/blueprints.xml.append:338
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:253
+#: src-en/data/blueprints.xml.append:339
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:260
+#: src-en/data/blueprints.xml.append:346
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:261
+#: src-en/data/blueprints.xml.append:347
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:269
+#: src-en/data/blueprints.xml.append:355
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:270
+#: src-en/data/blueprints.xml.append:356
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:276
+#: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:277
+#: src-en/data/blueprints.xml.append:363
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:284
+#: src-en/data/blueprints.xml.append:370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:285
+#: src-en/data/blueprints.xml.append:371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:293
+#: src-en/data/blueprints.xml.append:379
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:294
+#: src-en/data/blueprints.xml.append:380
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:302
+#: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:303
+#: src-en/data/blueprints.xml.append:389
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:310
+#: src-en/data/blueprints.xml.append:396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:311
+#: src-en/data/blueprints.xml.append:397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:319
+#: src-en/data/blueprints.xml.append:405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:320
+#: src-en/data/blueprints.xml.append:406
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:328
+#: src-en/data/blueprints.xml.append:414
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:329
+#: src-en/data/blueprints.xml.append:415
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:337
+#: src-en/data/blueprints.xml.append:423
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:338
+#: src-en/data/blueprints.xml.append:424
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:344
+#: src-en/data/blueprints.xml.append:430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:345
+#: src-en/data/blueprints.xml.append:431
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:352
+#: src-en/data/blueprints.xml.append:438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:353
+#: src-en/data/blueprints.xml.append:439
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:360
+#: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:361
+#: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:369
+#: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:370
+#: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:377
+#: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:378
+#: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:386
+#: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:387
+#: src-en/data/blueprints.xml.append:473
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:394
+#: src-en/data/blueprints.xml.append:480
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:395
+#: src-en/data/blueprints.xml.append:481
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:401
+#: src-en/data/blueprints.xml.append:487
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:402
+#: src-en/data/blueprints.xml.append:488
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:408
+#: src-en/data/blueprints.xml.append:494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:409
+#: src-en/data/blueprints.xml.append:495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:415
+#: src-en/data/blueprints.xml.append:501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:416
+#: src-en/data/blueprints.xml.append:502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:422
+#: src-en/data/blueprints.xml.append:508
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/title"
 msgstr "Éclat Cristalien"
 
-#: src-en/data/blueprints.xml.append:423
+#: src-en/data/blueprints.xml.append:509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:431
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:434
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:462
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:464
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
-msgstr ""
-
-#: src-en/data/blueprints.xml.append:490
+#: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:491
+#: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:492
+#: src-en/data/blueprints.xml.append:519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:493
+#: src-en/data/blueprints.xml.append:520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:533
+#: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:534
+#: src-en/data/blueprints.xml.append:561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:535
+#: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:536
+#: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:576
+#: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:577
+#: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:578
+#: src-en/data/blueprints.xml.append:605
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:579
+#: src-en/data/blueprints.xml.append:606
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:618
+#: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:619
+#: src-en/data/blueprints.xml.append:646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:620
+#: src-en/data/blueprints.xml.append:647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:621
+#: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:649
+#: src-en/data/blueprints.xml.append:676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:650
+#: src-en/data/blueprints.xml.append:677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:651
+#: src-en/data/blueprints.xml.append:678
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:652
+#: src-en/data/blueprints.xml.append:679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:681
+#: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/title"
 msgstr "Cornaline"
 
-#: src-en/data/blueprints.xml.append:682
+#: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/short"
 msgstr "Cornaline"
 
-#: src-en/data/blueprints.xml.append:683
+#: src-en/data/blueprints.xml.append:710
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:684
+#: src-en/data/blueprints.xml.append:711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:712
+#: src-en/data/blueprints.xml.append:739
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:740
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:742
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:793
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:822
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:823
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:824
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:825
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:853
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:854
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:887
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:888
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:713
+#: src-en/data/blueprints.xml.append:918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:714
+#: src-en/data/blueprints.xml.append:919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:715
+#: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:750
+#: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:751
+#: src-en/data/blueprints.xml.append:956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:752
+#: src-en/data/blueprints.xml.append:957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:753
+#: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:788
+#: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:789
+#: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:790
+#: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:791
+#: src-en/data/blueprints.xml.append:996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:827
+#: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:828
+#: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:829
+#: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:830
+#: src-en/data/blueprints.xml.append:1035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:874
+#: src-en/data/blueprints.xml.append:1079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:875
+#: src-en/data/blueprints.xml.append:1080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:876
+#: src-en/data/blueprints.xml.append:1081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:877
+#: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:921
+#: src-en/data/blueprints.xml.append:1126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:922
+#: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:923
+#: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:924
+#: src-en/data/blueprints.xml.append:1129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:973
+#: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:974
+#: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:975
+#: src-en/data/blueprints.xml.append:1180
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:976
+#: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1012
+#: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1013
+#: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1014
+#: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1015
+#: src-en/data/blueprints.xml.append:1220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1051
+#: src-en/data/blueprints.xml.append:1256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1052
+#: src-en/data/blueprints.xml.append:1257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1053
+#: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1054
+#: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/tooltip"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1090
+#: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1091
+#: src-en/data/blueprints.xml.append:1296
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1092
+#: src-en/data/blueprints.xml.append:1297
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1167
+#: src-en/data/blueprints.xml.append:1372
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1168
+#: src-en/data/blueprints.xml.append:1373
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1169
+#: src-en/data/blueprints.xml.append:1374
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1170
+#: src-en/data/blueprints.xml.append:1375
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1244
+#: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1245
+#: src-en/data/blueprints.xml.append:1450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1246
+#: src-en/data/blueprints.xml.append:1451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1247
+#: src-en/data/blueprints.xml.append:1452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1322
+#: src-en/data/blueprints.xml.append:1527
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1323
+#: src-en/data/blueprints.xml.append:1528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/name"
 msgstr "Eschaton"
 
-#: src-en/data/blueprints.xml.append:1324
+#: src-en/data/blueprints.xml.append:1529
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1393
+#: src-en/data/blueprints.xml.append:1598
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1394
+#: src-en/data/blueprints.xml.append:1599
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/name"
 msgstr "Le Dernier Eschaton"
 
-#: src-en/data/blueprints.xml.append:1395
+#: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1464
+#: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1465
+#: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1466
+#: src-en/data/blueprints.xml.append:1671
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1534
+#: src-en/data/blueprints.xml.append:1739
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1535
+#: src-en/data/blueprints.xml.append:1740
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1536
+#: src-en/data/blueprints.xml.append:1741
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1537
+#: src-en/data/blueprints.xml.append:1742
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1604
+#: src-en/data/blueprints.xml.append:1809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1605
+#: src-en/data/blueprints.xml.append:1810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1606
+#: src-en/data/blueprints.xml.append:1811
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1607
+#: src-en/data/blueprints.xml.append:1812
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1674
+#: src-en/data/blueprints.xml.append:1879
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1675
+#: src-en/data/blueprints.xml.append:1880
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1676
+#: src-en/data/blueprints.xml.append:1881
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1677
+#: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1746
+#: src-en/data/blueprints.xml.append:1951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1747
+#: src-en/data/blueprints.xml.append:1952
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1748
+#: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1749
+#: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1822
+#: src-en/data/blueprints.xml.append:2029
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1823
+#: src-en/data/blueprints.xml.append:2030
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1824
+#: src-en/data/blueprints.xml.append:2031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1825
+#: src-en/data/blueprints.xml.append:2032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1898
+#: src-en/data/blueprints.xml.append:2106
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1899
+#: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1900
+#: src-en/data/blueprints.xml.append:2108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:1901
+#: src-en/data/blueprints.xml.append:2109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1971
+#: src-en/data/blueprints.xml.append:2179
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1972
+#: src-en/data/blueprints.xml.append:2180
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1973
+#: src-en/data/blueprints.xml.append:2181
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:1974
+#: src-en/data/blueprints.xml.append:2182
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2046
+#: src-en/data/blueprints.xml.append:2254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2047
+#: src-en/data/blueprints.xml.append:2255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2048
+#: src-en/data/blueprints.xml.append:2256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2049
+#: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2124
+#: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2125
+#: src-en/data/blueprints.xml.append:2333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2126
+#: src-en/data/blueprints.xml.append:2334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2127
+#: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2203
+#: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2204
+#: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2205
+#: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2206
+#: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2285
+#: src-en/data/blueprints.xml.append:2493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2286
+#: src-en/data/blueprints.xml.append:2494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2287
+#: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2288
+#: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2354
+#: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2355
+#: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2356
+#: src-en/data/blueprints.xml.append:2563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2357
+#: src-en/data/blueprints.xml.append:2564
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2422
+#: src-en/data/blueprints.xml.append:2628
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2423
+#: src-en/data/blueprints.xml.append:2629
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2424
+#: src-en/data/blueprints.xml.append:2630
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2425
+#: src-en/data/blueprints.xml.append:2631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2490
+#: src-en/data/blueprints.xml.append:2695
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2491
+#: src-en/data/blueprints.xml.append:2696
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2492
+#: src-en/data/blueprints.xml.append:2697
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2493
+#: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2559
+#: src-en/data/blueprints.xml.append:2764
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2560
+#: src-en/data/blueprints.xml.append:2765
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2561
+#: src-en/data/blueprints.xml.append:2766
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2562
+#: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2631
+#: src-en/data/blueprints.xml.append:2836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2632
+#: src-en/data/blueprints.xml.append:2837
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2633
+#: src-en/data/blueprints.xml.append:2838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2634
+#: src-en/data/blueprints.xml.append:2839
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2702
+#: src-en/data/blueprints.xml.append:2907
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2703
+#: src-en/data/blueprints.xml.append:2908
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2704
+#: src-en/data/blueprints.xml.append:2909
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2705
+#: src-en/data/blueprints.xml.append:2910
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2782
+#: src-en/data/blueprints.xml.append:2987
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2783
+#: src-en/data/blueprints.xml.append:2988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2784
+#: src-en/data/blueprints.xml.append:2989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2785
+#: src-en/data/blueprints.xml.append:2990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2856
+#: src-en/data/blueprints.xml.append:3061
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2857
+#: src-en/data/blueprints.xml.append:3062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2858
+#: src-en/data/blueprints.xml.append:3063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:2859
+#: src-en/data/blueprints.xml.append:3064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2929
+#: src-en/data/blueprints.xml.append:3134
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2930
+#: src-en/data/blueprints.xml.append:3135
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2931
+#: src-en/data/blueprints.xml.append:3136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:2932
+#: src-en/data/blueprints.xml.append:3137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3002
+#: src-en/data/blueprints.xml.append:3207
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/class"
 msgstr "Gardien Inférieur"
 
-#: src-en/data/blueprints.xml.append:3003
+#: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3004
+#: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3005
+#: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3078
+#: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/class"
 msgstr "Gardien Inférieur"
 
-#: src-en/data/blueprints.xml.append:3079
+#: src-en/data/blueprints.xml.append:3284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3080
+#: src-en/data/blueprints.xml.append:3285
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3081
+#: src-en/data/blueprints.xml.append:3286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3157
+#: src-en/data/blueprints.xml.append:3362
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/class"
 msgstr "Gardien Inférieur"
 
-#: src-en/data/blueprints.xml.append:3158
+#: src-en/data/blueprints.xml.append:3363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3159
+#: src-en/data/blueprints.xml.append:3364
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3160
+#: src-en/data/blueprints.xml.append:3365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3233
+#: src-en/data/blueprints.xml.append:3438
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3234
+#: src-en/data/blueprints.xml.append:3439
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3235
+#: src-en/data/blueprints.xml.append:3440
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3236
+#: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3306
+#: src-en/data/blueprints.xml.append:3511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3307
+#: src-en/data/blueprints.xml.append:3512
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3308
+#: src-en/data/blueprints.xml.append:3513
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3309
+#: src-en/data/blueprints.xml.append:3514
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3373
+#: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3374
+#: src-en/data/blueprints.xml.append:3579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3375
+#: src-en/data/blueprints.xml.append:3580
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3376
+#: src-en/data/blueprints.xml.append:3581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3446
+#: src-en/data/blueprints.xml.append:3651
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3447
+#: src-en/data/blueprints.xml.append:3652
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3448
+#: src-en/data/blueprints.xml.append:3653
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3449
+#: src-en/data/blueprints.xml.append:3654
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3525
+#: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3526
+#: src-en/data/blueprints.xml.append:3731
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3527
+#: src-en/data/blueprints.xml.append:3732
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3528
+#: src-en/data/blueprints.xml.append:3733
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3603
+#: src-en/data/blueprints.xml.append:3808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3604
+#: src-en/data/blueprints.xml.append:3809
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/name"
 msgstr "Cornaline"
 
-#: src-en/data/blueprints.xml.append:3605
+#: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3606
+#: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3682
+#: src-en/data/blueprints.xml.append:3887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3683
+#: src-en/data/blueprints.xml.append:3888
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3684
+#: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3685
+#: src-en/data/blueprints.xml.append:3890
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3752
+#: src-en/data/blueprints.xml.append:3957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3753
+#: src-en/data/blueprints.xml.append:3958
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3754
+#: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/unlock"
 msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3755
+#: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3826
+#: src-en/data/blueprints.xml.append:4031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/class"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3827
+#: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/name"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3828
+#: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/unlock"
 msgstr ""
 "Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
 "pour débloquer ce vaisseau."
 
-#: src-en/data/blueprints.xml.append:3829
+#: src-en/data/blueprints.xml.append:4034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3902
+#: src-en/data/blueprints.xml.append:4107
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4108
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4109
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4110
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4183
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4184
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4185
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4186
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/unlock"
+msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:4260
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4261
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4262
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4263
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/unlock"
+msgstr ""
+"Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
+"pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:4337
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4338
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4339
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4340
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4413
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4415
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/unlock"
+msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:4491
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4492
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4493
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:4494
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/unlock"
+msgstr ""
+"Atteignez le Secteur 5 avec le Type B ou remportez la partie avec le Type A "
+"pour débloquer ce vaisseau."
+
+#: src-en/data/blueprints.xml.append:4566
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3905
+#: src-en/data/blueprints.xml.append:4569
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3906
+#: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3911
+#: src-en/data/blueprints.xml.append:4575
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3912
+#: src-en/data/blueprints.xml.append:4576
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3913
+#: src-en/data/blueprints.xml.append:4577
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3914
+#: src-en/data/blueprints.xml.append:4578
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3919
+#: src-en/data/blueprints.xml.append:4583
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3922
+#: src-en/data/blueprints.xml.append:4586
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3923
+#: src-en/data/blueprints.xml.append:4587
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3928
+#: src-en/data/blueprints.xml.append:4592
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[1]"
 msgstr "Santé max. réduite à 80"
 
-#: src-en/data/blueprints.xml.append:3929
+#: src-en/data/blueprints.xml.append:4593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3934
+#: src-en/data/blueprints.xml.append:4598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3935
+#: src-en/data/blueprints.xml.append:4599
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3936
+#: src-en/data/blueprints.xml.append:4600
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3941
+#: src-en/data/blueprints.xml.append:4605
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3942
+#: src-en/data/blueprints.xml.append:4606
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3943
+#: src-en/data/blueprints.xml.append:4607
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3944
+#: src-en/data/blueprints.xml.append:4608
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3948
+#: src-en/data/blueprints.xml.append:4612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3949
+#: src-en/data/blueprints.xml.append:4613
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3950
+#: src-en/data/blueprints.xml.append:4614
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3955
+#: src-en/data/blueprints.xml.append:4619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3956
+#: src-en/data/blueprints.xml.append:4620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3957
+#: src-en/data/blueprints.xml.append:4621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3958
+#: src-en/data/blueprints.xml.append:4622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3959
+#: src-en/data/blueprints.xml.append:4623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[5]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3963
+#: src-en/data/blueprints.xml.append:4627
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3966
+#: src-en/data/blueprints.xml.append:4630
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3967
+#: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3972
+#: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3973
+#: src-en/data/blueprints.xml.append:4637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3974
+#: src-en/data/blueprints.xml.append:4638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3975
+#: src-en/data/blueprints.xml.append:4639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3979
+#: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3980
+#: src-en/data/blueprints.xml.append:4644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3981
+#: src-en/data/blueprints.xml.append:4645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3986
+#: src-en/data/blueprints.xml.append:4650
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3987
+#: src-en/data/blueprints.xml.append:4651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3988
+#: src-en/data/blueprints.xml.append:4652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3992
+#: src-en/data/blueprints.xml.append:4656
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3993
+#: src-en/data/blueprints.xml.append:4657
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3994
+#: src-en/data/blueprints.xml.append:4658
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:3999
+#: src-en/data/blueprints.xml.append:4663
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4000
+#: src-en/data/blueprints.xml.append:4664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4001
+#: src-en/data/blueprints.xml.append:4665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[3]"
 msgstr "Entraîné aux compétences de niveau 2"
 
-#: src-en/data/blueprints.xml.append:4002
+#: src-en/data/blueprints.xml.append:4666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[4]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4006
+#: src-en/data/blueprints.xml.append:4670
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4007
+#: src-en/data/blueprints.xml.append:4671
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4008
+#: src-en/data/blueprints.xml.append:4672
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4013
+#: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4014
+#: src-en/data/blueprints.xml.append:4678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4015
+#: src-en/data/blueprints.xml.append:4679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[3]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4020
+#: src-en/data/blueprints.xml.append:4684
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/desc"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4023
+#: src-en/data/blueprints.xml.append:4687
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/title"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4024
+#: src-en/data/blueprints.xml.append:4688
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/short"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4029
+#: src-en/data/blueprints.xml.append:4693
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[1]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
 msgstr ""
 
-#: src-en/data/blueprints.xml.append:4030
+#: src-en/data/blueprints.xml.append:4694
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[2]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[2]"
 msgstr "Occupe la moitié d'un emplacement d'équipage sur la liste de bord"
 
-#: src-en/data/blueprints.xml.append:4031
+#: src-en/data/blueprints.xml.append:4695
 msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[3]"
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[3]"
 msgstr ""

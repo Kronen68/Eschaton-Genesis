@@ -7,1029 +7,1240 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
-msgstr ""
+msgstr "Splinter"
 
 #: src-en/data/blueprints.xml.append:7
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
-msgstr ""
+msgstr "A splinter. You were hardly supposed to see this."
 
 #: src-en/data/blueprints.xml.append:17
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
-msgstr ""
+msgstr "Neostar Crate (R)"
 
 #: src-en/data/blueprints.xml.append:18
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
-msgstr ""
+msgstr "Neostar Crate (R)"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
 msgstr ""
+"A crate filled to the brim with a wide variety of cargo, a cutting-edge development from Neostar Megacorp (R)! Thanks to certain disruptions in the space-time continuum, it can hold at least three times more cargo than any similarly sized crate from our competitors!\n"
+"\tNOTE for Neostar (R) employees: Deliver the cargo at any cost. Do not attempt to sell it by any known means or hack it - the Neostar Megacorp Specialized Security System (R) will immediately destroy the contents of the crate, and if the cargo is confirmed lost, you will be subject to penalties."
 
 #: src-en/data/blueprints.xml.append:21
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
-msgstr ""
+msgstr "Storage Weapon"
 
 #: src-en/data/blueprints.xml.append:36
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
-msgstr ""
+msgstr "Corporate's Portrait"
 
 #: src-en/data/blueprints.xml.append:37
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
 msgstr ""
+"A golden-haired man in a pressed formal suit and sunglasses looks out at you"
+" from this portrait, smiling gently. It's a personal gift from Corporate, "
+"and it features him, no matter how arrogant it may seem. While the portrait "
+"is on your ship, your crew receives a 20% bonus to repair and movement "
+"speed, and a 30% bonus to healing speed on all ships."
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
-msgstr ""
+msgstr "Alliance Agreement"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
 msgstr ""
+"A completely useless document. Does absolutely nothing. Can be sold for 30 "
+"scrap."
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
-msgstr ""
+msgstr "Civilians"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
 msgstr ""
+"Your ship is a Second Voice civilian vessel. Like any civilian ship, it's "
+"very small and has a number of significant drawbacks, but it also offers you"
+" subtle advantages. You can declare your ship as a civilian ship in a "
+"special menu, receiving a reduction in overall notoriety and notoriety for "
+"most peaceful factions, and then gaining access to other features in this "
+"menu. The maneuverability and speed of a civilian ship allows you to salvage"
+" 25% more scrap from most sources. Ship's small size allows weapons to "
+"recharge 10% faster and shields to recharge 15% faster."
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
-msgstr ""
+msgstr "Second Voice Ship"
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:71
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
-msgstr ""
+msgstr "Loyalty Program (R)"
 
 #: src-en/data/blueprints.xml.append:72
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
 msgstr ""
+"Are you a Junior Employee at Neostar Megacorp (R), a cutting-edge space Megacorporation (R) focused on Innovative Developments (R) and Cargo Transportation (R)? Did you take this job without any idea what to expect? No problem - our Neostar Megacorp Junior Delivery Employee Training Guide (R), integrated directly into your Neostar Form (R), as well as our Loyalty Program (R), will help you adapt to the new work environment! You've probably noticed your expanded cargo hold, filled to the brim with various cargo. With your Neostar Form (R), you can receive special cargo delivery tasks, complete them, and earn pay for them, which also increases your Loyalty Level (R). Each new Loyalty Level (R) brings you closer to promotion and earns you Premium Rewards (R). Wasn't it all much easier than you imagined, and now you're relieved to find out you've landed such a simple job? Well then, good luck, Neostar Megacorp (R) Junior Employee! Any questions? Please refer to the Junior Employee FAQ (R) on your Neostar Form (R)!\n"
+"\n"
+"\tNOTE: Neostar Megacorp (R) does not guarantee your safety during cargo delivery. Call 8-800-555-35-35 to file complaints or suggestions. Remember: Neostar Megacorp (R) cares about your well-being!"
 
 #: src-en/data/blueprints.xml.append:82
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
-msgstr ""
+msgstr "Neostar Ship"
 
 #: src-en/data/blueprints.xml.append:83
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
-msgstr "追梦者之心"
+msgstr "Dream Seeker's Heart"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
-msgstr "使你的队伍成员免疫精神控制效果。你自身的精神控制技能冷却时间缩短5秒。"
+msgstr ""
+"Allows your crew to ignore mind control. Your own mind control will recharge"
+" 5 seconds faster."
 
 #: src-en/data/blueprints.xml.append:102
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
-msgstr "装甲插板"
+msgstr "Armor Plate"
 
 #: src-en/data/blueprints.xml.append:103
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
 msgstr ""
-"该部件可装配至你的飞船，使船体受到伤害时有 5% 概率抵挡伤害，系统受到伤害时有 10% "
-"概率抵挡伤害。可通过舰船管理菜单将其内置至飞船，使其不占用增强槽位。"
+"Armor Plate attaches to your ship, preventing damage to the hull with a 5% "
+"chance and damage to systems with a 10% chance. It can be integrated into "
+"the ship via storage menu so that it does not occupy an augment slot."
 
 #: src-en/data/blueprints.xml.append:111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
-msgstr "装甲板"
+msgstr "Armor Plate"
 
 #: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
-msgstr "可装配至飞船，使船体受到的伤害有 5% 概率被完全抵挡，系统受到的伤害有 10% 概率被完全抵挡。"
+msgstr ""
+"Armor Plate attaches to your ship, preventing damage to the hull with a 5% "
+"chance and damage to systems with a 10% chance."
 
 #: src-en/data/blueprints.xml.append:121
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
-msgstr "梦境殿堂"
+msgstr "Hall of Dreams"
 
 #: src-en/data/blueprints.xml.append:122
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
 msgstr ""
-"你的信仰使你能够在战斗中有限次地向万愿织梦祈求特定援助，或在无信标星系中通过祈祷获取额外资源。随此舰一同进入本宇宙的织梦者残留力量，将尝试实现你的愿望。"
+"Your faith allows you to pray to All-Desired Dream for specific assistance "
+"in battle a fixed number of times, or to receive rewards for praying at "
+"empty beacons. The residual powers of Dreamer, which entered this universe "
+"along with this ship, will try to fulfill your dream."
 
 #: src-en/data/blueprints.xml.append:130
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
-msgstr "梦境教团"
+msgstr "Cult of Dreams"
 
 #: src-en/data/blueprints.xml.append:131
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
 msgstr ""
-"你对万愿织梦的信仰可能已过于狂热。在无信标星系中，你将有机会通过祈祷直接从\"织梦者\"处获得大量资源的强力援助，或在战斗中召唤其显著干涉，但每一次这样的恩赐，都需以一名船员的生命作为代价……"
+"Your belief in All-Desired Dream may be too fanatical. You have the "
+"opportunity to receive guaranteed and very powerful help from Dreamer in the"
+" form of a large amount of resources at empty beacons or significant "
+"assistance in battle, but you will have to pay for it with the life of one "
+"of your crew members..."
 
 #: src-en/data/blueprints.xml.append:139
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
-msgstr "万愿织梦教派"
+msgstr "Church of the All-Desired Dream"
 
 #: src-en/data/blueprints.xml.append:140
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:149
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
-msgstr "守护神卫"
+msgstr "Guardians Protector"
 
 #: src-en/data/blueprints.xml.append:150
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
-msgstr "一种近乎坚不可摧的超级护盾，拥有 120 点护盾值，并使普通护盾的充能速度提升 150%。"
+msgstr ""
+"An almost indestructible super shield with 120 points of integrity. "
+"Increases the recharge rate of normal shields by 150%."
 
 #: src-en/data/blueprints.xml.append:159
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
-msgstr "坚不可摧装甲"
+msgstr "Impenetrable Armor"
 
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
-msgstr "坚不可摧装甲 1"
+msgstr "Impenetrable Armor I"
 
 #: src-en/data/blueprints.xml.append:169
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲尚未进行任何强化，已有 10% 概率完全抵消船体伤害、40% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"强化至 3 级 后，装甲将使武器装填速度额外提升 5%（此效果随后续每级强化叠加）。\n"
-"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently, your armor is not subject to any "
+"improvements and is capable of negating hull damage with a 10% chance and "
+"system damage with a 40% chance. Each upgrade level will add up to 10% "
+"chance to ignore damage and 10% chance to ignore system damage. At upgrade "
+"level 3, the armor will speed up your weapons reload by 5% for each "
+"subsequent upgrade. Starting at level 5, your ship will gain the ability to "
+"ram enemies before combat. Each ship armor upgrade will cost your ship 20 "
+"damage."
 
 #: src-en/data/blueprints.xml.append:177
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
-msgstr "坚不可摧装甲 2"
+msgstr "Impenetrable Armor II"
 
 #: src-en/data/blueprints.xml.append:178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 20% 概率完全抵消船体伤害、50% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"强化至 3 级 后，装甲将使武器装填速度额外提升 5%（此效果随后续每级强化叠加）。\n"
-"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 20% chance and system damage with a 50% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage and 10% chance to ignore "
+"system damage. At upgrade level 3, the armor will speed up your weapons "
+"reload by 5% for each subsequent upgrade. Starting at level 5, your ship "
+"will gain the ability to ram enemies before combat. Each ship armor upgrade "
+"will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:186
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/title"
-msgstr "坚不可摧装甲 3"
+msgstr "Impenetrable Armor III"
 
 #: src-en/data/blueprints.xml.append:187
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 30% 概率完全抵消船体伤害、60% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 5%，且此后每强化一级将额外提升 5% 装填速度。\n"
-"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 30% chance and system damage with a 60% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage and 10% chance to ignore "
+"system damage. It now also speeds up weapon reload by 5% and will speed up "
+"reload by an additional 5% for each subsequent upgrade. Starting at level 5,"
+" your ship will gain the ability to ram enemies before combat. Each ship "
+"armor upgrade will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
-msgstr "坚不可摧装甲 4"
+msgstr "Impenetrable Armor IV"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 40% 概率完全抵消船体伤害、70% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 10%，且此后每强化一级将额外提升 5% 装填速度。\n"
-"自 5 级 起，你的飞船将获得在战斗开始前冲撞敌舰的能力。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 40% chance and system damage with a 70% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage and 10% chance to ignore "
+"system damage. It now also speeds up weapon reload by 10% and will speed up "
+"reload by an additional 5% for each subsequent upgrade. Starting at level 5,"
+" your ship will gain the ability to ram enemies before combat. Each ship "
+"armor upgrade will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/title"
-msgstr "坚不可摧装甲 5"
+msgstr "Impenetrable Armor V"
 
 #: src-en/data/blueprints.xml.append:205
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 50% 概率完全抵消船体伤害、80% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 15%，且此后每强化一级将额外提升 5% 装填速度。\n"
-"此外，你现在已能在战斗开始前冲撞敌舰。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 50% chance and system damage with a 80% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage and 10% chance to ignore "
+"system damage. It now also speeds up weapon reload by 15% and will speed up "
+"reload by an additional 5% for each subsequent upgrade. In addition, you can"
+" now ram your enemy before combat. Each ship armor upgrade will cost your "
+"ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/title"
-msgstr "坚不可摧装甲 6"
+msgstr "Impenetrable Armor VI"
 
 #: src-en/data/blueprints.xml.append:214
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 60% 概率完全抵消船体伤害、90% 概率完全抵消系统伤害。每强化一级，可提升 10% 船体伤害抵消概率与 10% 系统伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 20%，且此后每强化一级将额外提升 5% 装填速度。\n"
-"此外，你现在已能在战斗开始前冲撞敌舰。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 60% chance and system damage with a 90% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage and 10% chance to ignore "
+"system damage. It now also speeds up weapon reload by 20% and will speed up "
+"reload by an additional 5% for each subsequent upgrade. In addition, you can"
+" now ram your enemy before combat. Each ship armor upgrade will cost your "
+"ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/title"
-msgstr "坚不可摧装甲 7"
+msgstr "Impenetrable Armor VII"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 70% 概率完全抵消船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 10% 船体伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 25%，且此后每强化一级将额外提升 3% 装填速度。\n"
-"此外，你现在已能在战斗开始前冲撞敌舰。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 70% chance and system damage with a 100% chance. Each upgrade "
+"level will add up to 10% chance to ignore damage. It now also speeds up "
+"weapon reload by 25% and will speed up reload by an additional 3% for each "
+"subsequent upgrade. In addition, you can now ram your enemy before combat. "
+"Each ship armor upgrade will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/title"
-msgstr "坚不可摧装甲 8"
+msgstr "Impenetrable Armor VIII"
 
 #: src-en/data/blueprints.xml.append:232
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 80% 概率完全抵消船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 5% 船体伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 28%，且此后每强化一级将额外提升 3% 装填速度。\n"
-"此外，你现在已能在战斗开始前冲撞敌舰。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 80% chance and system damage with a 100% chance. Each upgrade "
+"level will add up to 5% chance to ignore damage. It now also speeds up "
+"weapon reload by 28% and will speed up reload by an additional 3% for each "
+"subsequent upgrade. In addition, you can now ram your enemy before combat. "
+"Each ship armor upgrade will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:240
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/title"
-msgstr "坚不可摧装甲 9"
+msgstr "Impenetrable Armor IX"
 
 #: src-en/data/blueprints.xml.append:241
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
 msgstr ""
-"你的船体异常坚固，但需要持续强化以避免遭受重创。当前装甲已有 85% 概率完全抵消船体伤害，并完全免疫系统伤害（100%概率抵消）。每强化一级，可提升 5% 船体伤害抵消概率。\n"
-"装甲现可使武器装填速度提升 31%，且此后每强化一级将额外提升 3% 装填速度。\n"
-"此外，你现在已能在战斗开始前冲撞敌舰。\n"
-"注意：每次装甲强化需以飞船损失 20 点船体耐久度为代价。"
+"Your hull is exceptionally durable, but it needs constant improvement to "
+"avoid taking heavy damage. Currently your armor is capable of negating hull "
+"damage with a 85% chance and system damage with a 100% chance. Each upgrade "
+"level will add up to 5% chance to ignore damage. It now also speeds up "
+"weapon reload by 31% and will speed up reload by an additional 3% for each "
+"subsequent upgrade. In addition, you can now ram your enemy before combat. "
+"Each ship armor upgrade will cost your ship 20 damage."
 
 #: src-en/data/blueprints.xml.append:249
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/title"
-msgstr "坚不可摧装甲 10"
+msgstr "Impenetrable Armor X"
 
 #: src-en/data/blueprints.xml.append:250
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
 msgstr ""
-"你的船体坚不可摧，其装甲拥有 90% 概率完全抵消船体伤害，并完全免疫系统伤害。\n"
-"同时，装甲可使武器装填速度提升 34%。\n"
-"你还获得了在战斗开始前冲撞敌舰的能力。\n"
-"祝你好运，变元者。"
+"Your hull is exceptionally durable. Its armor can negate hull damage with a "
+"90% chance and system damage with a 100% chance. It also speeds up weapon "
+"reload by 34%. You have the ability to ram enemies before combat. Good luck,"
+" Renegade."
 
 #: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
-msgstr "ASB-平台打印机"
+msgstr "ASB-Platform Printer"
 
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
 msgstr ""
-"战斗前，你的飞船可部署自动展开的ASB平台攻击敌人，需消耗以下资源之一：\n"
-"3单位燃料\n"
-"2枚导弹或2个无人机部件\n"
-"若装备废料收集臂或磁性回收臂，则可免费部署该平台。\n"
-"（你可丢弃或出售此增强部件；它已内置于飞船中，此处仅作信息提示之用。）"
+"Before battle, your ship can launch self-deploying ASB-platform to attack "
+"your enemies at various costs: 3 fuel cells, 2 missiles, or 2 drone parts. "
+"You can also install a Scrap Arm or Magnetic Arm and launch the platform for"
+" free."
 
 #: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
-msgstr "ASB-平台打印机"
+msgstr "ASB-Platform Printer"
 
 #: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
 msgstr ""
-"战斗前，你的飞船可部署自动展开的ASB平台攻击敌人，代价为以下任意一种资源：\n"
-"3燃料核心\n"
-"2导弹或2无人机部件。\n"
-"若安装废料收集臂或磁性回收臂，则可免费部署该平台。\n"
-"（你可丢弃或出售此强化模块；它已内置于飞船中，此处仅作信息提示之用）。"
+"Before battle, your ship can launch self-deploying ASB-platform to attack "
+"your enemies at various costs: 3 fuel cells, 2 missiles, or 2 drone parts. "
+"You can also install a Scrap Arm or Magnetic Arm and launch the platform for"
+" free. [You can discard or sell this augment; it is built into the ship and "
+"is only here for informational purposes]."
 
 #: src-en/data/blueprints.xml.append:277
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/title"
-msgstr "次级守护者"
+msgstr "Lesser Guardian"
 
 #: src-en/data/blueprints.xml.append:278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:285
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/title"
-msgstr "白蚁虫群"
+msgstr "Termite Colony"
 
 #: src-en/data/blueprints.xml.append:286
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
 msgstr ""
-"白蚁虫族搭载于甲虫生物舰船上航行。\n"
-"其舰体具有一定程度的再生能力，可自动修复船体破舱、扑灭火灾并恢复受损系统。\n"
-"甲虫的厚重外壳为其提供 +15% 概率无视船体伤害。\n"
-"仅有虫族能在不同甲虫生物舰船间自由迁移。"
+"Termites travel on beetle bioships. Their vessels have a certain degree of "
+"regeneration, automatically healing breaches, extinguishing fires, and "
+"repairing systems. The beetles' thick chitinous shells give them a +15% "
+"chance to ignore damage to the hull. Only insectoid races are capable of "
+"moving between beetles."
 
 #: src-en/data/blueprints.xml.append:294
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/title"
-msgstr "白蚁虫群"
+msgstr "Termite Swarm"
 
 #: src-en/data/blueprints.xml.append:295
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
-msgstr "苍白帝御星舰"
+msgstr "Emperor White's ship"
 
 #: src-en/data/blueprints.xml.append:303
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
-msgstr "苍白影溯舰"
+msgstr "Emperor White's clone ship"
 
 #: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
-msgstr "植物群落原型机"
+msgstr "Phytocenosis Prototype"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
 msgstr ""
-"该舰引擎以活性植物群落作为生物能源驱动，提供+3初始反应堆能量，且允许消耗1燃料跃迁至本星域内任意信标。\n"
-"活性植物群落释放的孢子遍布舰体，对登舰敌人造成每秒2点生命值伤害。\n"
-"由于原型机的不稳定性，舰船系统修复速度降低至50%。"
+"This ship's engines are powered by a bio-source of living phytocenosis, "
+"which provides +3 initial reactor energy and allows the ship to move to any "
+"beacon in the sector for 1 fuel cell. Spores from the living phytocenosis "
+"spread throughout the ship and deal 2 HP/s damage to enemy boarders. Due to "
+"the instability of the prototype, the repair speed of the ship's systems is "
+"reduced to 50%."
 
 #: src-en/data/blueprints.xml.append:323
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/title"
-msgstr "活性植物群落"
+msgstr "Living Phytocenosis"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
 msgstr ""
-"该舰引擎以活性植物群落作为生物能源驱动，提供 +3 初始反应堆能量，且允许消耗 2 单位燃料跃迁至本星域内任意信标。\n"
-"经驯化的活性植物群落释放的孢子遍布舰体，对登舰敌人造成每秒 1 点生命值伤害，并自动修复舱内破损。"
+"This ship's engines are powered by a bio-source of living phytocenosis, "
+"which provides +3 initial reactor energy and allows the ship to move to any "
+"beacon in the sector for 2 fuel cells. Spores from the pacified living "
+"phytocenosis spread throughout the ship and deal 1 HP/s damage to enemy "
+"boarders and repair breaches in the rooms."
 
 #: src-en/data/blueprints.xml.append:330
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
-msgstr "纯白花园"
+msgstr "White Garden"
 
 #: src-en/data/blueprints.xml.append:331
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
-"苍白帝王克隆体那华美的庭园位于舰船尾部。\n"
-"若供氧系统被激活，其每分配 1 点能量，即可使我方与登陆敌舰的每名船员的最大生命值 +10%、移动速度 +10%。\n"
-"此外，庭园还提供固定的 +30% 窒息抗性与 每秒 1 点 生命恢复效果。"
+"Emperor's clone's beautiful garden is located at the stern of the ship. If "
+"the oxygen system is powered, each unit of energy in it gives +15% to the "
+"maximum health and +10% to the movement speed of each allied crew member on "
+"your ship and the enemy ship. In addition, it provides a fixed +30% "
+"resistance to suffocation and 1 HP/s regeneration."
 
 #: src-en/data/blueprints.xml.append:338
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
-msgstr "罗布尔的星舰"
+msgstr "Robur's Ship"
 
 #: src-en/data/blueprints.xml.append:339
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:346
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
-msgstr "琉璃星舰"
+msgstr "Glass Ship"
 
 #: src-en/data/blueprints.xml.append:347
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
 msgstr ""
-"该舰船体完全由特殊玻璃构成。虽会降低整体耐久度，但拥有 35% 概率免疫离子伤害、10% 概率无视船体伤害，且舰上火焰将自动熄灭，船员免疫精神控制。\n"
-"作为额外增益，武器装填速度提升 10%。"
+"The hull of this ship is made entirely of a special type of glass. Although "
+"this reduces the ship's durability, it can ignore ion damage with 35% chance"
+" and hull damage with a 10% chance. Fires are also automatically "
+"extinguished on the ship, and crew memberes become immune to mind control. "
+"As a bonus, you get a 10% increase in weapons reload speed."
 
 #: src-en/data/blueprints.xml.append:355
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/title"
-msgstr "琉璃星舰"
+msgstr "Glass Ship"
 
 #: src-en/data/blueprints.xml.append:356
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/title"
-msgstr "镜像体星舰"
+msgstr "Mirrored's Ship"
 
 #: src-en/data/blueprints.xml.append:363
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
-msgstr "电池组"
+msgstr "Battery Pack"
 
 #: src-en/data/blueprints.xml.append:371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
-msgstr "这组明显装着电池。你可以65废料的价格出售它，或保留以获得护盾充能+7%与武器充能+5%。"
+msgstr ""
+"This pack obviously contains batteries. You can sell it for 65 scrap, or "
+"keep it to get +7% to your shield recharge and +5% to your weapon recharge."
 
 #: src-en/data/blueprints.xml.append:379
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
-msgstr "高科技电池"
+msgstr "High-Tech Battery"
 
 #: src-en/data/blueprints.xml.append:380
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
-msgstr "你找回了被海盗偷走的高科技电池。你可以每块150废料的价格出售，或保留以获得护盾充能+12%与武器充能+9%。"
+msgstr ""
+"You have recovered the high-tech batteries that were stolen from you by "
+"pirates. You can sell each one for 150 scrap, or keep them to gain +12% to "
+"your shield recharge and +9% to your weapon recharge."
 
 #: src-en/data/blueprints.xml.append:388
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/title"
-msgstr "电池商人舰船"
+msgstr "Battery Merchant's Ship"
 
 #: src-en/data/blueprints.xml.append:389
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
-msgstr "月之吻"
+msgstr "Lunar Kiss"
 
 #: src-en/data/blueprints.xml.append:397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
 msgstr ""
-"得益于作为飞船反应堆并维持其运行的微型恒星，飞船从一开始就拥有满额能量。该恒星还使飞船完全免疫离子伤害，并将武器装填速度提高15%，但由于恒星活动的影响，飞船武器系统本身状况不佳。为维持恒星运转，你不得不将所获废料的50%投入燃烧。"
+"Thanks to the miniature star that serves as the ship's reactor and keeps it "
+"operational, it has maximum energy levels from the outset. The star also "
+"gives the ship full resistance to ion damage and increases weapon reload "
+"speed by 15%, but the ship's weapon system itself is in poor condition due "
+"to the star's activity. To keep the star operational, you are forced to burn"
+" 50% of all the scrap you find in it."
 
 #: src-en/data/blueprints.xml.append:405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
-msgstr "日之吻"
+msgstr "Solara Kiss"
 
 #: src-en/data/blueprints.xml.append:406
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
 msgstr ""
-"得益于作为飞船反应堆并维持其运行的微型恒星，飞船从一开始就拥有满额能量。该恒星还创造了一个特殊的12层太阳护盾，使普通护盾的充能速率提高45%，但由于过载，飞船除太阳护盾外最多只能拥有2层普通护盾。为维持恒星运转，你不得不将所获废料的50%投入燃烧。"
+"Thanks to the miniature star that serves as the ship's reactor and keeps it "
+"operational, it has maximum energy levels from the outset. The star also "
+"creates a special 12-layer solar shield that increases the recharge rate of "
+"normal shields by 45%, but the ship can only have a maximum of 2 layers of "
+"normal shields in addition to the solar shield due to overload. To keep the "
+"star operational, you are forced to burn 50% of all the scrap you find in "
+"it."
 
 #: src-en/data/blueprints.xml.append:414
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/title"
-msgstr "星辰之吻"
+msgstr "Astra Kiss"
 
 #: src-en/data/blueprints.xml.append:415
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/desc"
 msgstr ""
-"得益于作为飞船反应堆并维持其运行的微型恒星，飞船从一开始就拥有满额能量。该恒星还使飞船完全免疫离子伤害，将武器充能提高15%，并创造了一个特殊的12层太阳护盾，使普通护盾的充能提高45%。为维持恒星运转，你不得不将所获废料的70%投入燃烧。月与日深爱着你，因此她们确保微型恒星的其他负面效应不再困扰你。"
+"Thanks to the miniature star that serves as the ship's reactor and keeps it "
+"operational, it has maximum energy levels from the outset. The star also "
+"gives the ship full resistance to ion damage, increases weapon recharge by "
+"15%, and creates a special 12-layer solar shield that increases the recharge"
+" of normal shields by 45%. To keep the star operational, you are forced to "
+"burn 70% of all the scrap you find in it. Lunar and Solara love you, so they"
+" made sure that the other negative effects of the miniature star would no "
+"longer bother you."
 
 #: src-en/data/blueprints.xml.append:423
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/title"
-msgstr "无月之舰"
+msgstr "Moonless Ship"
 
 #: src-en/data/blueprints.xml.append:424
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
-msgstr "瓦坎斯星舰"
+msgstr "Vakans' Ship"
 
 #: src-en/data/blueprints.xml.append:431
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
-msgstr "收割者星舰"
+msgstr "Reapers' Ship"
 
 #: src-en/data/blueprints.xml.append:439
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/title"
-msgstr "末世学家"
+msgstr "Eschatologists"
 
 #: src-en/data/blueprints.xml.append:447
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/desc"
 msgstr ""
-"由于你指挥的是一艘科研船，传感器系统从一开始就内置了长距扫描仪、长距跃迁器与生命扫描仪。在总览地图上，你可以看到所有星系的名字。此外，你的船员配备了先进装备，使其在战斗中的生命值与伤害最高提升至1.3倍。尽管飞船船员遵循不干涉教条，但现在由你决定是否在当前情况下继续使用他们。"
+"Since you are commanding a research vessel, you have a long-range scanner, a"
+" slip-scanner, and a lifeform scanner built into the sensor system from the "
+"start. On the general map, you can see the names of all sectors. In "
+"addition, your crew is equipped with advanced equipment that increases their"
+" health and damage in combat by up to 1.3x. Despite the dogma of non-"
+"interference that the ship's crew follows, now it is up to you to decide "
+"whether to continue using them in your situation."
 
 #: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/title"
-msgstr "末世学家星舰"
+msgstr "Eschatologists' Ship"
 
 #: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:463
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/title"
-msgstr "探迹者"
+msgstr "Searcher"
 
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/desc"
 msgstr ""
-"船载AI以二级技能控制所有飞船系统，并像修复破损一样快速维修它们。你的传感器系统能探测到敌方位置，即使他们使用隐形，使你可在其隐形期间充能武器，且所有弹道精度提高。此外，你能侦测到来自多元宇宙变元者的信号，并可消耗7个燃料将其重定向至自身进行战斗。"
+"Onboard AI controls all of the ship's systems with a second level of skill "
+"and quickly repairs them, just as it repairs breaches. Your sensor system "
+"allows you to detect the enemy's location even when they are using cloaking,"
+" allowing you to charge your weapons while it is active, and all projectiles"
+" have increased accuracy. In addition, you detect signals from renegades of "
+"the Multiverse and can redirect them to yourself for battle for 7 fuel "
+"cells."
 
 #: src-en/data/blueprints.xml.append:472
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/title"
-msgstr "探迹者"
+msgstr "Searcher"
 
 #: src-en/data/blueprints.xml.append:473
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:480
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
-msgstr "珍晶碎片"
+msgstr "Precious Shard"
 
 #: src-en/data/blueprints.xml.append:481
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
-msgstr "你大概不该看到这个。"
+msgstr "You probably shouldn't have seen that."
 
 #: src-en/data/blueprints.xml.append:487
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
-msgstr "舒俱来宝石"
+msgstr "Sugilite Stone"
 
 #: src-en/data/blueprints.xml.append:488
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/desc"
 msgstr ""
-"当敌方武器击中你的飞船船体时，会有一块强力的舒俱来宝石碎片从船体剥落。它造成3点离子伤害与1点船体伤害，且几乎必中目标。此外，你的飞船有50%几率免疫离子伤害。"
+"When an enemy weapon hits your ship's hull, a powerful shard of sugilite "
+"gemstone breaks off from it. It deals 3 ion damage and 1 hull damage. The "
+"shard almost always hits the target. Additionally, your ship has a 50% "
+"chance to ignore ion damage."
 
 #: src-en/data/blueprints.xml.append:494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/title"
-msgstr "海蓝宝石"
+msgstr "Aquamarine Stone"
 
 #: src-en/data/blueprints.xml.append:495
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/desc"
 msgstr ""
-"当敌方武器击中你的飞船船体时，会有一块强力的海蓝宝石碎片从船体剥落。它造成4点船体伤害，锁定房间，并必定造成破舱。该碎片几乎必中目标。此外，你的飞船将自动修复所有破舱。"
+"When an enemy weapon hits your ship's hull, a powerful shard of aquamarine "
+"gemstone breaks off from it. It deals 4 damage to the hull, locks the room, "
+"and guarantees a breache. The shard almost always hits the target. "
+"Additionally, your ship will automatically repair all breaches."
 
 #: src-en/data/blueprints.xml.append:501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/title"
-msgstr "红玉宝石"
+msgstr "Carnelian Stone"
 
 #: src-en/data/blueprints.xml.append:502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/desc"
 msgstr ""
-"当敌方武器击中你的飞船船体时，会有一块强力的红玉宝石碎片从船体剥落。它造成2点系统伤害与2点船体伤害，并必定引发火灾。该碎片几乎必中目标。此外，你的飞船将自动扑灭火灾。"
+"When an enemy weapon hits your ship's hull, a powerful shard of carnelian "
+"gemstone breaks off from it. It deals 2 damage to systems and 2 damage to "
+"the hull, and is guaranteed to start a fire. The shard almost always hits "
+"the target. Additionally, your ship will automatically extinguish fires."
 
 #: src-en/data/blueprints.xml.append:508
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/title"
-msgstr "水晶碎片"
+msgstr "Crystal Shards"
 
 #: src-en/data/blueprints.xml.append:509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/desc"
-msgstr "这些是你在时空裂痕附近战胜珍晶碎片后留下的大块水晶残片。你可以将它们出售，获得90废料的利润。"
+msgstr ""
+"These are fragments of a large crystal left over after your victory over the"
+" Precious Shard near the space-time rift. You can sell them for a profit of "
+"90 scrap."
 
 #: src-en/data/blueprints.xml.append:517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/title"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/short"
-msgstr "EG水晶"
+msgstr "EGCRYS"
 
 #: src-en/data/blueprints.xml.append:519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/desc"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/tooltip"
-msgstr "不应看到此描述。"
+msgstr "Should Never See This Description."
 
 #: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/title"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:561
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/short"
-msgstr "EG水晶"
+msgstr "EGCRYS"
 
 #: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/desc"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/tooltip"
-msgstr "不应看到此描述。"
+msgstr "Should Never See This Description."
 
 #: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/title"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:604
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/short"
-msgstr "EG水晶"
+msgstr "EGCRYS"
 
 #: src-en/data/blueprints.xml.append:605
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/desc"
-msgstr "EG 水晶碎片"
+msgstr "EG CRYSTAL SHARD"
 
 #: src-en/data/blueprints.xml.append:606
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/tooltip"
-msgstr "不应看到此描述。"
+msgstr "Should Never See This Description."
 
 #: src-en/data/blueprints.xml.append:645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/title"
-msgstr "舒俱来"
+msgstr "Sugilite"
 
 #: src-en/data/blueprints.xml.append:646
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/short"
-msgstr "舒俱来"
+msgstr "Sugilite"
 
 #: src-en/data/blueprints.xml.append:647
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/desc"
 msgstr ""
-"[基础冷却时间：20] 舒俱来宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道离子光束。对其路径上的所有系统造成1点离子伤害，并对船员造成30点伤害。"
+"[Base cooldown: 20] Sugilite stone concentrates light within itself and, "
+"after a short delay, fires an ion beam at the enemy ship. It deals 1 ion "
+"damage to all systems in its path and deals 30 damage to the crew."
 
 #: src-en/data/blueprints.xml.append:648
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/tooltip"
 msgstr ""
-"[基础冷却时间：20] 舒俱来宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道离子光束。对其路径上的所有系统造成1点离子伤害，并对船员造成30点伤害。"
+"[Base cooldown: 20] Sugilite stone concentrates light within itself and, "
+"after a short delay, fires an ion beam at the enemy ship. It deals 1 ion "
+"damage to all systems in its path and deals 30 damage to the crew."
 
 #: src-en/data/blueprints.xml.append:676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/title"
-msgstr "海蓝"
+msgstr "Aquamarine"
 
 #: src-en/data/blueprints.xml.append:677
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/short"
-msgstr "海蓝"
+msgstr "Aquamarine"
 
 #: src-en/data/blueprints.xml.append:678
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/desc"
 msgstr ""
-"[基础冷却时间：20] "
-"海蓝宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道破舱光束。造成破舱的概率为中等。光束对击中的每个房间造成1点船体伤害。穿透1层护盾。"
+"[Base cooldown: 20] Aquamarine stone concentrates light within itself and, "
+"after a short delay, fires breaching beam at the enemy ship. Breaches are "
+"created with an average chance. Beam deals 1 damage to the hull for each "
+"room it hits. Pierces 1 shield layer."
 
 #: src-en/data/blueprints.xml.append:679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/tooltip"
 msgstr ""
-"[基础冷却时间：20] "
-"海蓝宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道破舱光束。造成破舱的概率为中等。光束对击中的每个房间造成1点船体伤害。穿透1层护盾。"
+"[Base cooldown: 20] Aquamarine stone concentrates light within itself and, "
+"after a short delay, fires breaching beam at the enemy ship. Breaches are "
+"created with an average chance. Beam deals 1 damage to the hull for each "
+"room it hits. Pierces 1 shield layer."
 
 #: src-en/data/blueprints.xml.append:708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/title"
-msgstr "红玉"
+msgstr "Carnelian"
 
 #: src-en/data/blueprints.xml.append:709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/short"
-msgstr "红玉"
+msgstr "Carnelian"
 
 #: src-en/data/blueprints.xml.append:710
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/desc"
-msgstr "[基础冷却时间：20] 红玉宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道火焰光束。对击中的每个系统造成1点伤害，并有中等概率将其点燃。"
+msgstr ""
+"[Base cooldown: 20] Carnelian stone concentrates light within itself and, "
+"after a short delay, fires a beam of fire at the enemy ship. It deals 1 "
+"damage to each system it hits and has a moderate chance of setting it on "
+"fire."
 
 #: src-en/data/blueprints.xml.append:711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/tooltip"
-msgstr "[基础冷却时间：20] 红玉宝石在其内部汇聚光线，短暂延迟后向敌舰发射一道火焰光束。对击中的每个系统造成1点伤害，并有中等概率将其点燃。"
+msgstr ""
+"[Base cooldown: 20] Carnelian stone concentrates light within itself and, "
+"after a short delay, fires a beam of fire at the enemy ship. It deals 1 "
+"damage to each system it hits and has a moderate chance of setting it on "
+"fire."
 
 #: src-en/data/blueprints.xml.append:739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
-msgstr ""
+msgstr "Neostar Laser (R)"
 
 #: src-en/data/blueprints.xml.append:740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
-msgstr ""
+msgstr "Neostar Laser (R)"
 
 #: src-en/data/blueprints.xml.append:741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
 msgstr ""
+"An advanced laser weapon designed for internal use by Neostar Megacorp "
+"ships. It fires three shots, each dealing two damage and having a small "
+"chance to create a breach."
 
 #: src-en/data/blueprints.xml.append:742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
 msgstr ""
+"An advanced laser weapon designed for internal use by Neostar Megacorp "
+"ships. It fires three shots, each dealing two damage and having a small "
+"chance to create a breach."
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
-msgstr ""
+msgstr "Drone laser"
 
 #: src-en/data/blueprints.xml.append:822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr "\"视线\""
+msgstr "'Point of View'"
 
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr "\"视线\""
+msgstr "'Point of View'"
 
 #: src-en/data/blueprints.xml.append:824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
-msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤害。它必定击晕敌方船员15秒。"
+msgstr ""
+"[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 "
+"point of hull damage for each room it hits. It guarantees to stun the enemy "
+"crew for 15 seconds."
 
 #: src-en/data/blueprints.xml.append:825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
-msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤害。它必定击晕敌方船员15秒。"
+msgstr ""
+"[Base cooldown: 12] This beam weapon pierces all shields layers, dealing 1 "
+"point of hull damage for each room it hits. It guarantees to stun the enemy "
+"crew for 15 seconds."
 
 #: src-en/data/blueprints.xml.append:853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr "\"劝服\""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr "\"劝服\""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
-msgstr "[基础冷却时间：11] 此光束武器穿透所有护盾，造成1点系统伤害。"
+msgstr ""
+"[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 "
+"system damage."
 
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
-msgstr "[基础冷却时间：11] 此光束武器穿透所有护盾，造成1点系统伤害。"
+msgstr ""
+"[Base cooldown: 8] This beam weapon pierces all shields layers, dealing 1 "
+"system damage."
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
-msgstr ""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
-msgstr ""
+msgstr "'Persuasion'"
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
 msgstr ""
+"A special development by Erudite. This beam weapon pierces all layers of the"
+" shield, dealing 1 system damage. It can only be fired twice per battle due "
+"to its low energy efficiency."
 
 #: src-en/data/blueprints.xml.append:888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
 msgstr ""
+"This beam weapon pierces all layers of the shield, dealing 1 system damage. "
+"It can only be fired twice per battle due to its low energy efficiency."
 
 #: src-en/data/blueprints.xml.append:917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/title"
-msgstr "生物酸甲虫"
+msgstr "Bioacid beetle"
 
 #: src-en/data/blueprints.xml.append:918
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/short"
-msgstr "生物酸甲虫"
+msgstr "Bioacid beetle"
 
 #: src-en/data/blueprints.xml.append:919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，并必定击晕目标10秒。穿透1层护盾。"
+msgstr ""
+"[Base cooldown: 20] This beetle spits acid projectiles that corrode the "
+"enemy crew. Their spit deal 45 damage to the crew and have a guaranteed "
+"chance to stun them for 10 seconds. Pierces 5 shield layers."
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，并必定击晕目标10秒。穿透1层护盾。"
+msgstr ""
+"[Base cooldown: 20] This beetle spits acid projectiles that corrode the "
+"enemy crew. Their spit deal 45 damage to the crew and have a guaranteed "
+"chance to stun them for 10 seconds. Pierces 5 shield layers."
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/title"
-msgstr "强酸甲虫"
+msgstr "Acid beetle"
 
 #: src-en/data/blueprints.xml.append:956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/short"
-msgstr "强酸甲虫"
+msgstr "Acid beetle"
 
 #: src-en/data/blueprints.xml.append:957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概率在房间内造成破舱。"
+msgstr ""
+"[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's "
+"systems, dealing 2 damage each. Creates a breach in the room with a moderate"
+" chance. Pierces 2 shield layers."
 
 #: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概率在房间内造成破舱。"
+msgstr ""
+"[Base cooldown: 20] This beetle spits acid projectiles that corrode ship's "
+"systems, dealing 2 damage each. Creates a breach in the room with a moderate"
+" chance. Pierces 2 shield layers."
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/title"
-msgstr "船体酸化甲虫"
+msgstr "Hull-acidifier beetle"
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/short"
-msgstr "船体酸化甲虫"
+msgstr "Hull-acidifier beetle"
 
 #: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/desc"
-msgstr "[基础冷却时间：25] 这种甲虫喷射酸液弹，对船体和系统造成1点伤害，并对护盾或系统造成1点离子伤害。"
+msgstr ""
+"[Base cooldown: 25] This beetle spits acid projectiles that deal 1 damage to"
+" hull and systems, and 1 point of ion damage to shields or systems."
 
 #: src-en/data/blueprints.xml.append:996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/tooltip"
-msgstr "[基础冷却时间：25] 这种甲虫喷射酸液弹，对船体和系统造成1点伤害，并对护盾或系统造成1点离子伤害。"
+msgstr ""
+"[Base cooldown: 25] This beetle spits acid projectiles that deal 1 damage to"
+" hull and systems, and 1 point of ion damage to shields or systems."
 
 #: src-en/data/blueprints.xml.append:1032
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/title"
-msgstr "大麦田"
+msgstr "Barley fields"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/short"
-msgstr "大麦田"
+msgstr "Barley fields"
 
 #: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/desc"
 msgstr ""
-"[基础冷却时间：15] "
-"在这艘船上，收割者的大麦水培系统已损坏：它不再产生种子，而是制造生物武器，每发弹丸对船员造成45点伤害并对其施加负面效果。它发射5发弹丸的齐射，不穿透护盾且不造成任何其他伤害。"
+"[Base cooldown: 15] On this ship, the Reapers' barley hydroponics system is "
+"broken: instead of seeds, it creates biological weapons, each projectile of "
+"which deals 45 damage to the crew and applies negative effects to them. It "
+"fires a burst of 5 projectiles that do not penetrate shields and do not "
+"cause any other damage."
 
 #: src-en/data/blueprints.xml.append:1035
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/tooltip"
 msgstr ""
-"[基础冷却时间：15] "
-"在这艘船上，收割者的大麦水培系统已损坏：它不再产生种子，而是制造生物武器，每发弹丸对船员造成45点伤害并对其施加负面效果。它发射5发弹丸的齐射，不穿透护盾且不造成任何其他伤害。"
+"[Base cooldown: 15] On this ship, the Reapers' barley hydroponics system is "
+"broken: instead of seeds, it creates biological weapons, each projectile of "
+"which deals 45 damage to the crew and applies negative effects to them. It "
+"fires a burst of 5 projectiles that do not penetrate shields and do not "
+"cause any other damage."
 
 #: src-en/data/blueprints.xml.append:1079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/title"
-msgstr "大麦田"
+msgstr "Barley fields"
 
 #: src-en/data/blueprints.xml.append:1080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/short"
-msgstr "大麦田"
+msgstr "Barley fields"
 
 #: src-en/data/blueprints.xml.append:1081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/desc"
 msgstr ""
-"[基础冷却时间：15] "
-"在这艘船上，收割者的大麦水培系统已损坏：它不再产生种子，而是制造生物武器，每发弹丸对船员造成45点伤害并对其施加负面效果。它发射5发弹丸的齐射，不穿透护盾且不造成任何其他伤害。"
+"[Base cooldown: 15] On this ship, the Reapers' barley hydroponics system is "
+"broken: instead of seeds, it creates biological weapons, each projectile of "
+"which deals 45 damage to the crew and applies negative effects to them. It "
+"fires a burst of 5 projectiles that do not penetrate shields and do not "
+"cause any other damage."
 
 #: src-en/data/blueprints.xml.append:1082
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/tooltip"
 msgstr ""
-"[基础冷却时间：15] "
-"在这艘船上，收割者的大麦水培系统已损坏：它不再产生种子，而是制造生物武器，每发弹丸对船员造成45点伤害并对其施加负面效果。它发射5发弹丸的齐射，不穿透护盾且不造成任何其他伤害。"
+"[Base cooldown: 15] On this ship, the Reapers' barley hydroponics system is "
+"broken: instead of seeds, it creates biological weapons, each projectile of "
+"which deals 45 damage to the crew and applies negative effects to them. It "
+"fires a burst of 5 projectiles that do not penetrate shields and do not "
+"cause any other damage."
 
 #: src-en/data/blueprints.xml.append:1126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/title"
-msgstr "喷洒器"
+msgstr "Sprayer"
 
 #: src-en/data/blueprints.xml.append:1127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/short"
-msgstr "喷洒器"
+msgstr "Sprayer"
 
 #: src-en/data/blueprints.xml.append:1128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/desc"
-msgstr "这款生物武器的弹丸对敌方船员造成严重伤害，并对其施加负面效果。每次射击使武器装填时间减少3秒，此效果可生效3次。无需能量。"
+msgstr ""
+"Projectiles of this biological weapon inflict serious damage on enemy crew "
+"members and also have negative effects on them. Each shot reduces the "
+"weapon's reload time by 3 seconds 3 times. Does not require power."
 
 #: src-en/data/blueprints.xml.append:1129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/tooltip"
-msgstr "对敌方船员造成45点伤害，3发弹丸。施加负面效果。基础装填时间14秒，每次射击减少3秒，此效果可生效3次。无需能量。"
+msgstr ""
+"45 damage to enemy crew, 3 projectiles. Applies negative effects. 14 seconds"
+" base reload time, reduced by 3 seconds with each shot 3 times. Does not "
+"require power."
 
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/title"
-msgstr "微型恒星"
+msgstr "Miniature star"
 
 #: src-en/data/blueprints.xml.append:1179
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/short"
-msgstr "微型恒星"
+msgstr "Miniature star"
 
 #: src-en/data/blueprints.xml.append:1180
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/desc"
-msgstr "[基础冷却时间：25] 为这艘飞船供能的恒星偶尔会向敌舰释放一发能量弹丸。它造成4点离子伤害、30点船员伤害，并几乎必定点燃房间。"
+msgstr ""
+"[Base cooldown: 25] The star that powers this ship occasionally releases a "
+"projectile of its energy into an enemy ship. It deals 4 ion damage, 30 crew "
+"damage, and has an almost guaranteed chance to set the room on fire."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/tooltip"
-msgstr "[基础冷却时间：25] 为这艘飞船供能的恒星偶尔会向敌舰释放一发能量弹丸。它造成4点离子伤害、30点船员伤害，并几乎必定点燃房间。"
+msgstr ""
+"[Base cooldown: 25] The star that powers this ship occasionally releases a "
+"projectile of its energy into an enemy ship. It deals 4 ion damage, 30 crew "
+"damage, and has an almost guaranteed chance to set the room on fire."
 
 #: src-en/data/blueprints.xml.append:1217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/title"
-msgstr "月长石矿场"
+msgstr "Moonstone field"
 
 #: src-en/data/blueprints.xml.append:1218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/short"
-msgstr "月长石矿场"
+msgstr "Moonstone field"
 
 #: src-en/data/blueprints.xml.append:1219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/desc"
 msgstr ""
-"[基础冷却时间：22] "
-"这艘飞船产生小行星，并以4发弹丸的齐射形式向敌舰发射，作为自卫手段。这些月球小行星对船体和系统造成1点伤害，并有中等概率造成破舱。"
+"[Base cooldown: 22] This ship produces asteroids and fires them in a volley "
+"of 4 projectiles at the enemy ship as a form of self-defense. These lunar "
+"asteroids deal 1 damage to the hull and systems and have a moderate chance "
+"of creating breaches."
 
 #: src-en/data/blueprints.xml.append:1220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/tooltip"
 msgstr ""
-"[基础冷却时间：22] "
-"这艘飞船产生小行星，并以4发弹丸的齐射形式向敌舰发射，作为自卫手段。这些月球小行星对船体和系统造成1点伤害，并有中等概率造成破舱。"
+"[Base cooldown: 22] This ship produces asteroids and fires them in a volley "
+"of 4 projectiles at the enemy ship as a form of self-defense. These lunar "
+"asteroids deal 1 damage to the hull and systems and have a moderate chance "
+"of creating breaches."
 
 #: src-en/data/blueprints.xml.append:1256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/title"
-msgstr "月长石矿场"
+msgstr "Moonstone field"
 
 #: src-en/data/blueprints.xml.append:1257
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/short"
-msgstr "月长石矿场"
+msgstr "Moonstone field"
 
 #: src-en/data/blueprints.xml.append:1258
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/desc"
 msgstr ""
-"[基础冷却时间：24] 这艘飞船产生小行星，并以2发弹丸的齐射形式向敌舰发射，作为自卫手段。这些月球小行星对船体和系统造成2点伤害，并锁定房间。"
+"[Base cooldown: 24] This ship produces asteroids and fires them in a volley "
+"of 2 projectiles at the enemy ship as a form of self-defense. These lunar "
+"asteroids deal 2 damage to the hull and systems and locks rooms."
 
 #: src-en/data/blueprints.xml.append:1259
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/tooltip"
 msgstr ""
-"[基础冷却时间：24] 这艘飞船产生小行星，并以2发弹丸的齐射形式向敌舰发射，作为自卫手段。这些月球小行星对船体和系统造成2点伤害，并锁定房间。"
+"[Base cooldown: 24] This ship produces asteroids and fires them in a volley "
+"of 2 projectiles at the enemy ship as a form of self-defense. These lunar "
+"asteroids deal 2 damage to the hull and systems and locks rooms."
 
 #: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/class"
-msgstr "动力核心"
+msgstr "Powerhouse"
 
 #: src-en/data/blueprints.xml.append:1296
 msgid ""
@@ -1040,12 +1251,15 @@ msgstr "IG-23"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/desc"
 msgstr ""
-"海盗袭击了这艘电池商人舰船，偷走了一套高科技产品，现在他们打算将其夺回。不幸的是，飞船反应堆非常薄弱，但这一劣势被一个可升级至4级的强大电池系统所弥补。"
+"Pirates attacked this battery merchant's ship and stole a set of high-tech "
+"products from them, and now they intends to get them back. Unfortunately, "
+"their ship's reactor is very weak, but this disadvantage is compensated by a"
+" powerful battery system that can be upgraded to 4 level."
 
 #: src-en/data/blueprints.xml.append:1372
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/class"
-msgstr "动力核心"
+msgstr "Powerhouse"
 
 #: src-en/data/blueprints.xml.append:1373
 msgid ""
@@ -1055,18 +1269,21 @@ msgstr "EE-24"
 #: src-en/data/blueprints.xml.append:1374
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:1375
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/desc"
 msgstr ""
-"商人找回了被海盗盗走的所有货物，但战斗并不轻松。飞船不得不为适应新条件而重新设计，大规模贸易也不得不暂停，直至商人积攒了足够的废料来修复飞船。"
+"Merchant recovered all the goods stolen by the pirates, but the battle was "
+"not so easy. The ship had to be redesigned to suit new conditions, and mass "
+"trade had to be suspended until  merchant had accumulated enough scrap to "
+"repair their ship."
 
 #: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/class"
-msgstr "动力核心"
+msgstr "Powerhouse"
 
 #: src-en/data/blueprints.xml.append:1450
 msgid ""
@@ -1076,480 +1293,595 @@ msgstr "HG-25"
 #: src-en/data/blueprints.xml.append:1451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:1452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/desc"
 msgstr ""
-"商人终于积攒了足够的废料来修复飞船。如今，为防止海盗再次袭击，他们在护盾系统中安装了一块高科技电池，并获得了更强大的武器……然而，为达成这一切，他们不得不卖掉了一些次要系统的部件。放马过来吧，电池大师！"
+"Merchant finally gathered enough scrap to repair their ship. Now, to prevent"
+" another pirate attack, they installed one of the high-tech batteries in the"
+" shields system and acquired more powerful weapons... However, to do all "
+"this, they had to sell parts from some secondary systems. Bring it on, "
+"battery master!"
 
 #: src-en/data/blueprints.xml.append:1527
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/class"
-msgstr "末世学家舰船"
+msgstr "Eschatologists vessel"
 
 #: src-en/data/blueprints.xml.append:1528
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/name"
-msgstr "终末体"
+msgstr "Eschaton"
 
 #: src-en/data/blueprints.xml.append:1529
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
 msgstr ""
-"末世学家穿梭于各个宇宙，研究文明的\"世界终结\"，并遵循不干涉政策。他们仅对此宇宙产生兴趣，是因为叛军的胜利对大多数智慧种族而言同样是一种世界终结。"
+"Eschatologists travel across universes and study \"ends of the world\" of "
+"civilizations, following a policy of non-interference. They became "
+"interested in this universe only because the triumph of the Rebellion is "
+"also a kind of end of the world for most intelligent races."
 
 #: src-en/data/blueprints.xml.append:1598
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/class"
-msgstr "末世学家舰船"
+msgstr "Eschatologists vessel"
 
 #: src-en/data/blueprints.xml.append:1599
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/name"
-msgstr "终末遗响"
+msgstr "The Last Eschaton"
 
 #: src-en/data/blueprints.xml.append:1600
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/desc"
 msgstr ""
-"这艘舰船是蜥鳞族所属飞船的精确复制品。该种族曾利用单一强大神器的力量，却因野心在外星宇宙中付出了全族灭绝的代价。随后，他们的飞船成为末世学家研究项目的基础。"
+"This vessel is an exact replica of a ship belonging to the Lacertids, a race"
+" that harnessed the power of a single powerful artifact, but paid for their "
+"ambitions with the complete extinction of their species in an alien "
+"universe. Subsequently, their ship became the basis for research projects by"
+" eschatologists."
 
 #: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/class"
-msgstr "月吻眷顾者"
+msgstr "Lunarkissed"
 
 #: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/name"
-msgstr "月之宽恕"
+msgstr "Lunar's Forgiveness"
 
 #: src-en/data/blueprints.xml.append:1671
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
-"隐士在一处边陲世界中寻得此舰。\n"
-"其数据库中除提及前船员所崇拜的神明——月神\"琉娜\"与日神\"索拉娜\"——外空无一物。\n"
-"舰上图谱指向银河彼端的一颗行星，隐士毫无犹豫，启程奔赴这最后的旅程。"
+"Hermit found this ship in one of the outer worlds. Its database contained "
+"nothing but references to the god Lunar and the goddess Solara, whom the "
+"ship's former crew worshipped. The ship's map pointed to a planet on the "
+"other side of the galaxy, and without hesitation, the hermit set off on his "
+"final journey."
 
 #: src-en/data/blueprints.xml.append:1739
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/class"
-msgstr "阳冕赐福号"
+msgstr "Solarkissed"
 
 #: src-en/data/blueprints.xml.append:1740
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/name"
-msgstr "索拉娜的救赎"
+msgstr "Solara's Redemption"
 
 #: src-en/data/blueprints.xml.append:1741
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:1742
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
 msgstr ""
-"隐士发现的第二艘船并未让他对琉娜与索拉娜有更多了解，但他得知该舰船员是栖息于星辰之间、以恒星能量为食的无形灵体。\n"
-"第二艘船的星图指向第三个信标——那正是该消逝种族的家园世界：无月故土。"
+"Second ship found by the hermit did not help him learn anything new about "
+"Lunar and Solara, but he did learn that the crew of this ship were "
+"incorporeal beings who lived in the stars and fed on their energy. The map "
+"of the second ship pointed to a third beacon, which was the home world of "
+"the vanished race - the Moonless Homeland."
 
 #: src-en/data/blueprints.xml.append:1809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/class"
-msgstr "辰寂咏叹舰"
+msgstr "Astrakissed"
 
 #: src-en/data/blueprints.xml.append:1810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/name"
-msgstr "阿斯特拉之湮"
+msgstr "Astra's Oblivion"
 
 #: src-en/data/blueprints.xml.append:1811
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:1812
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/desc"
 msgstr ""
-"隐士引领两艘舰船抵达无月故土——一个庞大的三恒星系统。舰船在此重聚，促使它们融合并真正激活。舰船数据库就此开放以供研究，古老手稿终成公共之物。\n"
-"此刻，琉娜与索拉娜将目光投向了隐士。"
+"Hermit led both ships to the Moonless Homeland, a large triple star system. "
+"Reunion of the ships at this point led to their unification and true "
+"activation. Ship's database was opened for study, and ancient manuscripts "
+"eventually became public property. Lunar and Solara turned their gaze to the"
+" hermit."
 
 #: src-en/data/blueprints.xml.append:1879
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/class"
-msgstr "瓦坎斯特员舰"
+msgstr "Vakans' Crewser"
 
 #: src-en/data/blueprints.xml.append:1880
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/name"
-msgstr "苦修者之容"
+msgstr "Ascetic's Face"
 
 #: src-en/data/blueprints.xml.append:1881
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/unlock"
-msgstr "需就某件特定遗物咨询某位隐士的建议，方可解锁此舰。"
+msgstr ""
+"Consult the advice of a certain hermit about a certain artifact to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/desc"
 msgstr ""
-"自隐士将太阳反应堆技术公之于全宇宙后，联邦委任他自基础原理起重构该技术，以应用于超能族舰船的试验原型中。\n"
-"借此项目，隐士赚取了足以安度晚年的财富，雇用了护卫，并再度启程，漫游星辰。"
+"After the hermit told the universe about solar reactor technology, the "
+"Ministry commissioned him to recreate it from scratch for implementation in "
+"test prototypes of Zoltan ships. Thanks to this project, hermit earned "
+"enough money to live comfortably in his old age, hired security guards, and "
+"set off to travel the universe once again."
 
 #: src-en/data/blueprints.xml.append:1951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/class"
-msgstr "琉璃方舟"
+msgstr "Glass Vessel"
 
 #: src-en/data/blueprints.xml.append:1952
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/name"
-msgstr "怯蓝"
+msgstr "Timid Blue"
 
 #: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
-msgstr "为\"奇迹1111·谢谢你\"完成面向寻秘者的订单，并探索至臻感激的终极形态。"
+msgstr ""
+"Complete the order for the Miracle 1111 \"Thank You\" for Miracle Seekers "
+"and discover what the highest degree of gratitude is."
 
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/desc"
 msgstr ""
-"此舰于深空之中被发现，舱内无任何船员踪迹。舰体完全由特殊的镜面玻璃构成，因而极为脆弱。然而，其强力的初始武装与特殊增强部件，使之成为不容小觑的强敌。"
+"This ship was found in the vastness of space with no signs of a crew inside."
+" It is made entirely of a special mirror-like glass, which makes it very "
+"fragile. However, its powerful initial armament and special augment make it "
+"a dangerous opponent."
 
 #: src-en/data/blueprints.xml.append:2029
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/class"
-msgstr "琉璃方舟"
+msgstr "Glass Vessel"
 
 #: src-en/data/blueprints.xml.append:2030
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/name"
-msgstr "天赐恩典"
+msgstr "Heavenly Blessing"
 
 #: src-en/data/blueprints.xml.append:2031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/desc"
 msgstr ""
-"经过漫长的研究与改造，该舰船已实现全面升级与现代化，并加装了能量护盾以延长其生存能力。然而，在完成所有强化后，其船体结构强度反而较以往更为脆弱。"
+"After a long process of studying the ship, it was possible to improve and "
+"modernize it and install energy shields that should help the ship last "
+"longer. However, after all the upgrades, the strength of its hull has been "
+"reduced more than before."
 
 #: src-en/data/blueprints.xml.append:2106
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/class"
-msgstr "琉璃方舟"
+msgstr "Glass Vessel"
 
 #: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/name"
-msgstr "举世钦慕"
+msgstr "World's Admiration"
 
 #: src-en/data/blueprints.xml.append:2108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:2109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/desc"
 msgstr ""
-"舰船升级完成一段时间后，其神秘主人现身。她自称是\"奇迹追寻者\"组织成员，并解释这艘船是在她为寻找\"奇迹\"而远征时失联的。当得知此舰能阻止这个宇宙中的叛乱后，她同意伸出援手。"
+"Some time after the ship was upgraded, its mysterious owner appeared. She "
+"introduced herself as a member of the Miracle Seekers organization and "
+"explained that she had lost sight of it when she went on an expedition in "
+"search of Miracles. When it was explained to her that the ship could stop "
+"the Rebellion in this universe, she agreed to help."
 
 #: src-en/data/blueprints.xml.append:2179
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/class"
-msgstr "镜像体特员舰"
+msgstr "Mirrored's Crewser"
 
 #: src-en/data/blueprints.xml.append:2180
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/name"
-msgstr "璀璨琉璃"
+msgstr "Unattainability"
 
 #: src-en/data/blueprints.xml.append:2181
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/unlock"
-msgstr "需就某件特定遗物咨询某位宇宙异常体兼奇迹追寻者的兼职成员，方可解锁此舰。"
+msgstr ""
+"Consult the advice of a certain cosmic anomaly and part-time member of the "
+"Miracle Seekers about a certain artifact to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2182
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/desc"
 msgstr ""
-"这便是一个无界灵魂的命运，它足以拥抱整个世界。此为宇宙因果之法则，及其所受之约束——非为损害，而为生命之益。这是古老偏见的终焉，亦是超越永恒与时间之物的开端。"
+"Such is the fate of a soul without boundaries, capable of embracing the "
+"entire world. This is the doctrine of universal causality and the "
+"limitations imposed on it, not for harm, but for the benefit of life. This "
+"is the final end of old prejudices and the beginning of something greater "
+"than eternity and time itself."
 
 #: src-en/data/blueprints.xml.append:2254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/class"
-msgstr "授粉者"
+msgstr "Pollinator"
 
 #: src-en/data/blueprints.xml.append:2255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/name"
-msgstr "大麦号"
+msgstr "Barley"
 
 #: src-en/data/blueprints.xml.append:2256
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败\"丰收\"的机械智能舰——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"Meet and defeat the Harvest's machine intelligence ship near the space-time "
+"anomaly, the coordinates of which will be given to you by the Miracle "
+"Seekers when you earn their respect."
 
 #: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
 msgstr ""
-"此舰原属\"收割者\"——即\"丰收\"的机械智能意识体。它们曾致力于培育大麦，将整个恒星系转化为农业乌托邦。后因该舰逐渐失控并开始生成剧毒生物圈，收割者将其遗弃。一株兰花发现了它，并决意唤醒其潜在价值。"
+"This vessel belonged to the Reapers, the machine mind of the Harvest. They "
+"were engaged in growing barley, transforming entire space systems into "
+"agricultural utopias. This ship became unusable and began to produce toxic "
+"biospheres, after which the Reapers abandoned it. An orchid found it and "
+"decided to unlock its potential."
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/class"
-msgstr "授粉者"
+msgstr "Pollinator"
 
 #: src-en/data/blueprints.xml.append:2333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/name"
-msgstr "蕨叶号"
+msgstr "Fern"
 
 #: src-en/data/blueprints.xml.append:2334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/desc"
 msgstr ""
-"兰花在血兰花中找到了同类，二者联手在舰上搭建了一座小型温室。得益于友人的巧思与收割者遗留的技术，此舰能够为巨炮及武器系统培育额外的生物弹药。然而，它自身并未配备任何可对船体造成直接伤害的武器。"
+"Orchid found a kindred spirit in Vampweed, and together they installed a "
+"small greenhouse on the ship. Thanks to the ingenuity of their friends and "
+"the legacy of the Reapers, this ship is capable of growing additional bio-"
+"munitions for artillery and weapon systems. However, it does not have any "
+"weapons capable of damaging the hull."
 
 #: src-en/data/blueprints.xml.append:2411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/class"
-msgstr "授粉者"
+msgstr "Pollinator"
 
 #: src-en/data/blueprints.xml.append:2412
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/name"
-msgstr "550W"
+msgstr "Moss"
 
 #: src-en/data/blueprints.xml.append:2413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:2414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
 msgstr ""
-"收割者舰船的改造项目由\"采集会\"出资——出乎意料的是，血兰邦也提供了支持。如今它已被转化为一座培育多种植物的空中花园。该舰曾一度对外开放参观，并赚取了大量废料资源，但出于安全考虑，其武器系统的最大效能已被调低。"
+"The project to improve the Reapers' ship was funded by the Gathering and, "
+"surprisingly, the Confederacy. Now it has been turned into a garden where a "
+"wide variety of plants are grown. For a time, the ship was open to visitors "
+"and earned a lot of scrap, but for security reasons, the maximum level of "
+"the weapon system was reduced."
 
 #: src-en/data/blueprints.xml.append:2493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/class"
-msgstr "歌利亚 I 型"
+msgstr "Goliath I"
 
 #: src-en/data/blueprints.xml.append:2494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/name"
-msgstr "歌利亚 I"
+msgstr "Goliath I"
 
 #: src-en/data/blueprints.xml.append:2495
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
-msgstr "为\"奇迹0900·苍穹白绫\"完成面向奇迹追寻者的订单，并开启他们在此宇宙的篇章。"
+msgstr ""
+"Complete the order for the Miracle 0900 \"White Thread of the Expanse\" for "
+"Miracle Seekers and begin their story in this universe."
 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/desc"
 msgstr ""
-"此为首艘隶属于苍白的帝国舰船——那位在某个宇宙中统御全人类的帝王。诡异的是，皇帝本人并未在舰上，取而代之的是其克隆体，用以掩饰其真实身份。尽管该舰初始并无武器系统，却拥有其他摧毁敌人的手段。"
+"The first Imperial ship belonging to Emperor White, who became the ruler of "
+"all humanity in one of the universes. Strangely enough, the Emperor himself "
+"is not on board, but there is his clone, created to divert attention from "
+"his real identity. Although the ship has no weapon system at start, it has "
+"other ways of destroying the enemy."
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/class"
-msgstr "植物群落原型机"
+msgstr "Phytocenosis Prototype"
 
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
-msgstr "植物群落原型"
+msgstr "Phytocenosis Model"
 
 #: src-en/data/blueprints.xml.append:2563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2564
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/desc"
 msgstr ""
-"这是一艘实验性舰船，运用从生物源提取能量的技术，使其仅需消耗1单位燃料核心即可跃迁至本星区任意信标。尽管植物群落似乎已突破收容舱的约束，舰船目前仍运行正常……只是，切勿踏入引擎室。"
+"An experimental ship that uses technology to extract energy from biological "
+"source, allowing it to travel to any beacon in the sector for just 1 fuel "
+"cells. Although the phytocenosis seems to have escaped from its containment "
+"capsules, the ship is still functioning normally... just don't go into "
+"engines room."
 
 #: src-en/data/blueprints.xml.append:2628
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/class"
-msgstr "歌莉娅 II"
+msgstr "Goliath II"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/name"
-msgstr "歌莉娅II"
+msgstr "Goliath II"
 
 #: src-en/data/blueprints.xml.append:2630
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:2631
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/desc"
 msgstr ""
-"此为苍白帝国现行帝国舰船的复制品，尺寸缩小百倍，却比其前两代版本拥有更高潜力。它融合了初代的最佳特性与基于活性植物群落的最新反应堆技术，将苍白帝国的伟名传遍深空。"
+"A copy of the current Imperial ship of the Emperor White, reduced a "
+"hundredfold in size, but with greater potential than its two previous "
+"versions. Combining the best qualities of the first version with the latest "
+"reactor based on living phytocenosis, this machine spreads the word of the "
+"greatness of the White Empire throughout space."
 
 #: src-en/data/blueprints.xml.append:2695
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/class"
-msgstr "帝王特员舰"
+msgstr "Emperor's Crewser"
 
 #: src-en/data/blueprints.xml.append:2696
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/name"
-msgstr "大胃-袋"
+msgstr "David"
 
 #: src-en/data/blueprints.xml.append:2697
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/unlock"
-msgstr "需就某件特定遗物咨询某位帝王克隆体的建议，方可解锁此舰。"
+msgstr ""
+"Consult the advice of a certain emperor's clone about a certain artifact to "
+"unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/desc"
 msgstr ""
-"在不久的将来——其细节与此故事并无紧要关联——对苍白帝王克隆体的需求已然消失。获得自由的他追随己愿，将一艘苍白帝国的舰船改造得称心如意，并在一位故交的建议下，于舰内培育了一座小花圃。如今，挣脱了身份枷锁的他，终得幸福。"
+"In the near future, the details of which are not important to this story, "
+"the need for a clone of the Emperor White disappeared. Having become free "
+"and following his dream, he converted one of the ships of the White Empire "
+"to his liking and, on the advice of an old acquaintance, grew a small garden"
+" in it. Now, freed from the shackles of his role, he was finally happy."
 
 #: src-en/data/blueprints.xml.append:2764
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/class"
-msgstr "蚁冢舰群"
+msgstr "Termite Mound"
 
 #: src-en/data/blueprints.xml.append:2765
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/name"
-msgstr "圣白蚁舰"
+msgstr "Sacer Isoptera"
 
 #: src-en/data/blueprints.xml.append:2766
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
-msgstr "为\"奇迹9721·虫神断角\"完成面向奇迹追寻者的订单，并安抚那些哀悼神明逝去的生灵。"
+msgstr ""
+"Complete the order for the Miracle 9721 \"Broken Horn of the Insect God\" "
+"for Miracle Seekers and calm the creatures who mourned the death of their "
+"god."
 
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/desc"
 msgstr ""
-"白蚁虫群正以惊人的速度扩张其疆域。白蚁具备半智能与交流能力，因此对人类并不构成重大威胁；尽管太空虫族的刻板印象根深蒂固，它们并不会吞噬途径的一切。而此特定白蚁虫群，更成功培育出了一只拥有灵能天赋的个体。"
+"Termite colony is expanding its borders at an enviable speed. Termites are "
+"semi-intelligent and capable of communication, so they should not pose a "
+"great danger to humans, and despite all the cliches about space bugs, they "
+"do not devour everything in their path. Specifically, this termite swarm was"
+" able to raise one bug with psi-abilities."
 
 #: src-en/data/blueprints.xml.append:2836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/class"
-msgstr "蚁冢舰群"
+msgstr "Termite Mound"
 
 #: src-en/data/blueprints.xml.append:2837
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/name"
-msgstr "惧戮白蚁"
+msgstr "Terribilis Isoptera"
 
 #: src-en/data/blueprints.xml.append:2838
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:2839
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/desc"
 msgstr ""
-"随着殖民的世界日益增多，白蚁虫群正学习与其他种族共存。尽管许多人仍对其心怀恐惧，白蚁们努力融入星际社会——但平心而论，它们的尝试并不算成功。而此特定白蚁虫群，已成功培育出数只能够喷射多种酸液的甲虫单位。"
+"As they colonize more and more worlds, termites are learning to coexist with"
+" other races. Although many people still fear them, termites strive to "
+"integrate into space society, but to be honest, they are not very successful"
+" at it. Specifically, this termite swarm was able to raise several beetles "
+"that spit various acids."
 
 #: src-en/data/blueprints.xml.append:2907
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/class"
-msgstr "蚁冢舰群"
+msgstr "Termite Mound"
 
 #: src-en/data/blueprints.xml.append:2908
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/name"
-msgstr "械化鞘虫"
+msgstr "Artificialis Isoptera"
 
 #: src-en/data/blueprints.xml.append:2909
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:2910
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/desc"
 msgstr ""
-"尽管因智力与意识水平低下，与白蚁虫群的沟通极为困难，它们仍以某种方式在一处联邦船坞中获得了现代工程技术的加持。具体而言，此白蚁虫群成功培育并改造了一只半机械甲虫，以协助作战。"
+"Although communication with termites is very difficult due to their low "
+"intelligence and consciousness, they somehow managed to gain access to the "
+"benefits of modern engineering at one of the Federation's shipyards. "
+"Specifically, this termite swarm was able to grow and modify a single cyborg"
+" beetle to assist in combat."
 
 #: src-en/data/blueprints.xml.append:2987
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/class"
-msgstr "探迹者"
+msgstr "Searcher"
 
 #: src-en/data/blueprints.xml.append:2988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/name"
-msgstr "远世信号"
+msgstr "Distant Signal"
 
 #: src-en/data/blueprints.xml.append:2989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/unlock"
-msgstr "获取此舰的方法将于遥远的未来加入游戏！"
+msgstr ""
+"The method for obtaining this ship will be added to the game in the distant "
+"future!"
 
 #: src-en/data/blueprints.xml.append:2990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
 msgstr ""
-"\"探迹者\"——一座自主射电基站，航行于深空之中，搜寻着值得其神秘创造者注目的奇异信号。它搭载升级版感应系统，专为运用离子武器与射线而设计。在旅程的尽头，究竟有何物在等待着它？"
+"Searcher, an autonomous radio station, travels through space looking for "
+"strange signals worthy of the attention of its mysterious creator. It has an"
+" improved sensor system and is designed to use ion weapons and rays. What "
+"awaits it at the end of its journey?"
 
 #: src-en/data/blueprints.xml.append:3061
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/class"
-msgstr "深潜探迹者"
+msgstr "Underwater Searcher"
 
 #: src-en/data/blueprints.xml.append:3062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/name"
-msgstr "近域信号"
+msgstr "Nearby Signal"
 
 #: src-en/data/blueprints.xml.append:3063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3064
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
 msgstr ""
-"此版本的\"探迹者\"专为水下浸没环境设计，可在极端压力下进行信号侦测，因而拥有更高的耐久度，并使舰体免疫舱体破裂。然而，它不再支持预装的舱门系统与崩解力场。在世界之洋的深渊下，究竟有何物在等待着它？"
+"This version of the Searcher is designed for underwater immersion and signal"
+" detection even under extreme pressure, giving it more health and making the"
+" ship impervious to breaches. However, it no longer supports the pre-"
+"installed door system and disintegration fields. What awaits it beneath the "
+"depths of the World Ocean?"
 
 #: src-en/data/blueprints.xml.append:3134
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/class"
-msgstr "[信号已锁定]"
+msgstr "[SIGNAL FOUND]"
 
 #: src-en/data/blueprints.xml.append:3135
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/name"
-msgstr "[信号已锁定]"
+msgstr "[SIGNAL FOUND]"
 
 #: src-en/data/blueprints.xml.append:3136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/unlock"
-msgstr "[数据损坏。载入标准条件：使用B型船抵达第五星区，或以A型船通关游戏，即可解锁此舰。]"
+msgstr ""
+"[DATA IS CORRUPTED. LOADING STANDARD CONDITIONS: Get to Sector 5 with the "
+"Type B or beat the game with the Type A to unlock this ship.]"
 
 #: src-en/data/blueprints.xml.append:3137
 msgid ""
@@ -1562,365 +1894,464 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3207
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/class"
-msgstr "次级守护者"
+msgstr "Lesser Guardian"
 
 #: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/name"
-msgstr "纯真守卫"
+msgstr "Innocent Defender"
 
 #: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
-msgstr "为\"奇迹3385·暖意\"完成面向奇迹追寻者的订单，并守护无辜之人。"
+msgstr ""
+"Complete the order for the Miracle 3385 \"The Warmth\" for Miracle Seekers "
+"and protect the innocent."
 
 #: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/desc"
 msgstr ""
-"一艘雇佣兵集团的护航护卫舰，专为伴航任务设计。尽管其武器系统最大效能有所降低，却拥有制造并发射自动展开式ASB平台的能力。此外，此变体版本配备了一架高效防御无人机——以及斯拉维克本人！"
+"An escort frigate of the mercenaries, designed to accompany ships. Although "
+"it has reduced maximum weapon system power, it has the ability to create and"
+" launch self-deploying ASB platforms. In addition, this variant comes with "
+"an effective defensive drone and Slavik himself!"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/class"
-msgstr "次级守护者"
+msgstr "Lesser Guardian"
 
 #: src-en/data/blueprints.xml.append:3284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/name"
-msgstr "小捣蛋号"
+msgstr "Little Rascal"
 
 #: src-en/data/blueprints.xml.append:3285
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
 msgstr ""
-"所有遭淘汰之物——无论是道德上还是物理上的——终将归于废料场，而这艘船亦曾如此。所幸发现它的幻灵们恢复了其基础功能，甚至为它加装了一条废料收集臂，巧合的是，这条机械臂还能回收已耗尽的ASB平台。"
+"All things that become obsolete, whether morally or physically, inevitably "
+"end up in the scrapyard, and so this ship once found itself in the "
+"scrapyard. At least Phantoms who found it were able to restore its basic "
+"functionality and even significantly improve the shields system."
 
 #: src-en/data/blueprints.xml.append:3362
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/class"
-msgstr "次级守护者"
+msgstr "Lesser Guardian"
 
 #: src-en/data/blueprints.xml.append:3363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/name"
-msgstr "蛛行客"
+msgstr "Spidey"
 
 #: src-en/data/blueprints.xml.append:3364
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:3365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/desc"
-msgstr "在幻灵获得此舰后不久，蛛团集团便通过诡诈手段将其夺取。由于原装武器已不复存在，它如今依赖蜘蛛单位俘获敌舰，再以ASB平台予以摧毁。"
+msgstr ""
+"Some time after Phantoms got their hands on this ship, the Brood seized it "
+"through cunning manipulation. Since it no longer has its original weapons, "
+"it relies on capturing enemy ships with spiders and then destroying them "
+"with ASB platforms."
 
 #: src-en/data/blueprints.xml.append:3438
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/class"
-msgstr "坚不可摧"
+msgstr "Impenetrable"
 
 #: src-en/data/blueprints.xml.append:3439
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/name"
-msgstr "具现体"
+msgstr "Tangibility"
 
 #: src-en/data/blueprints.xml.append:3440
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败疯子\"磐石人\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"Meet and defeat madman Rockman near the space-time anomaly, the coordinates "
+"of which will be given to you by the Miracle Seekers when you earn their "
+"respect."
 
 #: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
 msgstr ""
-"十字军战士罗布尔从另一宇宙的神秘存在手中获得了此舰，代价是承诺为其完成一项任务。舰尾栖居着一只生物，它会欣然吞噬你的船体，以此换取舰船属性提升与武器冷却缩减——但此舰的护盾系统极为脆弱。"
+"Crusader named Robur received this ship from a mysterious entity from "
+"another universe in exchange for a favor. A creature lives in the stern of "
+"the ship that will happily devour your hull and in return increase its "
+"characteristics and reduce cooldown of your weapons, but this ship's shields"
+" system is very weak."
 
 #: src-en/data/blueprints.xml.append:3511
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/class"
-msgstr "坚不可摧"
+msgstr "Impenetrable"
 
 #: src-en/data/blueprints.xml.append:3512
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/name"
-msgstr "孤勇者"
+msgstr "Lone Warrior"
 
 #: src-en/data/blueprints.xml.append:3513
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3514
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/desc"
 msgstr ""
-"罗布尔再也没能见到朋友们的面容。那便是他为协助导致自身疯狂的幕后存在所必须付出的代价。此型号飞船没有护盾系统且后期无法安装，但初始即拥有三级坚不可摧装甲与增强的船体强度。"
+"Robur never saw his friends' faces again. That was the price he had to pay "
+"for aiding the entity behind his madness. This variant does not have a "
+"shield system and cannot be installed later, but it starts with third-level "
+"Impenetrable Armor and increased hull strength."
 
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/class"
-msgstr "坚不可摧"
+msgstr "Impenetrable"
 
 #: src-en/data/blueprints.xml.append:3579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/name"
-msgstr "归航者"
+msgstr "Comeback"
 
 #: src-en/data/blueprints.xml.append:3580
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:3581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/desc"
 msgstr ""
-"当罗布尔成功挣脱折磨者的掌控后，他接受了长期的心理治疗，以对抗那永恒的负罪感。一段时间后，他终究完成了自我重建——命运的天平，似乎正重新向他倾斜。"
+"When Robur managed to escape from the clutches of his tormentor, he "
+"underwent a long course of psychotherapy to combat his eternal feelings of "
+"guilt. After some time, he managed to rehabilitate himself, and it seemed "
+"that everything was falling into place for him."
 
 #: src-en/data/blueprints.xml.append:3651
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/class"
-msgstr "珍晶碎片"
+msgstr "Precious Shard"
 
 #: src-en/data/blueprints.xml.append:3652
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/name"
-msgstr "舒俱来"
+msgstr "Sugilite"
 
 #: src-en/data/blueprints.xml.append:3653
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"舒俱来舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用B型船抵达第五星区，或以C型船通关游戏，即可解锁此舰。"
+"Meet and defeat the unusual Sugilite ship near the space-time anomaly, the "
+"coordinates of which will be given to you by the Miracle Seekers when you "
+"earn their respect, either get to Sector 5 with the Type B or beat the game "
+"with the Type C to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3654
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
 msgstr ""
-"这艘镶嵌舒俱来宝石的舰船，初始武装极为贫弱，最初仅能依靠受损时飞溅的晶石碎片攻击敌人。然而，此缺陷由一道强大的离子光束所弥补——它能将舰内宝石的能量汇聚释放。"
+"This ship, inlaid with sugilite gem, has terrible initial armament and is "
+"forced to defeat its enemies at first only with the help of shards that fly "
+"off it when it takes damage. However, this disadvantage of the ship is "
+"compensated for by a powerful ion beam that concentrates the stone inside "
+"itself."
 
 #: src-en/data/blueprints.xml.append:3730
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/class"
-msgstr "珍晶碎片"
+msgstr "Precious Shard"
 
 #: src-en/data/blueprints.xml.append:3731
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/name"
-msgstr "海蓝"
+msgstr "Aquamarine"
 
 #: src-en/data/blueprints.xml.append:3732
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"海蓝宝石舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用C型船抵达第五星区，或以A型船通关游戏，即可解锁此舰。"
+"Meet and defeat the unusual Aquamarine ship near the space-time anomaly, the"
+" coordinates of which will be given to you by the Miracle Seekers when you "
+"earn their respect, either get to Sector 5 with the Type C or beat the game "
+"with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3733
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
 msgstr ""
-"这艘镶嵌海蓝宝石的舰船，初始武装极为贫弱，最初仅能依靠受损时飞溅的晶石碎片攻击敌人。然而，此缺陷由一道强力的破舱光束所弥补——它能将舰内宝石的能量汇聚释放。"
+"This ship, inlaid with aquamarine gem, has terrible initial armament and is "
+"forced to defeat its enemies at first only with the help of shards that fly "
+"off it when it takes damage. However, this disadvantage of the ship is "
+"compensated for by a powerful breaching beam that concentrates the stone "
+"inside itself."
 
 #: src-en/data/blueprints.xml.append:3808
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/class"
-msgstr "珍晶碎片"
+msgstr "Precious Shard"
 
 #: src-en/data/blueprints.xml.append:3809
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/name"
-msgstr "红玛瑙号"
+msgstr "Carnelian"
 
 #: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
 msgstr ""
-"在时空异常点附近遭遇并击败异常的\"玛瑙舰\"——该坐标将在你赢得奇迹追寻者的尊重后由其提供；使用A型船抵达第五星区，或以B型船通关游戏，即可解锁此舰。"
+"Meet and defeat the unusual Carnelian ship near the space-time anomaly, the "
+"coordinates of which will be given to you by the Miracle Seekers when you "
+"earn their respect, either get to Sector 5 with the Type A or beat the game "
+"with the Type B to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
 msgstr ""
-"这艘镶嵌红玉宝石的舰船，初始武装极为贫弱，最初仅能依靠受损时飞溅的晶石碎片攻击敌人。然而，此缺陷由一道强力的火焰光束所弥补——它能将舰内宝石的能量汇聚释放。"
+"This ship, inlaid with carnelian gem, has terrible initial armament and is "
+"forced to defeat its enemies at first only with the help of shards that fly "
+"off it when it takes damage. However, this disadvantage of the ship is "
+"compensated for by a powerful fire beam that concentrates the stone inside "
+"itself.."
 
 #: src-en/data/blueprints.xml.append:3887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/class"
-msgstr "逐梦者"
+msgstr "Dream Seeker"
 
 #: src-en/data/blueprints.xml.append:3888
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/name"
-msgstr "允诺恩典"
+msgstr "Promised Grace"
 
 #: src-en/data/blueprints.xml.append:3889
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
-msgstr "在时空异常点附近遭遇并击败\"万愿织梦教团\"的狂信徒——该坐标将在你赢得奇迹追寻者的尊重后由其提供。"
+msgstr ""
+"Meet and defeat the fanatics of the Church of the All-Desired Dream near the"
+" space-time anomaly, the coordinates of which will be given to you by the "
+"Miracle Seekers when you earn their respect."
 
 #: src-en/data/blueprints.xml.append:3890
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/desc"
 msgstr ""
-"万愿织梦教团虽在原宇宙覆灭，织梦者本人亦于梦境危机终结后被处决，但其残存信徒已迁至另一宇宙。如今他们在此传布教义——尽管成效甚微——即便是叛军亦无法将其阻遏。"
+"The Church of the All-Desired Dream, though destroyed in the original "
+"universe, and the Dreamer herself executed after the end of the Dream "
+"Crisis, her remaining followers moved to another universe. Now they spread "
+"their teachings, albeit completely unsuccessfully, and even the Rebellion is"
+" unable to stop them."
 
 #: src-en/data/blueprints.xml.append:3957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/class"
-msgstr "逐梦者"
+msgstr "Dream Seeker"
 
 #: src-en/data/blueprints.xml.append:3958
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/name"
-msgstr "允诺之梦"
+msgstr "Promised Dreams"
 
 #: src-en/data/blueprints.xml.append:3959
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:3960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
-msgstr "由于\"万愿织梦教团\"的这批代表秉持着独特的和平主义信条，此舰无法有效应对登舰作战。作为补偿，它拥有更强的初始武装，且开局即配备隐形系统。"
+msgstr ""
+"This ship is unable to effectively deal with boarding due to the particular "
+"peacefulness of these representatives of the Church of All-Desired Dream. As"
+" compensation, it has stronger initial armament and a cloaking system from "
+"the start."
 
 #: src-en/data/blueprints.xml.append:4031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/class"
-msgstr "逐梦者"
+msgstr "Dream Seeker"
 
 #: src-en/data/blueprints.xml.append:4032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/name"
-msgstr "允诺天堂"
+msgstr "Promised Paradise"
 
 #: src-en/data/blueprints.xml.append:4033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:4034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
-"此舰船员秉持着对\"万愿织梦教团\"运动的另类且更激进的理念，使其蜕变为一个异端教派。他们允许为祭祀女神举行血腥仪式，而女神别无选择，只能对其残存信徒加以抚慰——只求不被永远遗忘。"
+"The crew of this ship adheres to alternative and more radical views on the "
+"movement of the Church of the All-Desired Dream, turning it into a cult. "
+"They allow bloody rituals to be performed in honor of their goddess, and she"
+" has no choice but to flatter her remaining followers, just so as not to be "
+"forgotten forever."
 
 #: src-en/data/blueprints.xml.append:4107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
-msgstr ""
+msgstr "Second Voice Civilian Vessel"
 
 #: src-en/data/blueprints.xml.append:4108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
-msgstr ""
+msgstr "Rainy-1"
 
 #: src-en/data/blueprints.xml.append:4109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
 msgstr ""
+"This Second Voice ship, primarily a civilian vessel, was designed for "
+"comfortable travel within Central Alliance space. While it's very small and "
+"has a number of drawbacks, it also has a number of advantages that can make "
+"your life easier."
 
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
 msgstr ""
+"Complete the order for the Miracle 7302 \"Alliance Agreement\" for Miracle "
+"Seekers and demonstrate your brilliant knowledge in a specific field."
 
 #: src-en/data/blueprints.xml.append:4183
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
-msgstr ""
+msgstr "Second Voice Civilian Vessel"
 
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
-msgstr ""
+msgstr "The Star Rover"
 
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
 msgstr ""
+"This variation of the Second Voice civilian ship was specifically designed "
+"for long-range space travel to other territories bordering the Central "
+"Alliance and has a more advanced defense system."
 
 #: src-en/data/blueprints.xml.append:4186
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
-msgstr ""
+msgstr "Second Voice Civilian Vessel"
 
 #: src-en/data/blueprints.xml.append:4261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
-msgstr ""
+msgstr "Competencies"
 
 #: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
 msgstr ""
+"A standard civilian ship has been refitted specifically for Central Alliance"
+" officials. Officials are included - and while they won't do anything on the"
+" ship, as long as they're part of your crew, they'll pay you for protecting "
+"them."
 
 #: src-en/data/blueprints.xml.append:4263
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
-msgstr ""
+msgstr "Neostar Forwarder"
 
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
-msgstr ""
+msgstr "Faster-Than-Light"
 
 #: src-en/data/blueprints.xml.append:4339
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
 msgstr ""
+"A standard supercausal cargo ship owned by Neostar. With the Loyalty "
+"Program, you can complete deliveries, earn scrap, and increase your Loyalty "
+"Level. Expanded cargo hold will help you achieve this."
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
 msgstr ""
+"Complete the order for the Miracle 6419 \"Neostar Form\" for Miracle Seekers"
+" and prevent another Multiversal megacorporation from invading the local "
+"cluster of universes."
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
-msgstr ""
+msgstr "Neostar Forwarder"
 
 #: src-en/data/blueprints.xml.append:4414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
-msgstr ""
+msgstr "Right On Time!"
 
 #: src-en/data/blueprints.xml.append:4415
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
 msgstr ""
+"This version of the Neostar Forwarder is designed for delivering cargo to "
+"particularly dangerous corners of the universe. A powerful drone will assist"
+" you in your deliveries, but the ship's weapons system has been "
+"significantly weakened. Additionally, you can install more augments on this "
+"ship."
 
 #: src-en/data/blueprints.xml.append:4416
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/unlock"
-msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
+msgstr "Get to Sector 5 with the Type A to unlock this ship."
 
 #: src-en/data/blueprints.xml.append:4491
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
-msgstr ""
+msgstr "Neostar Forwarder"
 
 #: src-en/data/blueprints.xml.append:4492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
-msgstr ""
+msgstr "M&A"
 
 #: src-en/data/blueprints.xml.append:4493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
 msgstr ""
+"It seems that Neostar Megacorp and Hektar Industries somehow decided to "
+"start a partnership with each other, but the heads of both companies "
+"couldn't agree on what exactly this cooperation would manifest itself in, "
+"and this ship was born... What does the panic button do here?"
 
 #: src-en/data/blueprints.xml.append:4494
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/unlock"
-msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解锁此星舰。"
+msgstr ""
+"Get to Sector 5 with the Type B or beat the game with the Type A to unlock "
+"this ship."
 
 #: src-en/data/blueprints.xml.append:4566
 msgid ""
@@ -1933,27 +2364,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4569
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/title"
-msgstr "创世胚胎"
+msgstr "Embryo of Creation"
 
 #: src-en/data/blueprints.xml.append:4570
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/short"
-msgstr "创世胚胎"
+msgstr "Embryo of Creation"
 
 #: src-en/data/blueprints.xml.append:4575
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[1]"
-msgstr "知者与传知者"
+msgstr "Informed and informing"
 
 #: src-en/data/blueprints.xml.append:4576
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[2]"
-msgstr "完全无法执行任何操作。不占用船员名额"
+msgstr "Cannot do anything at all. Does not occupy a crew slot"
 
 #: src-en/data/blueprints.xml.append:4577
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[3]"
-msgstr "最大生命值降至1点。不会永久死亡"
+msgstr "Max Health is reduced to 1. Cannot die permanently"
 
 #: src-en/data/blueprints.xml.append:4578
 msgid ""
@@ -1963,256 +2394,286 @@ msgstr "2E564B5B6258"
 #: src-en/data/blueprints.xml.append:4583
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
 msgstr ""
-"正是斯拉维克。一名运气不佳、不善社交的雇佣兵兼前叛军成员。\n"
-"\n"
-"\t继承人类特性：轻微有害伤害抗性"
+"Definitely Slavik. An unlucky and socially awkward mercenary and former rebel.\n"
+"\t\n"
+"\tInherited Human stat: minor hazardous damage resistance"
 
 #: src-en/data/blueprints.xml.append:4586
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/title"
-msgstr "雇佣兵"
+msgstr "Mercenary"
 
 #: src-en/data/blueprints.xml.append:4587
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/short"
-msgstr "雇佣兵"
+msgstr "Mercenary"
 
 #: src-en/data/blueprints.xml.append:4592
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[1]"
-msgstr "80点最大生命值"
+msgstr "Max Health is reduced to 80"
 
 #: src-en/data/blueprints.xml.append:4593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[2]"
-msgstr "不占用船员名额。请勿解雇他"
+msgstr "Does not occupy a crew slot. Please do not dismiss him"
 
 #: src-en/data/blueprints.xml.append:4598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
-msgstr "此类近乎拥有智慧的\"灵思白蚁\"近期才在此宇宙中出现。它们尚未完全立足，仍在为其新巢群寻觅领地。"
+msgstr ""
+"This species of near-sentient termites appeared in this universe quite "
+"recently. Not yet fully settled, they are still searching for a place for "
+"their new colony."
 
 #: src-en/data/blueprints.xml.append:4599
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/title"
-msgstr "低阶白蚁"
+msgstr "Lower termite"
 
 #: src-en/data/blueprints.xml.append:4600
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/short"
-msgstr "低阶白蚁"
+msgstr "Lower termite"
 
 #: src-en/data/blueprints.xml.append:4605
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[1]"
-msgstr "被动能力：房间内每多一只其他白蚁，伤害与移动速度提升1.3倍"
+msgstr ""
+"Passive Ability: Damage and movement speed increase by 1.3x for each other "
+"termite in the room"
 
 #: src-en/data/blueprints.xml.append:4606
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[2]"
-msgstr "最大生命值降至90点。在舰船人员名单中占用半个船员名额"
+msgstr ""
+"Max Health is reduced to 90. Occupies half a crew slot on the ship manifest"
 
 #: src-en/data/blueprints.xml.append:4607
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[3]"
-msgstr "承受的环境伤害提升至1.3倍。"
+msgstr "Takes 1.3x damage from hazards."
 
 #: src-en/data/blueprints.xml.append:4608
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
-msgstr "因长有\"爪子\"而无法修复系统或灭火"
+msgstr "Сannot repair systems or extinguish fires because they have \"paws\""
 
 #: src-en/data/blueprints.xml.append:4612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
-msgstr "一位年迈的超能族曾在他骄傲的离群索居中寻得安宁。如今，为了一项崇高的事业，他必须重返社会。"
+msgstr ""
+"Elderly Zoltan found peace in his proud seclusion. Now he had to return to "
+"society for the sake of a good cause."
 
 #: src-en/data/blueprints.xml.append:4613
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/title"
-msgstr "隐士"
+msgstr "Hermit"
 
 #: src-en/data/blueprints.xml.append:4614
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/short"
-msgstr "隐士"
+msgstr "Hermit"
 
 #: src-en/data/blueprints.xml.append:4619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[1]"
-msgstr "主动能力：在10秒内，维修速度最高提升至15倍"
+msgstr "Active Ability: Increases repair speed by up to 15x for 10 seconds"
 
 #: src-en/data/blueprints.xml.append:4620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[2]"
-msgstr "不向系统提供能量，但可借助便携式传送器在舰船舱室间瞬移"
+msgstr ""
+"Does not provide energy to systems, but can teleport between ship rooms "
+"using a portable teleporter"
 
 #: src-en/data/blueprints.xml.append:4621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[3]"
-msgstr "2倍维修速度"
+msgstr "2x repair speed"
 
 #: src-en/data/blueprints.xml.append:4622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[4]"
-msgstr "死亡时对敌方船员造成30点伤害，并对系统造成3点离子伤害。"
+msgstr ""
+"Deals 30 damage to the enemy crew and 3 ion damage to systems upon death."
 
 #: src-en/data/blueprints.xml.append:4623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[5]"
-msgstr "凭借不可动摇的求生意志，生命值提升至120点。所受环境伤害减半（仅0.5倍）。"
+msgstr ""
+"Health increased to 120 thanks to an unshakable will to live. Takes only "
+"0.5x damage from hazards."
 
 #: src-en/data/blueprints.xml.append:4627
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
 msgstr ""
-"一位有知觉的异常实体，新近任命的\"奇迹追寻者\"成员。她探索此宇宙，只为目睹一个无界的世界。\n"
+"A sentient anomaly and newly appointed member of the Miracle Seekers. She explores this universe in order to see a world without boundaries.\n"
 "\t\n"
-"\t继承幻灵特性：不受窒息伤害影响，具备无视舱门属性"
+"\tInherited Phantom stats: takes no damage from suffocation, has door phasing properties"
 
 #: src-en/data/blueprints.xml.append:4630
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/title"
-msgstr "奇迹追寻者"
+msgstr "Miracle Seeker"
 
 #: src-en/data/blueprints.xml.append:4631
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/short"
-msgstr "奇迹追寻者"
+msgstr "Miracle Seeker"
 
 #: src-en/data/blueprints.xml.append:4636
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
-msgstr "主动能力：在6秒内使舰船免疫所有船体伤害（由破坏伤害造成的伤害除外）"
+msgstr ""
+"Active Ability: Allows the ship to ignore system damage with 50% chance and "
+"hull damage with 100% chance (except damage from sabotage) for 7 seconds"
 
 #: src-en/data/blueprints.xml.append:4637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[2]"
-msgstr "拥有30点生命值，但承受的所有伤害减至0.1倍"
+msgstr "Has 30 health, but takes only 0.1x damage from all sources"
 
 #: src-en/data/blueprints.xml.append:4638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[3]"
-msgstr "无法战斗——爱一切生灵，哪怕是直面的敌人，但仍可对系统进行破坏"
+msgstr ""
+"Cannot fight - loves all creatures, even direct enemies, but can still "
+"sabotage systems"
 
 #: src-en/data/blueprints.xml.append:4639
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[4]"
-msgstr "免疫心灵控制"
+msgstr "Ignores mind control"
 
 #: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/desc"
-msgstr "你不该看到这个的。"
+msgstr "You weren't supposed to see that."
 
 #: src-en/data/blueprints.xml.append:4644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/title"
-msgstr "异常体"
+msgstr "Anomaly"
 
 #: src-en/data/blueprints.xml.append:4645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/short"
-msgstr "异常体"
+msgstr "Anomaly"
 
 #: src-en/data/blueprints.xml.append:4650
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[1]"
-msgstr "连续性异常体。不惜一切代价摧毁。"
+msgstr "Anomaly of the Continuity. Destroy at any cost."
 
 #: src-en/data/blueprints.xml.append:4651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
-msgstr "拥有400点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.6倍，伤害输出降至0.45倍。"
+msgstr ""
+"Has 400 health and takes only 0.9x damage from all sources, but movement "
+"speed is reduced to 0.55x and damage is reduced to 0.45x."
 
 #: src-en/data/blueprints.xml.append:4652
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[3]"
-msgstr "无法被克隆"
+msgstr "Cannot be cloned"
 
 #: src-en/data/blueprints.xml.append:4656
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/desc"
-msgstr "首位被赋予半神之力的人类，借此建立了苍白帝国。更准确地说，这是那人的克隆体——且未继承半神之力。"
+msgstr ""
+"The first Human to be granted semi-divine powers, thanks to which he built "
+"the White Empire. More precisely, a clone of that person without semi-divine"
+" powers."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/title"
-msgstr "帝王"
+msgstr "Emperor"
 
 #: src-en/data/blueprints.xml.append:4658
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/short"
-msgstr "帝王"
+msgstr "Emperor"
 
 #: src-en/data/blueprints.xml.append:4663
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
 msgstr ""
-"主动能力：神经植入体激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
+"Active Ability: Activation of neural implant. Each member of the White Guard"
+" on your ship and the enemy ship receives a 2.2x multiplier to damage in "
+"combat, speed, repair speed, and sabotage speed, as well as 2 HP/s "
+"regeneration for 15 seconds."
 
 #: src-en/data/blueprints.xml.append:4664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
-msgstr "拥有350点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.7倍，伤害输出降至0.35倍"
+msgstr ""
+"Has 350 health and takes only 0.9x damage from all sources, but movement "
+"speed is reduced to 0.65x and damage is reduced to 0.35x"
 
 #: src-en/data/blueprints.xml.append:4665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[3]"
-msgstr "所有技能接受过2级培训"
+msgstr "Trained in lvl2 skills"
 
 #: src-en/data/blueprints.xml.append:4666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[4]"
-msgstr "无法被克隆"
+msgstr "Cannot be cloned"
 
 #: src-en/data/blueprints.xml.append:4670
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/desc"
-msgstr "苍白帝王忠诚的近卫军。这些战士除却效忠帝王之志外，已涤净一切私欲，必将与敌血战至最后一息。"
+msgstr ""
+"The loyal personal guard of the Emperor White. Having lost all desires "
+"except the desire to serve the Emperor, these soldiers will fight their "
+"enemies to the last drop of blood."
 
 #: src-en/data/blueprints.xml.append:4671
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/title"
-msgstr "苍白近卫"
+msgstr "White Guard"
 
 #: src-en/data/blueprints.xml.append:4672
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/short"
-msgstr "苍白近卫"
+msgstr "White Guard"
 
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
-msgstr "最大生命值提升至180点"
+msgstr "Max Health increased to 170"
 
 #: src-en/data/blueprints.xml.append:4678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
-msgstr "伤害与移动速度提升至1.5倍"
+msgstr "Damage and movement speed increased to 1.35x"
 
 #: src-en/data/blueprints.xml.append:4679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[3]"
-msgstr "掌握1级技能，克隆时技能不会丢失"
+msgstr "Trained in lvl1 skills, does not lose them when cloned"
 
 #: src-en/data/blueprints.xml.append:4684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
 msgstr ""
-"第二喉舌的文书官。他们忙于处理本宇宙的政治事务，因此不会在旅途中提供协助，但会为占据舰上名额支付酬金。\n"
+"Second Voice's officiary. They are busy with the political affairs of their home Universe, and therefore will not help you on your way, but they will pay you for their presence on the ship.\n"
 "\t\n"
-"\t继承人类特性：微弱环境伤害抗性"
+"\tInherited Human stat: minor hazardous damage resistance"
 
 #: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
-msgstr "第二喉舌的文书官"
+msgstr "Second Voice's Officiary"
 
 #: src-en/data/blueprints.xml.append:4688
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
-msgstr "二喉文书官"
+msgstr "SV Officiary"
 
 #: src-en/data/blueprints.xml.append:4693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
-msgstr ""
+msgstr "Will not man systems or perform repairs"
 
 #: src-en/data/blueprints.xml.append:4694
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[2]"
-msgstr "在船员列表中占用半个船员槽位"
+msgstr "Occupies half a crew slot on the ship manifest"
 
 #: src-en/data/blueprints.xml.append:4695
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[3]"
-msgstr "在舰期间，每抵达一个信标将提供2单位废料"
+msgstr "While on your ship, will give you 2 scrap each beacon"

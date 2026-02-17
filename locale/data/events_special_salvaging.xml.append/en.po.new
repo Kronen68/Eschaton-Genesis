@@ -8,45 +8,49 @@ msgstr ""
 #: src-en/data/events_special_salvaging.xml.append:6
 msgid ""
 "data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_TEXT\"]/text"
-msgstr ""
+msgstr "Mirrored warns you. Should you listen to her?"
 
 #: src-en/data/events_special_salvaging.xml.append:10
 msgid ""
 "data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_2_TEXT\"]/text"
 msgstr ""
+"\"I sense danger ahead. Let me help you explore the surrounding area and "
+"look for something useful.\" You instruct your crew members to stand down, "
+"and Mirrored disappears. A few minutes later, she returns with some scrap "
+"that she managed to find and carry away herself."
 
 #: src-en/data/events_special_salvaging.xml.append:20
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Do something onboard the ship."
 
 #: src-en/data/events_special_salvaging.xml.append:24
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "Ne rien faire."
+msgstr "Do nothing."
 
 #: src-en/data/events_special_salvaging.xml.append:37
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Do something onboard the ship."
 
 #: src-en/data/events_special_salvaging.xml.append:41
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "Ne rien faire."
+msgstr "Do nothing."
 
 #: src-en/data/events_special_salvaging.xml.append:54
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
 "append:choice/event/choice[1]/text"
-msgstr "Faire quelque chose à bord du vaisseau."
+msgstr "Do something onboard the ship."
 
 #: src-en/data/events_special_salvaging.xml.append:58
 msgid ""
 "data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
 "append:choice/event/choice[2]/text"
-msgstr "Ne rien faire."
+msgstr "Do nothing."

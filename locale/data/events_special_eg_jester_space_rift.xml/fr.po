@@ -1,0 +1,576 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:8
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:9
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:22
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:26
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:28
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:31
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:33
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:36
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[@req=\"jester_local_wins\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:40
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:47
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:49
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:51
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:54
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:58
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:70
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:72
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:74
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:77
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:81
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:91
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:94
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:98
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:102
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:106
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:110
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:112
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:114
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:117
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:121
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:145
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:147
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:149
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:154
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:158
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:164
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:166
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:168
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:171
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:175
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:184
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:190
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:195
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:201
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:206
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:221
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:228
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:230
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:232
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:238
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:240
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:245
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:251
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:253
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:258
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:264
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[3]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:272
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:279
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:284
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:291
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:296
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:311
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:318
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:322
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:324
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:327
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:335
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:339
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:341
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:344
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:352
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:356
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:358
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:361
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:369
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:373
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:378
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:382
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:387
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:402
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:407
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:411
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:416
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:420
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:425
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:440
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:445
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:449
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:454
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:458
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:463
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:478
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:485
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:487
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:489
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:492
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:498
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:500
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:502
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:505
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:509
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:518
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:522
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:527
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:531
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:536
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:551
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:560
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:562
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:579
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_VERYBAD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:587
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_FIRE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:593
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:597
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:601
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:605
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_NOTHING\"]/text"
+msgstr ""

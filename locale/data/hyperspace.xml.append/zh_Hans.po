@@ -1,24 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-26 12:44+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 
-#: src-en/data/hyperspace.xml.append:176
+#: src-en/data/hyperspace.xml.append:321
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_mirrored\"]/powerEffect/buttonText"
 msgstr "能量核心"
 
-#: src-en/data/hyperspace.xml.append:177
+#: src-en/data/hyperspace.xml.append:322
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_mirrored\"]/powerEffect/tooltip"
@@ -26,13 +19,13 @@ msgstr ""
 "[冷却时间：55秒]\n"
 "\t\t\t\t使舰船在6秒内免疫所有船体伤害（由破坏造成的伤害除外）。"
 
-#: src-en/data/hyperspace.xml.append:209
+#: src-en/data/hyperspace.xml.append:354
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_vakans\"]/powerEffect/buttonText"
 msgstr "铭记"
 
-#: src-en/data/hyperspace.xml.append:210
+#: src-en/data/hyperspace.xml.append:355
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_vakans\"]/powerEffect/tooltip"
@@ -40,407 +33,500 @@ msgstr ""
 "[冷却时间：25秒]\n"
 "\t\t\t\t在10秒内，维修速度最高提升至15倍。"
 
-#: src-en/data/hyperspace.xml.append:240
+#: src-en/data/hyperspace.xml.append:385
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_white_clone\"]/powerEffect/buttonText"
 msgstr "神经植入模块。"
 
-#: src-en/data/hyperspace.xml.append:241
+#: src-en/data/hyperspace.xml.append:386
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_white_clone\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒]\n"
-"\t\t\t\t神经植入激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、"
-"维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
+"\t\t\t\t神经植入激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
 
-#: src-en/data/hyperspace.xml.append:787
+#: src-en/data/hyperspace.xml.append:954
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "白蚁虫群：\n"
-"白蚁所栖息的活体生物舰船——甲虫舰——具备自动修复系统、填补破口及扑灭火灾的能力"
-"，以此弥补白蚁族群自身的天然缺陷。它们还拥有坚固的几丁质装甲，具有 15% 概率抵"
-"消船体伤害。基于某些特定原因，只有昆虫形态种族的能在不同甲虫舰之间自由移动。"
+"白蚁所栖息的活体生物舰船——甲虫舰——具备自动修复系统、填补破口及扑灭火灾的能力，以此弥补白蚁族群自身的天然缺陷。它们还拥有坚固的几丁质装甲，具有 15% 概率抵消船体伤害。基于某些特定原因，只有昆虫形态种族的能在不同甲虫舰之间自由移动。"
 
-#: src-en/data/hyperspace.xml.append:792
+#: src-en/data/hyperspace.xml.append:959
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "守护神卫：\n"
-"奇迹追寻者空间站受到一层强韧近乎无敌的护盾保护，该护盾拥有 120 点结构，并能使"
-"其常规护盾的充能速度提升 150%，可抵御任何外部伤害。"
+"奇迹追寻者空间站受到一层强韧近乎无敌的护盾保护，该护盾拥有 120 点结构，并能使其常规护盾的充能速度提升 150%，可抵御任何外部伤害。"
 
-#: src-en/data/hyperspace.xml.append:797
+#: src-en/data/hyperspace.xml.append:964
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "梦境殿堂：\n"
-"万愿织梦教团的信徒会定期向他们的女神祈祷，请求她在战斗中施以援手。祈祷可能导"
-"致你的舰船受到轻微损伤，或修复他们自身的舰船——但织梦者在本场战斗中仅会回应他"
-"们的祈祷 5 次。"
+"万愿织梦教团的信徒会定期向他们的女神祈祷，请求她在战斗中施以援手。祈祷可能导致你的舰船受到轻微损伤，或修复他们自身的舰船——但织梦者在本场战斗中仅会回应他们的祈祷 5 次。"
 
-#: src-en/data/hyperspace.xml.append:802
+#: src-en/data/hyperspace.xml.append:969
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
 "坚不可摧装甲：\n"
-"罗布尔的舰船装甲拥有 20% 概率吸收船体伤害、50% 概率吸收系统伤害，且舰船获得 "
-"10% 武器装填速度加成。"
+"罗布尔的舰船装甲拥有 20% 概率吸收船体伤害、50% 概率吸收系统伤害，且舰船获得 10% 武器装填速度加成。"
 
-#: src-en/data/hyperspace.xml.append:807
+#: src-en/data/hyperspace.xml.append:974
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "珍晶碎片：舒俱来[离子]\n"
-"同时使用多种武器攻击此敌人可能是危险的：其船体每受到一次命中，便会反击一枚晶"
-"石碎片，造成 3 点离子伤害与 1 点船体伤害。此外，此敌人有 50% 概率无视离子伤害"
-"。"
+"同时使用多种武器攻击此敌人可能是危险的：其船体每受到一次命中，便会反击一枚晶石碎片，造成 3 点离子伤害与 1 点船体伤害。此外，此敌人有 50% 概率无视离子伤害。"
 
-#: src-en/data/hyperspace.xml.append:812
+#: src-en/data/hyperspace.xml.append:979
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "珍晶碎片：海蓝宝石 [破舱]\n"
-"同时使用多种武器攻击此敌人可能十分危险：其船体每受到一次命中，便会反击一枚晶"
-"石碎片，造成 4 点船体伤害、锁定舱室并必然造成破舱。敌方舰上所有破舱均会自动修"
-"复。"
+"同时使用多种武器攻击此敌人可能十分危险：其船体每受到一次命中，便会反击一枚晶石碎片，造成 4 点船体伤害、锁定舱室并必然造成破舱。敌方舰上所有破舱均会自动修复。"
 
-#: src-en/data/hyperspace.xml.append:817
+#: src-en/data/hyperspace.xml.append:984
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
 "珍晶碎片：红玉玛瑙[火焰]\n"
-"同时使用多种武器攻击此敌人可能极为危险：其船体每受到一次命中，便会反击一枚晶"
-"石碎片，造成 2 点系统伤害与 2 点船体伤害，并必然在命中舱室引发火灾。敌方舰上"
-"所有火灾均会自动熄灭。"
+"同时使用多种武器攻击此敌人可能极为危险：其船体每受到一次命中，便会反击一枚晶石碎片，造成 2 点系统伤害与 2 点船体伤害，并必然在命中舱室引发火灾。敌方舰上所有火灾均会自动熄灭。"
 
-#: src-en/data/hyperspace.xml.append:938
-msgid "data/hyperspace.xml.append$//unique_white_anomaly[@name=\"White\"]/@name"
-msgstr "白"
-
-#: src-en/data/hyperspace.xml.append:951
+#: src-en/data/hyperspace.xml.append:1143
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:customShip[@name=\"EG_ENEMY_LESSER_GUARDIAN\"]/crew/unique_slavik[@name=\"Slavik\"]/@name"
-msgstr "斯拉维克"
+"append:customShip[@name=\"PLAYER_EG_NEOSTAR_3\"]/crew/slug_hektar[@name=\"Bob\"]/@name"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:962
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:customShip[@name=\"EG_ENEMY_MIRACLE_SEEKERS\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
-msgstr "镜像体"
-
-#: src-en/data/hyperspace.xml.append:970
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:customShip[@name=\"EG_ENEMY_ROBUR\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
-msgstr "罗布尔"
-
-#: src-en/data/hyperspace.xml.append:1193
+#: src-en/data/hyperspace.xml.append:1276
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
 msgstr "罗布尔"
 
-#: src-en/data/hyperspace.xml.append:1204
+#: src-en/data/hyperspace.xml.append:1287
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR_2\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
 msgstr "罗布尔"
 
-#: src-en/data/hyperspace.xml.append:1213
+#: src-en/data/hyperspace.xml.append:1296
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_ROBUR_3\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
 msgstr "罗布尔"
 
-#: src-en/data/hyperspace.xml.append:1246
+#: src-en/data/hyperspace.xml.append:1329
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/crew/unique_slavik[@name=\"Slavik\"]/@name"
 msgstr "斯拉维克"
 
-#: src-en/data/hyperspace.xml.append:1518
+#: src-en/data/hyperspace.xml.append:1581
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_GOLIATH\"]/crew/unique_white_clone[@name=\"White\"]/@name"
 msgstr "白"
 
-#: src-en/data/hyperspace.xml.append:1531
+#: src-en/data/hyperspace.xml.append:1593
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_GOLIATH_2\"]/crew/unique_white_clone[@name=\"White\"]/@name"
 msgstr "白"
 
-#: src-en/data/hyperspace.xml.append:1545
+#: src-en/data/hyperspace.xml.append:1607
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_GOLIATH_3\"]/crew/unique_white_clone[@name=\"White\"]/@name"
 msgstr "白"
 
-#: src-en/data/hyperspace.xml.append:1688
+#: src-en/data/hyperspace.xml.append:1751
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
 msgstr "镜像体"
 
-#: src-en/data/hyperspace.xml.append:1905
+#: src-en/data/hyperspace.xml.append:1967
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_CREWSER\"]/crew/unique_white_clone[@name=\"White\"]/@name"
 msgstr "白"
 
-#: src-en/data/hyperspace.xml.append:1906
+#: src-en/data/hyperspace.xml.append:1968
 msgid "data/hyperspace.xml.append$//white_guard[@name=\"Adam Berkeley\"]/@name"
 msgstr "亚当·伯克利"
 
-#: src-en/data/hyperspace.xml.append:1919
+#: src-en/data/hyperspace.xml.append:1981
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_CREWSER_2\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
 msgstr "镜像体"
 
-#: src-en/data/hyperspace.xml.append:1931
+#: src-en/data/hyperspace.xml.append:1997
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"EG_ENEMY_NEOSTAR\"]/crew/slug_hektar[@name=\"Bob\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2077
+msgid "data/hyperspace.xml.append$//unique_white_anomaly[@name=\"White\"]/@name"
+msgstr "白"
+
+#: src-en/data/hyperspace.xml.append:2090
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"EG_ENEMY_LESSER_GUARDIAN\"]/crew/unique_slavik[@name=\"Slavik\"]/@name"
+msgstr "斯拉维克"
+
+#: src-en/data/hyperspace.xml.append:2101
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"EG_ENEMY_MIRACLE_SEEKERS\"]/crew/unique_mirrored[@name=\"Mirrored\"]/@name"
+msgstr "镜像体"
+
+#: src-en/data/hyperspace.xml.append:2109
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"EG_ENEMY_ROBUR\"]/crew/rock_crusader[@name=\"Robur\"]/@name"
+msgstr "罗布尔"
+
+#: src-en/data/hyperspace.xml.append:2214
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
 msgstr "一名佣兵的自白"
 
-#: src-en/data/hyperspace.xml.append:1933
+#: src-en/data/hyperspace.xml.append:2216
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_WHITE_THREAD\"]/name"
 msgstr "苍穹白绫"
 
-#: src-en/data/hyperspace.xml.append:1934
+#: src-en/data/hyperspace.xml.append:2217
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_WHITE_THREAD\"]/description"
 msgstr "致那位在此宇宙中，为奇迹追寻者的故事揭开序幕之人。"
 
-#: src-en/data/hyperspace.xml.append:1941
+#: src-en/data/hyperspace.xml.append:2224
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THE_WARMTH\"]/name"
 msgstr "暖意"
 
-#: src-en/data/hyperspace.xml.append:1942
+#: src-en/data/hyperspace.xml.append:2225
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THE_WARMTH\"]/description"
 msgstr "致那位心怀悲悯、守护无辜的勇者"
 
-#: src-en/data/hyperspace.xml.append:1949
+#: src-en/data/hyperspace.xml.append:2232
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_HORN_OF_GOD\"]/name"
 msgstr "虫神断角"
 
-#: src-en/data/hyperspace.xml.append:1950
+#: src-en/data/hyperspace.xml.append:2233
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_HORN_OF_GOD\"]/description"
 msgstr "致那位将理性带回哀悼神陨之不幸生灵的使者。"
 
-#: src-en/data/hyperspace.xml.append:1957
+#: src-en/data/hyperspace.xml.append:2240
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/name"
 msgstr "“谢谢你”"
 
-#: src-en/data/hyperspace.xml.append:1958
+#: src-en/data/hyperspace.xml.append:2241
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_THANKS\"]/description"
 msgstr "致那位展现最高形式珍重——即“感激”之人。"
 
-#: src-en/data/hyperspace.xml.append:1965
+#: src-en/data/hyperspace.xml.append:2248
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/name"
-msgstr "（你是）连续性破坏者"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_ALLIANCE_AGREEMENT\"]/name"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1966
+#: src-en/data/hyperspace.xml.append:2249
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/description"
-msgstr "将你的命运与此宇宙的命运，同“奇迹追寻者”的征程紧密相连。"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_ALLIANCE_AGREEMENT\"]/description"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1973
+#: src-en/data/hyperspace.xml.append:2256
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/name"
-msgstr "他的洞悉之瞳"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_NEOSTAR_FORM\"]/name"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1974
+#: src-en/data/hyperspace.xml.append:2257
 msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/description"
-msgstr "成为奇迹追寻者空间站的受信访客，并获得其数据库的访问权限。"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_NEOSTAR_FORM\"]/description"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:1982
+#: src-en/data/hyperspace.xml.append:2265
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
 msgstr "猎手救赎"
 
-#: src-en/data/hyperspace.xml.append:1984
+#: src-en/data/hyperspace.xml.append:2267
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_ROBUR\"]/name"
 msgstr "孤寂终章"
 
-#: src-en/data/hyperspace.xml.append:1985
+#: src-en/data/hyperspace.xml.append:2268
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_ROBUR\"]/description"
 msgstr "致那位抚平了一位好战疯徒之苦难的使者。"
 
-#: src-en/data/hyperspace.xml.append:1992
+#: src-en/data/hyperspace.xml.append:2275
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_GEM\"]/name"
 msgstr "棱镜畸变"
 
-#: src-en/data/hyperspace.xml.append:1993
+#: src-en/data/hyperspace.xml.append:2276
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_GEM\"]/description"
 msgstr "致那位从三兄弟之一的光折射者手中幸存之人。"
 
-#: src-en/data/hyperspace.xml.append:2000
+#: src-en/data/hyperspace.xml.append:2283
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_REAPER\"]/name"
 msgstr "[毁灭] [错误]"
 
-#: src-en/data/hyperspace.xml.append:2001
+#: src-en/data/hyperspace.xml.append:2284
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_REAPER\"]/description"
 msgstr "致那位制止了可怕生物武器失控量产之人。"
 
-#: src-en/data/hyperspace.xml.append:2008
+#: src-en/data/hyperspace.xml.append:2291
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_DREAMSEEKER\"]/name"
 msgstr "未竟之梦"
 
-#: src-en/data/hyperspace.xml.append:2009
+#: src-en/data/hyperspace.xml.append:2292
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WIN_DREAMSEEKER\"]/description"
 msgstr "致那位阻止了狂热教条蔓延的守护者。"
 
-#: src-en/data/hyperspace.xml.append:2016
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/name"
-msgstr "弄臣之诡谋"
-
-#: src-en/data/hyperspace.xml.append:2017
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/description"
-msgstr "协助关闭给奇迹追寻者带来困扰的时空裂隙。"
-
-#: src-en/data/hyperspace.xml.append:2018
-msgid ""
-"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/secretDescription"
-msgstr "赢取奇迹追寻者更深的信任，并协助他们消除滞留于此宇宙所带来的后果。"
-
-#: src-en/data/hyperspace.xml.append:2026
+#: src-en/data/hyperspace.xml.append:2300
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
 msgstr "刹那即永恒"
 
-#: src-en/data/hyperspace.xml.append:2028
+#: src-en/data/hyperspace.xml.append:2302
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/name"
+msgstr "（你是）连续性破坏者"
+
+#: src-en/data/hyperspace.xml.append:2303
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_CONTINUITY_VIOLATOR_MUSIC\"]/description"
+msgstr "将你的命运与此宇宙的命运，同“奇迹追寻者”的征程紧密相连。"
+
+#: src-en/data/hyperspace.xml.append:2310
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/name"
+msgstr "他的洞悉之瞳"
+
+#: src-en/data/hyperspace.xml.append:2311
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_MUSIC\"]/description"
+msgstr "成为奇迹追寻者空间站的受信访客，并获得其数据库的访问权限。"
+
+#: src-en/data/hyperspace.xml.append:2318
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/name"
+msgstr "弄臣之诡谋"
+
+#: src-en/data/hyperspace.xml.append:2319
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/description"
+msgstr "协助关闭给奇迹追寻者带来困扰的时空裂隙。"
+
+#: src-en/data/hyperspace.xml.append:2320
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_SPACE_RIFT_MUSIC\"]/secretDescription"
+msgstr "赢取奇迹追寻者更深的信任，并协助他们消除滞留于此宇宙所带来的后果。"
+
+#: src-en/data/hyperspace.xml.append:2328
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[4]/@text"
+msgstr "刹那即永恒"
+
+#: src-en/data/hyperspace.xml.append:2330
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/name"
 msgstr "第三次生命机会"
 
-#: src-en/data/hyperspace.xml.append:2029
+#: src-en/data/hyperspace.xml.append:2331
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/description"
 msgstr "通过将你的人类船员引荐给苍白帝王克隆体，赢取他的信任。"
 
-#: src-en/data/hyperspace.xml.append:2030
+#: src-en/data/hyperspace.xml.append:2332
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/secretDescription"
 msgstr "赢得一位帝王的信任。"
 
-#: src-en/data/hyperspace.xml.append:2031
+#: src-en/data/hyperspace.xml.append:2333
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_EMPEROR_WHITE\"]/header"
 msgstr "已招募过该特殊船员"
 
-#: src-en/data/hyperspace.xml.append:2038
+#: src-en/data/hyperspace.xml.append:2340
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/name"
 msgstr "她的爱足以充盈整个世界"
 
-#: src-en/data/hyperspace.xml.append:2039
+#: src-en/data/hyperspace.xml.append:2341
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/description"
 msgstr "感谢众人，并安抚镜像体。"
 
-#: src-en/data/hyperspace.xml.append:2040
+#: src-en/data/hyperspace.xml.append:2342
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/secretDescription"
 msgstr "感谢众人。"
 
-#: src-en/data/hyperspace.xml.append:2041
+#: src-en/data/hyperspace.xml.append:2343
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_UNIQUE_MIRRORED\"]/header"
 msgstr "已招募过该特殊船员"
 
-#: src-en/data/hyperspace.xml.append:2049
+#: src-en/data/hyperspace.xml.append:2351
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/name"
 msgstr "生命之轮，轮回业轨"
 
-#: src-en/data/hyperspace.xml.append:2050
+#: src-en/data/hyperspace.xml.append:2352
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/description"
 msgstr "发现“苍穹白绫”再度遗失。他们的苦难难道永无止境？"
 
-#: src-en/data/hyperspace.xml.append:2051
+#: src-en/data/hyperspace.xml.append:2353
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_THE_WHEEL\"]/secretDescription"
 msgstr "他们的苦难难道永无止境？"
 
-#: src-en/data/hyperspace.xml.append:2066
+#: src-en/data/hyperspace.xml.append:2368
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/name"
 msgstr "粮足民安！"
 
-#: src-en/data/hyperspace.xml.append:2067
+#: src-en/data/hyperspace.xml.append:2369
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/description"
 msgstr "不惜代价，让白蚁虫群饱食一顿。"
 
-#: src-en/data/hyperspace.xml.append:2068
+#: src-en/data/hyperspace.xml.append:2370
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_WELL_FED_TERMITES\"]/secretDescription"
 msgstr "不惜代价，让特定族群饱食一顿。"
 
-#: src-en/data/hyperspace.xml.append:2075
+#: src-en/data/hyperspace.xml.append:2377
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_METAREP_5\"]/name"
 msgstr "他们的新朋友"
 
-#: src-en/data/hyperspace.xml.append:2076
+#: src-en/data/hyperspace.xml.append:2378
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_METAREP_5\"]/description"
 msgstr "达成当前奇迹追寻者声望的最高等级。"
 
-#: src-en/data/hyperspace.xml.append:2091
+#: src-en/data/hyperspace.xml.append:2385
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_HELPED_JESTER_5_TIMES\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2386
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_HELPED_JESTER_5_TIMES\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2393
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/name"
 msgstr "我受够了"
 
-#: src-en/data/hyperspace.xml.append:2092
+#: src-en/data/hyperspace.xml.append:2394
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/description"
 msgstr "尝试启动奇迹追寻者空间站的紧急按钮，然后将其卖给企业集团。"
 
-#: src-en/data/hyperspace.xml.append:2093
+#: src-en/data/hyperspace.xml.append:2395
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_PANIC_BUTTON\"]/secretDescription"
 msgstr "启动奇迹追寻者空间站的某个危险按钮，并承担其后果。"
 
-#: src-en/data/hyperspace.xml.append:2100
+#: src-en/data/hyperspace.xml.append:2402
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/name"
 msgstr "异界惊骇"
 
-#: src-en/data/hyperspace.xml.append:2101
+#: src-en/data/hyperspace.xml.append:2403
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/description"
 msgstr "将矮人交付给黑尔，并为你的献礼获取报酬。"
 
-#: src-en/data/hyperspace.xml.append:2102
+#: src-en/data/hyperspace.xml.append:2404
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_SEEKERS_GNOME\"]/secretDescription"
 msgstr "见证一位奇迹追寻者如何处置纯粹混沌之物。"
+
+#: src-en/data/hyperspace.xml.append:2411
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2412
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2413
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2420
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2421
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2428
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2429
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2436
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_SECOND_VOICE_CIVIL\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2437
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_SECOND_VOICE_CIVIL\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2444
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2445
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2446
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/secretDescription"
+msgstr ""

@@ -274,3 +274,39 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[15]/event/choice/text"
 msgstr "Continuer..."
+
+#: src-en/data/events_sector_laststand.xml.append:159
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[16]/text"
+msgstr "Contacter l'état-major fédéré."
+
+#: src-en/data/events_sector_laststand.xml.append:161
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[16]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_laststand.xml.append:163
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[16]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_laststand.xml.append:169
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[17]/text"
+msgstr "Contacter l'état-major fédéré."
+
+#: src-en/data/events_sector_laststand.xml.append:171
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[17]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_laststand.xml.append:173
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[17]/event/choice/text"
+msgstr "Continuer..."

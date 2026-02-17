@@ -1,0 +1,250 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:19
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:20
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:39
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:40
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:52
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:54
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:56
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:93
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:99
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:103
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"loc_laststand\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:107
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:111
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:115
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:119
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:194
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:203
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:212
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:222
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:232
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:242
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:251
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:261
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:270
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:279
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:289
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:300
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_1\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:312
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_2\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:318
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:322
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:336
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_1\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:350
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_2\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:366
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_3\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:371
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:381
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_main.xml.append:387
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:388
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:389
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:393
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:394
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:395
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:399
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:400
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:401
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:404
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:405
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:406
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:410
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:415
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/choice/text"
+msgstr "Continuer..."

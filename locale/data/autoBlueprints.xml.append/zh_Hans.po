@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataautoblueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -15,7 +15,7 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:4
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_NEOSTAR\"]/class"
-msgstr ""
+msgstr "货运代理"
 
 #: src-en/data/autoBlueprints.xml.append:39
 msgid ""

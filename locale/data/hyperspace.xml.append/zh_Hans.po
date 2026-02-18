@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-18 10:37+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/datahyperspace-xml-append/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:321
 msgid ""
@@ -45,7 +52,8 @@ msgid ""
 "append:race[@name=\"unique_white_clone\"]/powerEffect/tooltip"
 msgstr ""
 "[冷却时间：25秒]\n"
-"\t\t\t\t神经植入激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
+"\t\t\t\t神经植入激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、"
+"维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
 
 #: src-en/data/hyperspace.xml.append:954
 msgid ""
@@ -107,7 +115,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_EG_NEOSTAR_3\"]/crew/slug_hektar[@name=\"Bob\"]/@name"
-msgstr ""
+msgstr "鲍勃"
 
 #: src-en/data/hyperspace.xml.append:1276
 msgid ""
@@ -177,7 +185,7 @@ msgstr "镜像体"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"EG_ENEMY_NEOSTAR\"]/crew/slug_hektar[@name=\"Bob\"]/@name"
-msgstr ""
+msgstr "鲍勃"
 
 #: src-en/data/hyperspace.xml.append:2077
 msgid "data/hyperspace.xml.append$//unique_white_anomaly[@name=\"White\"]/@name"
@@ -249,22 +257,22 @@ msgstr "致那位展现最高形式珍重——即“感激”之人。"
 #: src-en/data/hyperspace.xml.append:2248
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_ALLIANCE_AGREEMENT\"]/name"
-msgstr ""
+msgstr "奇迹追寻者"
 
 #: src-en/data/hyperspace.xml.append:2249
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_ALLIANCE_AGREEMENT\"]/description"
-msgstr ""
+msgstr "献给所有历经司法炼狱并在特定领域展现卓越学识之人。"
 
 #: src-en/data/hyperspace.xml.append:2256
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_NEOSTAR_FORM\"]/name"
-msgstr ""
+msgstr "新星表格"
 
 #: src-en/data/hyperspace.xml.append:2257
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_MIRACLE_NEOSTAR_FORM\"]/description"
-msgstr ""
+msgstr "献给成功阻止又一场多元宇宙巨头企业入侵之人。"
 
 #: src-en/data/hyperspace.xml.append:2265
 msgid ""
@@ -435,12 +443,12 @@ msgstr "达成当前奇迹追寻者声望的最高等级。"
 #: src-en/data/hyperspace.xml.append:2385
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_HELPED_JESTER_5_TIMES\"]/name"
-msgstr ""
+msgstr "弄臣的阴谋助手"
 
 #: src-en/data/hyperspace.xml.append:2386
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_HELPED_JESTER_5_TIMES\"]/description"
-msgstr ""
+msgstr "协助弄臣至少5次。"
 
 #: src-en/data/hyperspace.xml.append:2393
 msgid ""
@@ -475,58 +483,58 @@ msgstr "见证一位奇迹追寻者如何处置纯粹混沌之物。"
 #: src-en/data/hyperspace.xml.append:2411
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/name"
-msgstr ""
+msgstr "\"待我们更熟络些时\""
 
 #: src-en/data/hyperspace.xml.append:2412
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/description"
-msgstr ""
+msgstr "在某项任务期间向总裁追问数个问题，却未能获得全部解答。"
 
 #: src-en/data/hyperspace.xml.append:2413
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CORPORATE_REFUSE\"]/secretDescription"
-msgstr ""
+msgstr "在某项任务期间向总裁追问数个问题。"
 
 #: src-en/data/hyperspace.xml.append:2420
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/name"
-msgstr ""
+msgstr "无敌"
 
 #: src-en/data/hyperspace.xml.append:2421
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_IMPENETRABLE_ARMOR_UPGRADED\"]/description"
-msgstr ""
+msgstr "成功将\"坚不可摧装甲\"升级至最终阶段。"
 
 #: src-en/data/hyperspace.xml.append:2428
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/name"
-msgstr ""
+msgstr "月度最佳初级员工"
 
 #: src-en/data/hyperspace.xml.append:2429
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_NEOSTAR_LOYALTY\"]/description"
-msgstr ""
+msgstr "在另一家多元宇宙巨头企业中达到难以企及的高度。"
 
 #: src-en/data/hyperspace.xml.append:2436
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SECOND_VOICE_CIVIL\"]/name"
-msgstr ""
+msgstr "我是平民，我是平民！"
 
 #: src-en/data/hyperspace.xml.append:2437
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_SECOND_VOICE_CIVIL\"]/description"
-msgstr ""
+msgstr "成为正规民用飞船。"
 
 #: src-en/data/hyperspace.xml.append:2444
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/name"
-msgstr ""
+msgstr "\"晚安，创造者\""
 
 #: src-en/data/hyperspace.xml.append:2445
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/description"
-msgstr ""
+msgstr "摧毁博学先锋的无人机并访问其内部存储器，以揭示奇迹追寻者的众多秘密之一。"
 
 #: src-en/data/hyperspace.xml.append:2446
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EG_PUZZLE_1\"]/secretDescription"
-msgstr ""
+msgstr "揭示奇迹追寻者的众多秘密之一。"

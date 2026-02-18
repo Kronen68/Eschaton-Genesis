@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-02-18 10:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_eg_jester_space_riftxml/zh_Hans/"
 ">\n"
@@ -101,7 +101,7 @@ msgstr "拒绝通讯，立即撤离。"
 #: src-en/data/events_special_eg_jester_space_rift.xml:72
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "当您的飞船超光速引擎正在充能时，您正缓缓驶离那颗邻近空间裂隙的行星。"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:74
 msgid ""
@@ -155,7 +155,7 @@ msgstr "什么也不想，只是远离异常体。"
 #: src-en/data/events_special_eg_jester_space_rift.xml:112
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/text"
-msgstr ""
+msgstr "当您的飞船超光速引擎正在充能时，您正缓缓驶离那颗邻近空间裂隙的行星。"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:114
 msgid ""
@@ -448,6 +448,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/text"
 msgstr ""
+"你清理掉了水晶飞船的船员。前任船长水晶哨兵靠着墙坐在地上，用难以名状的恶意眼"
+"神盯着你。\"你确实打败了我，变元者...干得漂亮。但那个地狱深处...还有我的两个"
+"兄弟在。只要我与他们血脉相连，你就休想杀死我。\"话音未落，他突然掏出爆能枪对"
+"准胸口扣动扳机，子弹贯穿心脏。你确信别无选择，命令小队搜查飞船寻找贵重物品。"
+"除了找到的补给品外，返舰时你还凿下一块宝石，带着碎片准备日后高价出售。"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:382
 msgid ""
@@ -489,6 +494,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/text"
 msgstr ""
+"你清理掉了水晶飞船的船员。前任船长水晶哨兵靠着墙坐在地上，用难以名状的恶意眼"
+"神盯着你。\"你确实打败了我，变元者...干得漂亮。但那个地狱深处...还有我的两个"
+"兄弟在。只要我与他们血脉相连，你就休想杀死我。\"话音未落，他突然掏出爆能枪对"
+"准胸口扣动扳机，子弹贯穿心脏。你确信别无选择，命令小队搜查飞船寻找贵重物品。"
+"除了找到的补给品外，返舰时你还凿下一块宝石，带着碎片准备日后高价出售。"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:420
 msgid ""
@@ -530,6 +540,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/text"
 msgstr ""
+"你清理掉了水晶飞船的船员。前任船长水晶哨兵靠着墙坐在地上，用难以名状的恶意眼"
+"神盯着你。\"你确实打败了我，变元者...干得漂亮。但那个地狱深处...还有我的两个"
+"兄弟在。只要我与他们血脉相连，你就休想杀死我。\"话音未落，他突然掏出爆能枪对"
+"准胸口扣动扳机，子弹贯穿心脏。你确信别无选择，命令小队搜查飞船寻找贵重物品。"
+"除了找到的补给品外，返舰时你还凿下一块宝石，带着碎片准备日后高价出售。"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:458
 msgid ""

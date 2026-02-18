@@ -1,72 +1,93 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-18 10:37+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/eschaton-genesis/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
-msgstr ""
+msgstr "碎片"
 
 #: src-en/data/blueprints.xml.append:7
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
-msgstr ""
+msgstr "一片碎屑。你本不该看到这个的。"
 
 #: src-en/data/blueprints.xml.append:17
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
-msgstr ""
+msgstr "新星板条箱 (R)"
 
 #: src-en/data/blueprints.xml.append:18
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
-msgstr ""
+msgstr "新星板条箱 (R)"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
 msgstr ""
+"新星巨力公司 (R) 出品的尖端货箱，内部塞满了各式各样的货物！得益于特定的时空连"
+"续统扰动技术，其容量至少是竞争对手同类货箱的三倍！\n"
+"\t新星公司 (R) 员工须知：不惜一切代价运送货物。严禁以任何已知方式出售或试图破"
+"解货箱——新星巨力公司专用安保系统 (R) 将立即销毁箱内货物，如确认货物丢失，您将"
+"面临处罚。"
 
 #: src-en/data/blueprints.xml.append:21
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
-msgstr ""
+msgstr "存储武器"
 
 #: src-en/data/blueprints.xml.append:36
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
-msgstr ""
+msgstr "企业肖像"
 
 #: src-en/data/blueprints.xml.append:37
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
 msgstr ""
+"这幅肖像画中，一位金发男子身着笔挺的正装，戴着墨镜，正温柔地微笑着望向你。这"
+"是总裁亲赠的礼物，尽管以自身为像看似傲慢，但确实心意十足。将此画悬挂于舰上时"
+"，全体船员将获得修理速度与移动速度提升20%，所有舰船的治疗速度提升30%的增益效"
+"果。"
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
-msgstr ""
+msgstr "联盟协议"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
-msgstr ""
+msgstr "一份毫无用处的文件，没有任何实际作用，可出售换取30份废料。"
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
-msgstr ""
+msgstr "平民"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
 msgstr ""
+"您的飞船是一艘\"第二之声\"民用级飞船。与所有民用飞船一样，它的舰体小巧且存在"
+"诸多显著局限，但也带来了独特的战略优势。您可以在管理菜单中将飞船注册为民事用"
+"途，从而降低整体恶名值与多数和平派系的敌对度，并解锁该菜单的进阶功能。得益于"
+"民用船卓越的机动性与航速，您能从大多数资源点回收额外25%的废料。紧凑的舰体设计"
+"更使武器充能效率提升10%，护盾恢复速度加快15%。"
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
-msgstr ""
+msgstr "第二之声飞船"
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
@@ -76,16 +97,27 @@ msgstr "你大概不该看到这个。"
 #: src-en/data/blueprints.xml.append:71
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
-msgstr ""
+msgstr "忠诚计划 (R)"
 
 #: src-en/data/blueprints.xml.append:72
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
 msgstr ""
+"您是致力于创新开发与货物运输的新星巨力公司(R)的初级员工吗？您是否在入职时对这"
+"份工作毫无准备？无需担心——我们内置在新星表格(R)中的新星巨力初级运输员工培训指"
+"南(R)及忠诚计划(R)，将助您快速适应新工作环境！您想必已经注意到那个塞满各类货"
+"物的扩容货舱。通过新星表格(R)，您可以接收特殊货物运输任务，完成任务获得报酬，"
+"并提升忠诚等级(R)。每提升一级忠诚等级(R)，您都将更接近晋升机会，并获得高级奖"
+"励(R)。这份工作是否比想象中简单得多？现在您是否正为获得如此轻松的职位而倍感庆"
+"幸？那么祝您好运，新星巨力公司(R)初级员工！如有疑问，请参阅新星表格(R)中的初"
+"级员工常见问题解答(R)！\n"
+"\n"
+"\t备注：新星巨力公司(R)不对货物运输期间的人员安全作任何担保。投诉或建议请致电"
+"：8-800-555-35-35。谨记：新星巨力公司(R)时刻关怀您的福祉！"
 
 #: src-en/data/blueprints.xml.append:82
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
-msgstr ""
+msgstr "新星星舰"
 
 #: src-en/data/blueprints.xml.append:83
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
@@ -423,7 +455,8 @@ msgstr "纯白花园"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
 "苍白帝王克隆体那华美的庭园位于舰船尾部。\n"
-"若供氧系统被激活，其每分配 1 点能量，即可使我方与登陆敌舰的每名船员的最大生命值 +10%、移动速度 +10%。\n"
+"若供氧系统被激活，其每分配 1 点能量，即可使我方与登陆敌舰的每名船员的最大生命"
+"值 +10%、移动速度 +10%。\n"
 "此外，庭园还提供固定的 +30% 窒息抗性与 每秒 1 点 生命恢复效果。"
 
 #: src-en/data/blueprints.xml.append:338
@@ -750,27 +783,29 @@ msgstr "[基础冷却时间：20] 红玉宝石在其内部汇聚光线，短暂�
 #: src-en/data/blueprints.xml.append:739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
-msgstr ""
+msgstr "新星激光(R)"
 
 #: src-en/data/blueprints.xml.append:740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
-msgstr ""
+msgstr "新星激光(R)"
 
 #: src-en/data/blueprints.xml.append:741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
-msgstr ""
+msgstr "专供新星巨力内部飞船使用的高级激光武器。每次发射三发炮弹，每发造成2点伤害，并"
+"有几率在敌舰上制造破舱。"
 
 #: src-en/data/blueprints.xml.append:742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
-msgstr ""
+msgstr "专供新星巨力内部飞船使用的高级激光武器。每次发射三发炮弹，每发造成2点伤害，并"
+"有几率在敌舰上制造破舱。"
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
-msgstr ""
+msgstr "无人机激光"
 
 #: src-en/data/blueprints.xml.append:822
 msgid ""
@@ -785,12 +820,14 @@ msgstr "\"视线\""
 #: src-en/data/blueprints.xml.append:824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
-msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤害。它必定击晕敌方船员15秒。"
+msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤"
+"害。它必定击晕敌方船员15秒。"
 
 #: src-en/data/blueprints.xml.append:825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
-msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤害。它必定击晕敌方船员15秒。"
+msgstr "[基础冷却时间：14] 这款光束武器可穿透所有护盾，对击中的每个房间造成1点船体伤"
+"害。它必定击晕敌方船员15秒。"
 
 #: src-en/data/blueprints.xml.append:853
 msgid ""
@@ -815,22 +852,24 @@ msgstr "[基础冷却时间：11] 此光束武器穿透所有护盾，造成1点
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
-msgstr ""
+msgstr "\"劝服\""
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
-msgstr ""
+msgstr "\"劝服\""
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
-msgstr ""
+msgstr "博学先锋的特别研发成果。这种光束武器能够穿透所有护盾，直接造成1点系统伤害。由"
+"于能效较低，每场战斗仅能发射两次。"
 
 #: src-en/data/blueprints.xml.append:888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
-msgstr ""
+msgstr "这款光束武器能穿透所有护盾，直接造成1点系统伤害。由于能效较低，每场战斗仅能发"
+"射两次。"
 
 #: src-en/data/blueprints.xml.append:917
 msgid ""
@@ -845,12 +884,14 @@ msgstr "生物酸甲虫"
 #: src-en/data/blueprints.xml.append:919
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，并必定击晕目标10秒。穿透1层护盾。"
+msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，"
+"并必定击晕目标10秒。穿透1层护盾。"
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，并必定击晕目标10秒。穿透1层护盾。"
+msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀敌方船员。其唾液对船员造成30点伤害，"
+"并必定击晕目标10秒。穿透1层护盾。"
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
@@ -865,12 +906,14 @@ msgstr "强酸甲虫"
 #: src-en/data/blueprints.xml.append:957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概率在房间内造成破舱。"
+msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概"
+"率在房间内造成破舱。"
 
 #: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
-msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概率在房间内造成破舱。"
+msgstr "[基础冷却时间：20] 这种甲虫喷射酸液弹腐蚀飞船系统，每发造成2点伤害。有中等概"
+"率在房间内造成破舱。"
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
@@ -1153,8 +1196,9 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
 msgstr ""
-"隐士发现的第二艘船并未让他对琉娜与索拉娜有更多了解，但他得知该舰船员是栖息于星辰之间、以恒星能量为食的无形灵体。\n"
-"第二艘船的星图指向第三个信标——那正是该消逝种族的家园世界：无月故土。"
+"隐士发现的第二艘船并未让他对琉娜与索拉娜有更多了解，但他得知该舰船员是栖息于"
+"星辰之间、以恒星能量为食的无形灵体。第二艘船的星图指向第三个信标——那正是该消"
+"逝种族的家园世界：无月故土。"
 
 #: src-en/data/blueprints.xml.append:1809
 msgid ""
@@ -1599,7 +1643,9 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
 msgstr ""
-"所有遭淘汰之物——无论是道德上还是物理上的——终将归于废料场，而这艘船亦曾如此。所幸发现它的幻灵们恢复了其基础功能，甚至为它加装了一条废料收集臂，巧合的是，这条机械臂还能回收已耗尽的ASB平台。"
+"所有遭淘汰之物——无论是道德上还是物理上的——终将归于废料场，而这艘船亦曾如此。"
+"所幸发现它的幻灵们恢复了其基础功能，甚至为它加装了一条废料收集臂，巧合的是，"
+"这条机械臂还能回收已耗尽的ASB平台。"
 
 #: src-en/data/blueprints.xml.append:3362
 msgid ""
@@ -1805,37 +1851,40 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
-msgstr ""
+msgstr "第二之声民用飞船"
 
 #: src-en/data/blueprints.xml.append:4108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
-msgstr ""
+msgstr "雨滴-1"
 
 #: src-en/data/blueprints.xml.append:4109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
-msgstr ""
+msgstr "这艘第二之声飞船主要作为民用船只设计，旨在中央联盟空间内提供舒适的旅行体验。"
+"尽管它体积小巧且存在一些缺陷，但也具备诸多能便利您生活的优点。"
 
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
-msgstr ""
+msgstr "您需要为\"奇迹追寻者\"组织完成一份\"奇迹7302号指令：联盟协议\"，并展现您在特"
+"定领域的卓越学识。"
 
 #: src-en/data/blueprints.xml.append:4183
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
-msgstr ""
+msgstr "第二之声民用飞船"
 
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
-msgstr ""
+msgstr "星辰漫游者"
 
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
-msgstr ""
+msgstr "这款第二之声民用飞船的改进型专为跨越中央联盟边界的远程星际旅行而设计，配备了"
+"更先进的防御系统。"
 
 #: src-en/data/blueprints.xml.append:4186
 msgid ""
@@ -1845,17 +1894,19 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
-msgstr ""
+msgstr "第二之声民用飞船"
 
 #: src-en/data/blueprints.xml.append:4261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
-msgstr ""
+msgstr "能力"
 
 #: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
 msgstr ""
+"一艘经过特别改造的标准民用飞船，专供中央联盟官员使用。官员们已在舰上——虽然他"
+"们不会参与任何飞船操作，但只要他们作为您的船员，就会为您的保护支付报酬。"
 
 #: src-en/data/blueprints.xml.append:4263
 msgid ""
@@ -1865,37 +1916,41 @@ msgstr "使用B型星舰抵达第5星区，或使用A型星舰通关游戏来解
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
-msgstr ""
+msgstr "新星货运飞艇"
 
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
-msgstr ""
+msgstr "超光速"
 
 #: src-en/data/blueprints.xml.append:4339
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
-msgstr ""
+msgstr "新星公司拥有的标准超时空货运飞船。借助忠诚计划，您可以完成运输任务赚取废料，"
+"并提升忠诚等级。扩展货舱将助您达成目标。"
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
-msgstr ""
+msgstr "完成奇迹追寻者组织的\"奇迹6419号指令：新星表格\"订单，阻止又一多元宇宙巨头企"
+"业入侵本宇宙星区。"
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
-msgstr ""
+msgstr "新星货运飞艇"
 
 #: src-en/data/blueprints.xml.append:4414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
-msgstr ""
+msgstr "准时送达！"
 
 #: src-en/data/blueprints.xml.append:4415
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
 msgstr ""
+"这款新星货运飞艇专为向宇宙中尤为危险的区域运送货物而设计。强大的无人机将协助"
+"您完成任务，但舰载武器系统因此大幅削弱。此外，该飞船可加装更多增强部件。"
 
 #: src-en/data/blueprints.xml.append:4416
 msgid ""
@@ -1905,17 +1960,19 @@ msgstr "使用A型星舰抵达第5星区来解锁此星舰。"
 #: src-en/data/blueprints.xml.append:4491
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
-msgstr ""
+msgstr "新星货运飞艇"
 
 #: src-en/data/blueprints.xml.append:4492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
-msgstr ""
+msgstr "M&A"
 
 #: src-en/data/blueprints.xml.append:4493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
 msgstr ""
+"看来新星巨力公司和赫克塔实业公司不知何故决定建立合作关系，但双方高层始终未能"
+"就合作形式达成共识，最终催生了这艘飞船...这个紧急按钮到底是做什么用的？"
 
 #: src-en/data/blueprints.xml.append:4494
 msgid ""
@@ -2114,7 +2171,8 @@ msgstr "连续性异常体。不惜一切代价摧毁。"
 #: src-en/data/blueprints.xml.append:4651
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
-msgstr "拥有400点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.6倍，伤害输出降至0.45倍。"
+msgstr "拥有400点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.6倍，伤害输出降至"
+"0.45倍。"
 
 #: src-en/data/blueprints.xml.append:4652
 msgid ""
@@ -2140,12 +2198,14 @@ msgstr "帝王"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
 msgstr ""
-"主动能力：神经植入体激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速度、维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
+"主动能力：神经植入体激活。在15秒内，我方与敌方舰上每名苍白近卫的伤害输出、速"
+"度、维修速度及破坏速度提升至2.2倍，并附加每秒2.5点生命恢复。"
 
 #: src-en/data/blueprints.xml.append:4664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
-msgstr "拥有350点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.7倍，伤害输出降至0.35倍"
+msgstr "拥有350点生命值，且承受的所有伤害减至0.9倍，但移动速度降至0.7倍，伤害输出降至"
+"0.35倍"
 
 #: src-en/data/blueprints.xml.append:4665
 msgid ""
@@ -2188,24 +2248,25 @@ msgstr "掌握1级技能，克隆时技能不会丢失"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
 msgstr ""
-"第二喉舌的文书官。他们忙于处理本宇宙的政治事务，因此不会在旅途中提供协助，但会为占据舰上名额支付酬金。\n"
+"第二之声的文书官。他们忙于处理本宇宙的政治事务，因此不会在旅途中提供协助，但"
+"会为占据舰上名额支付酬金。\n"
 "\t\n"
 "\t继承人类特性：微弱环境伤害抗性"
 
 #: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
-msgstr "第二喉舌的文书官"
+msgstr "第二之声的文书官"
 
 #: src-en/data/blueprints.xml.append:4688
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
-msgstr "二喉文书官"
+msgstr "第二之声书官"
 
 #: src-en/data/blueprints.xml.append:4693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
-msgstr ""
+msgstr "不会操作或维修系统"
 
 #: src-en/data/blueprints.xml.append:4694
 msgid ""

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
+"PO-Revision-Date: 2026-02-19 10:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
 "dataevents_addon_iconxmlappend/fr/>\n"
@@ -33,11 +33,11 @@ msgstr ""
 "vous restez leur allié, votre relation sera mutuellement bénéfique.\n"
 "\t\n"
 "\tActuellement, la liste de contenu de l’addon comprend :\n"
-"\t– 5 quêtes\n"
-"\t– Un total de 24 nouveaux vaisseaux (types inclus)\n"
+"\t– 7 quêtes\n"
+"\t– Un total de 30 nouveaux vaisseaux (types inclus)\n"
 "\t– 2 nouveaux membres d’équipage uniques\n"
 "\t– 1 nouvelle race\n"
-"\t– 4 mini-boss difficiles\n"
+"\t– Des mini-boss difficiles\n"
 "\t– De nouvelles augmentations et de nouvelles armes"
 
 #: src-en/data/events_addon_icon.xml.append:23

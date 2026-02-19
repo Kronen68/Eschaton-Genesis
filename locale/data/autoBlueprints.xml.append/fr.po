@@ -1,19 +1,26 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-19 10:44+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
+"dataautoblueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/autoBlueprints.xml.append:4
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_NEOSTAR\"]/class"
-msgstr ""
+msgstr "Affréteur Neostar"
 
 #: src-en/data/autoBlueprints.xml.append:39
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ERUDITE_DRONE\"]/class"
-msgstr "Erudite's Drone"
+msgstr "Le Drone d'Erudite"
 
 #: src-en/data/autoBlueprints.xml.append:60
 msgid ""

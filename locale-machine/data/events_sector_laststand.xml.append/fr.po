@@ -16,6 +16,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Votre vaisseau m'étonne. Est-ce une "
 "mini-étoile à sa base ? Quel design inhabituel ! J'ai vu ses plans il y a "
@@ -23,6 +24,16 @@ msgstr ""
 "design est exquis. Nous serions très intéressés d'entendre les circonstances"
 " dans lesquelles vous avez réparé ce vaisseau et l'avez rendu de nouveau "
 "fonctionnel, mais pour l'instant, nous avons des problèmes plus urgents. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Votre vaisseau m'étonne. Est-ce une "
+"étoile miniature à sa base ? Quelle conception inhabituelle ! J'ai vu ses "
+"plans il y a quelques heures, mais je ne pouvais même pas imaginer à quel "
+"point sa conception est exquise. Nous serions très intéressés d'entendre les"
+" circonstances dans lesquelles vous avez réparé ce vaisseau et l'avez rendu "
+"fonctionnel à nouveau, mais pour l'instant, nous avons des problèmes plus "
+"urgents.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:13
 msgid ""
@@ -41,6 +52,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Ah, j'ai entendu parler de vos "
 "exploits d'ingénierie, Monsieur Vacans. Votre vaisseau est une merveille "
@@ -48,6 +60,16 @@ msgstr ""
 "navals de la Fédération, mais j'ai aussi entendu dire que vous aviez été "
 "réintégré à votre ancien poste au Ministère. C'est une bonne nouvelle, bien "
 "sûr, mais si jamais vous voulez démissionner... vous savez où aller. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Ah, j'ai entendu parler de vos "
+"réalisations en ingénierie, Monsieur Vacans. Votre vaisseau est une "
+"merveille d'ingénierie. Nous pourrions utiliser vos compétences dans les "
+"chantiers spatiaux de la Fédération, mais j'ai aussi entendu dire que vous "
+"avez été réintégré à votre ancien poste au Ministère. C'est une bonne "
+"nouvelle, bien sûr, mais si jamais vous voulez démissionner... vous savez où"
+" aller.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:23
 msgid ""
@@ -66,12 +88,21 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « C'est... très original. Je suppose que"
 " l'Univers 0 a une confiance totale en vos capacités s'il nous a envoyé un "
 "vendeur de batteries pour nous aider. Nous aurons également confiance en "
 "vous, car si vous êtes arrivé ici sur ce vaisseau, cela en dit long sur "
 "votre persévérance. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"C'est... très original. Je suppose "
+"que l'Univers 0 est complètement confiant en vos capacités s'il nous a "
+"envoyé un vendeur de batteries pour nous aider. Nous serons aussi confiants "
+"en vous, parce que si vous êtes arrivé ici sur ce vaisseau, cela en dit long"
+" sur votre persévérance.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:33
 msgid ""
@@ -90,12 +121,21 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Eschatologues, hein ? Je pensais que "
 "votre doctrine de non-ingérence signifiait que vous ne vous mêliez pas des "
 "conflits des autres. Sauf si c'est une menace à l'échelle du multivers, je "
 "suppose... De toute façon, il ne nous appartient pas de vous juger, compte "
 "tenu de ce que vous avez traversé dans votre réalité. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Eschatologues, hein ? Je pensais que "
+"votre doctrine de non-ingérence signifiait que vous ne vous mêliez pas des "
+"conflits des autres. Sauf si c'est une menace à l'échelle du multivers, je "
+"suppose... Quoi qu'il en soit, ce n'est pas à nous de vous juger, compte "
+"tenu de ce que vous avez traversé dans votre réalité.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:43
 msgid ""
@@ -114,11 +154,19 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[5]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Quel merveilleux vaisseau ! Est-il "
 "fait de verre ? Comment avez-vous réussi à voler ici dans un vaisseau si "
 "fragile ? Peu importe, vous pourrez nous en parler après nous avoir aidés à "
 "vaincre le vaisseau amiral de la Rébellion. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Quel merveilleux vaisseau ! Est-il "
+"fait de verre ? Comment avez-vous réussi à voler ici dans un vaisseau aussi "
+"fragile ? Peu importe, vous pourrez nous en parler après nous avoir aidés à "
+"vaincre le vaisseau amiral de la Rébellion.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:53
 msgid ""
@@ -137,6 +185,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[6]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « C'est un miracle... Je n'en crois pas "
 "mes yeux. » Les officiers de la Fédération murmurent entre eux pendant que "
@@ -145,6 +194,16 @@ msgstr ""
 "Mirrored. » Nous vous ferons un accueil approprié, mais vous devez d'abord "
 "nous aider à vaincre le vaisseau amiral rebelle... Pour notre avenir commun."
 " »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"C'est un miracle... Je n'en crois pas"
+" mes yeux.\" Des officiers de la Fédération chuchotent entre eux pendant que"
+" Tully se remet du choc et vérifie les informations sur votre vaisseau. "
+"\"Donc ce n'était pas que des rumeurs... Bienvenue dans notre univers, "
+"Mirrored.\" Nous vous ferons un accueil approprié, mais vous devez d'abord "
+"nous aider à vaincre le vaisseau amiral rebelle... Pour le bien de notre "
+"avenir partagé."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:63
 msgid ""
@@ -163,6 +222,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[7]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Un vaisseau intéressant ! Je suppose "
 "que son but principal était d'ensemencer le monde entier d'orge, mais "
@@ -170,6 +230,15 @@ msgstr ""
 "problème de la faim universelle. La Fédération sera intéressée par l'étude "
 "de sa conception, mais nous devons d'abord éradiquer le problème de la "
 "Rébellion... »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Un vaisseau intéressant ! Je suppose "
+"que son but principal était d'ensemencer le monde entier d'orge, mais "
+"quelque chose a mal tourné... La Moisson semble prendre le problème de la "
+"faim universelle trop à cœur. La Fédération sera intéressée par l'étude de "
+"sa conception, mais nous devons d'abord éradiquer le problème de la "
+"Rébellion...\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:73
 msgid ""
@@ -188,12 +257,21 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[8]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Ah, le vaisseau de l'Empire Blanc ! "
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Ah, le vaisseau de l'Empire Blanc ! "
+>>>>>>> Stashed changes
 "Bienvenue dans notre univers. Nous organiserons une visite d'honneur pour "
-"vous, mais nous devons d'abord résoudre la question de la Rébellion... Et "
+"vous, mais nous devons d'abord résoudre le problème de la Rébellion... Et "
 "après cela, bien sûr, nous vous aiderons à retourner dans votre univers "
+<<<<<<< Updated upstream
 "d'origine de toutes les manières possibles. »"
+=======
+"d'origine de toutes les manières possibles.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:83
 msgid ""
@@ -212,6 +290,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[9]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Ah, le vaisseau de l'Empire Blanc ! » "
 "dit Tully, mais hors écran, il est interrompu par des chuchotements. « ... "
@@ -223,6 +302,19 @@ msgstr ""
 "puisque l'apocalypse ne vous menace plus ? » L'Empereur Blanc regarde Tully "
 "d'un air interrogateur, qui réalise qu'il serait préférable de ne plus "
 "jamais aborder ce sujet."
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Ah, le vaisseau de l'Empire Blanc !\""
+" dit Tully, mais hors-champ, il est interrompu par des chuchotements. "
+"\"...Ça me rappelle quelque chose. L'incident dans votre univers... juste "
+"horrible... Je suppose que vous avez maintenant pleinement assumé votre "
+"statut d'Empereur. Je pense que nous devrions célébrer, mais nous devons "
+"d'abord résoudre le problème de la Rébellion. Et ensuite, peut-être, "
+"pourrons-nous parler d'intégrer l'Empire Blanc à la Fédération, puisque "
+"l'apocalypse ne vous menace plus ?\" L'Empereur Blanc regarde Tully d'un air"
+" interrogateur, qui réalise qu'il serait préférable de ne plus jamais "
+"aborder ce sujet."
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:93
 msgid ""
@@ -241,6 +333,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[10]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Des coléoptères... ils nous ont envoyé"
 " des coléoptères... Impensable. L'Univers 0 n'a-t-il vraiment pas d'autres "
@@ -250,6 +343,17 @@ msgstr ""
 "dernier espoir de la Fédération pour éliminer les forces rebelles. « "
 "D'accord... nous verrons quelles planètes nous pourrons allouer à votre "
 "essaim après que vous ayez détruit le vaisseau amiral. Je vous le promets. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Des coléoptères... ils nous ont "
+"envoyé des coléoptères... Impensable. L'Univers 0 n'a-t-il vraiment pas "
+"d'autres options ? Le financement pour envoyer des vaisseaux aider d'autres "
+"univers a-t-il été COUPÉ À CE POINT ?\" Malgré le profond choc de Tully, "
+"après vingt secondes, il se résigne à l'idée que les termites sont le "
+"dernier espoir de la Fédération pour éliminer les forces rebelles. \"Très "
+"bien... nous verrons quelles planètes nous pourrons allouer à votre essaim "
+"après que vous aurez détruit le vaisseau amiral. Je vous le promets.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:103
 msgid ""
@@ -268,12 +372,21 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[11]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Vaisseau IA de recherche ? C'est "
 "quelque chose de nouveau, bien que cela ressemble à l'un de nos projets de "
 "création d'un autocroiseur. Je me demande quel rôle vous jouiez avant de "
 "devenir un Renégat... Certains secrets du Multivers resteront apparemment "
 "des secrets pour toujours. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Un vaisseau d'IA de recherche ? C'est"
+" quelque chose de nouveau, bien que cela ressemble à l'un de nos projets de "
+"création d'autocroiseur. Je me demande quel rôle vous avez joué avant de "
+"devenir un Renégat... Certains secrets du Multivers resteront apparemment "
+"des secrets pour toujours.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:113
 msgid ""
@@ -292,6 +405,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[12]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « J'ai vu les plans de votre vaisseau "
 "avant votre arrivée. Je dois dire que votre imprimante qui crée des "
@@ -299,6 +413,15 @@ msgstr ""
 "nombre de défauts. La Fédération aimerait avoir accès à votre technologie en"
 " échange d'une généreuse récompense, mais nous devrions discuter de cette "
 "question plus tard... »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"J'ai vu les plans de votre vaisseau "
+"avant votre arrivée. Je dois dire que votre imprimante qui crée des "
+"plateformes ASB est très sophistiquée, bien qu'elle présente un certain "
+"nombre de défauts. La Fédération aimerait obtenir l'accès à votre "
+"technologie en échange d'une récompense généreuse, mais nous devrons "
+"discuter de cette question plus tard...\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:123
 msgid ""
@@ -317,11 +440,19 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[13]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Votre vaisseau a l'air très robuste. "
 "Est-ce une nouvelle conception des Rocailleux ? De toute façon, parlez-nous "
 "de votre vaisseau et de son histoire après que vous nous ayez aidés à "
 "vaincre la Rébellion. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Votre vaisseau a l'air très robuste. "
+"Est-ce une nouvelle conception faite par des Rocailleux ? Quoi qu'il en "
+"soit, parlez-nous de votre vaisseau et de son histoire après que vous nous "
+"ayez aidés à vaincre la Rébellion.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:133
 msgid ""
@@ -340,6 +471,7 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[14]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « Les Cristaliens ont-ils développé un "
 "nouveau modèle de leurs vaisseaux ? Il a l'air très authentique, je dois "
@@ -347,6 +479,15 @@ msgstr ""
 "serions intéressés d'apprendre comment votre vaisseau fonctionne, mais il "
 "n'y a pas de temps pour la conversation. Nous avons une affaire bien plus "
 "importante à traiter maintenant. »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"Les Cristaliens ont-ils développé un "
+"nouveau modèle de leurs vaisseaux ? Cela a l'air tout à fait authentique, je"
+" dois dire. Ce grand cristal au milieu de la coque... c'est cool. Nous "
+"serions intéressés de savoir comment votre vaisseau fonctionne, mais il n'y "
+"a pas de temps pour la conversation. Nous avons une affaire bien plus "
+"importante à traiter maintenant.\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:143
 msgid ""
@@ -365,11 +506,19 @@ msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[15]/event/text"
 msgstr ""
+<<<<<<< Updated upstream
 "Sur l'écran, apparaissent plusieurs officiers de la Fédération et Engi, "
 "ainsi que l'amiral Tully au centre. « L'Église du Rêve Tout-Désiré - est-ce "
 "le nom de votre religion ? C'est assez intéressant de réaliser que dans "
 "d'autres univers il existe réellement des dieux dont le culte apporte des "
 "avantages matériels... »"
+=======
+"Sur l'écran vidéo apparaissent plusieurs officiers de la Fédération et Engi,"
+" ainsi que l'Amiral Tully au centre. \"L'Église du Rêve Tout-Désiré - est-ce"
+" le nom de votre religion ? Il est assez intéressant de réaliser que dans "
+"d'autres univers il y a vraiment des dieux dont l'adoration apporte des "
+"avantages matériels...\""
+>>>>>>> Stashed changes
 
 #: src-en/data/events_sector_laststand.xml.append:153
 msgid ""

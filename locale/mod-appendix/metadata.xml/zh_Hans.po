@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-18 10:37+0000\n"
+"PO-Revision-Date: 2026-02-19 10:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/mod-appendixmetadataxml/zh_Hans/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:2
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Eschaton创世纪"
+msgstr "终末创世纪"
 
 #: src-en/mod-appendix/metadata.xml:5
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"

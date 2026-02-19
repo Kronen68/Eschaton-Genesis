@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-02-19 10:44+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
@@ -1743,12 +1750,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4337
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
-msgstr ""
+msgstr "Affréteur Neostar"
 
 #: src-en/data/blueprints.xml.append:4338
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
-msgstr ""
+msgstr "Faster-Than-Light"
 
 #: src-en/data/blueprints.xml.append:4339
 msgid ""
@@ -1763,7 +1770,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
-msgstr ""
+msgstr "Affréteur Neostar"
 
 #: src-en/data/blueprints.xml.append:4414
 msgid ""
@@ -1774,6 +1781,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
 msgstr ""
+"Cette version de l'Affréteur Neostar est conçue pour livrer des marchandises "
+"dans des régions particulièrement dangereuses de l'univers. Un drone "
+"puissant vous aidera dans vos livraisons, mais le système d'armement du "
+"vaisseau a été considérablement affaibli. De plus, vous pouvez installer "
+"davantage d'améliorations sur ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:4416
 msgid ""
@@ -1783,7 +1795,7 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 #: src-en/data/blueprints.xml.append:4491
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
-msgstr ""
+msgstr "Affréteur Neostar"
 
 #: src-en/data/blueprints.xml.append:4492
 msgid ""

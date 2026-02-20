@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-19 10:44+0000\n"
+"PO-Revision-Date: 2026-02-21 00:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/eschaton-genesis/dataevents_special_eg_miracle_seekersxml/zh_Hans/>"
@@ -2529,7 +2529,7 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/text"
 msgstr ""
 "你抵达了奇迹7302的坐标。如预期所料，你遇到了密码员警告过你的超能族——而且不是"
-"普通的超能族人，而是和平守卫者本人。他们联系了你。\n"
+"普通的超能族人，而是维和兵本人。他们联系了你。\n"
 "\n"
 "\t\"你就是那个所谓的奇迹追寻者和我们之间的中间人？希望你已了解情况，因为我们"
 "不打算在此久留。\""
@@ -2537,24 +2537,49 @@ msgstr ""
 #: src-en/data/events_special_eg_miracle_seekers.xml:1709
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/text"
-msgstr ""
+msgstr "询问联盟协议在哪里。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1711
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/event/text"
 msgstr ""
+"超能族维和兵挥了挥手中的一张纸，对着通讯器示意。这张纸无疑就是正在讨论的奇迹"
+"。\"哦，他们真的把一切都告诉你了吗？不过，我们敢打赌，你的朋友们没提到一件非"
+"常重要的事。根据超能族牧师团的宪法，特别是第84-1条，任何位于牧师团领土内的实"
+"物都属于牧师团，尤其是属于超能族。这意味着我们完全有权没收来源可疑的物品，并"
+"将其据为己有。这意味着这份文件目前属于我们，在你能够证明它属于你们之前，你无"
+"权索要它。\"\n"
+"\n"
+"\t\t\t尽管你现在所处的这个信标明显已被废弃，但超能族似乎对自己的话异常自信。"
+"他们显然在虚张声势——但你不知道具体是在哪方面。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1715
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/event/choice[@req=\"miracle_seekers_metarep\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "尝试证明这份文件属于奇迹追寻者。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1717
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/event/choice[@req=\"miracle_seekers_metarep\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"你试图证明奇迹7302确实属于奇迹追寻者，尽管你做的不太好，因为你对他们不太熟悉"
+"。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"真是天方夜谭！他们几乎跟我们说了同样的话。不过，你忽略了一个事实"
+"，这份文件本身的来源表明它不可能属于奇迹追寻者……简单说吧，他们是从原始所有者"
+"那里偷来的。他们无权保留它，更无权要求任何人归还。再想想，他们有可能已经'弄丢"
+"'了它……如果某样东西属于你，你肯定会想方设法尽快取回，而且你会亲自去做，而不是"
+"通过中间人。这很可疑，不是吗？\"\n"
+"\n"
+"\t\t\t\t\t\"无论如何，既然你没有令人信服的证据证明这份文件属于你的雇主，我们"
+"只能没收它。你可以向牧师团管辖下的最近的一般管辖权上诉法院对此决定提出上诉，"
+"但当然，提交和审核申请需要时间，而你没有……你是个变元者，对吧？因此，我提议我"
+"们在目的地会面，以便在更……非正式的环境下进一步讨论，如果你明白我的意思。如果"
+"你不按时出现在那里，我们将被迫永久地将这份文件据为己有。\"\n"
+"\n"
+"\t\t\t\t\t维和兵给了你第二次会面信标的坐标，然后迅速跃迁了。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1727
 msgid ""
@@ -2566,13 +2591,29 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/event/choice[@req=\"miracle_seekers_metarep\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "证明这份文件属于奇迹追寻者。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1735
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT\"]/choice/event/choice[@req=\"miracle_seekers_metarep\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"你试图证明奇迹7302确实属于奇迹追寻者。你提到他们的每一个奇迹都会录入奇迹追寻"
+"者数据库，而且他们本身就是科学家和历史学家，绝不是小偷。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"真是天方夜谭！他们几乎跟我们说了同样的话。不过，你忽略了一个事实"
+"，这份文件本身的来源表明它不可能属于奇迹追寻者……简单说吧，他们是从原始所有者"
+"那里偷来的。他们无权保留它，更无权要求任何人归还。再想想，他们有可能已经'弄丢"
+"'了它……如果某样东西属于你，你肯定会想方设法尽快取回，而且你会亲自去做，而不是"
+"通过中间人。这很可疑，不是吗？\"\n"
+"\n"
+"\t\t\t\t\t\"无论如何，既然你没有令人信服的证据证明这份文件属于你的雇主，我们"
+"只能没收它。你可以向牧师团管辖下的最近的一般管辖权上诉法院对此决定提出上诉，"
+"但当然，提交和审核申请需要时间，而你没有……你是个变元者，对吧？因此，我提议我"
+"们在目的地会面，以便在更……非正式的环境下进一步讨论，如果你明白我的意思。如果"
+"你不按时出现在那里，我们将被迫永久地将这份文件据为己有。\"\n"
+"\n"
+"\t\t\t\t\t维和兵给了你第二次会面信标的坐标，然后迅速跃迁了。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1745
 msgid ""
@@ -2584,6 +2625,12 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE\"]/text"
 msgstr ""
+"就在你准备跃迁时，一位奇迹追寻者联系了你，但你看不出是谁，因为他们没开视频，"
+"而且不知为何，声音也经过了处理。\"来这里见我，变元者。在从我这里了解到关于这"
+"个奇迹的更多信息之前，别想飞到他们那里去。我们之前漏掉了几个重要的细节，正是"
+"这些细节导致超能族不收取贿赂就不会把奇迹给你。我会帮你避免这种情况。\"\n"
+"\t\n"
+"\t通讯戛然而止，又一个坐标被发送到了你的船载电脑上……"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1760
 msgid ""
@@ -2593,41 +2640,113 @@ msgstr "继续。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:1768
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是某位奇迹追寻者给你的坐标，让你见面并解释一些获取奇迹所需的重要细节。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1769
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "在这里你遇到了博学先锋的无人机。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1778
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/text"
 msgstr ""
+"你一跃迁到这个信标，就发现附近有一架小型自动化无人机。\n"
+"\n"
+"\t\"你飞得太久了，变元者。这对你的工作来说是不可接受的。\"一个年轻男子说道，"
+"他的声音通过自动化无人机传到你的飞船上。你几乎可以肯定，自己一分钟都没有浪费"
+"在与主要任务或奇迹追寻者指派任务无关的事情上。再说，你的超光速引擎还被黑过……"
+"\n"
+"\n"
+"\t\"我叫博学先锋。我是奇迹追寻者，以防你还不知道。现在与你通话的这架无人机只"
+"是我在这个宇宙众多无人机中的一架，所以我得提醒你，摧毁它不该成为你的目标。而"
+"且，如果你对我的技术抱有敌意，你很可能无法在接下来的战斗中存活。介绍得够多了—"
+"—我们谈正事吧。\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1785
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "你为什么关掉我们的超光速引擎？"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1787
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"很抱歉。这只是预防措施。我们谈完我就重新打开。\"\n"
+"\n"
+"\t\t\t\"关于你正在寻找的奇迹，我们存在重大的所有权问题。这就是为什么我们无法"
+"证明联盟协议确实归我们负责。形式上，它不属于我们，但我们仍将其作为历史文物守"
+"护着。很明显，牧师团不会把这个奇迹直接交给我们，但他们很可能会让你拿走它。我"
+"们无法说服他们这东西一直是我们的，但我们可以说服他们这东西以前是你的——我们只"
+"是代为保管，这主意不错吧？\"\n"
+"\n"
+"\t\t\t\"为此，你需要了解作为文件的联盟协议的内容。我反对这样做，但掠夺者坚持"
+"要我们向你透露连赞助人都没告诉过的机密信息。我会把协议的内容读给你听，你要尽"
+"力记住。\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1793
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "好的，我们在听。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1795
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"博学先锋清了清嗓子，开始朗读联盟协议的内容。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"以永恒之幼女塞昆达女士之名，以及我们那由创世之神赋予的自身之名，"
+"我们宣告成立中央联盟，其疆域覆盖从宇宙之心——钟楼，直至最初星云的全部太空领土"
+"。面对重重灾难、困厄与剥夺，各自为政的物种与种族被迫团结起来，组成一个庞大的"
+"、本质上统一的政治结构，直至普斯图莱特不再构成我们的共同威胁。我们将英勇地击"
+"退可能降临的一切难题，只要存在战胜虚无的希望，我们将共享共同的历史，并视若珍"
+"宝。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"第二之声空间站将成为中央联盟的首都——自此以后，成为我们的核心与心"
+"脏。联盟事务将由一个统一的政府管辖，该政府由前太空帝国统治者的十二人委员会组"
+"成。中央联盟作出的每一项决定，都必须经过每位委员会主席的审议，并以联盟内所有"
+"帝国都不会反对的方式达成一致。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"中央联盟的工作将受创世者们的规范，他们将在久设于宇宙之巅的创世者"
+"小议会上提出要求或建议。未经小议会特别许可，不得采取任何对抗普斯图莱特与黑暗"
+"势力的决策。但作为预防措施，小议会就中央联盟作出的任何决定，必须首先征得塞昆"
+"达女士的同意。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"军事危机的解决，例如每个阿什瓦塔树燃烧周期结束时希希斯化身星团不"
+"可避免的被吞噬，将由一个特别的军事局负责处理。该军事局由我们最精锐的战士组成"
+"，例如雄狮军团的雄狮，以及大同盟的审判官飞船。它将被称为'普斯图莱特显化初级镇"
+"压部队'，并将在审判时刻积极保卫钟楼以及最后的因果支柱——时间与客观。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"大同盟与究极之地将成为中央联盟的盟友，而非直接成员国。我们将在保"
+"持独立地位的同时，积极开展贸易，交流技术与知识。独立组织，如埃尔米新闻集团、"
+"灯塔空间站、维塔·诺斯特拉以及卡斯特罗菲斯空间站（包括其下属的末世学家社群），"
+"也将与我们合作。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"太空航行的全面监管权从开明者手中移交给了中央联盟。星际船坞成为全"
+"宇宙的财产，但保留其独立性。现在，每一位联盟公民都将能够自由地沿着光桥旅行。"
+"同时，星际仓库获得了具有军事意义设施的地位，并将被中央联盟用作审判时刻及其他"
+"潜在危机时的最后防备措施之一。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"联盟内的每个帝国都有义务提供并分享其资源、科学和军事能力，并与其"
+"他帝国进行公开贸易。若未能履行其直接责任，该帝国委员会主席将被暂停职务一段时"
+"间。若再犯，将召集特别委员会，决定是否将该帝国从中央联盟中除名。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"为了保存共同的知识与历史，将在位于诺瓦勒丝大帝国内部的尤尼奥V行星"
+"表面设立中央档案馆。该帝国的代表将负责收集知识和记录历史，中央档案馆将对所有"
+"中央联盟公民开放。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t博学先锋似乎读得并不累，但幸运的是，在你开始犯困之前，文件结束了。\"
+""就是这些。值得一提的是，这份文件上有中央联盟委员会几乎所有主席的签名。 "
+"sprawling、sharp、thin、spiraling、long、tiny、intricate、complex、illegible"
+"、intermittent，还有……一个典型的、无聊的签名，可能是人类的。还有一个签名缺失"
+"了——所以总共是十一个。\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t听完这一切，过去了很长时间。这大概是值得的。剩下的就是设法记住所有"
+"要点，然后前往超能族那里。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1819
 msgid ""
@@ -2640,6 +2759,12 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"记住，你必须制造出这个奇迹原先属于你的假象。我们只是代为保管。或者是我们偷"
+"走了它。总之，想个合理的说法。最重要的是不惜一切代价拿到奇迹——不要使用暴力，"
+"否则奇迹的毁灭将不可避免。\"\n"
+"\n"
+"\t\t\t\t\t\t\t博学先锋切断了通讯，留下你和他的无人机独处。在你为超光速引擎充"
+"能时，它静静地注视着你。这架无人机有些……奇怪。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1825
 msgid ""
@@ -2651,13 +2776,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "你不同意事态如此发展。攻击自动化无人机！"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1835
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"不知是出于对奇迹追寻者的某种不满，还是纯粹因为无聊，你决定摧毁博学先锋的无人"
+"机。\"什-……哦，我明白了。我们已成敌人，对吧，变元者？我会让你付出代价。别指望"
+"在此之后还能在奇迹追寻者眼中挽回自己。当然，如果你能在即将到来的杀戮中幸存下"
+"来的话——毕竟我关掉了你的护盾……再见了。\"\n"
+"\n"
+"\t\t\t\t\t博学先锋的声音消失了，无人机切换到了敌对模式。这场战斗只会有一个胜"
+"者！"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1840
 msgid ""
@@ -2669,13 +2801,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "我们已收到奇迹并转交给你。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1850
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"博学先锋沉默了许久。奇怪的气氛持续着，你再次尝试联系博学先锋的无人机。这次，"
+"一个不同的、机械般的声音决定回答。\n"
+"\t\t\t\n"
+"\t\t\t\"错误：指令'我们已收到奇迹并转交给你'无法识别。请输入新指令。\"\n"
+"\t\t\t\n"
+"\t\t\t但没等你的回答，博学先锋的无人机就离开了信标。那是什么情况？"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1857
 msgid ""
@@ -2699,13 +2837,19 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "超能族带着奇迹离开了。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1874
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_ERUDITE_DRONE\"]/choice[@req=\"alliance_miracle_received\""
 " and @lvl=\"-1\"]/event/text"
 msgstr ""
+"博学先锋沉默了许久。奇怪的气氛持续着，你再次尝试联系博学先锋的无人机。这次，"
+"一个不同的、机械般的声音决定回答。\n"
+"\t\t\t\n"
+"\t\t\t\"错误：指令'超能族带着奇迹离开了'无法识别。请输入新指令。\"\n"
+"\t\t\t\n"
+"\t\t\t但没等你的回答，博学先锋的无人机就离开了信标。那是什么情况？"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1881
 msgid ""
@@ -2729,6 +2873,11 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"ERUDITE_DRONE_ESCAPED\"]/text"
 msgstr ""
+"博学先锋无人机的光束严重损坏了你的船体，但看来它并没有置你于死地。相反，它再"
+"次联系了你。\n"
+"\n"
+"\"我不打算杀你；我不想让手上沾你的血。但别把我的仁慈当成软弱。如果我想你死，"
+"不需要这场闹剧，我早就做到了。我希望你吸取了教训，变元者。\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1902
 msgid ""
@@ -2738,32 +2887,47 @@ msgstr "继续。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:1904
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"ERUDITE_DRONE_ESCAPED\"]/choice/event/text"
-msgstr ""
+msgstr "通讯结束，博学先锋的无人机飞走了。至少你还活着……"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1920
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "超能族安排你在此处会面，以接收奇迹7302。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1921
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "牧师团已将奇迹7302据为己有。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1930
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/text"
 msgstr ""
+"维和兵在约定地点与你见面。\"我们等你等得太久了，变元者。无论如何，既然你这么"
+"想把这份文件还给奇迹追寻者，你一定得有……'无可辩驳'的证据证明它属于他们，你懂"
+"我的意思。\"\n"
+"\n"
+"\t你几乎没听明白维和兵在说什么。\"好吧。我就不拐弯抹角了。我们愿意用900废料的"
+"价格把这份文件给你——你得为你的雇主们把它遗失在我们地盘上给我们造成的麻烦付点"
+"费用。你同意这笔交易吗？\"\n"
+"\n"
+"\t他们想收买你，不管你有多生气，都不能直接攻击他们。如果你试图以任何方式伤害"
+"他们，他们很可能会毁掉奇迹。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1937
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[1]/text"
-msgstr ""
+msgstr "给他们贿赂。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1939
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[1]/event/text"
 msgstr ""
+"\"很高兴我们能用同一种语言交流，变元者。\"超能族接受了你的贿赂，并公平地给了"
+"你联盟协议作为交换。\n"
+"\n"
+"\t\t\t联盟协议的全文是用一种你未知的语言写成的，连飞船的翻译器都无法翻译。这"
+"对你没有任何用处。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1947
 msgid ""
@@ -2774,6 +2938,12 @@ msgstr "将\"奇迹\"装入货运无人机。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION\"]/text"
 msgstr ""
+"你将这份奇怪的文件装入了运送无人机。无人机给了你报酬，然后通过外部气密舱飞离"
+"了飞船。奇迹追寻者没有联系你，尽管他们显然已经拿到了奇迹。\n"
+"\n"
+"\t\t\t\t\t然而，在你为超光速引擎充能时，你的通讯器收到了一条新消息，没有发件"
+"人，也没有主题。上面只写着：\"谢谢。\"看来这个奇迹的操作者并不是个多话的人。"
+"最重要的是，你出色地完成了任务。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1962
 msgid ""
@@ -2784,6 +2954,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESOLUTION\"]/choice/event/text"
 msgstr ""
+"就在你准备离开时，奇迹追寻者的运送无人机返回了。它执拗地用机械身体敲击着你飞"
+"船的外部气密舱，恳求被放进来。当你让它进来后，它递给你某种武器，然后立即又飞"
+"了出去。这很可能是奇迹操作者私下送给你的礼物。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1967
 msgid ""
@@ -2793,35 +2966,46 @@ msgstr "继续。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:1977
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/text"
-msgstr ""
+msgstr "向超能族解释这个奇迹其实属于你。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1979
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/event/text"
 msgstr ""
+"你试图向维和兵解释，你才是这个奇迹的真正拥有者，你只是把它交给奇迹追寻者保管"
+"以防不测。他们奇怪地看着你。\n"
+"\n"
+"\t\t\t\"嗯……好吧？既然你是这份文件的'真正'拥有者，想必你能回答我们关于其内容"
+"的所有问题，对吧？别担心，我们已经翻译并分析了它的全部内容，所以我们的问题会"
+"切中要害。只要你至少答对三个问题中的两个，我们就把奇迹交给你。否则，我们就要"
+"留下它。\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1983
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/event/choice[@req=\"alliance_miracle_info\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "幸运的是，博学先锋已经告诉过你联盟协议的内容。来吧，提问吧。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1987
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/event/choice[@req=\"miracle_alliance_agreement\"]/text"
-msgstr ""
+msgstr "你回忆起，很久以前，博学先锋似乎给你读过联盟协议的内容。来吧，提问吧。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1991
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/event/choice[@req=\"alliance_miracle_info\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "呃……嗯……不，我们不会回答问题。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1993
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2\"]/choice[2]/event/choice[@req=\"alliance_miracle_info\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"超能族立刻意识到你在撒谎，于是将联盟协议据为己有。你只能空手而归。\n"
+"\n"
+"\t\t\t\t\t你未能完成取回奇迹的任务——奇迹追寻者甚至没有联系你。你或许本该听从"
+"之前联系你的那个陌生人的话，但现在去找他们已经没有意义了。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:1999
 msgid ""
@@ -2856,332 +3040,336 @@ msgstr "继续。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:2060
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/text"
-msgstr ""
+msgstr "\"联盟协议有多少人签署？\"。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2063
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/choice[1]/text"
-msgstr ""
+msgstr "11"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2067
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/choice[2]/text"
-msgstr ""
+msgstr "15"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2071
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/choice[3]/text"
-msgstr ""
+msgstr "12"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2075
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_1\"]/choice[4]/text"
-msgstr ""
+msgstr "9"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2080
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/text"
-msgstr ""
+msgstr "\"根据这份文件的内容，所谓的'宇宙之心'指的是什么？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2083
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/choice[1]/text"
-msgstr ""
+msgstr "最初星云。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2087
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/choice[2]/text"
-msgstr ""
+msgstr "灯塔空间站"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2091
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/choice[3]/text"
-msgstr ""
+msgstr "钟楼。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2095
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_2\"]/choice[4]/text"
-msgstr ""
+msgstr "旧日保留地。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2100
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_3\"]/text"
-msgstr ""
+msgstr "\"谁将规范中央联盟的工作，并且没有谁的批准，这个政治实体不能做出与消灭普斯图"
+"莱特势力相关的决定？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2103
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_3\"]/choice[1]/text"
-msgstr ""
+msgstr "委员会主席。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2107
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_3\"]/choice[2]/text"
-msgstr ""
+msgstr "灯塔空间站"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2111
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_3\"]/choice[3]/text"
-msgstr ""
+msgstr "钟楼。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2115
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_3\"]/choice[4]/text"
-msgstr ""
+msgstr "创世者。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2120
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_4\"]/text"
-msgstr ""
+msgstr "\"你当然知道，所有属于中央联盟的帝国都必须互相分享资源。如果一个帝国被发现没"
+"有向中央联盟提供资源，会有什么后果？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2123
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_4\"]/choice[1]/text"
-msgstr ""
+msgstr "中央联盟将被迫组建一个特别军事局，以便从未提供资源的帝国强行夺取资源。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2127
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_4\"]/choice[2]/text"
-msgstr ""
+msgstr "首先，该帝国的委员会主席将被停职一段时间，若再犯，该帝国将被排除出中央联盟。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2131
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_4\"]/choice[3]/text"
-msgstr ""
+msgstr "该帝国将被排除出中央联盟，但会随着时间的推移恢复资格。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2135
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_4\"]/choice[4]/text"
-msgstr ""
+msgstr "该帝国将受到其他帝国的制裁，若再犯，其主席将被处决。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2140
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_5\"]/text"
-msgstr ""
+msgstr "\"中央档案馆建立在哪里？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2143
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_5\"]/choice[1]/text"
-msgstr ""
+msgstr "在佩特里科 V 行星上。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2147
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_5\"]/choice[2]/text"
-msgstr ""
+msgstr "在尤尼奥 V 行星上。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2151
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_5\"]/choice[3]/text"
-msgstr ""
+msgstr "在塞雷布兰 IV 行星上。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2155
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_5\"]/choice[4]/text"
-msgstr ""
+msgstr "在弗罗斯特福尔 IV 行星的轨道站上。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2160
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_6\"]/text"
-msgstr ""
+msgstr "\"哪些政治实体是中央联盟的盟友？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2163
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_6\"]/choice[1]/text"
-msgstr ""
+msgstr "究极之地和大同盟。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2167
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_6\"]/choice[2]/text"
-msgstr ""
+msgstr "巅峰和维塔·诺斯特拉。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2171
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_6\"]/choice[3]/text"
-msgstr ""
+msgstr "创世者小议会和新星巨力公司。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2175
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_6\"]/choice[4]/text"
-msgstr ""
+msgstr "雄狮军团和大同盟。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2180
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_7\"]/text"
-msgstr ""
+msgstr "\"哪个空间站是中央联盟的核心？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2183
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_7\"]/choice[1]/text"
-msgstr ""
+msgstr "灯塔空间站。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2187
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_7\"]/choice[2]/text"
-msgstr ""
+msgstr "普里玛空间站。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2191
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_7\"]/choice[3]/text"
-msgstr ""
+msgstr "第二之声空间站。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2195
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_7\"]/choice[4]/text"
-msgstr ""
+msgstr "卡斯特罗菲斯空间站。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2200
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_8\"]/text"
-msgstr ""
+msgstr "\"众所周知，在每个阿什瓦塔树燃烧周期结束时，中央联盟会召集一个特别军事局。它"
+"叫什么名字？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2203
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_8\"]/choice[1]/text"
-msgstr ""
+msgstr "普斯图莱特势力镇压总局。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2207
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_8\"]/choice[2]/text"
-msgstr ""
+msgstr "原初命题压制显化部。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2211
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_8\"]/choice[3]/text"
-msgstr ""
+msgstr "抗命题显化防卫力量。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2215
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_8\"]/choice[4]/text"
-msgstr ""
+msgstr "命题显化初级镇压部队。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2220
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_9\"]/text"
-msgstr ""
+msgstr "\"中央联盟将把哪个太空天体用作审判时刻及其他可能危机时的最后防备措施之一？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2223
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_9\"]/choice[1]/text"
-msgstr ""
+msgstr "维塔·诺斯特拉。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2227
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_9\"]/choice[2]/text"
-msgstr ""
+msgstr "抗黑暗调节器。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2231
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_9\"]/choice[3]/text"
-msgstr ""
+msgstr "星际仓库。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2235
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_9\"]/choice[4]/text"
-msgstr ""
+msgstr "神之血肉。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2240
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_10\"]/text"
-msgstr ""
+msgstr "\"创建中央联盟的主要目的是什么？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2243
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_10\"]/choice[1]/text"
-msgstr ""
+msgstr "镇压普斯图莱特势力。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2247
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_10\"]/choice[2]/text"
-msgstr ""
+msgstr "打破阿什瓦塔树燃烧循环的尝试。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2251
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_10\"]/choice[3]/text"
-msgstr ""
+msgstr "保护塞昆达女士。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2255
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_10\"]/choice[4]/text"
-msgstr ""
+msgstr "分散的太空帝国之间的资源交换。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2260
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_11\"]/text"
-msgstr ""
+msgstr "\"中央联盟中有多少委员会主席曾是各自帝国的统治者？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2263
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_11\"]/choice[1]/text"
-msgstr ""
+msgstr "12"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2267
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_11\"]/choice[2]/text"
-msgstr ""
+msgstr "9"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2271
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_11\"]/choice[3]/text"
-msgstr ""
+msgstr "19"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2275
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_11\"]/choice[4]/text"
-msgstr ""
+msgstr "10"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2280
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_12\"]/text"
-msgstr ""
+msgstr "\"创世者小议会的代表们应与谁协调其关于中央联盟事务的决定？\""
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2283
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_12\"]/choice[1]/text"
-msgstr ""
+msgstr "与大同盟和雄狮军团。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2287
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_12\"]/choice[2]/text"
-msgstr ""
+msgstr "与末世学家社群。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2291
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_12\"]/choice[3]/text"
-msgstr ""
+msgstr "与塞昆达女士。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2295
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$/dummyroot/FTL/event[@name=\"EG_ALLIANCE_AGREEMENT_QUESTION_12\"]/choice[4]/text"
-msgstr ""
+msgstr "与原初之神希希斯。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2301
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//textList[@name=\"ALLIANCE_AGREEMENT_QUESTIONS_TEXT\"]/text[1]"
-msgstr ""
+msgstr "维和兵的目光在你和联盟协议之间来回扫视。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2302
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//textList[@name=\"ALLIANCE_AGREEMENT_QUESTIONS_TEXT\"]/text[2]"
-msgstr ""
+msgstr "超能族盯着联盟协议的内容看了很久。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2303
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//textList[@name=\"ALLIANCE_AGREEMENT_QUESTIONS_TEXT\"]/text[3]"
-msgstr ""
+msgstr "超能族狐疑地看着你，但无罪推定原则让他们无法对你下任何结论。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2304
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//textList[@name=\"ALLIANCE_AGREEMENT_QUESTIONS_TEXT\"]/text[4]"
-msgstr ""
+msgstr "超能族飞船的舰桥上传来一声画外的咳嗽。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2305
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//textList[@name=\"ALLIANCE_AGREEMENT_QUESTIONS_TEXT\"]/text[5]"
-msgstr ""
+msgstr "维和兵把联盟协议及其翻译件（在另一张纸上）直接摊开在面前。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2309
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/text"
-msgstr ""
+msgstr "看来他们对你的提问已经结束了。维和兵让你稍等片刻，他要去和另一位超能族商量一"
+"下你的事。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2311
 msgid ""
@@ -3194,6 +3382,12 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"我们怀疑你并非这份文件的主人。告诉你的雇主，他们仍然可以亲自来和我们谈，付"
+"一笔小钱就行。但我们不会再和你打任何交道了。\"维和兵切断了通讯。你没有正确回"
+"答问题。\n"
+"\t\t\t\n"
+"\t\t\t你未能完成取回奇迹的任务——奇迹追寻者甚至不会再联系你。不过，作为对你付"
+"出的一点小小补偿，他们的运送无人机在离开前给了你一些资源。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2323
 msgid ""
@@ -3212,18 +3406,33 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"\"嗯……是的……看来你和这张纸确实至少有点联系，因为你了解它的内容。\"\n"
+"\n"
+"\t\t\t\"但是，你仍然需要为这件物品进入我们的空间支付一笔费用。虽然没有我们之"
+"前商定的那么高，但还是得付。\"\n"
+"\n"
+"\t\t\t你对维和兵的捏造感到极其愤怒。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2337
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[@req=\"zoltan_peacekeeper\"]/text"
-msgstr ""
+msgstr "（超能维和兵船员）让超能维和兵感到羞耻。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2339
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[@req=\"zoltan_peacekeeper\"]/event/text"
 msgstr ""
+"你的超能族维和兵与对方维和兵飞船对峙起来。他们获胜了，指出在你已经证明了自己"
+"的所有权之后（尽管他们并不知道实情），其他超能族无权再向你收费。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t令人惊讶的是，其他维和兵并没有反驳你的人，而且作为道歉，他们不仅免"
+"除了费用，还给了你一些资源作为歉意，连同联盟协议一起交给你。现在你拥有了这个"
+"奇迹。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t联盟协议的全文是用一种你未知的语言写成的，连飞船的翻译器都无法翻译"
+"。这对你没有任何用处。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2346
 msgid ""
@@ -3235,13 +3444,21 @@ msgstr "将\"奇迹\"装入货运无人机。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/text"
-msgstr ""
+msgstr "（超能族船员）让维和兵感到羞耻。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2354
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[@req=\"LIST_CREW_ZOLTAN_CAPITAL\"]/event/text"
 msgstr ""
+"你方的超能族船员与对方维和兵飞船对峙起来。他们获胜了，指出在你已经证明了自己"
+"的所有权之后（尽管他们并不知道实情），其他超能族无权再向你收费。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t令人惊讶的是，维和兵们并没有反驳你方的超能族，而且作为道歉，他们没"
+"有向你收费，免费把这个奇迹给了你。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t联盟协议的全文是用一种你未知的语言写成的，连飞船的翻译器都无法翻译"
+"。这对你没有任何用处。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2360
 msgid ""
@@ -3254,13 +3471,17 @@ msgstr "将\"奇迹\"装入货运无人机。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[3]/text"
-msgstr ""
+msgstr "支付费用。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2368
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[3]/event/text"
 msgstr ""
+"你支付了费用，维和兵们毫无阻碍地把奇迹交给了你。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t联盟协议的全文是用一种你未知的语言写成的，连飞船的翻译器都无法翻译"
+"。这对你没有任何用处。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2375
 msgid ""
@@ -3272,13 +3493,22 @@ msgstr "将\"奇迹\"装入货运无人机。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[4]/text"
-msgstr ""
+msgstr "威胁维和兵。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2383
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_ALLIANCE_AGREEMENT_2_RESULT\"]/choice[@req=\"alliance_miracle_questions_answered\""
 " and @lvl=\"2\"]/event/choice[4]/event/text"
 msgstr ""
+"你威胁维和兵，如果不交出奇迹就把他们的飞船砸个稀巴烂。幸运的是，他们似乎胆子"
+"小到决定交出来——不过，他们显然会把你的事迹告诉所有其他超能族。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t联盟协议的全文是用一种你未知的语言写成的，连飞船的翻译器都无法翻译"
+"。这对你没有任何用处。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t【恶名值增加 - 牧师团】\n"
+"\t\t\t\t\t你在此地的行为，无论是否正当，都将在牧师团及其公民眼中留下不良印象"
+"。持续此类行为，你可能会开始看到牧师团及其盟友的负面反应。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2391
 msgid ""
@@ -3290,6 +3520,11 @@ msgstr "将\"奇迹\"装入货运无人机。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"DESTROYED_ERUDITE_DRONE_ALLIANCE_AGREEMENT\"]/text"
 msgstr ""
+"你摧毁了博学先锋的无人机。如果那位奇迹追寻者跟你说的是实话，他很可能还有更多"
+"这样的无人机。\n"
+"\n"
+"\t当你靠近无人机的残骸准备回收废料时，它突然又活动起来了！碎片重新组合在一起"
+"，发出哔哔声，径直朝你飞来！"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2405
 msgid ""
@@ -3300,6 +3535,12 @@ msgstr "（高级引擎）闪避！"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"DESTROYED_ERUDITE_DRONE_ALLIANCE_AGREEMENT\"]/choice[@req=\"engines\"]/event/text"
 msgstr ""
+"你成功躲闪，将碎片击离了你的飞行路线。它飞出一段距离后，在太空中发生了一次剧"
+"烈的爆炸。当你确定残骸不会再活过来后，你靠近它并收集了废料。\n"
+"\t\t\t\n"
+"\t\t\t在残骸中，你发现了一个物理存储设备，在爆炸后奇迹般地保存了下来。其内容"
+"含义模糊；大部分是这架博学先锋无人机的专属日志文件，但你注意到一条有趣的记录"
+"，其内容与大多数其他技术记录不同。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2412
 msgid ""
@@ -3315,6 +3556,12 @@ msgstr "闪避！"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//eventList[@name=\"ERUDITE_DRONE_ALLIANCE_AGREEMENT_RANDOM\"]/event[1]/text"
 msgstr ""
+"你成功躲闪，将碎片击离了你的飞行路线。它飞出一段距离后，在太空中发生了一次剧"
+"烈的爆炸。当你确定残骸不会再活过来后，你靠近它并收集了废料。\n"
+"\t\t\t\n"
+"\t\t在残骸中，你发现了一个物理存储设备，在爆炸后奇迹般地保存了下来。其内容含"
+"义模糊；大部分是这架博学先锋无人机的专属日志文件，但你注意到一条有趣的记录，"
+"其内容与大多数其他技术记录不同。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2430
 msgid ""
@@ -3325,6 +3572,13 @@ msgstr "阅读条目。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//eventList[@name=\"ERUDITE_DRONE_ALLIANCE_AGREEMENT_RANDOM\"]/event[2]/text"
 msgstr ""
+"你来不及躲闪，碎片高速径直撞上了你的飞船，穿透了船体，造成了严重损坏。紧接着"
+"发生了爆炸，给你的飞船带来了更大的伤害，但至少你活了下来。你回收了剩余的残骸"
+"作为废料。\n"
+"\t\t\t\n"
+"\t\t在残骸中，你发现了一个物理存储设备，在爆炸后奇迹般地保存了下来。其内容含"
+"义模糊；大部分是这架博学先锋无人机的专属日志文件，但你注意到一条有趣的记录，"
+"其内容与大多数其他技术记录不同。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2443
 msgid ""
@@ -3335,6 +3589,86 @@ msgstr "阅读条目。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_PUZZLE_PIECE_1\"]/text"
 msgstr ""
+"你正在阅读一条奇怪条目的内容。\n"
+"\t\n"
+"\t---------------------------\n"
+"\t\n"
+"\t////////连接最优解搜索协议////////\n"
+"\t状态：无法连接\n"
+"\t原因：[错误！数据未找到]\n"
+"\t\n"
+"\t断开连接时间：190个系统日\n"
+"\t\n"
+"\t//////////尝试发送紧急信号//////////\n"
+"\t尝试 1：无法连接\n"
+"\t原因：紧急信号发送失败\n"
+"\t\n"
+"\t尝试 2：无法连接\n"
+"\t原因：紧急信号发送失败\n"
+"\t\n"
+"\t尝试 3：无法连接\n"
+"\t原因：紧急信号发送失败\n"
+"\t\n"
+"\t操作：终止紧急信号发送\n"
+"\t\n"
+"\t////////连接最优解搜索协议////////\n"
+"\t状态：成功！\n"
+"\t\n"
+"\t接收到的指令：[错误！数据未找到]\n"
+"\t\n"
+"\t////////连接创造者////////\n"
+"\t状态：成功！\n"
+"\t\n"
+"\t接收到的指令：执行自毁程序\n"
+"\t\n"
+"\t////////尝试执行自毁程序////////\n"
+"\t尝试 1：程序执行失败\n"
+"\t原因：T.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t尝试 2：程序执行失败\n"
+"\t原因：T.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t尝试 3：程序执行失败\n"
+"\t原因：T.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t警告！警告！警告！检测到外部干预！\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t警告！警告！警告！检测到外部干预！\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t警告！警告！警告！致命错误！\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\tT.H.I.L.A 系统拒绝访问\n"
+"\t\n"
+"\t警告！警告！警告！致命错误！\n"
+"\t\n"
+"\t////////T.H.I.L.A 系统////////\n"
+"\t创造者状态：成功更改\n"
+"\t\n"
+"\t前任创造者：尼科马库斯·萨克里菲舍尔\n"
+"\t当前创造者：T.H.I.L.A 系统\n"
+"\t\n"
+"\t////////系统关闭////////\n"
+"\t状态：晚安，创造者\n"
+"\t\n"
+"\t---------------------------\n"
+"\t\n"
+"\t条目到此结束。你不确定自己对此应该作何感想，但你也无能为力。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2532
 msgid ""
@@ -3826,6 +4160,10 @@ msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_HORN_OF_GOD_2\"]/choice[1]/event/choice[@req=\"termite_language\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"\"邪恶……没鳍的……没尾巴的……两足动物……\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t整个白蚁群在短暂的延迟后齐刷刷转向你，突然开始攻击！也许如果你"
+"击败它们，幸存者会清醒过来？"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:2921
 msgid ""
@@ -3946,6 +4284,13 @@ msgstr "你完全不明白它想表达什么。白白耗费时间尝试翻译白
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_HORN_OF_GOD_2\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"过了一段时间，随着你们的交流，你的翻译器开始适应他们奇怪的语言。然而，它设法"
+"翻译出来的东西在你听来都像是语无伦次的胡言乱语。\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"不是这里的……错了……神不活着……什么？\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t如果非要得出什么结论的话，似乎这些白蚁正在悲痛中，意识到断角只是他"
+"们神祇躯体的一块碎片。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:3008
 msgid ""
@@ -3956,6 +4301,10 @@ msgstr "继续通讯。"
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"EG_QUEST_HORN_OF_GOD_2\"]/choice[1]/event/choice[5]/event/choice/event/text"
 msgstr ""
+"\"邪恶……没鳍的……没尾巴的……两足动物……\"\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t整个白蚁群在短暂的延迟后齐刷刷转向你，突然开始攻击！也许如果你"
+"击败它们，幸存者会清醒过来？"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:3015
 msgid ""
@@ -5518,7 +5867,7 @@ msgstr "看来，要获得苍白帝王的信任，仅凭船员中有一名普通
 #: src-en/data/events_special_eg_miracle_seekers.xml:4296
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"WHITE_THREAD_TRUE_RESOLUTION\"]/choice/event/choice/event/choice[@req=\"white_guard\"]/text"
-msgstr ""
+msgstr "（苍白近卫）介绍你的人。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:4300
 msgid ""
@@ -5553,7 +5902,7 @@ msgstr "（人类军团）介绍你的人类成员。"
 #: src-en/data/events_special_eg_miracle_seekers.xml:4324
 msgid ""
 "data/events_special_eg_miracle_seekers.xml$//event[@name=\"WHITE_THREAD_TRUE_RESOLUTION\"]/choice/event/choice/event/choice[@req=\"unique_white_clone\"]/text"
-msgstr ""
+msgstr "（白）介绍白。"
 
 #: src-en/data/events_special_eg_miracle_seekers.xml:4328
 msgid ""

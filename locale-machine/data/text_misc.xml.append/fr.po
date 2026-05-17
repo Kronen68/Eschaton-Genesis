@@ -31,11 +31,11 @@ msgstr "MIRACLE 9721 [!]"
 
 #: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"eg_alliance\"]"
-msgstr ""
+msgstr "MIRACLE 7302 [!]"
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"eg_neostar\"]"
-msgstr ""
+msgstr "MIRACLE 6419 [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"eg_eatery\"]"
@@ -43,16 +43,22 @@ msgstr "RESTAURANT [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"eg_erudite_drone\"]"
-msgstr ""
+msgstr "POINT DE RENCONTRE [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"eg_neostar_task\"]"
-msgstr ""
+msgstr "LIVRAISON NEOSTAR [!]"
 
 #: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"tip_erudite_weapon\"]"
 msgstr ""
+"Astuce : L'arme spéciale développée par Erudite est extrêmement puissante, "
+"mais en raison de sa faible efficacité énergétique, elle ne peut être tirée "
+"que quelques fois par bataille."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_storage_neostar\"]"
 msgstr ""
+"La Caisse Neostar (R) ne peut pas être utilisée comme arme et il est "
+"préférable de la conserver dans votre soute jusqu'à ce que vous la livriez "
+"au destinataire."

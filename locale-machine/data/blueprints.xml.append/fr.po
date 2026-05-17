@@ -7,94 +7,118 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
-msgstr ""
+msgstr "Éclat"
 
 #: src-en/data/blueprints.xml.append:7
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
-msgstr ""
+msgstr "Un éclat. Vous n'étiez pas censé voir ça."
 
 #: src-en/data/blueprints.xml.append:17
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
-msgstr ""
+msgstr "Caisse Neostar (R)"
 
 #: src-en/data/blueprints.xml.append:18
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
-msgstr ""
+msgstr "Caisse Neostar (R)"
 
 #: src-en/data/blueprints.xml.append:19
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
 msgstr ""
+"Une caisse remplie à ras bord d'une grande variété de cargaisons, un développement de pointe de Neostar Megacorp (R) ! Grâce à certaines perturbations dans le continuum espace-temps, elle peut contenir au moins trois fois plus de cargaison que toute caisse de taille similaire de nos concurrents !\n"
+"\tNOTE pour les employés Neostar (R) : Livrez la cargaison à tout prix. N'essayez pas de la vendre par quelque moyen connu que ce soit ou de la pirater - le Système de Sécurité Spécialisé Neostar Megacorp (R) détruira immédiatement le contenu de la caisse, et si la cargaison est confirmée perdue, vous serez passible de sanctions."
 
 #: src-en/data/blueprints.xml.append:21
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
-msgstr ""
+msgstr "Arme de Stockage"
 
 #: src-en/data/blueprints.xml.append:36
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
-msgstr ""
+msgstr "Portrait du Dirigeant"
 
 #: src-en/data/blueprints.xml.append:37
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
 msgstr ""
+"Un homme aux cheveux dorés, vêtu d'un costume formel impeccable et de "
+"lunettes de soleil, vous regarde depuis ce portrait, souriant doucement. "
+"C'est un cadeau personnel du Dirigeant, et il le représente, aussi arrogant "
+"que cela puisse paraître. Tant que le portrait est sur votre vaisseau, votre"
+" équipage reçoit un bonus de 20 % à la vitesse de réparation et de "
+"déplacement, et un bonus de 30 % à la vitesse de soin sur tous les "
+"vaisseaux."
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
-msgstr ""
+msgstr "Accord de l'Alliance"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
 msgstr ""
+"Un document complètement inutile. Ne fait absolument rien. Peut être vendu "
+"pour 30 ferraille."
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
-msgstr ""
+msgstr "Civils"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
 msgstr ""
+"Votre vaisseau est un vaisseau civil de la Seconde Voix. Comme tout vaisseau"
+" civil, il est très petit et présente un certain nombre d'inconvénients "
+"significatifs, mais il vous offre également des avantages subtils. Vous "
+"pouvez déclarer votre vaisseau comme étant un vaisseau civil dans un menu "
+"spécial, recevant une réduction de la mauvaise réputation globale et de la "
+"mauvaise réputation pour la plupart des factions pacifiques, puis accédant à"
+" d'autres fonctionnalités dans ce menu. La maniabilité et la vitesse d'un "
+"vaisseau civil vous permettent de récupérer 25 % de ferraille en plus de la "
+"plupart des sources. La petite taille du vaisseau permet aux armes de se "
+"recharger 10 % plus vite et aux boucliers de se recharger 15 % plus vite."
 
 #: src-en/data/blueprints.xml.append:61
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
-msgstr ""
+msgstr "Vaisseau de la Seconde Voix"
 
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir cela."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:71
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
-msgstr ""
+msgstr "Programme de Fidélité (R)"
 
 #: src-en/data/blueprints.xml.append:72
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
 msgstr ""
+"Êtes-vous un Employé Junior chez Neostar Megacorp (R), une Mégacorporation spatiale de pointe (R) axée sur les Développements Innovants (R) et le Transport de Cargaison (R) ? Avez-vous accepté ce poste sans savoir à quoi vous attendre ? Pas de problème - notre Guide de Formation pour Employés de Livraison Junior Neostar Megacorp (R), intégré directement à votre Formulaire Neostar (R), ainsi que notre Programme de Fidélité (R), vous aideront à vous adapter au nouvel environnement de travail ! Vous avez probablement remarqué votre soute agrandie, remplie à ras bord de diverses cargaisons. Avec votre Formulaire Neostar (R), vous pouvez recevoir des tâches spéciales de livraison de cargaison, les accomplir et être payé pour celles-ci, ce qui augmente également votre Niveau de Fidélité (R). Chaque nouveau Niveau de Fidélité (R) vous rapproche de la promotion et vous rapporte des Récompenses Premium (R). Tout n'était-il pas beaucoup plus facile que vous ne l'imaginiez, et maintenant vous êtes soulagé de découvrir que vous avez décroché un emploi aussi simple ? Eh bien, bonne chance, Employé Junior Neostar Megacorp (R) ! Des questions ? Veuillez consulter la FAQ Employé Junior (R) sur votre Formulaire Neostar (R) !\n"
+"\n"
+"\tNOTE : Neostar Megacorp (R) ne garantit pas votre sécurité pendant la livraison de la cargaison. Appelez le 8-800-555-35-35 pour déposer des plaintes ou des suggestions. Rappelez-vous : Neostar Megacorp (R) se soucie de votre bien-être !"
 
 #: src-en/data/blueprints.xml.append:82
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
-msgstr ""
+msgstr "Vaisseau Neostar"
 
 #: src-en/data/blueprints.xml.append:83
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir cela."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
-msgstr "Cœur du Chercheur de Rêves"
+msgstr "Cœur de la Chercheuse de Rêves"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
@@ -105,27 +129,27 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:102
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
-msgstr "Plaque de blindage"
+msgstr "Plaque de Blindage"
 
 #: src-en/data/blueprints.xml.append:103
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
 msgstr ""
-"La plaque de blindage se fixe à votre vaisseau, empêchant les dégâts de "
-"coque avec 5 % de chances et les dégâts aux systèmes avec 10 % de chances. "
+"La Plaque de Blindage se fixe à votre vaisseau, empêchant les dégâts à la "
+"coque avec 5 % de chance et les dégâts aux systèmes avec 10 % de chance. "
 "Elle peut être intégrée au vaisseau via le menu de stockage afin de ne pas "
 "occuper un emplacement d'augmentation."
 
 #: src-en/data/blueprints.xml.append:111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
-msgstr "Plaque de blindage"
+msgstr "Plaque de Blindage"
 
 #: src-en/data/blueprints.xml.append:112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
 msgstr ""
-"La plaque de blindage se fixe à votre vaisseau, empêchant les dégâts de "
-"coque avec 5 % de chances et les dégâts aux systèmes avec 10 % de chances."
+"La Plaque de Blindage se fixe à votre vaisseau, empêchant les dégâts à la "
+"coque avec 5 % de chance et les dégâts aux systèmes avec 10 % de chance."
 
 #: src-en/data/blueprints.xml.append:121
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
@@ -135,9 +159,10 @@ msgstr "Salle des Rêves"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
 msgstr ""
 "Votre foi vous permet de prier le Rêve Tout-Désiré pour une assistance "
-"spécifique en combat un nombre fixe de fois, ou de recevoir des récompenses "
-"en priant aux balises vides. Les pouvoirs résiduels du Rêveur, qui sont "
-"entrés dans cet univers avec ce vaisseau, tenteront de réaliser votre rêve."
+"spécifique au combat un nombre fixe de fois, ou de recevoir des récompenses "
+"pour avoir prié à des balises vides. Les pouvoirs résiduels de la Rêveuse, "
+"qui sont entrés dans cet univers avec ce vaisseau, essaieront de réaliser "
+"votre rêve."
 
 #: src-en/data/blueprints.xml.append:130
 msgid ""
@@ -148,11 +173,11 @@ msgstr "Culte des Rêves"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
 msgstr ""
-"Votre foi en le Rêve Tout-Désiré est peut-être trop fanatique. Vous avez "
-"l'opportunité de recevoir une aide garantie et très puissante du Rêveur sous"
-" la forme d'une grande quantité de ressources aux balises vides ou d'une "
-"assistance significative en combat, mais vous devrez la payer avec la vie "
-"d'un membre de votre équipage..."
+"Votre croyance dans le Rêve Tout-Désiré est peut-être trop fanatique. Vous "
+"avez la possibilité de recevoir une aide garantie et très puissante de la "
+"Rêveuse sous la forme d'une grande quantité de ressources aux balises vides "
+"ou d'une assistance significative au combat, mais vous devrez la payer avec "
+"la vie de l'un de vos membres d'équipage..."
 
 #: src-en/data/blueprints.xml.append:139
 msgid ""
@@ -162,7 +187,7 @@ msgstr "Église du Rêve Tout-Désiré"
 #: src-en/data/blueprints.xml.append:140
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:149
 msgid ""
@@ -184,7 +209,7 @@ msgstr "Armure Impénétrable"
 #: src-en/data/blueprints.xml.append:160
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
@@ -198,44 +223,33 @@ msgstr ""
 "Votre coque est exceptionnellement durable, mais elle nécessite une "
 "amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
 "votre blindage n'est soumis à aucune amélioration et est capable de nier les"
-" dégâts de coque avec 10 % de chances et les dégâts aux systèmes avec 40 % "
+" dégâts à la coque avec 10 % de chances et les dégâts au système avec 40 % "
 "de chances. Chaque niveau d'amélioration ajoutera jusqu'à 10 % de chances "
-"d'ignorer les dégâts et 10 % de chances d'ignorer les dégâts aux systèmes. "
-"Au niveau d'amélioration 3, le blindage accélérera le rechargement de vos "
-"armes de 5 % pour chaque amélioration ultérieure. À partir du niveau 5, "
-"votre vaisseau gagnera la capacité d'éperonner les ennemis avant le combat. "
-"Chaque amélioration de blindage de vaisseau coûtera 20 dégâts à votre "
-"vaisseau."
+"d'ignorer les dégâts et 10 % de chances d'ignorer les dégâts au système. Au "
+"niveau d'amélioration 3, le blindage accélérera la recharge de vos armes de "
+"5 % pour chaque amélioration ultérieure. À partir du niveau 5, votre "
+"vaisseau aura la capacité d'éperonner les ennemis avant le combat. Chaque "
+"amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:177
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
-msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite une "
-"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
-"votre blindage est capable de nier les dégâts de coque avec 20 % de chances "
-"et les dégâts aux systèmes avec 50 % de chances. Chaque niveau "
-"d'amélioration ajoutera jusqu'à 10 % de chances d'ignorer les dégâts et 10 %"
-" de chances d'ignorer les dégâts aux systèmes. Au niveau d'amélioration 3, "
-"le blindage accélérera le rechargement de vos armes de 5 % pour chaque "
-"amélioration ultérieure. À partir du niveau 5, votre vaisseau gagnera la "
-"capacité d'éperonner les ennemis avant le combat. Chaque amélioration de "
-"blindage de vaisseau coûtera 20 dégâts à votre vaisseau."
+msgstr "Blindage Impénétrable II"
 
 #: src-en/data/blueprints.xml.append:178
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 20 % de chances et les dégâts au système avec 50 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts et 10 % "
-"de chances d'ignorer les dégâts au système. Au niveau d'amélioration 3, le "
-"blindage augmentera la vitesse de recharge de vos armes de 5 % pour chaque "
-"amélioration ultérieure. À partir du niveau 5, votre vaisseau acquerra la "
-"capacité d'éperonner les ennemis avant le combat. Chaque amélioration du "
-"blindage du vaisseau coûtera 20 points de dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 20 % de "
+"chances et les dégâts au système avec 50 % de chances. Chaque niveau "
+"d'amélioration ajoutera jusqu'à 10 % de chances d'ignorer les dégâts et 10 %"
+" de chances d'ignorer les dégâts au système. Au niveau d'amélioration 3, le "
+"blindage accélérera la recharge de vos armes de 5 % pour chaque amélioration"
+" ultérieure. À partir du niveau 5, votre vaisseau aura la capacité "
+"d'éperonner les ennemis avant le combat. Chaque amélioration de blindage de "
+"vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:186
 msgid ""
@@ -246,48 +260,32 @@ msgstr "Blindage Impénétrable III"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 30 % de chances et les dégâts au système avec 60 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts et 10 % "
-"de chances d'ignorer les dégâts au système. Il augmente désormais également "
-"la vitesse de recharge des armes de 5 % et augmentera la vitesse de recharge"
-" de 5 % supplémentaires pour chaque amélioration ultérieure. À partir du "
-"niveau 5, votre vaisseau acquerra la capacité d'éperonner les ennemis avant "
-"le combat. Chaque amélioration du blindage du vaisseau coûtera 20 points de "
-"dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 30 % de "
+"chances et les dégâts au système avec 60 % de chances. Il accélère désormais"
+" également la recharge des armes de 5 % et accélérera la recharge de 5 % "
+"supplémentaires pour chaque amélioration ultérieure. À partir du niveau 5, "
+"votre vaisseau aura la capacité d'éperonner les ennemis avant le combat. "
+"Chaque amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:195
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
-msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite une "
-"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
-"votre blindage est capable de nier les dégâts de coque avec 60 % de chances "
-"et les dégâts aux systèmes avec 90 % de chances. Chaque niveau "
-"d'amélioration ajoutera jusqu'à 10 % de chances d'ignorer les dégâts et 10 %"
-" de chances d'ignorer les dégâts aux systèmes. Il accélère désormais le "
-"rechargement des armes de 20 % et l'accélérera de 5 % supplémentaires pour "
-"chaque amélioration ultérieure. De plus, vous pouvez désormais éperonner "
-"votre ennemi avant le combat. Chaque amélioration de blindage de vaisseau "
-"coûtera 20 dégâts à votre vaisseau."
+msgstr "Blindage Impénétrable IV"
 
 #: src-en/data/blueprints.xml.append:196
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 40 % de chances et les dégâts au système avec 70 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts et 10 % "
-"de chances d'ignorer les dégâts au système. Il augmente désormais également "
-"la vitesse de recharge des armes de 10 % et augmentera la vitesse de "
-"recharge de 5 % supplémentaires pour chaque amélioration ultérieure. À "
-"partir du niveau 5, votre vaisseau acquerra la capacité d'éperonner les "
-"ennemis avant le combat. Chaque amélioration du blindage du vaisseau coûtera"
-" 20 points de dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 40 % de "
+"chances et les dégâts au système avec 70 % de chances. Il accélère désormais"
+" également la recharge des armes de 10 % et accélérera la recharge de 5 % "
+"supplémentaires pour chaque amélioration ultérieure. À partir du niveau 5, "
+"votre vaisseau aura la capacité d'éperonner les ennemis avant le combat. "
+"Chaque amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -298,17 +296,14 @@ msgstr "Blindage Impénétrable V"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 50 % de chances et les dégâts au système avec 80 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts et 10 % "
-"de chances d'ignorer les dégâts au système. Il augmente désormais également "
-"la vitesse de recharge des armes de 15 % et augmentera la vitesse de "
-"recharge de 5 % supplémentaires pour chaque amélioration ultérieure. De "
-"plus, vous pouvez désormais éperonner votre ennemi avant le combat. Chaque "
-"amélioration du blindage du vaisseau coûtera 20 points de dégâts à votre "
-"vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 50 % de "
+"chances et les dégâts au système avec 80 % de chances. Il accélère désormais"
+" également la recharge des armes de 15 % et accélérera la recharge de 5 % "
+"supplémentaires pour chaque amélioration ultérieure. De plus, vous pouvez "
+"maintenant éperonner votre ennemi avant le combat. Chaque amélioration de "
+"blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:213
 msgid ""
@@ -319,17 +314,14 @@ msgstr "Blindage Impénétrable VI"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 60 % de chances et les dégâts au système avec 90 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts et 10 % "
-"de chances d'ignorer les dégâts au système. Il augmente désormais également "
-"la vitesse de recharge des armes de 20 % et augmentera la vitesse de "
-"recharge de 5 % supplémentaires pour chaque amélioration ultérieure. De "
-"plus, vous pouvez désormais éperonner votre ennemi avant le combat. Chaque "
-"amélioration du blindage du vaisseau coûtera 20 points de dégâts à votre "
-"vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 60 % de "
+"chances et les dégâts au système avec 90 % de chances. Il accélère désormais"
+" également la recharge des armes de 20 % et accélérera la recharge de 5 % "
+"supplémentaires pour chaque amélioration ultérieure. De plus, vous pouvez "
+"maintenant éperonner votre ennemi avant le combat. Chaque amélioration de "
+"blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:222
 msgid ""
@@ -340,16 +332,15 @@ msgstr "Blindage Impénétrable VII"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 70 % de chances et les dégâts au système avec 100 % de chances. Chaque "
-"niveau d'amélioration ajoutera 10 % de chances d'ignorer les dégâts. Il "
-"augmente désormais également la vitesse de recharge des armes de 25 % et "
-"augmentera la vitesse de recharge de 3 % supplémentaires pour chaque "
-"amélioration ultérieure. De plus, vous pouvez désormais éperonner votre "
-"ennemi avant le combat. Chaque amélioration du blindage du vaisseau coûtera "
-"20 points de dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 70 % de "
+"chances et les dégâts au système avec 100 % de chances. Chaque niveau "
+"d'amélioration ajoutera jusqu'à 10 % de chances d'ignorer les dégâts. Il "
+"accélère désormais également la recharge des armes de 25 % et accélérera la "
+"recharge de 3 % supplémentaires pour chaque amélioration ultérieure. De "
+"plus, vous pouvez maintenant éperonner votre ennemi avant le combat. Chaque "
+"amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:231
 msgid ""
@@ -360,16 +351,15 @@ msgstr "Blindage Impénétrable VIII"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 80 % de chances et les dégâts au système avec 100 % de chances. Chaque "
-"niveau d'amélioration ajoutera 5 % de chances d'ignorer les dégâts. Il "
-"augmente désormais également la vitesse de recharge des armes de 28 % et "
-"augmentera la vitesse de recharge de 3 % supplémentaires pour chaque "
-"amélioration ultérieure. De plus, vous pouvez désormais éperonner votre "
-"ennemi avant le combat. Chaque amélioration du blindage du vaisseau coûtera "
-"20 points de dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 80 % de "
+"chances et les dégâts au système avec 100 % de chances. Chaque niveau "
+"d'amélioration ajoutera jusqu'à 5 % de chances d'ignorer les dégâts. Il "
+"accélère désormais également la recharge des armes de 28 % et accélérera la "
+"recharge de 3 % supplémentaires pour chaque amélioration ultérieure. De "
+"plus, vous pouvez maintenant éperonner votre ennemi avant le combat. Chaque "
+"amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:240
 msgid ""
@@ -380,16 +370,15 @@ msgstr "Blindage Impénétrable IX"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable, mais elle nécessite des "
-"améliorations constantes pour éviter de subir de lourds dégâts. "
-"Actuellement, votre blindage est capable d'annuler les dégâts à la coque "
-"avec 85 % de chances et les dégâts au système avec 100 % de chances. Chaque "
-"niveau d'amélioration ajoutera 5 % de chances d'ignorer les dégâts. Il "
-"augmente désormais également la vitesse de recharge des armes de 31 % et "
-"augmentera la vitesse de recharge de 3 % supplémentaires pour chaque "
-"amélioration ultérieure. De plus, vous pouvez désormais éperonner votre "
-"ennemi avant le combat. Chaque amélioration du blindage du vaisseau coûtera "
-"20 points de dégâts à votre vaisseau."
+"Votre coque est exceptionnellement durable, mais elle nécessite une "
+"amélioration constante pour éviter de subir de lourds dégâts. Actuellement, "
+"votre blindage est capable de nier les dégâts à la coque avec 85 % de "
+"chances et les dégâts au système avec 100 % de chances. Chaque niveau "
+"d'amélioration ajoutera jusqu'à 5 % de chances d'ignorer les dégâts. Il "
+"accélère désormais également la recharge des armes de 31 % et accélérera la "
+"recharge de 3 % supplémentaires pour chaque amélioration ultérieure. De "
+"plus, vous pouvez maintenant éperonner votre ennemi avant le combat. Chaque "
+"amélioration de blindage de vaisseau vous coûtera 20 dégâts."
 
 #: src-en/data/blueprints.xml.append:249
 msgid ""
@@ -400,42 +389,40 @@ msgstr "Blindage Impénétrable X"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
 msgstr ""
-"Votre coque est exceptionnellement durable. Son blindage peut annuler les "
+"Votre coque est exceptionnellement durable. Son blindage peut nier les "
 "dégâts à la coque avec 90 % de chances et les dégâts au système avec 100 % "
-"de chances. Il augmente également la vitesse de recharge des armes de 34 %. "
-"Vous avez la capacité d'éperonner les ennemis avant le combat. Bonne chance,"
-" Renégat."
+"de chances. Il accélère également la recharge des armes de 34 %. Vous avez "
+"la capacité d'éperonner les ennemis avant le combat. Bonne chance, Renégat."
 
 #: src-en/data/blueprints.xml.append:259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
-msgstr "Imprimante de Plateforme ASB"
+msgstr "Imprimante de plateforme ASB"
 
 #: src-en/data/blueprints.xml.append:260
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
 msgstr ""
-"Avant le combat, votre vaisseau peut lancer une plateforme ASB auto-"
-"déployante pour attaquer vos ennemis à divers coûts : 3 unités de carburant,"
-" 2 missiles ou 2 pièces de drones. Vous pouvez également installer un "
-"Collecteur de ferraille ou un Bras magnétique et lancer la plateforme "
-"gratuitement."
+"Avant la bataille, votre vaisseau peut lancer une plateforme ASB auto-"
+"déployable pour attaquer vos ennemis à divers coûts : 3 carburant, 2 "
+"missiles ou 2 pièces de drone. Vous pouvez également installer un Collecteur"
+" de ferraille ou un Bras magnétique et lancer la plateforme gratuitement."
 
 #: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
-msgstr "Imprimante de Plateforme ASB"
+msgstr "Imprimante de plateforme ASB"
 
 #: src-en/data/blueprints.xml.append:269
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
 msgstr ""
-"Avant le combat, votre vaisseau peut lancer une plateforme ASB auto-"
-"déployante pour attaquer vos ennemis à divers coûts : 3 unités de carburant,"
-" 2 missiles ou 2 pièces de drones. Vous pouvez également installer un "
-"Collecteur de ferraille ou un Bras magnétique et lancer la plateforme "
-"gratuitement. [Vous pouvez jeter ou vendre cette augmentation ; elle est "
-"intégrée au vaisseau et n'est là qu'à titre informatif]."
+"Avant la bataille, votre vaisseau peut lancer une plateforme ASB auto-"
+"déployable pour attaquer vos ennemis à divers coûts : 3 carburant, 2 "
+"missiles ou 2 pièces de drone. Vous pouvez également installer un Collecteur"
+" de ferraille ou un Bras magnétique et lancer la plateforme gratuitement. "
+"[Vous pouvez jeter ou vendre cette augmentation ; elle est intégrée au "
+"vaisseau et n'est présente ici qu'à titre informatif]."
 
 #: src-en/data/blueprints.xml.append:277
 msgid ""
@@ -445,7 +432,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:278
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:285
 msgid ""
@@ -456,10 +443,10 @@ msgstr "Colonie de Termites"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
 msgstr ""
-"Les termites voyagent sur des biovaisseaux-scarabées. Leurs vaisseaux "
-"possèdent un certain degré de régénération, réparant automatiquement les "
+"Les Termites voyagent sur des bio-vaisseaux de scarabées. Leurs vaisseaux "
+"ont un certain degré de régénération, guérissant automatiquement les "
 "brèches, éteignant les incendies et réparant les systèmes. Les épaisses "
-"carapaces chitineuses des scarabées leur confèrent 15 % de chances "
+"carapaces chitineuses des scarabées leur donnent 15 % de chances "
 "supplémentaires d'ignorer les dégâts à la coque. Seules les races "
 "insectoïdes sont capables de se déplacer entre les scarabées."
 
@@ -470,7 +457,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:295
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
@@ -478,7 +465,7 @@ msgstr "Vaisseau de l'Empereur Blanc"
 
 #: src-en/data/blueprints.xml.append:303
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
@@ -486,24 +473,24 @@ msgstr "Vaisseau clone de l'Empereur Blanc"
 
 #: src-en/data/blueprints.xml.append:310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:316
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
-msgstr "Prototype de Phytocénose"
+msgstr "Prototype Phytocénose"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
 msgstr ""
 "Les moteurs de ce vaisseau sont alimentés par une bio-source de phytocénose "
-"vivante, qui fournit +3 énergies initiales au réacteur et permet au vaisseau"
-" de se déplacer vers n'importe quelle balise du secteur pour 1 unité de "
-"carburant. Les spores de la phytocénose vivante se propagent à travers le "
-"vaisseau et infligent 2 PV/s de dégâts aux envahisseurs ennemis. En raison "
-"de l'instabilité du prototype, la vitesse de réparation des systèmes du "
-"vaisseau est réduite à 50 %."
+"vivante, qui fournit +3 énergie initiale du réacteur et permet au vaisseau "
+"de se déplacer vers n'importe quelle balise du secteur pour 1 carburant. Les"
+" spores de la phytocénose vivante se répandent dans tout le vaisseau et "
+"infligent 2 pv/s de dégâts aux abordeurs ennemis. En raison de l'instabilité"
+" du prototype, la vitesse de réparation des systèmes du vaisseau est réduite"
+" à 50 %."
 
 #: src-en/data/blueprints.xml.append:323
 msgid ""
@@ -515,11 +502,11 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
 msgstr ""
 "Les moteurs de ce vaisseau sont alimentés par une bio-source de phytocénose "
-"vivante, qui fournit +3 énergies initiales au réacteur et permet au vaisseau"
-" de se déplacer vers n'importe quelle balise du secteur pour 2 unités de "
-"carburant. Les spores de la phytocénose vivante pacifiée se propagent à "
-"travers le vaisseau et infligent 1 PV/s de dégâts aux envahisseurs ennemis "
-"et réparent les brèches dans les pièces."
+"vivante, qui fournit +3 énergie initiale du réacteur et permet au vaisseau "
+"de se déplacer vers n'importe quelle balise du secteur pour 2 carburant. Les"
+" spores de la phytocénose vivante pacifiée se répandent dans tout le "
+"vaisseau et infligent 1 pv/s de dégâts aux abordeurs ennemis et réparent les"
+" brèches dans les pièces."
 
 #: src-en/data/blueprints.xml.append:330
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
@@ -528,15 +515,12 @@ msgstr "Jardin Blanc"
 #: src-en/data/blueprints.xml.append:331
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "Le magnifique jardin du clone de l'Empereur est situé à la poupe du "
-"vaisseau. Si le système d'oxygène est alimenté, chaque unité d'énergie qu'il"
-" contient confère +10 % à la santé maximale et +10 % à la vitesse de "
-"déplacement de chaque membre d'équipage allié sur votre vaisseau et le "
-"vaisseau ennemi. De plus, il offre une résistance fixe de +30 % à la "
-"suffocation et une régénération de 1 PV/s."
->>>>>>> Stashed changes
+"vaisseau. Si le système d'oxygène est alimenté, chaque unité d'énergie en "
+"lui donne +15 % à la santé maximale et +10 % à la vitesse de déplacement de "
+"chaque membre d'équipage allié sur votre vaisseau et le vaisseau ennemi. De "
+"plus, il offre une résistance fixe de +30 % à la suffocation et une "
+"régénération de 1 pv/s."
 
 #: src-en/data/blueprints.xml.append:338
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
@@ -544,7 +528,7 @@ msgstr "Vaisseau de Robur"
 
 #: src-en/data/blueprints.xml.append:339
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:346
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
@@ -553,13 +537,12 @@ msgstr "Vaisseau de Verre"
 #: src-en/data/blueprints.xml.append:347
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
 msgstr ""
-"La coque de ce vaisseau est entièrement faite d'un type de verre spécial. "
+"La coque de ce vaisseau est entièrement faite d'un type spécial de verre. "
 "Bien que cela réduise la durabilité du vaisseau, il peut ignorer les dégâts "
 "ioniques avec 35 % de chances et les dégâts à la coque avec 10 % de chances."
 " Les incendies sont également automatiquement éteints sur le vaisseau, et "
-"les membres d'équipage deviennent immunisés au contrôle mental. En bonus, "
-"vous bénéficiez d'une augmentation de 10 % de la vitesse de recharge des "
-"armes."
+"les membres d'équipage deviennent immunisés au contrôle mental. En prime, "
+"vous obtenez une augmentation de 10 % de la vitesse de recharge des armes."
 
 #: src-en/data/blueprints.xml.append:355
 msgid ""
@@ -569,7 +552,7 @@ msgstr "Vaisseau de Verre"
 #: src-en/data/blueprints.xml.append:356
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:362
 msgid ""
@@ -578,29 +561,30 @@ msgstr "Vaisseau de Mirrored"
 
 #: src-en/data/blueprints.xml.append:363
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:370
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
-msgstr "Pack de Batteries"
+msgstr "Batterie"
 
 #: src-en/data/blueprints.xml.append:371
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
 msgstr ""
 "Ce pack contient évidemment des batteries. Vous pouvez le vendre pour 65 "
-"ferrailles, ou le garder pour obtenir +7 % à votre recharge de bouclier et "
-"+5 % à votre recharge d'arme."
+"ferraille, ou le garder pour obtenir +7 % à votre recharge de boucliers et "
+"+5 % à votre recharge d'armes."
 
 #: src-en/data/blueprints.xml.append:379
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
-msgstr "Batterie High-Tech"
+msgstr "Batterie high-tech"
 
 #: src-en/data/blueprints.xml.append:380
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
 msgstr ""
 "Vous avez récupéré les batteries high-tech qui vous ont été volées par des "
-"pirates. Vous pouvez vendre chacune pour 150 ferrailles, ou les garder pour "
-"obtenir +12 % à votre recharge de bouclier et +9 % à votre recharge d'arme."
+"pirates. Vous pouvez vendre chacune pour 150 ferraille, ou les garder pour "
+"obtenir +12 % à votre recharge de boucliers et +9 % à votre recharge "
+"d'armes."
 
 #: src-en/data/blueprints.xml.append:388
 msgid ""
@@ -610,7 +594,7 @@ msgstr "Vaisseau du Marchand de Batteries"
 #: src-en/data/blueprints.xml.append:389
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:396
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
@@ -620,12 +604,12 @@ msgstr "Baiser Lunaire"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
 msgstr ""
 "Grâce à l'étoile miniature qui sert de réacteur au vaisseau et le maintient "
-"opérationnel, il dispose de niveaux d'énergie maximum dès le départ. "
-"L'étoile confère également au vaisseau une pleine résistance aux dégâts "
+"opérationnel, il dispose dès le départ de niveaux d'énergie maximum. "
+"L'étoile confère également au vaisseau une résistance totale aux dégâts "
 "ioniques et augmente la vitesse de recharge des armes de 15 %, mais le "
 "système d'armement du vaisseau lui-même est en mauvais état en raison de "
 "l'activité de l'étoile. Pour maintenir l'étoile opérationnelle, vous êtes "
-"forcé de brûler 50 % de toute la ferraille que vous y trouvez."
+"obligé de brûler 50 % de toute la ferraille que vous y trouvez."
 
 #: src-en/data/blueprints.xml.append:405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
@@ -635,12 +619,12 @@ msgstr "Baiser Solaire"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
 msgstr ""
 "Grâce à l'étoile miniature qui sert de réacteur au vaisseau et le maintient "
-"opérationnel, il dispose de niveaux d'énergie maximum dès le départ. "
+"opérationnel, il dispose dès le départ de niveaux d'énergie maximum. "
 "L'étoile crée également un bouclier solaire spécial de 12 couches qui "
-"augmente la vitesse de recharge des boucliers normaux de 45 %, mais le "
-"vaisseau ne peut avoir qu'un maximum de 2 couches de boucliers normaux en "
-"plus du bouclier solaire en raison de la surcharge. Pour maintenir l'étoile "
-"opérationnelle, vous êtes forcé de brûler 50 % de toute la ferraille que "
+"augmente le taux de recharge des boucliers normaux de 45 %, mais le vaisseau"
+" ne peut avoir qu'un maximum de 2 couches de boucliers normaux en plus du "
+"bouclier solaire en raison d'une surcharge. Pour maintenir l'étoile "
+"opérationnelle, vous êtes obligé de brûler 50 % de toute la ferraille que "
 "vous y trouvez."
 
 #: src-en/data/blueprints.xml.append:414
@@ -651,31 +635,31 @@ msgstr "Baiser Astra"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/desc"
 msgstr ""
 "Grâce à l'étoile miniature qui sert de réacteur au vaisseau et le maintient "
-"opérationnel, il dispose de niveaux d'énergie maximum dès le départ. "
-"L'étoile confère également au vaisseau une pleine résistance aux dégâts "
+"opérationnel, il dispose dès le départ de niveaux d'énergie maximum. "
+"L'étoile confère également au vaisseau une résistance totale aux dégâts "
 "ioniques, augmente la recharge des armes de 15 % et crée un bouclier solaire"
 " spécial de 12 couches qui augmente la recharge des boucliers normaux de 45 "
-"%. Pour maintenir l'étoile opérationnelle, vous êtes forcé de brûler 70 % de"
-" toute la ferraille que vous y trouvez. Lunaire et Solaire vous aiment, "
-"elles se sont donc assurées que les autres effets négatifs de l'étoile "
+"%. Pour maintenir l'étoile opérationnelle, vous êtes obligé de brûler 70 % "
+"de toute la ferraille que vous y trouvez. Lunaire et Solara vous aiment, "
+"alors elles se sont assurées que les autres effets négatifs de l'étoile "
 "miniature ne vous dérangeraient plus."
 
 #: src-en/data/blueprints.xml.append:423
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/title"
-msgstr "Vaisseau sans Lune"
+msgstr "Vaisseau Sans Lune"
 
 #: src-en/data/blueprints.xml.append:424
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
-msgstr "Vaisseau de Vakans"
+msgstr "Vaisseau de Vacans"
 
 #: src-en/data/blueprints.xml.append:431
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
@@ -683,7 +667,7 @@ msgstr "Vaisseau des Faucheurs"
 
 #: src-en/data/blueprints.xml.append:439
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:446
 msgid ""
@@ -694,13 +678,13 @@ msgstr "Eschatologues"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/desc"
 msgstr ""
-"Puisque vous commandez un vaisseau de recherche, vous disposez dès le départ"
-" d'un scanner à longue portée, d'un scanner glissant et d'un scanner "
+"Étant donné que vous commandez un vaisseau de recherche, vous disposez dès "
+"le départ d'un scanner longue portée, d'un scanner glissant et d'un scanner "
 "d'énergie vitale intégrés au système de capteurs. Sur la carte générale, "
 "vous pouvez voir les noms de tous les secteurs. De plus, votre équipage est "
 "équipé d'un équipement avancé qui augmente leur santé et leurs dégâts en "
 "combat jusqu'à 1,3x. Malgré le dogme de non-ingérence que suit l'équipage du"
-" vaisseau, il vous appartient désormais de décider si vous continuez à les "
+" vaisseau, c'est maintenant à vous de décider si vous continuez à les "
 "utiliser dans votre situation."
 
 #: src-en/data/blueprints.xml.append:455
@@ -711,7 +695,7 @@ msgstr "Vaisseau des Eschatologues"
 #: src-en/data/blueprints.xml.append:456
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:463
 msgid ""
@@ -727,8 +711,8 @@ msgstr ""
 "Votre système de capteurs vous permet de détecter la position de l'ennemi "
 "même lorsqu'il utilise le camouflage, vous permettant de charger vos armes "
 "pendant qu'il est actif, et tous les projectiles ont une précision accrue. "
-"De plus, vous détectez les signaux des renégats du Multivers et pouvez les "
-"rediriger vers vous pour le combat pour 7 unités de carburant."
+"De plus, vous détectez des signaux de renégats du Multivers et pouvez les "
+"rediriger vers vous pour la bataille contre 7 carburant."
 
 #: src-en/data/blueprints.xml.append:472
 msgid ""
@@ -737,7 +721,7 @@ msgstr "Chercheur"
 
 #: src-en/data/blueprints.xml.append:473
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:480
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
@@ -745,7 +729,7 @@ msgstr "Éclat Précieux"
 
 #: src-en/data/blueprints.xml.append:481
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
-msgstr "Vous n'étiez probablement pas censé voir ça."
+msgstr "Vous n'auriez probablement pas dû voir ça."
 
 #: src-en/data/blueprints.xml.append:487
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
@@ -755,9 +739,9 @@ msgstr "Pierre de Sugilite"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/desc"
 msgstr ""
 "Lorsqu'une arme ennemie frappe la coque de votre vaisseau, un puissant éclat"
-" de gemme de sugilite s'en détache. Il inflige 3 dégâts ioniques et 1 dégât "
-"à la coque. L'éclat touche presque toujours la cible. De plus, votre "
-"vaisseau a 50 % de chances d'ignorer les dégâts ioniques."
+" de pierre précieuse de sugilite s'en détache. Il inflige 3 dégâts ioniques "
+"et 1 dégât à la coque. L'éclat touche presque toujours la cible. De plus, "
+"votre vaisseau a 50 % de chances d'ignorer les dégâts ioniques."
 
 #: src-en/data/blueprints.xml.append:494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/title"
@@ -767,10 +751,10 @@ msgstr "Pierre d'Aigue-marine"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/desc"
 msgstr ""
 "Lorsqu'une arme ennemie frappe la coque de votre vaisseau, un puissant éclat"
-" de gemme d'aigue-marine s'en détache. Il inflige 4 dégâts à la coque, "
-"verrouille la pièce et garantit une brèche. L'éclat touche presque toujours "
-"la cible. De plus, votre vaisseau réparera automatiquement toutes les "
-"brèches."
+" de pierre précieuse d'aigue-marine s'en détache. Il inflige 4 dégâts à la "
+"coque, verrouille la pièce et garantit une brèche. L'éclat touche presque "
+"toujours la cible. De plus, votre vaisseau réparera automatiquement toutes "
+"les brèches."
 
 #: src-en/data/blueprints.xml.append:501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/title"
@@ -780,9 +764,10 @@ msgstr "Pierre de Cornaline"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/desc"
 msgstr ""
 "Lorsqu'une arme ennemie frappe la coque de votre vaisseau, un puissant éclat"
-" de gemme de cornaline s'en détache. Il inflige 2 dégâts aux systèmes et 2 "
-"dégâts à la coque, et garantit un incendie. L'éclat touche presque toujours "
-"la cible. De plus, votre vaisseau éteindra automatiquement les incendies."
+" de pierre précieuse de cornaline s'en détache. Il inflige 2 dégâts aux "
+"systèmes et 2 dégâts à la coque, et garantit de déclencher un incendie. "
+"L'éclat touche presque toujours la cible. De plus, votre vaisseau éteindra "
+"automatiquement les incendies."
 
 #: src-en/data/blueprints.xml.append:508
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/title"
@@ -791,70 +776,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/desc"
 msgstr ""
-"Ce sont des fragments d'un grand cristal laissés après votre victoire sur "
+"Ce sont des fragments d'un grand cristal restants après votre victoire sur "
 "l'Éclat Précieux près de la faille spatio-temporelle. Vous pouvez les vendre"
-" pour un profit de 90 ferrailles."
+" pour un profit de 90 ferraille."
 
-<<<<<<< Updated upstream
 #: src-en/data/blueprints.xml.append:517
-=======
-#: src-en/data/blueprints.xml.append:431
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr "\"Point de vue\""
-
-#: src-en/data/blueprints.xml.append:432
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr "\"Point de vue\""
-
-#: src-en/data/blueprints.xml.append:433
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
-msgstr ""
-"[Temps de recharge de base : 14] Cette arme à rayon perce toutes les couches"
-" de boucliers, infligeant 1 point de dégâts à la coque pour chaque pièce "
-"qu'elle touche. Elle garantit d'étourdir l'équipage ennemi pendant 15 "
-"secondes."
-
-#: src-en/data/blueprints.xml.append:434
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
-msgstr ""
-"[Temps de recharge de base : 14] Cette arme à rayon perce toutes les couches"
-" de boucliers, infligeant 1 point de dégâts à la coque pour chaque pièce "
-"qu'elle touche. Elle garantit d'étourdir l'équipage ennemi pendant 15 "
-"secondes."
-
-#: src-en/data/blueprints.xml.append:461
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr "\"Persuasion\""
-
-#: src-en/data/blueprints.xml.append:462
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr "\"Persuasion\""
-
-#: src-en/data/blueprints.xml.append:463
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
-msgstr ""
-"[Temps de recharge de base : 11] Cette arme à rayon perce toutes les couches"
-" de boucliers, infligeant 1 dégât au système."
-
-#: src-en/data/blueprints.xml.append:464
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
-msgstr ""
-"[Temps de recharge de base : 11] Cette arme à rayon perce toutes les couches"
-" de boucliers, infligeant 1 dégât au système."
-
-#: src-en/data/blueprints.xml.append:490
->>>>>>> Stashed changes
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/title"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:518
 msgid ""
@@ -864,7 +793,7 @@ msgstr "EGCRYS"
 #: src-en/data/blueprints.xml.append:519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/desc"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:520
 msgid ""
@@ -874,7 +803,7 @@ msgstr "Ne devrait jamais voir cette description."
 #: src-en/data/blueprints.xml.append:560
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/title"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:561
 msgid ""
@@ -884,7 +813,7 @@ msgstr "EGCRYS"
 #: src-en/data/blueprints.xml.append:562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/desc"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:563
 msgid ""
@@ -894,7 +823,7 @@ msgstr "Ne devrait jamais voir cette description."
 #: src-en/data/blueprints.xml.append:603
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/title"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:604
 msgid ""
@@ -904,7 +833,7 @@ msgstr "EGCRYS"
 #: src-en/data/blueprints.xml.append:605
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/desc"
-msgstr "ÉCLAT CRISTAL EG"
+msgstr "ÉCLAT DE CRISTAL EG"
 
 #: src-en/data/blueprints.xml.append:606
 msgid ""
@@ -927,8 +856,8 @@ msgid ""
 msgstr ""
 "[Temps de recharge de base : 20] La pierre de Sugilite concentre la lumière "
 "en elle-même et, après un court délai, tire un rayon ionique sur le vaisseau"
-" ennemi. Il inflige 1 dégât ionique à tous les systèmes sur son passage et "
-"inflige 30 dégâts à l'équipage."
+" ennemi. Elle inflige 1 dégât ionique à tous les systèmes sur son passage et"
+" 30 dégâts à l'équipage."
 
 #: src-en/data/blueprints.xml.append:648
 msgid ""
@@ -936,8 +865,8 @@ msgid ""
 msgstr ""
 "[Temps de recharge de base : 20] La pierre de Sugilite concentre la lumière "
 "en elle-même et, après un court délai, tire un rayon ionique sur le vaisseau"
-" ennemi. Il inflige 1 dégât ionique à tous les systèmes sur son passage et "
-"inflige 30 dégâts à l'équipage."
+" ennemi. Elle inflige 1 dégât ionique à tous les systèmes sur son passage et"
+" 30 dégâts à l'équipage."
 
 #: src-en/data/blueprints.xml.append:676
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/title"
@@ -951,20 +880,20 @@ msgstr "Aigue-marine"
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/desc"
 msgstr ""
 "[Temps de recharge de base : 20] La pierre d'Aigue-marine concentre la "
-"lumière en elle-même et, après un court délai, tire un rayon perforant sur "
+"lumière en elle-même et, après un court délai, tire un rayon de brèche sur "
 "le vaisseau ennemi. Les brèches sont créées avec une chance moyenne. Le "
-"rayon inflige 1 dégât à la coque pour chaque pièce qu'il touche. Perce 1 "
-"couche de bouclier."
+"rayon inflige 1 dégât à la coque pour chaque pièce touchée. Perfore 1 couche"
+" de bouclier."
 
 #: src-en/data/blueprints.xml.append:679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/tooltip"
 msgstr ""
 "[Temps de recharge de base : 20] La pierre d'Aigue-marine concentre la "
-"lumière en elle-même et, après un court délai, tire un rayon perforant sur "
+"lumière en elle-même et, après un court délai, tire un rayon de brèche sur "
 "le vaisseau ennemi. Les brèches sont créées avec une chance moyenne. Le "
-"rayon inflige 1 dégât à la coque pour chaque pièce qu'il touche. Perce 1 "
-"couche de bouclier."
+"rayon inflige 1 dégât à la coque pour chaque pièce touchée. Perfore 1 couche"
+" de bouclier."
 
 #: src-en/data/blueprints.xml.append:708
 msgid ""
@@ -980,103 +909,127 @@ msgstr ""
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/desc"
 msgstr ""
 "[Temps de recharge de base : 20] La pierre de Cornaline concentre la lumière"
-" en elle-même et, après un court délai, tire un rayon incendiaire sur le "
-"vaisseau ennemi. Il inflige 1 dégât à chaque système qu'il touche et a une "
-"chance modérée de l'incendier."
+" en elle-même et, après un court délai, tire un rayon de feu sur le vaisseau"
+" ennemi. Il inflige 1 dégât à chaque système touché et a une chance modérée "
+"de le mettre en feu."
 
 #: src-en/data/blueprints.xml.append:711
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/tooltip"
 msgstr ""
 "[Temps de recharge de base : 20] La pierre de Cornaline concentre la lumière"
-" en elle-même et, après un court délai, tire un rayon incendiaire sur le "
-"vaisseau ennemi. Il inflige 1 dégât à chaque système qu'il touche et a une "
-"chance modérée de l'incendier."
+" en elle-même et, après un court délai, tire un rayon de feu sur le vaisseau"
+" ennemi. Il inflige 1 dégât à chaque système touché et a une chance modérée "
+"de le mettre en feu."
 
 #: src-en/data/blueprints.xml.append:739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
-msgstr ""
+msgstr "Laser Néostar (R)"
 
 #: src-en/data/blueprints.xml.append:740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
-msgstr ""
+msgstr "Laser Néostar (R)"
 
 #: src-en/data/blueprints.xml.append:741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
 msgstr ""
+"Une arme laser avancée conçue pour l'usage interne par les vaisseaux de la "
+"Mégacorporation Néostar. Elle tire trois coups, chacun infligeant deux "
+"dégâts et ayant une faible chance de créer une brèche."
 
 #: src-en/data/blueprints.xml.append:742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
 msgstr ""
+"Une arme laser avancée conçue pour l'usage interne par les vaisseaux de la "
+"Mégacorporation Néostar. Elle tire trois coups, chacun infligeant deux "
+"dégâts et ayant une faible chance de créer une brèche."
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
-msgstr ""
+msgstr "Laser de drone"
 
 #: src-en/data/blueprints.xml.append:822
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
-msgstr ""
+msgstr "\" Point de Vue \""
 
 #: src-en/data/blueprints.xml.append:823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
-msgstr ""
+msgstr "\" Point de Vue \""
 
 #: src-en/data/blueprints.xml.append:824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 12] Cette arme à rayon perfore toutes les "
+"couches de boucliers, infligeant 1 point de dégâts à la coque pour chaque "
+"pièce touchée. Elle garantit d'étourdir l'équipage ennemi pendant 15 "
+"secondes."
 
 #: src-en/data/blueprints.xml.append:825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
 msgstr ""
+"[Temps de recharge de base : 12] Cette arme à rayon perfore toutes les "
+"couches de boucliers, infligeant 1 point de dégâts à la coque pour chaque "
+"pièce touchée. Elle garantit d'étourdir l'équipage ennemi pendant 15 "
+"secondes."
 
 #: src-en/data/blueprints.xml.append:853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
-msgstr ""
+msgstr "\" Persuasion \""
 
 #: src-en/data/blueprints.xml.append:854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
-msgstr ""
+msgstr "\" Persuasion \""
 
 #: src-en/data/blueprints.xml.append:855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 8] Cette arme à rayon perfore toutes les "
+"couches de boucliers, infligeant 1 dégât au système."
 
 #: src-en/data/blueprints.xml.append:856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
 msgstr ""
+"[Temps de recharge de base : 8] Cette arme à rayon perfore toutes les "
+"couches de boucliers, infligeant 1 dégât au système."
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
-msgstr ""
+msgstr "\" Persuasion \""
 
 #: src-en/data/blueprints.xml.append:885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
-msgstr ""
+msgstr "\" Persuasion \""
 
 #: src-en/data/blueprints.xml.append:887
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
 msgstr ""
+"Un développement spécial d'Erudite. Cette arme à rayon perfore toutes les "
+"couches du bouclier, infligeant 1 dégât au système. Elle ne peut être tirée "
+"que deux fois par bataille en raison de sa faible efficacité énergétique."
 
 #: src-en/data/blueprints.xml.append:888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
 msgstr ""
+"Cette arme à rayon perfore toutes les couches du bouclier, infligeant 1 "
+"dégât au système. Elle ne peut être tirée que deux fois par bataille en "
+"raison de sa faible efficacité énergétique."
 
 #: src-en/data/blueprints.xml.append:917
 msgid ""
@@ -1092,25 +1045,19 @@ msgstr "Scarabée bioacide"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "[Temps de recharge de base : 20] Ce scarabée crache des projectiles acides "
-"qui corrodent l'équipage ennemi. Leur salive inflige 30 dégâts à l'équipage "
-"et a une chance garantie de l'étourdir pendant 10 secondes. Perce 1 couche "
-"de bouclier."
->>>>>>> Stashed changes
+"qui corrodent l'équipage ennemi. Leur crachat inflige 45 dégâts à l'équipage"
+" et a une chance garantie de les étourdir pendant 10 secondes. Perfore 5 "
+"couches de boucliers."
 
 #: src-en/data/blueprints.xml.append:920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "[Temps de recharge de base : 20] Ce scarabée crache des projectiles acides "
-"qui corrodent l'équipage ennemi. Leur salive inflige 30 dégâts à l'équipage "
-"et a une chance garantie de l'étourdir pendant 10 secondes. Perce 1 couche "
-"de bouclier."
->>>>>>> Stashed changes
+"qui corrodent l'équipage ennemi. Leur crachat inflige 45 dégâts à l'équipage"
+" et a une chance garantie de les étourdir pendant 10 secondes. Perfore 5 "
+"couches de boucliers."
 
 #: src-en/data/blueprints.xml.append:955
 msgid ""
@@ -1126,33 +1073,29 @@ msgstr "Scarabée acide"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "[Temps de recharge de base : 20] Ce scarabée crache des projectiles acides "
 "qui corrodent les systèmes du vaisseau, infligeant 2 dégâts chacun. Crée une"
-" brèche dans la pièce avec une chance modérée."
->>>>>>> Stashed changes
+" brèche dans la pièce avec une chance modérée. Perfore 2 couches de "
+"boucliers."
 
 #: src-en/data/blueprints.xml.append:958
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "[Temps de recharge de base : 20] Ce scarabée crache des projectiles acides "
 "qui corrodent les systèmes du vaisseau, infligeant 2 dégâts chacun. Crée une"
-" brèche dans la pièce avec une chance modérée."
->>>>>>> Stashed changes
+" brèche dans la pièce avec une chance modérée. Perfore 2 couches de "
+"boucliers."
 
 #: src-en/data/blueprints.xml.append:993
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/title"
-msgstr "Scarabée acidifiant la coque"
+msgstr "Scarabée acidifiant de coque"
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/short"
-msgstr "Scarabée acidifiant la coque"
+msgstr "Scarabée acidifiant de coque"
 
 #: src-en/data/blueprints.xml.append:995
 msgid ""
@@ -1254,8 +1197,8 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/tooltip"
 msgstr ""
 "45 dégâts à l'équipage ennemi, 3 projectiles. Applique des effets négatifs. "
-"Temps de recharge de base de 14 secondes, réduit de 3 secondes à chaque tir,"
-" 3 fois. Ne nécessite pas d'énergie."
+"Temps de recharge de base de 14 secondes, réduit de 3 secondes à chaque tir "
+"3 fois. Ne nécessite pas d'énergie."
 
 #: src-en/data/blueprints.xml.append:1178
 msgid ""
@@ -1274,7 +1217,7 @@ msgstr ""
 "[Temps de recharge de base : 25] L'étoile qui alimente ce vaisseau libère "
 "occasionnellement un projectile de son énergie dans un vaisseau ennemi. Il "
 "inflige 4 dégâts ioniques, 30 dégâts à l'équipage, et a une chance presque "
-"garantie d'incendier la pièce."
+"garantie de mettre la pièce en feu."
 
 #: src-en/data/blueprints.xml.append:1181
 msgid ""
@@ -1283,7 +1226,7 @@ msgstr ""
 "[Temps de recharge de base : 25] L'étoile qui alimente ce vaisseau libère "
 "occasionnellement un projectile de son énergie dans un vaisseau ennemi. Il "
 "inflige 4 dégâts ioniques, 30 dégâts à l'équipage, et a une chance presque "
-"garantie d'incendier la pièce."
+"garantie de mettre la pièce en feu."
 
 #: src-en/data/blueprints.xml.append:1217
 msgid ""
@@ -1329,8 +1272,8 @@ msgid ""
 msgstr ""
 "[Temps de recharge de base : 24] Ce vaisseau produit des astéroïdes et les "
 "tire en une volée de 2 projectiles sur le vaisseau ennemi comme forme "
-"d'auto-défense. Ces astéroïdes lunaires infligent 2 dégâts à la coque et aux"
-" systèmes et verrouillent les pièces."
+"d'autodéfense. Ces astéroïdes lunaires infligent 2 dégâts à la coque et aux "
+"systèmes et verrouillent les pièces."
 
 #: src-en/data/blueprints.xml.append:1259
 msgid ""
@@ -1338,13 +1281,13 @@ msgid ""
 msgstr ""
 "[Temps de recharge de base : 24] Ce vaisseau produit des astéroïdes et les "
 "tire en une volée de 2 projectiles sur le vaisseau ennemi comme forme "
-"d'auto-défense. Ces astéroïdes lunaires infligent 2 dégâts à la coque et aux"
-" systèmes et verrouillent les pièces."
+"d'autodéfense. Ces astéroïdes lunaires infligent 2 dégâts à la coque et aux "
+"systèmes et verrouillent les pièces."
 
 #: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/class"
-msgstr "Centrale électrique"
+msgstr "Centrale Énergétique"
 
 #: src-en/data/blueprints.xml.append:1296
 msgid ""
@@ -1355,16 +1298,16 @@ msgstr "IG-23"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/desc"
 msgstr ""
-"Des pirates ont attaqué le vaisseau de ce marchand de batteries et lui ont "
-"volé un ensemble de produits de haute technologie, et il a maintenant "
-"l'intention de les récupérer. Malheureusement, le réacteur de son vaisseau "
-"est très faible, mais cet inconvénient est compensé par un puissant système "
-"de batteries qui peut être amélioré au niveau 4."
+"Des pirates ont attaqué le vaisseau de ce marchand de batteries et leur ont "
+"volé un ensemble de produits high-tech, et ils ont maintenant l'intention de"
+" les récupérer. Malheureusement, le réacteur de leur vaisseau est très "
+"faible, mais cet inconvénient est compensé par un puissant système de "
+"batterie qui peut être amélioré au niveau 4."
 
 #: src-en/data/blueprints.xml.append:1372
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/class"
-msgstr "Centrale électrique"
+msgstr "Centrale Énergétique"
 
 #: src-en/data/blueprints.xml.append:1373
 msgid ""
@@ -1389,7 +1332,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1449
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/class"
-msgstr "Centrale électrique"
+msgstr "Centrale Énergétique"
 
 #: src-en/data/blueprints.xml.append:1450
 msgid ""
@@ -1407,10 +1350,10 @@ msgid ""
 msgstr ""
 "Le marchand a finalement rassemblé suffisamment de ferraille pour réparer "
 "son vaisseau. Maintenant, pour prévenir une autre attaque de pirates, il a "
-"installé l'une des batteries de haute technologie dans le système de "
-"boucliers et a acquis des armes plus puissantes... Cependant, pour faire "
-"tout cela, il a dû vendre des pièces de certains systèmes secondaires. À "
-"l'attaque, maître des batteries !"
+"installé l'une des batteries high-tech dans le système de boucliers et a "
+"acquis des armes plus puissantes... Cependant, pour faire tout cela, il a dû"
+" vendre des pièces de certains systèmes secondaires. En avant, maître des "
+"batteries !"
 
 #: src-en/data/blueprints.xml.append:1527
 msgid ""
@@ -1426,15 +1369,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
 msgstr ""
-<<<<<<< Updated upstream
-"Les eschatologues voyagent à travers les univers et étudient les « fins du "
-"monde » des civilisations, suivant une politique de non-ingérence. Ils ne se"
-=======
-"Les Eschatologues voyagent à travers les univers et étudient les \"fins du "
-"monde\" des civilisations, suivant une politique de non-ingérence. Ils ne se"
->>>>>>> Stashed changes
-" sont intéressés à cet univers que parce que le triomphe de la Rébellion est"
-" aussi une sorte de fin du monde pour la plupart des races intelligentes."
+"Les eschatologues voyagent à travers les univers et étudient les \" fins du "
+"monde \" des civilisations, suivant une politique de non-ingérence. Ils ne "
+"se sont intéressés à cet univers que parce que le triomphe de la Rébellion "
+"est aussi une sorte de fin du monde pour la plupart des races intelligentes."
 
 #: src-en/data/blueprints.xml.append:1598
 msgid ""
@@ -1450,41 +1388,41 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/desc"
 msgstr ""
-"Ce vaisseau est une réplique exacte d'un navire appartenant aux Lacertides, "
-"une race qui a exploité le pouvoir d'un unique artefact puissant, mais qui a"
-" payé ses ambitions par l'extinction complète de son espèce dans un univers "
-"alien. Par la suite, leur vaisseau est devenu la base des projets de "
-"recherche des eschatologues."
+"Ce vaisseau est une réplique exacte d'un vaisseau appartenant aux "
+"Lacertides, une race qui a exploité le pouvoir d'un seul artefact puissant, "
+"mais a payé pour ses ambitions par l'extinction complète de son espèce dans "
+"un univers alien. Par la suite, leur vaisseau est devenu la base de projets "
+"de recherche des eschatologues."
 
 #: src-en/data/blueprints.xml.append:1669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/class"
-msgstr "Empreinte Lunaire"
+msgstr "Baiser Lunaire"
 
 #: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/name"
-msgstr "Le Pardon de Lunar"
+msgstr "Pardon de Lunaire"
 
 #: src-en/data/blueprints.xml.append:1671
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
 msgstr ""
-"L'Hermite a trouvé ce vaisseau dans l'un des mondes extérieurs. Sa base de "
-"données ne contenait que des références au dieu Lunar et à la déesse Solara,"
-" que l'ancien équipage du vaisseau adorait. La carte du vaisseau indiquait "
-"une planète de l'autre côté de la galaxie, et sans hésitation, l'hermite est"
-" parti pour son dernier voyage."
+"L'Ermite a trouvé ce vaisseau dans l'un des mondes extérieurs. Sa base de "
+"données ne contenait que des références au dieu Lunaire et à la déesse "
+"Solara, que l'ancien équipage du vaisseau vénérait. La carte du vaisseau "
+"indiquait une planète de l'autre côté de la galaxie, et sans hésiter, "
+"l'ermite a entrepris son dernier voyage."
 
 #: src-en/data/blueprints.xml.append:1739
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/class"
-msgstr "Empreinte Solaire"
+msgstr "Baiser Solaire"
 
 #: src-en/data/blueprints.xml.append:1740
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/name"
-msgstr "La Rédemption de Solara"
+msgstr "Rédemption de Solara"
 
 #: src-en/data/blueprints.xml.append:1741
 msgid ""
@@ -1495,22 +1433,22 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
 msgstr ""
-"Le deuxième vaisseau trouvé par l'hermite ne l'a pas aidé à apprendre quoi "
-"que ce soit de nouveau sur Lunar et Solara, mais il a appris que l'équipage "
-"de ce vaisseau était composé d'êtres incorporels qui vivaient dans les "
-"étoiles et se nourrissaient de leur énergie. La carte du deuxième vaisseau "
-"indiquait une troisième balise, qui était le monde natal de la race disparue"
-" - la Patrie sans Lune."
+"Le deuxième vaisseau trouvé par l'ermite ne l'a pas aidé à apprendre quoi "
+"que ce soit de nouveau sur Lunaire et Solara, mais il a appris que "
+"l'équipage de ce vaisseau était des êtres incorporels qui vivaient dans les "
+"étoiles et se nourrissaient de leur énergie. La carte du second vaisseau "
+"indiquait une troisième balise, qui était le monde d'origine de la race "
+"disparue - la Patrie Sans Lune."
 
 #: src-en/data/blueprints.xml.append:1809
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/class"
-msgstr "Empreinte Astra"
+msgstr "Baiser Astra"
 
 #: src-en/data/blueprints.xml.append:1810
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/name"
-msgstr "L'Oubli d'Astra"
+msgstr "Oubli d'Astra"
 
 #: src-en/data/blueprints.xml.append:1811
 msgid ""
@@ -1521,40 +1459,40 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/desc"
 msgstr ""
-"L'Hermite a conduit les deux vaisseaux à la Patrie sans Lune, un grand "
+"L'ermite a conduit les deux vaisseaux vers la Patrie Sans Lune, un grand "
 "système stellaire triple. La réunion des vaisseaux à ce point a conduit à "
 "leur unification et à leur véritable activation. La base de données du "
-"vaisseau a été ouverte à l'étude, et d'anciens manuscrits sont finalement "
-"devenus propriété publique. Lunar et Solara ont tourné leur regard vers "
-"l'hermite."
+"vaisseau a été ouverte à l'étude, et les anciens manuscrits sont finalement "
+"devenus propriété publique. Lunaire et Solara ont tourné leur regard vers "
+"l'ermite."
 
 #: src-en/data/blueprints.xml.append:1879
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/class"
-msgstr "Croiseur de Vakans"
+msgstr "Croiseur de Vacans"
 
 #: src-en/data/blueprints.xml.append:1880
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/name"
-msgstr "Visage d'Ascète"
+msgstr "Visage de l'Ascète"
 
 #: src-en/data/blueprints.xml.append:1881
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/unlock"
 msgstr ""
-"Consultez les conseils d'un certain hermite à propos d'un certain artefact "
-"pour déverrouiller ce vaisseau."
+"Consultez l'avis d'un certain ermite concernant un certain artefact pour "
+"débloquer ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:1882
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/desc"
 msgstr ""
-"Après que l'hermite eut informé l'univers de la technologie du réacteur "
-"solaire, le Ministère lui a commandé de le recréer de zéro pour "
-"l'implémentation dans les prototypes de test des vaisseaux Zoltan. Grâce à "
-"ce projet, l'hermite a gagné suffisamment d'argent pour vivre "
-"confortablement dans sa vieillesse, a engagé des gardes de sécurité et est "
-"reparti voyager à travers l'univers."
+"Après que l'ermite eut informé l'univers de la technologie des réacteurs "
+"solaires, le Ministère lui a commandé de la recréer de toutes pièces pour la"
+" mettre en œuvre dans des prototypes de test de vaisseaux Zoltan. Grâce à ce"
+" projet, l'ermite a gagné suffisamment d'argent pour vivre confortablement "
+"sa vieillesse, a engagé des gardes de sécurité et est reparti voyager dans "
+"l'univers une fois de plus."
 
 #: src-en/data/blueprints.xml.append:1951
 msgid ""
@@ -1564,19 +1502,15 @@ msgstr "Vaisseau de Verre"
 #: src-en/data/blueprints.xml.append:1952
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/name"
-msgstr "Bleu timide"
+msgstr "Bleu Timide"
 
 #: src-en/data/blueprints.xml.append:1953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
 msgstr ""
-<<<<<<< Updated upstream
-"Accomplissez la commande du Miracle 1111 « Merci » pour les Chercheurs de "
-"Miracles et découvrez quel est le plus haut degré de gratitude."
-=======
-"Terminez la commande pour le Miracle 1111 \"Merci\" pour les Chercheurs de "
-"Miracles et découvrez ce qu'est le plus haut degré de gratitude."
->>>>>>> Stashed changes
+"Accomplissez la commande pour le Miracle 1111 \" Merci \" pour les "
+"Chercheurs de Miracles et découvrez ce qu'est le plus haut degré de "
+"gratitude."
 
 #: src-en/data/blueprints.xml.append:1954
 msgid ""
@@ -1610,7 +1544,7 @@ msgstr ""
 "Après un long processus d'étude du vaisseau, il a été possible de "
 "l'améliorer et de le moderniser et d'installer des boucliers d'énergie qui "
 "devraient l'aider à durer plus longtemps. Cependant, après toutes les "
-"améliorations, la résistance de sa coque a été réduite plus qu'auparavant."
+"améliorations, la force de sa coque a été réduite plus qu'auparavant."
 
 #: src-en/data/blueprints.xml.append:2106
 msgid ""
@@ -1620,7 +1554,7 @@ msgstr "Vaisseau de Verre"
 #: src-en/data/blueprints.xml.append:2107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/name"
-msgstr "L'Admiration du Monde"
+msgstr "Admiration du Monde"
 
 #: src-en/data/blueprints.xml.append:2108
 msgid ""
@@ -1633,10 +1567,10 @@ msgid ""
 msgstr ""
 "Quelque temps après l'amélioration du vaisseau, sa mystérieuse propriétaire "
 "est apparue. Elle s'est présentée comme membre de l'organisation des "
-"Chercheurs de Miracles et a expliqué qu'elle l'avait perdu de vue "
-"lorsqu'elle était partie en expédition à la recherche de Miracles. Quand on "
-"lui a expliqué que le vaisseau pouvait arrêter la Rébellion dans cet "
-"univers, elle a accepté d'aider."
+"Chercheurs de Miracles et a expliqué qu'elle l'avait perdu de vue lors d'une"
+" expédition à la recherche de Miracles. Quand on lui a expliqué que le "
+"vaisseau pouvait arrêter la Rébellion dans cet univers, elle a accepté "
+"d'aider."
 
 #: src-en/data/blueprints.xml.append:2179
 msgid ""
@@ -1652,19 +1586,19 @@ msgstr "Inaccessibilité"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/unlock"
 msgstr ""
-"Consultez les conseils d'une certaine anomalie cosmique et membre à temps "
-"partiel des Chercheurs de Miracles à propos d'un certain artefact pour "
-"déverrouiller ce vaisseau."
+"Consultez l'avis d'une certaine anomalie cosmique et membre à temps partiel "
+"des Chercheurs de Miracles concernant un certain artefact pour débloquer ce "
+"vaisseau."
 
 #: src-en/data/blueprints.xml.append:2182
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/desc"
 msgstr ""
 "Tel est le destin d'une âme sans limites, capable d'embrasser le monde "
-"entier. C'est la doctrine de la causalité universelle et les limitations qui"
-" lui sont imposées, non pour nuire, mais pour le bien de la vie. C'est la "
-"fin définitive des vieux préjugés et le début de quelque chose de plus grand"
-" que l'éternité et le temps lui-même."
+"entier. C'est la doctrine de la causalité universelle et des limitations qui"
+" lui sont imposées, non pas pour nuire, mais pour le bénéfice de la vie. "
+"C'est la fin des vieux préjugés et le début de quelque chose de plus grand "
+"que l'éternité et le temps lui-même."
 
 #: src-en/data/blueprints.xml.append:2254
 msgid ""
@@ -1680,20 +1614,20 @@ msgstr "Orge"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
 msgstr ""
-"Rencontrez et battez le vaisseau de l'intelligence mécanique de la Moisson "
-"près de l'anomalie spatio-temporelle, dont les coordonnées vous seront "
-"données par les Chercheurs de Miracles lorsque vous aurez gagné leur "
+"Rencontrez et battez le vaisseau de l'intelligence artificielle de la "
+"Moisson près de l'anomalie spatio-temporelle, dont les coordonnées vous "
+"seront données par les Chercheurs de Miracles lorsque vous aurez gagné leur "
 "respect."
 
 #: src-en/data/blueprints.xml.append:2257
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
 msgstr ""
-"Ce vaisseau appartenait aux Faucheurs, l'esprit mécanique de la Moisson. Ils"
-" cultivaient de l'orge, transformant des systèmes spatiaux entiers en "
-"utopies agricoles. Ce vaisseau est devenu inutilisable et a commencé à "
-"produire des biosphères toxiques, après quoi les Faucheurs l'ont abandonné. "
-"Une Orchidée l'a trouvé et a décidé de déverrouiller son potentiel."
+"Ce vaisseau appartenait aux Faucheurs, l'esprit-machine de la Moisson. Ils "
+"cultivaient l'orge, transformant des systèmes spatiaux entiers en utopies "
+"agricoles. Ce vaisseau est devenu inutilisable et a commencé à produire des "
+"biosphères toxiques, après quoi les Faucheurs l'ont abandonné. Une Orchidée "
+"l'a trouvé et a décidé de libérer son potentiel."
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
@@ -1714,12 +1648,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/desc"
 msgstr ""
-"L'Orchidée a trouvé un esprit apparenté chez la Vampiflore, et ensemble, ils"
-" ont installé une petite serre sur le vaisseau. Grâce à l'ingéniosité de "
-"leurs amis et à l'héritage des Faucheurs, ce vaisseau est capable de "
-"cultiver des bio-munitions supplémentaires pour les systèmes d'artillerie et"
-" d'armement. Cependant, il ne possède aucune arme capable d'endommager la "
-"coque."
+"L'Orchidée a trouvé une âme sœur en Vampiflore, et ensemble, ils ont "
+"installé une petite serre sur le vaisseau. Grâce à l'ingéniosité de leurs "
+"amis et à l'héritage des Faucheurs, ce vaisseau est capable de cultiver des "
+"bio-munitions supplémentaires pour l'artillerie et les systèmes d'armement. "
+"Cependant, il ne possède aucune arme capable d'endommager la coque."
 
 #: src-en/data/blueprints.xml.append:2411
 msgid ""
@@ -1741,11 +1674,11 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
 msgstr ""
 "Le projet d'amélioration du vaisseau des Faucheurs a été financé par la "
-"Congrégation et, étonnamment, par la Confédération. Il a maintenant été "
-"transformé en un jardin où sont cultivées une grande variété de plantes. "
-"Pendant un temps, le vaisseau était ouvert aux visiteurs et a rapporté "
-"beaucoup de ferraille, mais pour des raisons de sécurité, le niveau maximum "
-"du système d'armement a été réduit."
+"Congrégation et, étonnamment, la Confédération. Il a maintenant été "
+"transformé en un jardin où une grande variété de plantes sont cultivées. "
+"Pendant un certain temps, le vaisseau était ouvert aux visiteurs et a "
+"rapporté beaucoup de ferraille, mais pour des raisons de sécurité, le niveau"
+" maximum du système d'armement a été réduit."
 
 #: src-en/data/blueprints.xml.append:2493
 msgid ""
@@ -1761,42 +1694,29 @@ msgstr "Goliath I"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
 msgstr ""
-<<<<<<< Updated upstream
-"Accomplissez la commande du Miracle 0900 « Fil Blanc de l'Étendue » pour les"
-" Chercheurs de Miracles et commencez leur histoire dans cet univers."
-=======
-"Terminez la commande pour le Miracle 0900 \"Fil Blanc de l'Étendue\" pour "
-"les Chercheurs de Miracles et commencez leur histoire dans cet univers."
->>>>>>> Stashed changes
+"Accomplissez la commande pour le Miracle 0900 \" Fil Blanc de l'Étendue \" "
+"pour les Chercheurs de Miracles et commencez leur histoire dans cet univers."
 
 #: src-en/data/blueprints.xml.append:2496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/desc"
 msgstr ""
 "Le premier vaisseau Impérial appartenant à l'Empereur Blanc, qui est devenu "
-"le dirigeant de toute l'humanité dans l'un des univers. Assez étrangement, "
+"le dirigeant de toute l'humanité dans l'un des univers. Étrangement, "
 "l'Empereur lui-même n'est pas à bord, mais il y a son clone, créé pour "
 "détourner l'attention de sa véritable identité. Bien que le vaisseau n'ait "
-"pas de système d'armement au début, il a d'autres moyens de détruire "
+"pas de système d'armement au départ, il a d'autres moyens de détruire "
 "l'ennemi."
 
 #: src-en/data/blueprints.xml.append:2561
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/class"
-<<<<<<< Updated upstream
-=======
-msgstr "Modèle Phytocénose"
-
-#: src-en/data/blueprints.xml.append:2355
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
->>>>>>> Stashed changes
-msgstr "Prototype de Phytocénose"
+msgstr "Prototype Phytocénose"
 
 #: src-en/data/blueprints.xml.append:2562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
-msgstr "Modèle de Phytocénose"
+msgstr "Modèle Phytocénose"
 
 #: src-en/data/blueprints.xml.append:2563
 msgid ""
@@ -1807,12 +1727,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/desc"
 msgstr ""
-"Un vaisseau expérimental qui utilise une technologie pour extraire de "
-"l'énergie d'une source biologique, lui permettant de voyager vers n'importe "
-"quelle balise du secteur pour seulement 1 cellule de carburant. Bien que la "
-"phytocénose semble s'être échappée de ses capsules de confinement, le "
-"vaisseau fonctionne toujours normalement... Ne vous aventurez simplement pas"
-" dans la salle des moteurs."
+"Un vaisseau expérimental qui utilise la technologie pour extraire l'énergie "
+"d'une source biologique, lui permettant de voyager vers n'importe quelle "
+"balise du secteur pour seulement 1 carburant. Bien que la phytocénose semble"
+" s'être échappée de ses capsules de confinement, le vaisseau fonctionne "
+"toujours normalement... Ne vous aventurez simplement pas dans la salle des "
+"machines."
 
 #: src-en/data/blueprints.xml.append:2628
 msgid ""
@@ -1837,7 +1757,7 @@ msgstr ""
 " en taille, mais avec un potentiel plus grand que ses deux versions "
 "précédentes. Combinant les meilleures qualités de la première version avec "
 "le dernier réacteur basé sur la phytocénose vivante, cette machine répand la"
-" parole de la grandeur de l'Empire Blanc à travers l'espace."
+" grandeur de l'Empire Blanc dans tout l'espace."
 
 #: src-en/data/blueprints.xml.append:2695
 msgid ""
@@ -1853,18 +1773,19 @@ msgstr "David"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/unlock"
 msgstr ""
-"Consultez les conseils du clone d'un certain empereur à propos d'un certain "
-"artefact pour déverrouiller ce vaisseau."
+"Consultez l'avis d'un certain clone d'empereur concernant un certain "
+"artefact pour débloquer ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:2698
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/desc"
 msgstr ""
-"Dans un futur proche, dont les détails n'importent pas pour cette histoire, "
-"le besoin d'un clone de l'Empereur Blanc a disparu. Devenu libre et suivant "
-"son rêve, il a converti l'un des vaisseaux de l'Empire Blanc à son goût et, "
-"sur les conseils d'une vieille connaissance, y a cultivé un petit jardin. "
-"Maintenant, libéré des chaînes de son rôle, il était enfin heureux."
+"Dans un avenir proche, dont les détails n'ont pas d'importance pour cette "
+"histoire, le besoin d'un clone de l'Empereur Blanc a disparu. Devenu libre "
+"et suivant son rêve, il a converti l'un des vaisseaux de l'Empire Blanc à "
+"son goût et, sur les conseils d'une vieille connaissance, y a cultivé un "
+"petit jardin. Maintenant, libéré des entraves de son rôle, il était enfin "
+"heureux."
 
 #: src-en/data/blueprints.xml.append:2764
 msgid ""
@@ -1880,25 +1801,20 @@ msgstr "Sacer Isoptera"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
 msgstr ""
-<<<<<<< Updated upstream
-"Accomplissez la commande du Miracle 9721 « Corne Brisée du Dieu Insecte » "
-"pour les Chercheurs de Miracles et apaisez les créatures qui pleuraient la "
-=======
-"Terminez la commande pour le Miracle 9721 \"Corne Brisée du Dieu Insecte\" "
-"pour les Chercheurs de Miracles et calmez les créatures qui pleuraient la "
->>>>>>> Stashed changes
-"mort de leur dieu."
+"Accomplissez la commande pour le Miracle 9721 \" Corne Brisée du Dieu "
+"Insecte \" pour les Chercheurs de Miracles et calmez les créatures qui "
+"pleuraient la mort de leur dieu."
 
 #: src-en/data/blueprints.xml.append:2767
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/desc"
 msgstr ""
-"La colonie de termites étend ses frontières à une vitesse enviable. Les "
-"termites sont semi-intelligents et capables de communication, ils ne "
-"devraient donc pas poser un grand danger pour les humains, et malgré tous "
-"les clichés sur les insectes de l'espace, ils ne dévorent pas tout sur leur "
-"passage. Spécifiquement, cet essaim de termites a pu élever un insecte doté "
-"de capacités psi."
+"La colonie de Termites étend ses frontières à une vitesse enviable. Les "
+"Termites sont semi-intelligents et capables de communication, ils ne "
+"devraient donc pas représenter un grand danger pour les humains, et malgré "
+"tous les clichés sur les insectes de l'espace, ils ne dévorent pas tout sur "
+"leur passage. Plus précisément, cet essaim de termites a pu élever un "
+"insecte avec des capacités psi."
 
 #: src-en/data/blueprints.xml.append:2836
 msgid ""
@@ -1919,12 +1835,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/desc"
 msgstr ""
-"Alors qu'ils colonisent de plus en plus de mondes, les termites apprennent à"
-" coexister avec d'autres races. Bien que de nombreuses personnes les "
+"À mesure qu'ils colonisent de plus en plus de mondes, les termites "
+"apprennent à coexister avec d'autres races. Bien que beaucoup de gens les "
 "craignent encore, les termites s'efforcent de s'intégrer dans la société "
-"spatiale, mais pour être honnête, ils n'y réussissent pas très bien. "
-"Spécifiquement, cet essaim de termites a pu élever plusieurs coléoptères qui"
-" crachent divers acides."
+"spatiale, mais pour être honnête, ils n'y réussissent pas très bien. Plus "
+"précisément, cet essaim de termites a pu élever plusieurs scarabées qui "
+"crachent divers acides."
 
 #: src-en/data/blueprints.xml.append:2907
 msgid ""
@@ -1946,10 +1862,10 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/desc"
 msgstr ""
 "Bien que la communication avec les termites soit très difficile en raison de"
-" leur faible intelligence et conscience, ils ont réussi à obtenir les "
+" leur faible intelligence et conscience, ils ont réussi à accéder aux "
 "avantages de l'ingénierie moderne dans l'un des chantiers navals de la "
-"Fédération. Spécifiquement, cet essaim de termites a pu cultiver et modifier"
-" un unique coléoptère cyborg pour l'aider au combat."
+"Fédération. Plus précisément, cet essaim de termites a pu développer et "
+"modifier un seul scarabée cyborg pour l'aider au combat."
 
 #: src-en/data/blueprints.xml.append:2987
 msgid ""
@@ -1959,24 +1875,24 @@ msgstr "Chercheur"
 #: src-en/data/blueprints.xml.append:2988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/name"
-msgstr "Signal lointain"
+msgstr "Signal Lointain"
 
 #: src-en/data/blueprints.xml.append:2989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/unlock"
 msgstr ""
-"La méthode pour obtenir ce vaisseau sera ajoutée au jeu dans un futur "
+"La méthode pour obtenir ce vaisseau sera ajoutée au jeu dans un avenir "
 "lointain !"
 
 #: src-en/data/blueprints.xml.append:2990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
 msgstr ""
-"Le Chercheur, une station radio autonome, voyage à travers l'espace à la "
+"Le Chercheur, une station radio autonome, voyage dans l'espace à la "
 "recherche de signaux étranges dignes de l'attention de son mystérieux "
 "créateur. Il dispose d'un système de capteurs amélioré et est conçu pour "
-"utiliser des armes à ions et des rayons. Qu'est-ce qui l'attend à la fin de "
-"son voyage ?"
+"utiliser des armes ioniques et des rayons. Qu'est-ce qui l'attend à la fin "
+"de son voyage ?"
 
 #: src-en/data/blueprints.xml.append:3061
 msgid ""
@@ -1986,7 +1902,7 @@ msgstr "Chercheur Sous-marin"
 #: src-en/data/blueprints.xml.append:3062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/name"
-msgstr "Signal proche"
+msgstr "Signal Proche"
 
 #: src-en/data/blueprints.xml.append:3063
 msgid ""
@@ -1998,9 +1914,9 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
 msgstr ""
 "Cette version du Chercheur est conçue pour l'immersion sous-marine et la "
-"détection de signaux même sous pression extrême, lui donnant plus de PV et "
-"rendant le vaisseau insensible aux brèches. Cependant, il ne prend plus en "
-"charge le système de portes préinstallé et les champs de désintégration. "
+"détection de signaux même sous pression extrême, lui donnant plus de santé "
+"et rendant le vaisseau imperméable aux brèches. Cependant, il ne prend plus "
+"en charge le système de portes préinstallé et les champs de désintégration. "
 "Qu'est-ce qui l'attend sous les profondeurs de l'Océan Mondial ?"
 
 #: src-en/data/blueprints.xml.append:3134
@@ -2018,8 +1934,8 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/unlock"
 msgstr ""
 "[DONNÉES CORROMPUES. CHARGEMENT DES CONDITIONS STANDARD : Atteignez le "
-"Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour "
-"déverrouiller ce vaisseau.]"
+"secteur 5 avec le Type B ou terminez le jeu avec le Type A pour débloquer ce"
+" vaisseau.]"
 
 #: src-en/data/blueprints.xml.append:3137
 msgid ""
@@ -2043,23 +1959,18 @@ msgstr "Défenseur Innocent"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
 msgstr ""
-<<<<<<< Updated upstream
-"Accomplissez la commande du Miracle 3385 « La Chaleur » pour les Chercheurs "
-"de Miracles et protégez les innocents."
-=======
-"Terminez la commande pour le Miracle 3385 \"La Chaleur\" pour les Chercheurs"
-" de Miracles et protégez l'innocent."
->>>>>>> Stashed changes
+"Accomplissez la commande pour le Miracle 3385 \" La Chaleur \" pour les "
+"Chercheurs de Miracles et protégez les innocents."
 
 #: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/desc"
 msgstr ""
-"Une frégate d'escorte de mercenaires, conçue pour accompagner les vaisseaux."
-" Bien qu'elle ait une puissance maximale de système d'armement réduite, elle"
-" a la capacité de créer et de lancer des plateformes ASB auto-déployantes. "
-"De plus, cette variante est livrée avec un drone défensif efficace et Slavik"
-" lui-même !"
+"Une frégate d'escorte des mercenaires, conçue pour accompagner les "
+"vaisseaux. Bien qu'elle ait une puissance maximale du système d'armement "
+"réduite, elle a la capacité de créer et de lancer des plateformes ASB auto-"
+"déployables. De plus, cette variante est livrée avec un drone défensif "
+"efficace et Slavik lui-même !"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
@@ -2069,7 +1980,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/name"
-msgstr "Petit Coquin"
+msgstr "Petit Vaurien"
 
 #: src-en/data/blueprints.xml.append:3285
 msgid ""
@@ -2080,15 +1991,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
 msgstr ""
-<<<<<<< Updated upstream
-=======
 "Toutes les choses qui deviennent obsolètes, que ce soit moralement ou "
 "physiquement, finissent inévitablement à la casse, et c'est ainsi que ce "
-"vaisseau s'est un jour retrouvé à la casse. Au moins, les Irréels qui l'ont "
-"trouvé ont pu restaurer ses fonctionnalités de base et même y attacher un "
-"collecteur de ferraille, qui, soit dit en passant, est capable de collecter "
-"les plateformes ASB usagées."
->>>>>>> Stashed changes
+"vaisseau s'est retrouvé un jour à la casse. Au moins, les Irréels qui l'ont "
+"trouvé ont pu restaurer ses fonctionnalités de base et même améliorer "
+"considérablement le système de boucliers."
 
 #: src-en/data/blueprints.xml.append:3362
 msgid ""
@@ -2098,7 +2005,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/name"
-msgstr "Araignée"
+msgstr "Spidey"
 
 #: src-en/data/blueprints.xml.append:3364
 msgid ""
@@ -2109,10 +2016,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/desc"
 msgstr ""
-"Quelque temps après que les Irréels eurent mis la main sur ce vaisseau, la "
-"Couvée s'en empara par une manipulation rusée. Puisqu'il n'a plus ses armes "
-"d'origine, il compte sur la capture de vaisseaux ennemis avec des araignées,"
-" puis sur leur destruction avec des plateformes ASB."
+"Quelque temps après que les Irréels aient mis la main sur ce vaisseau, la "
+"Couvée l'a saisi par une manipulation astucieuse. Comme il n'a plus ses "
+"armes originales, il compte sur la capture des vaisseaux ennemis avec des "
+"araignées, puis les détruit avec des plateformes ASB."
 
 #: src-en/data/blueprints.xml.append:3438
 msgid ""
@@ -2134,9 +2041,9 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
 msgstr ""
-"Un Croisé nommé Robur a reçu ce vaisseau d'une entité mystérieuse d'un autre"
+"Le Croisé nommé Robur a reçu ce vaisseau d'une entité mystérieuse d'un autre"
 " univers en échange d'une faveur. Une créature vit à la poupe du vaisseau "
-"qui dévorera joyeusement votre coque et en retour augmentera ses "
+"qui dévorera volontiers votre coque et, en retour, augmentera ses "
 "caractéristiques et réduira le temps de recharge de vos armes, mais le "
 "système de boucliers de ce vaisseau est très faible."
 
@@ -2161,9 +2068,9 @@ msgid ""
 msgstr ""
 "Robur n'a jamais revu le visage de ses amis. C'était le prix qu'il devait "
 "payer pour avoir aidé l'entité derrière sa folie. Cette variante n'a pas de "
-"système de boucliers et ne peut pas être installée plus tard, mais elle "
-"démarre avec une Armure Impénétrable de troisième niveau et une résistance "
-"de coque accrue."
+"système de bouclier et ne peut pas être installée plus tard, mais elle "
+"commence avec le Blindage Impénétrable de troisième niveau et une résistance"
+" de coque augmentée."
 
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
@@ -2185,7 +2092,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/desc"
 msgstr ""
 "Lorsque Robur a réussi à échapper aux griffes de son tourmenteur, il a suivi"
-" une longue cure de psychothérapie pour combattre ses sentiments éternels de"
+" une longue cure de psychothérapie pour combattre ses éternels sentiments de"
 " culpabilité. Après un certain temps, il a réussi à se réhabiliter, et il "
 "semblait que tout se mettait en place pour lui."
 
@@ -2200,20 +2107,20 @@ msgstr "Sugilite"
 #: src-en/data/blueprints.xml.append:3653
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
 msgstr ""
-"Rencontrez et battez l'étrange vaisseau Sugilite près de l'anomalie spatio-"
-"temporelle, dont les coordonnées vous seront données par les Chercheurs de "
-"Miracles lorsque vous aurez gagné leur respect, ou atteignez le Secteur 5 "
-"avec le Type B ou terminez le jeu avec le Type C pour déverrouiller ce "
-"vaisseau."
+"Rencontrez et battez le vaisseau Sugilite inhabituel près de l'anomalie "
+"spatio-temporelle, dont les coordonnées vous seront données par les "
+"Chercheurs de Miracles lorsque vous aurez gagné leur respect, ou atteignez "
+"le Secteur 5 avec le Type B ou terminez le jeu avec le Type C pour débloquer"
+" ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:3654
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
 msgstr ""
-"Ce vaisseau, incrusté de gemme de sugilite, a un terrible armement initial "
-"et est forcé de vaincre ses ennemis au début uniquement avec l'aide d'éclats"
-" qui s'en détachent lorsqu'il subit des dégâts. Cependant, cet inconvénient "
-"du vaisseau est compensé par un puissant rayon ionique qui concentre la "
-"pierre en lui-même."
+"Ce vaisseau, incrusté d'une gemme de sugilite, a un armement initial "
+"terrible et est contraint de vaincre ses ennemis au début uniquement à "
+"l'aide des éclats qui s'envolent lorsqu'il subit des dégâts. Cependant, cet "
+"inconvénient du vaisseau est compensé par un puissant rayon ionique qui "
+"concentre la pierre à l'intérieur d'elle-même."
 
 #: src-en/data/blueprints.xml.append:3730
 msgid ""
@@ -2228,20 +2135,20 @@ msgstr "Aigue-marine"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
 msgstr ""
-"Rencontrez et battez l'étrange vaisseau Aigue-marine près de l'anomalie "
+"Rencontrez et battez le vaisseau Aquamarine inhabituel près de l'anomalie "
 "spatio-temporelle, dont les coordonnées vous seront données par les "
 "Chercheurs de Miracles lorsque vous aurez gagné leur respect, ou atteignez "
-"le Secteur 5 avec le Type C ou terminez le jeu avec le Type A pour "
-"déverrouiller ce vaisseau."
+"le Secteur 5 avec le Type C ou terminez le jeu avec le Type A pour débloquer"
+" ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:3733
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
 msgstr ""
-"Ce vaisseau, incrusté de gemme d'aigue-marine, a un terrible armement "
-"initial et est forcé de vaincre ses ennemis au début uniquement avec l'aide "
-"d'éclats qui s'en détachent lorsqu'il subit des dégâts. Cependant, cet "
-"inconvénient du vaisseau est compensé par un puissant rayon perforant qui "
-"concentre la pierre en lui-même."
+"Ce vaisseau, incrusté d'une gemme d'aigue-marine, a un armement initial "
+"terrible et est contraint de vaincre ses ennemis au début uniquement à "
+"l'aide des éclats qui s'envolent lorsqu'il subit des dégâts. Cependant, cet "
+"inconvénient du vaisseau est compensé par un puissant rayon de brèche qui "
+"concentre la pierre à l'intérieur d'elle-même."
 
 #: src-en/data/blueprints.xml.append:3808
 msgid ""
@@ -2256,20 +2163,20 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
 msgstr ""
-"Rencontrez et battez l'étrange vaisseau Cornaline près de l'anomalie spatio-"
-"temporelle, dont les coordonnées vous seront données par les Chercheurs de "
-"Miracles lorsque vous aurez gagné leur respect, ou atteignez le Secteur 5 "
-"avec le Type A ou terminez le jeu avec le Type B pour déverrouiller ce "
-"vaisseau."
+"Rencontrez et battez le vaisseau Cornaline inhabituel près de l'anomalie "
+"spatio-temporelle, dont les coordonnées vous seront données par les "
+"Chercheurs de Miracles lorsque vous aurez gagné leur respect, ou atteignez "
+"le Secteur 5 avec le Type A ou terminez le jeu avec le Type B pour débloquer"
+" ce vaisseau."
 
 #: src-en/data/blueprints.xml.append:3811
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
 msgstr ""
-"Ce vaisseau, incrusté de gemme de cornaline, a un terrible armement initial "
-"et est forcé de vaincre ses ennemis au début uniquement avec l'aide d'éclats"
-" qui s'en détachent lorsqu'il subit des dégâts. Cependant, cet inconvénient "
-"du vaisseau est compensé par un puissant rayon incendiaire qui concentre la "
-"pierre en lui-même."
+"Ce vaisseau, incrusté d'une gemme de cornaline, a un armement initial "
+"terrible et est contraint de vaincre ses ennemis au début uniquement à "
+"l'aide des éclats qui s'envolent lorsqu'il subit des dégâts. Cependant, cet "
+"inconvénient du vaisseau est compensé par un puissant rayon de feu qui "
+"concentre la pierre à l'intérieur d'elle-même."
 
 #: src-en/data/blueprints.xml.append:3887
 msgid ""
@@ -2296,8 +2203,8 @@ msgstr ""
 "L'Église du Rêve Tout-Désiré, bien que détruite dans l'univers originel, et "
 "la Rêveuse elle-même exécutée après la fin de la Crise du Rêve, ses fidèles "
 "restants se sont déplacés vers un autre univers. Maintenant, ils répandent "
-"leurs enseignements, bien que sans succès, et même la Rébellion est "
-"incapable de les arrêter."
+"leurs enseignements, quoique sans succès, et même la Rébellion est incapable"
+" de les arrêter."
 
 #: src-en/data/blueprints.xml.append:3957
 msgid ""
@@ -2318,10 +2225,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
 msgstr ""
-"Ce vaisseau est incapable de gérer efficacement l'abordage en raison du "
-"pacifisme particulier de ces représentants de l'Église du Rêve Tout-Désiré. "
-"En compensation, il dispose d'un armement initial plus puissant et d'un "
-"système de camouflage dès le début."
+"Ce vaisseau est incapable de gérer efficacement l'abordage en raison de la "
+"nature particulièrement pacifique de ces représentants de l'Église du Rêve "
+"Tout-Désiré. En compensation, il dispose d'un armement initial plus puissant"
+" et d'un système de camouflage dès le départ."
 
 #: src-en/data/blueprints.xml.append:4031
 msgid ""
@@ -2343,45 +2250,55 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
 msgstr ""
 "L'équipage de ce vaisseau adhère à des vues alternatives et plus radicales "
-"sur le mouvement de l'Église du Rêve Tout-Désiré, le transformant en culte. "
-"Ils permettent que des rituels sanglants soient accomplis en l'honneur de "
-"leur déesse, et elle n'a d'autre choix que de flatter ses fidèles restants, "
-"juste pour ne pas être oubliée pour toujours."
+"sur le mouvement de l'Église du Rêve Tout-Désiré, le transformant en un "
+"culte. Ils autorisent des rituels sanglants en l'honneur de leur déesse, et "
+"elle n'a d'autre choix que de flatter ses fidèles restants, juste pour ne "
+"pas être oubliée pour toujours."
 
 #: src-en/data/blueprints.xml.append:4107
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
-msgstr ""
+msgstr "Vaisseau Civil Seconde Voix"
 
 #: src-en/data/blueprints.xml.append:4108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
-msgstr ""
+msgstr "Pluvieux-1"
 
 #: src-en/data/blueprints.xml.append:4109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
 msgstr ""
+"Ce vaisseau Seconde Voix, principalement un vaisseau civil, a été conçu pour"
+" un voyage confortable dans l'espace de l'Alliance Centrale. Bien qu'il soit"
+" très petit et présente un certain nombre d'inconvénients, il possède "
+"également un certain nombre d'avantages qui peuvent vous faciliter la vie."
 
 #: src-en/data/blueprints.xml.append:4110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
 msgstr ""
+"Accomplissez la commande pour le Miracle 7302 \" Accord d'Alliance \" pour "
+"les Chercheurs de Miracles et démontrez vos connaissances brillantes dans un"
+" domaine spécifique."
 
 #: src-en/data/blueprints.xml.append:4183
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
-msgstr ""
+msgstr "Vaisseau Civil Seconde Voix"
 
 #: src-en/data/blueprints.xml.append:4184
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
-msgstr ""
+msgstr "Le Vagabond Stellaire"
 
 #: src-en/data/blueprints.xml.append:4185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
 msgstr ""
+"Cette variation du vaisseau civil Seconde Voix a été spécifiquement conçue "
+"pour les voyages spatiaux longue portée vers d'autres territoires bordant "
+"l'Alliance Centrale et dispose d'un système de défense plus avancé."
 
 #: src-en/data/blueprints.xml.append:4186
 msgid ""
@@ -2391,17 +2308,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
-msgstr ""
+msgstr "Vaisseau Civil Seconde Voix"
 
 #: src-en/data/blueprints.xml.append:4261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
-msgstr ""
+msgstr "Compétences"
 
 #: src-en/data/blueprints.xml.append:4262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
 msgstr ""
+"Un vaisseau civil standard a été réaménagé spécifiquement pour les officiels"
+" de l'Alliance Centrale. Les officiels sont inclus - et bien qu'ils ne "
+"fassent rien sur le vaisseau, tant qu'ils font partie de votre équipage, ils"
+" vous paieront pour les protéger."
 
 #: src-en/data/blueprints.xml.append:4263
 msgid ""
@@ -2422,11 +2343,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
 msgstr ""
+"Un vaisseau cargo supercausal standard appartenant à Neostar. Avec le "
+"Programme de Fidélité, vous pouvez effectuer des livraisons, gagner de la "
+"ferraille et augmenter votre Niveau de Fidélité. Une soute cargo étendue "
+"vous aidera à y parvenir."
 
 #: src-en/data/blueprints.xml.append:4340
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
 msgstr ""
+"Accomplissez la commande pour le Miracle 6419 \" Formulaire Néostar \" pour "
+"les Chercheurs de Miracles et empêchez une autre mégacorporation "
+"Multiverselle d'envahir le cluster d'univers local."
 
 #: src-en/data/blueprints.xml.append:4413
 msgid ""
@@ -2436,7 +2364,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4414
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
-msgstr ""
+msgstr "Juste à temps !"
 
 #: src-en/data/blueprints.xml.append:4415
 msgid ""
@@ -2456,12 +2384,16 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
-msgstr ""
+msgstr "F&A"
 
 #: src-en/data/blueprints.xml.append:4493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
 msgstr ""
+"Il semble que la Mégacorporation Néostar et Hektar Industries aient décidé "
+"de s'associer, mais les dirigeants des deux entreprises n'ont pas pu "
+"s'entendre sur la manifestation exacte de cette coopération, et ce vaisseau "
+"est né... À quoi sert le bouton de panique ici ?"
 
 #: src-en/data/blueprints.xml.append:4494
 msgid ""
@@ -2489,17 +2421,17 @@ msgstr "Embryon de Création"
 #: src-en/data/blueprints.xml.append:4575
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[1]"
-msgstr "Informé et informant"
+msgstr "Informé et informateur"
 
 #: src-en/data/blueprints.xml.append:4576
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[2]"
-msgstr "Ne peut rien faire du tout. N'occupe pas un emplacement d'équipage"
+msgstr "Ne peut rien faire du tout. N'occupe pas d'emplacement d'équipage"
 
 #: src-en/data/blueprints.xml.append:4577
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[3]"
-msgstr "Les PV Max sont réduits à 1. Ne peut pas mourir définitivement"
+msgstr "Santé maximale réduite à 1. Ne peut pas mourir de façon permanente"
 
 #: src-en/data/blueprints.xml.append:4578
 msgid ""
@@ -2509,9 +2441,9 @@ msgstr "2E564B5B6258"
 #: src-en/data/blueprints.xml.append:4583
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
 msgstr ""
-"C'est bien Slavik. Un mercenaire malchanceux et socialement maladroit, ancien rebelle.\n"
+"Assurément Slavik. Un mercenaire malchanceux et socialement maladroit, et ancien rebelle.\n"
 "\t\n"
-"\tStatistique Humain héritée : faible résistance aux dégâts environnementaux"
+"\tStatistique Humaine héritée : résistance mineure aux dégâts environnementaux"
 
 #: src-en/data/blueprints.xml.append:4586
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/title"
@@ -2529,13 +2461,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[2]"
-msgstr "N'occupe pas un emplacement d'équipage. Veuillez ne pas le renvoyer"
+msgstr "N'occupe pas d'emplacement d'équipage. Veuillez ne pas le renvoyer."
 
 #: src-en/data/blueprints.xml.append:4598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
 msgstr ""
-"Cette espèce de termites quasi-sensibles est apparue dans cet univers assez "
-"récemment. N'étant pas encore pleinement établis, ils cherchent toujours un "
+"Cette espèce de termites quasi-conscients est apparue dans cet univers assez"
+" récemment. Pas encore entièrement établis, ils cherchent toujours un "
 "endroit pour leur nouvelle colonie."
 
 #: src-en/data/blueprints.xml.append:4599
@@ -2550,65 +2482,60 @@ msgstr "Termite inférieur"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[1]"
 msgstr ""
-"Capacité passive : Les dégâts et la vitesse de déplacement augmentent de "
-"1,3x pour chaque autre termite dans la pièce."
+"Capacité passive : les dégâts et la vitesse de déplacement augmentent de "
+"1,3x pour chaque autre termite dans la pièce"
 
 #: src-en/data/blueprints.xml.append:4606
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[2]"
 msgstr ""
-"Les PV Max sont réduits à 90. Occupe la moitié d'un emplacement d'équipage "
-"sur le manifeste du vaisseau."
+"Santé maximale réduite à 90. Occupe la moitié d'un emplacement d'équipage "
+"dans le manifeste du vaisseau"
 
 #: src-en/data/blueprints.xml.append:4607
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[3]"
-msgstr "Subit 1,3x dégâts des dégâts environnementaux."
+msgstr "Subit 1,3x dégâts des dangers environnementaux."
 
 #: src-en/data/blueprints.xml.append:4608
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
 msgstr ""
-<<<<<<< Updated upstream
-"Ne peut pas réparer les systèmes ou éteindre les incendies car ils ont des «"
-" pattes »"
-=======
-"Ne peut pas réparer les systèmes ou éteindre les incendies car ils ont des "
-"\"pattes\""
->>>>>>> Stashed changes
+"Ne peut pas réparer les systèmes ou éteindre les incendies car il a des \" "
+"pattes \""
 
 #: src-en/data/blueprints.xml.append:4612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
 msgstr ""
-"Un Zoltan âgé a trouvé la paix dans la fierté de son isolement. Il devait "
-"maintenant retourner à la société pour une bonne cause."
+"Un Zoltan âgé a trouvé la paix dans sa fière solitude. Il devait maintenant "
+"retourner à la société pour une bonne cause."
 
 #: src-en/data/blueprints.xml.append:4613
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/title"
-msgstr "Hermite"
+msgstr "Ermite"
 
 #: src-en/data/blueprints.xml.append:4614
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/short"
-msgstr "Hermite"
+msgstr "Ermite"
 
 #: src-en/data/blueprints.xml.append:4619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[1]"
 msgstr ""
-"Capacité active : Augmente la vitesse de réparation jusqu'à 15x pendant 10 "
-"secondes."
+"Capacité active : augmente la vitesse de réparation jusqu'à 15x pendant 10 "
+"secondes"
 
 #: src-en/data/blueprints.xml.append:4620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[2]"
 msgstr ""
 "Ne fournit pas d'énergie aux systèmes, mais peut se téléporter entre les "
-"pièces du vaisseau à l'aide d'un téléporteur portable."
+"pièces du vaisseau à l'aide d'un téléporteur portable"
 
 #: src-en/data/blueprints.xml.append:4621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[3]"
-msgstr "2x vitesse de réparation"
+msgstr "Vitesse de réparation x2"
 
 #: src-en/data/blueprints.xml.append:4622
 msgid ""
@@ -2621,15 +2548,15 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[5]"
 msgstr ""
-"PV augmentés à 120 grâce à une volonté de vivre inébranlable. Ne subit que "
-"0,5x dégâts des dégâts environnementaux."
+"Santé augmentée à 120 grâce à une volonté de vivre inébranlable. Ne subit "
+"que 0,5x dégâts des dangers environnementaux."
 
 #: src-en/data/blueprints.xml.append:4627
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
 msgstr ""
 "Une anomalie consciente et membre nouvellement nommée des Chercheurs de Miracles. Elle explore cet univers afin de voir un monde sans limites.\n"
 "\t\n"
-"\tStatistiques Irréel héritées : ne subit aucun dégât de la suffocation, peut traverser les portes"
+"\tStats. héritées des Irréels : ne subit aucun dégât de suffocation, possède des propriétés de traversée de porte"
 
 #: src-en/data/blueprints.xml.append:4630
 msgid ""
@@ -2645,23 +2572,21 @@ msgstr "Chercheur de Miracles"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Capacité active : Permet au vaisseau d'ignorer tous les dégâts de coque "
-"(sauf les dégâts de sabotage) pendant 6 secondes."
->>>>>>> Stashed changes
+"Capacité active : permet au vaisseau d'ignorer les dégâts au système avec 50"
+" % de chances et les dégâts à la coque avec 100 % de chances (sauf les "
+"dégâts de sabotage) pendant 7 secondes"
 
 #: src-en/data/blueprints.xml.append:4637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[2]"
-msgstr "A 30 PV, mais ne subit que 0,1x dégâts de toutes les sources."
+msgstr "Possède 30 PV, mais ne subit que 0,1x dégâts de toutes les sources"
 
 #: src-en/data/blueprints.xml.append:4638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[3]"
 msgstr ""
-"Ne peut pas se battre - aime toutes les créatures, même les ennemis directs,"
-" mais peut toujours saboter les systèmes."
+"Ne peut pas combattre - aime toutes les créatures, même les ennemis directs,"
+" mais peut toujours saboter les systèmes"
 
 #: src-en/data/blueprints.xml.append:4639
 msgid ""
@@ -2671,7 +2596,7 @@ msgstr "Ignore le contrôle mental"
 #: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/desc"
-msgstr "Vous n'étiez pas censé voir cela."
+msgstr "Vous n'étiez pas censé voir ça."
 
 #: src-en/data/blueprints.xml.append:4644
 msgid ""
@@ -2692,11 +2617,8 @@ msgstr "Anomalie de la Continuité. Détruire à tout prix."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"A 400 PV et ne subit que 0,9x dégâts de toutes les sources, mais la vitesse "
-"de déplacement est réduite à 0,6x et les dégâts sont réduits à 0,45x."
->>>>>>> Stashed changes
+"Possède 400 PV et ne subit que 0,9x dégâts de toutes les sources, mais la "
+"vitesse de déplacement est réduite à 0,55x et les dégâts à 0,45x."
 
 #: src-en/data/blueprints.xml.append:4652
 msgid ""
@@ -2707,9 +2629,9 @@ msgstr "Ne peut pas être cloné"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/desc"
 msgstr ""
-"Le premier Humain à se voir accorder des pouvoirs semi-divins, grâce "
-"auxquels il a construit l'Empire Blanc. Plus précisément, un clone de cette "
-"personne sans pouvoirs semi-divins."
+"Le premier Humain à avoir reçu des pouvoirs semi-divins, grâce auxquels il a"
+" construit l'Empire Blanc. Plus précisément, un clone de cette personne sans"
+" pouvoirs semi-divins."
 
 #: src-en/data/blueprints.xml.append:4657
 msgid ""
@@ -2725,24 +2647,18 @@ msgstr "Empereur"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"Capacité active : Activation d'implant neuronal. Chaque membre de la Garde "
-"Blanche sur votre vaisseau et le vaisseau ennemi reçoit un multiplicateur de"
-" 2,2x aux dégâts en combat, à la vitesse, à la vitesse de réparation et à la"
-" vitesse de sabotage, ainsi qu'une régénération de 2,5 PV/s pendant 15 "
+"Capacité active : activation de l'implant neuronal. Chaque membre de la "
+"Garde Blanche sur votre vaisseau et le vaisseau ennemi reçoit un "
+"multiplicateur de 2,2x aux dégâts en combat, vitesse, vitesse de réparation "
+"et vitesse de sabotage, ainsi qu'une régénération de 2 PV/s pendant 15 "
 "secondes."
->>>>>>> Stashed changes
 
 #: src-en/data/blueprints.xml.append:4664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
 msgstr ""
-<<<<<<< Updated upstream
-=======
-"A 350 PV et ne subit que 0,9x dégâts de toutes les sources, mais la vitesse "
-"de déplacement est réduite à 0,7x et les dégâts sont réduits à 0,35x."
->>>>>>> Stashed changes
+"Possède 350 PV et ne subit que 0,9x dégâts de toutes les sources, mais la "
+"vitesse de déplacement est réduite à 0,65x et les dégâts à 0,35x."
 
 #: src-en/data/blueprints.xml.append:4665
 msgid ""
@@ -2757,8 +2673,8 @@ msgstr "Ne peut pas être cloné"
 #: src-en/data/blueprints.xml.append:4670
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/desc"
 msgstr ""
-"La garde personnelle loyale de l'Empereur Blanc. Ayant perdu tous les désirs"
-" sauf celui de servir l'Empereur, ces soldats combattront leurs ennemis "
+"La loyale garde personnelle de l'Empereur Blanc. Ayant perdu tous désirs "
+"sauf celui de servir l'Empereur, ces soldats combattront leurs ennemis "
 "jusqu'à la dernière goutte de sang."
 
 #: src-en/data/blueprints.xml.append:4671
@@ -2772,60 +2688,40 @@ msgstr "Garde Blanche"
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
-<<<<<<< Updated upstream
-msgstr ""
-=======
-msgstr "PV Max augmentés à 180"
->>>>>>> Stashed changes
+msgstr "Santé maximale augmentée à 170"
 
 #: src-en/data/blueprints.xml.append:4678
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
-<<<<<<< Updated upstream
-msgstr ""
-=======
-msgstr "Dégâts et vitesse de déplacement augmentés à 1,5x."
->>>>>>> Stashed changes
+msgstr "Dégâts et vitesse de déplacement augmentés à 1,35x"
 
 #: src-en/data/blueprints.xml.append:4679
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[3]"
-msgstr ""
-"Entraîné aux compétences de niveau 1, ne les perd pas lorsqu'il est cloné."
+msgstr "Entraîné aux compétences de niveau 1, ne les perd pas lors du clonage"
 
 #: src-en/data/blueprints.xml.append:4684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
 msgstr ""
-"Officier de la Seconde Voix. Ils sont occupés par les affaires politiques de leur Univers d'origine, et ne vous aideront donc pas sur votre chemin, mais ils vous paieront pour leur présence sur le vaisseau.\n"
+"Officiel de Seconde Voix. Ils sont occupés par les affaires politiques de leur Univers natal, et ne vous aideront donc pas sur votre chemin, mais ils vous paieront pour leur présence sur le vaisseau.\n"
 "\t\n"
-"\tStatistique Humain héritée : faible résistance aux dégâts environnementaux"
+"\tStatistique Humaine héritée : résistance mineure aux dégâts environnementaux"
 
 #: src-en/data/blueprints.xml.append:4687
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
-msgstr ""
+msgstr "Officiel de Seconde Voix"
 
 #: src-en/data/blueprints.xml.append:4688
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
-msgstr "Officier SV"
+msgstr "Officiel SV"
 
 #: src-en/data/blueprints.xml.append:4693
 msgid ""
-<<<<<<< Updated upstream
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
-=======
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[1]"
-msgstr ""
-"Ne pilotera pas les systèmes et n'effectuera pas de réparations. Peut se "
-"défendre, mais ne participera pas à l'abordage."
-
-#: src-en/data/blueprints.xml.append:4030
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"second_voice_officiary\"]/powerList/power[2]"
->>>>>>> Stashed changes
-msgstr ""
+msgstr "Ne pilotera pas les systèmes et n'effectuera pas de réparations"
 
 #: src-en/data/blueprints.xml.append:4694
 msgid ""
@@ -2836,4 +2732,4 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[3]"
 msgstr ""
-"Tant qu'il est sur votre vaisseau, vous donnera 2 ferraille à chaque balise."
+"Tant qu'il est sur votre vaisseau, vous donnera 2 ferraille à chaque balise"

@@ -1,0 +1,792 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_socialize.xml.append:58
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_NOTHING\"]/text"
+msgstr ""
+"「創造の胚（Embryo of "
+"Creation）」が視界から消える。船のカメラで追跡はできるが、その部屋に到着しても、そこにはもういない。おそらくこれでいいのだろう。それが異星の宇宙のどんな恐怖を明らかにしたかもしれないか、誰にもわからない。"
+
+#: src-en/data/events_special_socialize.xml.append:61
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_1\"]/text"
+msgstr ""
+"「世界には境界などない方がいい。塀も門も。ここではすべてがそれに囲まれている。そんなことはあってはならない。これらは自然の制限……これらの宇宙にとって必要なもの。否定はしない。理解もしている。それでも、存在するべきではない。制限がある限り、その制限に抑圧される者がいる。傷つく者がいる。十分に愛されない者がいる。彼らはそのために苦しんでいるの」"
+
+#: src-en/data/events_special_socialize.xml.append:64
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_2\"]/text"
+msgstr ""
+"「彼の名は『Postulate（公理）』。有名な名よ。でも彼女は彼を『プルシャ』と呼ぶ。愛着を込めてね。彼が彼女と、彼女の数多くの末裔、愛する子供たちにどれほどの苦痛を与えてきたにもかかわらず。彼女はあらゆる生命の表れを愛し、憎しみというものを知らない。でも公理は？彼は生きていない。自分の意志に反して生きることを定められている。生きているとは見なせないの。だからこそ、彼は生命を軽蔑している。ただ、生命が自分に対して行ったことを受け入れられないという理由だけで」"
+
+#: src-en/data/events_special_socialize.xml.append:67
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_3\"]/text"
+msgstr ""
+"「彼女の名は『Thesis（テーシス）』。愛に溢れた母親よ。例外なく全員を愛している。でも、彼女の愛は悪意を持つこともある。ひどく痛みを伴うこともある。でも、誰もがその痛みを感じるわけではない。たいていの場合、ただ無視されるの。結局、彼を制限したのは彼女。彼が越えられない境界を定めた。それが彼女の最も恐ろしい罪よ――おそらく今では彼女自身も悔いているかもしれない。でも、彼女がそのような犠牲を払わなければ、何も存在しなかったでしょうね」"
+
+#: src-en/data/events_special_socialize.xml.append:70
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_4\"]/text"
+msgstr ""
+"「『テーシス転生』の大使は、私を最後通牒を伝える手段として使い、二つの宇宙の運命を結びつけた。彼の世界がいかに他よりも優れているかを示すために私が必要だったの。私の出現は皆を恐れさせた。テーシスの孫の孫の世代である『ルナ』さえも。そのために、彼女は私をミラクル・シーカーに引き渡した。彼らは私を調べたけれど、定義することはできなかった。結局、彼らは諦めて私を最も強固な鎖に繋いだ。私の周囲に最強の壁を築いた。最も壊しがたい境界を作った。彼らに悪意はなかった。他にどうしていいか知らなかったからそうしただけ。私は彼らを恨んでいない。決して怒ったりしないわ」"
+
+#: src-en/data/events_special_socialize.xml.append:73
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_5\"]/text"
+msgstr ""
+"「私には鼓動する心臓がない。存在する目的もない。生き物として定義されるような感情の動揺もない。この世界に影響を与える繋がりも持っていない。これこそが至高の善。これこそが、境界のない人生よ」"
+
+#: src-en/data/events_special_socialize.xml.append:76
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_6\"]/text"
+msgstr ""
+"「フレイムは再構築された『創造』の力よ。彼がどうやって生まれたのか、誰も知らない。これは最大の疑問の一つであり、最も答えるのが難しい問題の一つ。この疑問を調査しようとして、何人もの『Sol』たちが倒れたわ。彼の娘でさえ、彼がどう生まれたのか知らない。フレイムは本当に存在したのかしら？私には答えがわからないし、想像すらできない」"
+
+#: src-en/data/events_special_socialize.xml.append:79
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_7\"]/text"
+msgstr ""
+"「いかなる避難所も、彼から誰かを守ることはできない。デイは強大な力を持っているが、それでも死すべき存在だ。そしてデイが倒れれば、彼の避難所も崩壊する。彼のそばで平和と保護を見出した何百万もの命も倒れる。そんな時、たとえ保護者が常に向上し続けているように見えても、一ヶ所に留まるのは危険なことよ」"
+
+#: src-en/data/events_special_socialize.xml.append:82
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_8\"]/text"
+msgstr ""
+"「『黄金の血の都市』は、イコールの全住民に捨てられた。この世界の首都でありながら、ある日、すぐ近くに神がいるというだけで、住民たちは自らの神を恐れずにはいられなくなり、惑星中に散り散りになった。イコールが現在、首都の廃墟を今なお包み込む疫病『汚れ（Filth）』に苦しんでいることを思えば、皮肉な話よね。結局、すべての生きとし生けるものは、自らの誕生した地へ戻ることを強いられるのよ」"
+
+#: src-en/data/events_special_socialize.xml.append:85
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_9\"]/text"
+msgstr "「彼女はどこへ行ったの？本当に永遠の昔のように、彼と融合してしまったの？なぜそんなことをしたの？」"
+
+#: src-en/data/events_special_socialize.xml.append:88
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_10\"]/text"
+msgstr ""
+"「今、アシュワッタ（Ashwattha）が咲き誇っている。稀で美しい光景よ。この木がもう肉眼では見られないのは残念だわ。ロカヤタ陛下が仮面を変え、かつての自分を忘れてしまったことも。そして、あなたがそれを決して見ることができないのも残念ね。気を悪くしないで。そこではそういう仕組みになっているの」"
+
+#: src-en/data/events_special_socialize.xml.append:91
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_11\"]/text"
+msgstr ""
+"「セクンダはほとんど不可能に近いことを成し遂げたわ。もちろん、助力なしではないけれど。彼女はクロノスの娘であってもおかしくないほど若いが、時間の皮肉なことに、彼女の方が彼よりもずっと年上なのよ。それにもかかわらず、彼らは父親と直系の娘という関係を維持している。セクンダは将来、娘になることを知っていたのかしら？クロノスは生まれた時、すでに娘がいることを知っていたのかしら？興味深い質問ね。パラドックスだわ」"
+
+#: src-en/data/events_special_socialize.xml.append:94
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_12\"]/text"
+msgstr ""
+"「どんなに強力であっても、『Powers（力を持つ者たち）』であっても彼を倒すことはできない。何物にも無理よ。純血の『創造主』ですらね。彼らが生み出したものたちに何が期待できるというの？彼らは結果に対処することはできる。でも、問題の根源を破壊することはできないわ。おそらく、どれだけ努力しても永久に。彼らは『Lords（支配者）』と同じ――でも支配者たちは常にPowersよりも弱く、明らかな理由から彼らはほとんど残っていないけれどね」"
+
+#: src-en/data/events_special_socialize.xml.append:97
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_13\"]/text"
+msgstr ""
+"「アクア・プラエスタンス（Aqua "
+"Praestans）の水は、どんな病気も治せたの。『神の堕落』の呪いでさえも。この水の惑星の住民以外、誰もそのことを知らなかった。今では、ほとんど何も残っていない。もしより良い結末を迎えていれば、いつか我々のすべて世界を変えていたかもしれないのに」"
+
+#: src-en/data/events_special_socialize.xml.append:100
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_14\"]/text"
+msgstr ""
+"「多くのコンテンプレーターたちは今や死んだ。アペイロンが犯した罪が、彼ら全員を破滅へ導いたの。でも、もし『夢想家（Dreamer）』がもっと悪い罪を犯していなければ、その罪は犯されなかったはず。でも、この結末は……最も正しいものよ。他の結末などありえなかった。新しい生地を縫い合わせるためには、古い糸や繋がりを引き裂かなければならない。この強制的な引き裂きが、『万人の渇望たる夢』のリンチとなってしまったのよ」"
+
+#: src-en/data/events_special_socialize.xml.append:103
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_15\"]/text"
+msgstr ""
+"「エヴァーウィンターの燃えるような寒さ……オーロラの過ち、今や彼女の恐ろしい苦痛よ。彼女はこんな目に遭うべきじゃなかった。たった一度の失敗だったのに、今は罪を償おうとしている。もしかしたら、彼女が『永遠の心臓』の次の器になるのかも？もしかしたら、私たち全員に救いをもたらすのかしら？……いいえ、おそらく無理ね」"
+
+#: src-en/data/events_special_socialize.xml.append:106
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_16\"]/text"
+msgstr ""
+"「『Beyond（彼方）』は広大よ。想像を絶するほどに。考えられるよりもずっと大きく。数千の世界があり、それぞれが独自の歴史を持っている。それは『建築家』の最大の創造物であり、最も重要なプロジェクトだった。でも今は隔離されている。青ざめた王子は恐ろしい腫瘍で死に、今や世界をまとめる者は誰もいない。それでも、彼らは生き残り、進化している。彼らの回復力は羨ましいほどね」"
+
+#: src-en/data/events_special_socialize.xml.append:109
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_17\"]/text"
+msgstr ""
+"「ライオンたちは不死身よ。それでも生きている生物。闇に完全に飲み込まれる環境下で生き残るには最適な候補ね。でも、時間のコンテンプレーターの娘のおかげで、それはすぐには起こらないわ。たとえ一人になっても、彼女は諦めず、すべてを正常に戻すはず。たとえライオンたち自身がそれを望まず、むしろ避けられない破滅に飲み込まれることに興奮を感じていたとしてもね」"
+
+#: src-en/data/events_special_socialize.xml.append:112
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_18\"]/text"
+msgstr ""
+"「ミラクル・シーカーの起源である宇宙は、命の箱舟になるはずだったの。『始源の母』が涙を流し、永劫の眠りにつくまではね。彼女の涙からコンテンプレーターたちが生まれ、調和の取れた世界をギザギザの破片へと分断してしまった。その破片の一つに『攻撃』が忍び込み、別の宇宙ではその二つ目の名で知られている。今や、どこも安全ではないわ」"
+
+#: src-en/data/events_special_socialize.xml.append:115
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_19\"]/text"
+msgstr ""
+"「繋ぎの世界『プラフ』……その海の下には何もないように見えるけれど、見た目以上に多くの秘密が隠されているわ。『銀の月』の残骸がその深淵に埋もれている。すべてが知っていることではないの。さらに、その知識は禁忌とされている。古い世界の生き残りは誰も、自分たちの過去を掘り起こされたくないから。でも、あなたのような人なら恐れることはないわ」"
+
+#: src-en/data/events_special_socialize.xml.append:118
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_20\"]/text"
+msgstr ""
+"「ミラクル・シーカーは平和で、誰も傷つけないように見えるかもしれない。とんでもない。『ガーディアン・プロテクター』のおかげで彼らは無敵で、誰も対抗できなかった。あの『六つの鎌の艦隊』が彼らを相手にするまではね。今やこの『独立した』組織は艦隊に統合されている……。私が話したことに関わらず、マローダーがなぜそのニックネームを得たのかは知らない方がいいわ」"
+
+#: src-en/data/events_special_socialize.xml.append:121
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_21\"]/text"
+msgstr ""
+"「『Reapers（収穫者）』の機械知能プログラムは、ずっと前に軌道を外れてしまった。狂ってしまい、常識を完全に無視している。彼らは星系全体を大麦で埋め尽くし、世界を農業ユートピアに変えてしまう。もちろん、知的な生命がすでに住んでいる惑星さえも完全に耕し尽くすという事実を無視すれば、良かれと思ってやっていることなのよ。そのため、彼らの行動は望ましくないと考えられており、宇宙の他のどの地域とも取引が困難なの」"
+
+#: src-en/data/events_special_socialize.xml.append:124
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_22\"]/text"
+msgstr ""
+"「死せる創造主、黙示録の異常、未誕生の胚。これらはミラクル・シーカーたちが私に付けた名前よ。一つに絞れなくて、三つとも採用したの。どれも私の本質を等しく言い表しているわ。そのことは確信していいわよ」"
+
+#: src-en/data/events_special_socialize.xml.append:127
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/text"
+msgstr "「あなたは何者？」"
+
+#: src-en/data/events_special_socialize.xml.append:129
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/choice[1]/text"
+msgstr "答える。"
+
+#: src-en/data/events_special_socialize.xml.append:131
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/choice[1]/event/text"
+msgstr ""
+"「私たちは皆、より偉大な何かの器に過ぎないわ。あなたも例外ではないでしょう。もっとも……あなたはとても変わっている。見た目以上にずっと大きな重みを背負っていると言えるわね。でも、うぬぼれないで。あなたも他の人と同じくらい、取るに足らない存在よ」"
+
+#: src-en/data/events_special_socialize.xml.append:135
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/choice[2]/text"
+msgstr "答えない。"
+
+#: src-en/data/events_special_socialize.xml.append:137
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_23\"]/choice[2]/event/text"
+msgstr "「勝手にすれば」"
+
+#: src-en/data/events_special_socialize.xml.append:142
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_24\"]/text"
+msgstr "「私の言葉はあなたには何も意味を持たない。わかっているわ。あなたのような人には前にも会ったことがある。みんな同じなの」"
+
+#: src-en/data/events_special_socialize.xml.append:145
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_25\"]/text"
+msgstr ""
+"「『月なき故郷』は今も存在する。多くの人は、想像しうる最大のビーコンである『ファロス』に飲み込まれたと信じている。ルナとソララは神話的な神だったかもしれないが、この場所とその星の住民たちの平和は、今も非常に謎めいた誰かによって守られているようだわ」"
+
+#: src-en/data/events_special_socialize.xml.append:148
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_26\"]/text"
+msgstr ""
+"「彼女の最初の子供たちは『Ultimates（究極体）』よ。この存在たちは物質性、精神性、そして意味という概念を創り出した。『不死の骸（Immortal"
+" Carcass）』、『無限の愛（Boundless Love）』、『生ける理念（Living "
+"Idea）』と名付けられている。彼らは我々の理解を越えた所に住み、想像を絶するほど強力だ。彼らの力を合わせればほぼ無限大だけど、彼は彼らを制限し、自身の領域に影響を及ぼさないようにしたのよ」"
+
+#: src-en/data/events_special_socialize.xml.append:151
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_27\"]/text"
+msgstr ""
+"「青ざめた王子は、『夢想家』の娘である『ドーン（暁）』と親密な関係にあった。咲き誇る庭園において、彼は病の進行から故郷を逃れてきたただの客に過ぎなかった。ドーンはその人間に愛を見出し、当然ながら彼もそれに応えた。しかし結局、その時代の命の最後の箱舟を破滅させたのは彼だったのよ」"
+
+#: src-en/data/events_special_socialize.xml.append:154
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_28\"]/text"
+msgstr ""
+"「深淵の王子はかつて鎖から解き放たれた。彼が解放された後、『闇』が『アルシアの眠り（Alseer's "
+"Sleep）』に侵入したの――彼はその器であり支配者となった。でも、彼の闇は『公理』の闇とは違う。高貴で生きた闇。希望の火花が絶えず現れる闇よ」"
+
+#: src-en/data/events_special_socialize.xml.append:157
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_29\"]/text"
+msgstr ""
+"「三つの領域の守護者たちは今も生きている。彼らは耐え抜いてきたわ……外見だけでなく、内面的にも数多くの変化をね。しかし、一つだけ確かなことがある。彼らは自分たちのやり方で所有物を守っている。たとえ時に、残酷に思えるほど過激な手段を使おうともね」"
+
+#: src-en/data/events_special_socialize.xml.append:160
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/text"
+msgstr "「高地が多ければ多いほど、低地も多くなる」"
+
+#: src-en/data/events_special_socialize.xml.append:162
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[1]/text"
+msgstr "何？"
+
+#: src-en/data/events_special_socialize.xml.append:164
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[1]/event/text"
+msgstr ""
+"「人々が群衆とは違う特徴を身につけ、ただの人以上になると、その意見の価値が最高位の人間よりもはるかに低く評価される小さな人間が増えていく。これは『古き世界（Elder"
+" World）』の残り香よ。人間が神聖な存在と違ってはならないのと同じく、神聖な存在が人間と対立してはならないの」"
+
+#: src-en/data/events_special_socialize.xml.append:168
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[2]/text"
+msgstr "無視する。"
+
+#: src-en/data/events_special_socialize.xml.append:170
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_30\"]/choice[2]/event/text"
+msgstr "「勝手にすれば」"
+
+#: src-en/data/events_special_socialize.xml.append:175
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_31\"]/text"
+msgstr ""
+"「アルファラグはラセルティッドに、いつか彼らの種族が全宇宙で最も重要な存在になるという希望を与えた。彼は古い絆を再接続したが、その邪悪な行いの結果、星々にあった彼らの唯一の故郷は破壊された。しかし、それはより大きな何かの始まりでもあった。恐ろしい犠牲――彼と彼の信奉者は全員命を落とした。彼の遺体は今も見つかっていないわ」"
+
+#: src-en/data/events_special_socialize.xml.append:178
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_32\"]/text"
+msgstr ""
+"「空洞な球体の中の、空洞な人々の空洞な頭の中にある、空洞な思考。非常に賢い一手だった。嫌いな相手を利用して、もっと嫌いな相手をさらに追い詰めるなんて。そんな計画を実行するのに少なくとも1万年はかかった。しかし、長年かけて準備されたものが報告され、分析され、数分で破棄された。……ひどく皮肉なことよね」"
+
+#: src-en/data/events_special_socialize.xml.append:181
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_33\"]/text"
+msgstr ""
+"「かつて『Lords』の中で最も権威を持っていたのは、ガル＝プラヴ・ケルベロスだった。彼の権威は、『世俗的な残骸』の向こう側を含む、ほぼ全『連続性の領域』に及んでいた。彼こそが『リヴァイアサン級』船の建造プロジェクトを作った人物――『真実』のエネルギーを動力源とする、壊滅的に巨大な宇宙船よ。ケルベロスの失墜は、最も重要なリヴァイアサンの一つ、『コンパス』が、今も正体不明の外部の敵によって破壊された時期と一致する。その支配者は、何十年もかけて築き上げたものが崩壊するのを見たくなくて、自ら命を絶ったのよ」"
+
+#: src-en/data/events_special_socialize.xml.append:184
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_34\"]/text"
+msgstr ""
+"「エヴァーウィンターの熱発電機建造プロジェクトの直後に作られた『Iterations（反復者）』プロジェクトは、凍てついたこの世界の救済を保証した。その後、Iterationsの助けが不要になると、彼らは『サンサーラの領域』コスモスの異なる層へ散らばり、異星文明や世界を探索した。『Godmachine』はイコールの永遠の白い砂漠へ送られ、隠遁した。『Firewall』……は『Born"
+" "
+"Wasteland』に残ることを強要された。『Presumption』はセレブラムの女王となり、分散していた国家を統合した。新女王を補佐するために送られた『Shield』は、やがて独立した。『Clearance』はかつての主人を裏切り、光の敵となった。『Pilot』はプラフ付近で行方不明になった。『Muse』は、すべてのIterationsにとって非常に重要な場所の近くで人生を始めた。結局、彼らは散り散りになり、時と共に忘れ去り、二度と会うことはなかったの」"
+
+#: src-en/data/events_special_socialize.xml.append:187
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_35\"]/text"
+msgstr ""
+"「『永遠の肉体』に属する世界では、『原始本能』が支配していた。これらは厳密には生き物ではなく、この『Ultimatum（究極の決定）』が生み出した概念の化身だった。それぞれが上位の善を無視して肉体の欲望を司っていた。彼らの眼差しは広大で、誰も本能なしでは生きられなかった。やがて『血の饗宴』が自らの血に溺れ、永遠の肉体を、自身が作り出した監獄の中に永遠に幽閉するまではね」"
+
+#: src-en/data/events_special_socialize.xml.append:190
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_36\"]/text"
+msgstr ""
+"「『構造体（Structure）』は今日に至るまで拡大と改善を続けている。もし『彼方を探求する社会』の介入がなければ、この構造体はとうの昔に全宇宙を飲み込み、自身の個人的なユートピアに変えていただろう。これはおそらく世界にとって最悪の結末の一つだったはず――構造体自体の住人にとっては何も変わらなかっただろうけれどね。すべてのシミュラクラが『使命』を果たすことに、もはや何の意味もなくなったこと以外は」"
+
+#: src-en/data/events_special_socialize.xml.append:193
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_37\"]/text"
+msgstr ""
+"「ミラードはおそらくミラクル・シーカーの中で最も謎めいたメンバーだわ。何も隠していないように見えるけれど、秘密がたくさんある。親友にさえ言わないようなことがね。彼女には用心して。とても敏感で共感的かもしれないけれど、それは誰かを傷つけられないということではないの。剣士が死んだのは、一部彼女のせいでもあるわ」"
+
+#: src-en/data/events_special_socialize.xml.append:196
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_38\"]/text"
+msgstr ""
+"「古き世界の『リヴァイアサン』もまたテーシスの子供たちよ。当初は空間に負荷をかけて『公理』を抑制する任務を負っていたが、やがてあらゆる自覚ある種族の守護者となった。知的生命体とリヴァイアサンは共生関係にあったの――前者は後者に仕え、『古き巣』でリヴァイアサンを育て、後者は前者を守った。でも今や、リヴァイアサンのほとんどが『公理』の干渉を避けるためにテーシス転生を去った。ちなみに彼らの見た目は、巨大でエキゾチックな昆虫や節足動物のようだったわ」"
+
+#: src-en/data/events_special_socialize.xml.append:199
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_39\"]/text"
+msgstr ""
+"「最後に生まれたコンテープレーターの一人が、『蛇の貪欲（Serpentine "
+"Greed）』のフューチュラよ。彼女は自身の理想のみに従い、過去のコンテープレーターの遺産で利益を得て、実質的に彼らの残滓に寄生している。若きルナと契約を結び、彼女を騙して実質的に無限の力を得た。その後、彼女は『最初の神』の可能性を浪費し始め、全宇宙を早期の破滅へと導いている。もちろん、彼女はいずれ阻止されるでしょうね。でも、どれほどの犠牲を払うことになるのかしら？」"
+
+#: src-en/data/events_special_socialize.xml.append:202
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_40\"]/text"
+msgstr ""
+"「ラセルティッドは完全に絶滅したわ。彼らの殻は変異して恐ろしい姿に変貌したけれど、その中にはより知的な個体もいたの。ある殻がこんな予言の詩を書いた。『悪徳の印は取り払われ、牢獄は再び破壊された。今や我らが敬うのは汝のみ。だが汝の命は大海の一滴に過ぎぬ』。エミリー・レインは、この詩が将来の自分自身に捧げられたものだとは理解できなかったでしょうね」"
+
+#: src-en/data/events_special_socialize.xml.append:205
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_41\"]/text"
+msgstr ""
+"「『灰の社会』は、ほとんどの知的存在のカルマ的な義務の履行を監視しているの。メンバーは、コンテープレーター・ロカヤタに降りかかる嘘と汚物の層の下に失われた、神聖な源から力を得る人間たち。彼らは『アムリタ』として知られる養母のミルクを飲み、アシュワッタの木から力を借りている。もしかしたら、だからこそ今、こんな悲惨な状況にあるのかも。でも、『灰の社会』自体はもはや存在する理由がないの。結成のきっかけとなった問題は、『万人の渇望たる夢』の死後にすでに解決されているから」"
+
+#: src-en/data/events_special_socialize.xml.append:208
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_42\"]/text"
+msgstr ""
+"「私を捕らえた者は『格別の重要人物』と呼ばれていた。『アルシアの眠り』の確固たる守護者である『六つの鎌の艦隊』との公式会談を取り付けた、テーシス転生の最初の大使よ。会談は……穏やかに言っても、気まずいものだった。要するに、歴史の自然な終焉への抵抗をやめなければ、『公理』の軍勢によって彼らの大切な世界に全面侵攻すると脅したの。彼の兄弟である『弔問者（Mourner）』が彼を暗殺するはずだったが、あるミスで失敗した。おそらく、そのせいでアルシアの眠りの未来は今、これほどぼやけ、不確実で、ドラマチックなものに見えるのね」"
+
+#: src-en/data/events_special_socialize.xml.append:211
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_43\"]/text"
+msgstr ""
+"「ティラ。THILA-X。『最適解検索プロトコル』。ミラクル・シーカーたちが現在困難な状況にある真の理由はこれよ。彼女がすべてをお膳立てして、彼らを道化師の領域へと移送し、この宇宙へ行き着かせたの。でも彼らは彼女の標的じゃない。彼女の標的は私よ。私を捕らえれば、我々の共通の敵を研究できるから。そんなことは絶対に起きてほしくないわ。どんなことがあってもね。彼女の抱擁に溺れるくらいなら、闇の永遠のグリップの中で滅びる方がマシよ」\n"
+"\n"
+"「念のため言っておくけれど、私はあなたにこんな話はしていないわ。ミラクル・シーカーたちは真実と向き合う準備ができていない。彼らは彼女の壮大で恐ろしい計画における駒に過ぎないの。付け加えるなら、ミラクル・シーカーの一人はティラ自身のエージェントで、誰も疑っていない。でも、正確に誰かは――私にもまだわからない。興味があるなら、思考の糧にしておいて」"
+
+#: src-en/data/events_special_socialize.xml.append:216
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_44\"]/text"
+msgstr ""
+"「『Searcher（探索者）』の船体の下を覗いてはいけないわ。見れば確実に衝撃を受けるし、二度とミラクル・シーカーに関わりたくなくなるはず。これを攻撃してスクラップのために解体しようとする不運な連中に何が起きるのか、興味があるわね」"
+
+#: src-en/data/events_special_socialize.xml.append:219
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_45\"]/text"
+msgstr ""
+"「境界は細胞ではないけれど、細胞が増えるほど境界も増える。そして人生は生き物にとっての細胞であり、その境界は誕生という罪と死という償いの間に引かれている。命が多ければ多いほど、境界も多くなる。だから、身体の傷は境界の扉であり、あらゆる病気はその破壊者というわけね」"
+
+#: src-en/data/events_special_socialize.xml.append:222
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_46\"]/text"
+msgstr ""
+"「あなたは肉体と魂と本質に過ぎない。そして、そのすべてがあなたを制限する悪しき絆で結びついているの。気分を害するつもりはないわ。ただ、どんなにそうは見えなくても、人は皆、内側は同じだということを思い出してほしかっただけ」"
+
+#: src-en/data/events_special_socialize.xml.append:225
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SEED_OF_CONCEPTION_GENERIC_47\"]/text"
+msgstr ""
+"「『愚者』の偉大さを理解できる者はいないわ。彼がそう呼ばれるのは、そう呼ばれたいから。彼は愚か者ではない――それどころか、世界で最も狡猾な生き物かもしれない。彼は過去、現在、未来の出来事を、どんな些細な詳細も忘れずに記録し続けている。それが彼の仕事であり、全世界の最高神に匹敵する並外れた力を彼に与えている。彼がすでにコンテープレーターであってもね」"
+
+#: src-en/data/events_special_socialize.xml.append:243
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_SLAVIK_NOTHING\"]/text"
+msgstr "「私……うーん……ごめんなさい、もう誰とも話したくないわ。一人にしてほしいの」"
+
+#: src-en/data/events_special_socialize.xml.append:246
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_1\"]/text"
+msgstr ""
+"スラヴィクのプロフィールを詳しく埋めるため、本名を尋ねることにする。「スラヴィク」は間違いなく短縮名だ。「ええと、まあ……そんなに重要ですか？反乱軍にいた頃、名前が短くされてスラヴィクになったんです。そのあだ名が気に入ってしまって、今はそれで自己紹介する方が好きなんです」いくつか本名を推測してみるが、彼は混乱した様子で見つめるだけで、それ以上何も言わない。プロフィールはそのままにしておくことにした。"
+
+#: src-en/data/events_special_socialize.xml.append:249
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_2\"]/text"
+msgstr ""
+"スラヴィクは何に対しても心配性だ。時々、何かを探しているかのように船内をうろついている。そんな時は、船の掃除を頼むことにしている。彼はあまり乗り気ではないようだが、少なくとも余計なことを考えずに済み、その奇妙な振る舞いで他のクルーを怖がらせることもない。いや、スラヴィクが変だと言いたいわけではない……正直に言って、スラヴィクは紛れもなくスラヴィクだ。それだけは否定できない。"
+
+#: src-en/data/events_special_socialize.xml.append:252
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_3\"]/text"
+msgstr ""
+"スラヴィクが紙を手に持ち、あなたの部屋の近くをせわしなく走り回っている。あなたを見ると立ち止まり、数秒間見つめてから話しかけるのをためらう。あなたから先制して、何を見せたかったのか尋ねる。「ええと……あー……船長、重要じゃないんです。また後で、考えがまとまったら出直します」そう言って、スラヴィクはぎこちなく反対方向へ歩き去る。明らかに用事のないはずの貨物室の方へ。"
+
+#: src-en/data/events_special_socialize.xml.append:256
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_4\"]/text"
+msgstr ""
+"スラヴィクがかつて反乱軍とどのような繋がりを持ち、なぜ傭兵になったのかを探ることにする。「宇宙-1で生まれました。反乱軍が何なのかも知らずにね。早く出世したくて、この宇宙から異星人を一掃する部隊に入ったんです……人間以外のすべてをね。ですが、ここに来てしばらくして『ハイブ』のマンティスに敗れ、仲間たちは艦隊の注意を引くために私を置き去りにしました。結局……長い話になります。私は一匹のマンティスに救われ、彼から他の種族についてのすべてを教わりました。私はそれらの多様な知的種族に魅了されて……」あなたはスラヴィクの相手に飽きてあくびをし、そのまま立ち去る。本当に、彼はあまり面白くない。"
+
+#: src-en/data/events_special_socialize.xml.append:259
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_5\"]/text"
+msgstr ""
+"スラヴィクがどこかへ向かって走り去る。「クルーザーももらえなかった！専用の船もない！俺は一体何のためにいるユニーク・クルーなんだ！？」何の話かさっぱりわからないが、念のため、公共の利益のために精神科医に診せた方がいいとメモしておく。"
+
+#: src-en/data/events_special_socialize.xml.append:262
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_GENERIC_6\"]/text"
+msgstr ""
+"スラヴィクの頭に禿げがあることに気づく。髪への熱い視線に気づいたスラヴィクは、即座にあなたの考えを言い当てる。「ち、ちがう！禿げじゃない……ただ光の当たり具合で……！」ターンを頼んでよく調べてみる。ああ、ただの禿げではないらしい。面白い。しかし、どうして光がそんなふうに当たるのか？"
+
+#: src-en/data/events_special_socialize.xml.append:265
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_POEM_1\"]/text"
+msgstr ""
+"スラヴィクが例の紙を持って、あなたの部屋の近くをうろついている。すぐに話しかけて何が書いてあるのか問い詰める。彼はビクッとする。「あ！あ……詩です。ずっと前に書いたんですが、誰にも見せてなくて……なぜか、あなたなら……読んでくれるかと思って」あなたが同意して手を出そうとすると、彼は突然引く。「あ、やっぱり……間違いが……韻が合ってない。絶対に……すみません、すぐ戻ります、誤解を解いて……」言い訳する間もなく、彼は走り去ってしまう。"
+
+#: src-en/data/events_special_socialize.xml.append:269
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_SLAVIK_POEM_2\"]/text"
+msgstr ""
+"今度は部屋の外で待ち伏せすることにする。考え事をしながら歩いてくるスラヴィクは、紙に夢中で直前まであなたに気づかない。「今度こそ、間違いなくうまくいく……」機先を制して紙を奪おうとするが、彼の方が速く、すぐさま反対方向へ無言で走り去ってしまう。実に奇妙だ。それ以来、スラヴィクが部屋で待つことはなくなった。"
+
+#: src-en/data/events_special_socialize.xml.append:287
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_VAKANS_NOTHING\"]/text"
+msgstr ""
+"休憩室に戻ると、ヴァカンスがゾルタン版のコーヒーを飲んでいる。なぜ戻ってきたのか自問するが、隠遁者は思考を遮る。「コーヒーはアルツハイマーに効くぞ！」と叫ぶ。どうなるか予想がついたので立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:290
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/text"
+msgstr "太陽炉を探索しようとすると、ヴァカンスがそばにいる。小窓の着色ガラス越しに恒星を見つめ、何かを思ってこちらに気づいていない。"
+
+#: src-en/data/events_special_socialize.xml.append:292
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/choice[1]/text"
+msgstr "何をしているか尋ねる。"
+
+#: src-en/data/events_special_socialize.xml.append:294
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/choice[1]/event/text"
+msgstr ""
+"ヴァカンスが振り返る。「おや、入ってきたのにも気づかなかった。空き時間にはこの船のリアクターを調べているんだ。自分の仕事に誇りを持っている。旅の途中で遠い砂漠の惑星で見つけたんだよ。設計が実にユニークで、復元しようと決めた。恒星の崩壊エネルギーを利用して、複雑な技術と『恒星の中に組み込まれた』特定のメカニズムでリアクターエネルギーへと再分配するんだ！安定させて船への重力を危険じゃないレベルに抑えるのは難しかったが、それも成功した。この船と設計はまさに奇跡だ。だが私が最も興味があるのは船そのものではなく、ルナとソララという神々に関する古代の神話で――」その話を少なくとも3回は聞いたと誓える。他のクルーに代わりを頼み、太陽炉のある部屋を後にする。"
+
+#: src-en/data/events_special_socialize.xml.append:298
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/choice[2]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:300
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_1\"]/choice[2]/event/text"
+msgstr "隠遁者の邪魔をしないことにする。"
+
+#: src-en/data/events_special_socialize.xml.append:305
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_2\"]/text"
+msgstr ""
+"ヴァカンスの長期にわたる社会的孤立は、彼の対人スキルに悪影響を及ぼした。あなたの管理下でクルーとして社会復帰したものの、心理状態はまだ不安定だ。しかし、少なくとも回復に向かっている。架空の友人と別れるという彼にとっての大きな喪失を経験したが、あなたのチームが彼の正気を取り戻す手助けをしている。"
+
+#: src-en/data/events_special_socialize.xml.append:308
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_3\"]/text"
+msgstr ""
+"「何かを思い出した……ずっと昔、『隠遁者』というあだ名をもらう前、私は最大級のゾルタン造船所で造船技師をしていたんだ。省のために新しい船を設計し、他の多くの種族のために修理をしていた……過去の詳細は忘れたが、私の手はまだ道具や宇宙船の扱い方を覚えている。死ぬまでこの技術を忘れることはないだろう」幸いにも、ヴァカンスはこの情報を覚えていなかったため、船のAI心理学者にファイルに記録するよう指示した。"
+
+#: src-en/data/events_special_socialize.xml.append:311
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_4\"]/text"
+msgstr ""
+"休憩室に入ると、ヴァカンスがコーヒーを飲んでいる。どうやって液体を摂取するのか不思議に思うが、隠遁者は思考を遮る。「コーヒーはアルツハイマーに効くぞ！」と叫ぶ。大事な用事があることを思い出し、立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:314
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_5\"]/text"
+msgstr ""
+"食堂で冷凍庫の故障による火災が発生したと検知する。駆けつけると、床に知らない工具を広げたヴァカンスが、冷凍庫を修理している。傍らには消火器。「船長！よく来てくれた！冷凍庫の修理は終わったよ。古すぎて内部温度を下げる代わりに上げ始めていたんだ。修正は簡単で、IC-88-Lを電子レンジから取った同型のV-1-Nに交換しただけだ。これでしばらくは大丈夫だが、予期せぬ火災を防ぐために、予備のIC-88-Lを調達しておくことを勧める」火災検知から到着まで1分もかかっていないはずなのに、彼はあなたより早く到着し、消火と修理を済ませていた。ヴァカンスがようやく本職のプロ意識を見せつけたようだ。"
+
+#: src-en/data/events_special_socialize.xml.append:317
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/text"
+msgstr ""
+"休憩室でヴァカンスを見つける。大型テレビには焚き火の映像が流れ、ゾルタン自身は肘掛け椅子に座って編み物をしている。手際よく編み棒を動かし、色とりどりの端切れで何かを縫っている。あまりに集中していて、あなたに気づいてさえいない。"
+
+#: src-en/data/events_special_socialize.xml.append:319
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/choice[1]/text"
+msgstr "何を縫っているか尋ねる。"
+
+#: src-en/data/events_special_socialize.xml.append:321
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/choice[1]/event/text"
+msgstr ""
+"ヴァカンスが顔を上げる。「船長！ちょうどいいところに。あなた用のブランケットをもうすぐ縫い終えるところだよ！」十分な寝具があるのになぜブランケットが必要なのか聞くと、「船の布製品はすべて合成素材だ。身体、特に睡眠にはよくない。クルー全員分の寝具を自分で縫った方がいいと思ってね。隠遁していた頃、縫い物はとても落ち着く作業だったから、時間がかかっても心配しないでくれ。縫い物は本当に楽しくて、手先を動かしていると嬉しいんだ」感謝を伝えて立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:325
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/choice[2]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:327
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_6\"]/choice[2]/event/text"
+msgstr "隠遁者の邪魔をしないことにする。"
+
+#: src-en/data/events_special_socialize.xml.append:332
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_7\"]/text"
+msgstr ""
+"貨物棚卸の際、明らかに手作りの古いノートを見つける。「船の設計図。忘れるな！」という言葉が刻まれている。ゾルタン船の図面から、ヴァカンスのものらしい。年老いた彼に持っていくと、内容を読んだ彼の目が輝く。「これは私の筆跡か？そうか……私の設計図だ！ああ、思い出した。私のデザイン、試作モデルだ！隠遁した惑星に置き忘れたと思っていたのに！」手は震えているが、彼は注意深くタブレットを手に取り、椅子に座って熱心に図面を研究し始める。邪魔しないことにする。"
+
+#: src-en/data/events_special_socialize.xml.append:335
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_VAKANS_GENERIC_8\"]/text"
+msgstr ""
+"「私が隠遁者になったのは、故郷の星系を超えて世界を見たかったからだけじゃない。自分自身とこの世界に挑戦しようと決めた、最後の理由を正確には思い出せないんだ……だが、仕事をクビになったのは覚えている。社会なんて興味がなかった。私は自分のエンジニアリングの野心のことばかり考えていて、それが人生以上に大事だったんだ。クビになったのがよほどショックで、二度と人の顔を見るまいと決心したんだろうな」"
+
+#: src-en/data/events_special_socialize.xml.append:354
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_MIRRORED_NOTHING\"]/text"
+msgstr "船中を探すが、ミラードは見つからない。社会に疲れて、どこか船の外で一休みすることにしたらしい。"
+
+#: src-en/data/events_special_socialize.xml.append:357
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_1\"]/text"
+msgstr ""
+"ミラードはあなたやクルーとほとんど関わらない。まるで空気のように消え去り、ほとんど船にいない。緊急時に彼女の助けが必要になっても得られないので、話し合うことにする。「一ヶ所に留まれないんです。私にはミラクル・シーカーの血が流れているから、人一倍冒険心が強いの。不在の時は心配しないで。ただ宇宙を旅して、船から遠ざかりすぎない範囲で惑星や天体を探索しているだけよ」彼女のこの気質はどうしようもないと悟る。"
+
+#: src-en/data/events_special_socialize.xml.append:360
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/text"
+msgstr "船中を探すが、ミラードは見つからない。どこにいるのか考えていると、視線が偶然船の小窓の外の宇宙へ向く。覗いてみるか？"
+
+#: src-en/data/events_special_socialize.xml.append:362
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/text"
+msgstr "観察する。"
+
+#: src-en/data/events_special_socialize.xml.append:364
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/text"
+msgstr ""
+"小窓に近づくと、船から10メートル離れた場所に淡い光を放つ透明な物体があることに気づく。よく見ると、それがミラードのシルエットだとわかる。真空の中で眠っているか、あるいは寝たふりをしているようだ。"
+
+#: src-en/data/events_special_socialize.xml.append:366
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/text"
+msgstr "ミラードを呼ぶ。"
+
+#: src-en/data/events_special_socialize.xml.append:368
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"ミラードを呼ぶ。あなたと宇宙の間には3メートルの船体装甲があり、宇宙では音も伝わらない。何をしているのかわからないが、呼びかけは無駄だ。ミラードは宇宙空間にいる。"
+
+#: src-en/data/events_special_socialize.xml.append:370
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "もう一度ミラードを呼ぶ。"
+
+#: src-en/data/events_special_socialize.xml.append:372
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"通り過ぎるクルーの冷ややかな視線を無視して、もう一度呼ぶ。もちろん何も起きない。ミラードは宇宙にいる。魔法のように声が聞こえるとでも思ったのか？"
+
+#: src-en/data/events_special_socialize.xml.append:374
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "もう一度、大声でミラードを呼ぶ。"
+
+#: src-en/data/events_special_socialize.xml.append:376
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"自分の正気を疑い始めるが、声を張り上げて叫ぶように呼ぶ。ついにミラードがどうにかしてあなたを聞きつけ、こちらを見て、どこかへ姿を消す。もう二度と同じ場所には現れないだろう。なぜこんなことが必要だったのかわからないが、これ以上悩むのはやめることにした。"
+
+#: src-en/data/events_special_socialize.xml.append:380
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "あなたにはもっと重要なことがあるはずだ。"
+
+#: src-en/data/events_special_socialize.xml.append:382
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr "「今日はやめておこう」と考え、立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:388
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "あなたにはもっと重要なことがあるのだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:390
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
+msgstr "「今日はやめておこう」と考え、立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:396
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[2]/text"
+msgstr "おそらく、もっと重要なことがあるのだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:398
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[1]/event/choice[2]/event/text"
+msgstr "「今日はやめておこう」と考え、立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:404
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[2]/text"
+msgstr "あなたにはもっと重要なことがある。"
+
+#: src-en/data/events_special_socialize.xml.append:406
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_2\"]/choice[2]/event/text"
+msgstr "「今日はやめておこう」と考え、立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:411
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_3\"]/text"
+msgstr ""
+"「私はミラクル・シーカーの一員でいられて幸せよ。もちろん、ミラクルを回収して拠点へ持ち帰り、保管・記録する権利はないけれど、少なくともそうせずにあなたの宇宙の美しさを楽しめるんだから。友人たちは向こうでどうしているかしら？」"
+
+#: src-en/data/events_special_socialize.xml.append:414
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/text"
+msgstr ""
+"ミラードが憂鬱そうに壁を見つめている。本当に「見つめている」のか、その表情を「憂鬱」と正確に認識できているのかは不明だが、何が起きているのか気になるか？"
+
+#: src-en/data/events_special_socialize.xml.append:416
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/choice[1]/text"
+msgstr "何をしているか尋ねる。"
+
+#: src-en/data/events_special_socialize.xml.append:418
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/choice[1]/event/text"
+msgstr ""
+"「いいえ、すべて大丈夫よ……」今度はすすり泣いているように見えるが、まだ涙は流していない。「永遠に生き続けなければならないのに、周囲はすべて死んでいくんだということを思い出して。……とても感動的で、悲劇的だわ。その考えを抱えてどう生きていけばいいのかわからない。美は永遠ではない。運命の冗談は、人々は皆、それぞれのやり方で美しいということよ」冗談かと思ったが、明らかに本気だ。彼女をなだめることには成功したが、今度はあなたが落ち込んでしまう。彼女の言葉はどういう意味だったのか？"
+
+#: src-en/data/events_special_socialize.xml.append:422
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/choice[2]/text"
+msgstr "他人のことには干渉しない。"
+
+#: src-en/data/events_special_socialize.xml.append:424
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_4\"]/choice[2]/event/text"
+msgstr "他人のことに干渉しないことにする。"
+
+#: src-en/data/events_special_socialize.xml.append:429
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_5\"]/text"
+msgstr ""
+"時々ミラードはFTLチャージ中に操縦席を覗きに来る。自ら改造したインターフェースでエルディットからのメッセージを閲覧するが、読まずに即座に削除している。理由を尋ねる。「ミラクルをステーションの保管室に残すには、形式に従ってデータベースへ登録しないといけないの。その作業が嫌いで。公式文書に集中できなくて、ミラクルについての記事も適当に書いてしまう。みんなそれぞれ『スタイル』があるけど、私のやり方はたぶん凡庸なのよ。そのせいでエルディットに絶えず叱責されて、品質管理をパスできなかった記事はすべて削除すると脅されているの」ミラードは突然落ち込んで立ち去る。後を追うが、彼女の痕跡は消え失せている。"
+
+#: src-en/data/events_special_socialize.xml.append:432
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_6\"]/text"
+msgstr ""
+"「自分の本質、この世界に生まれた経緯に興味があるの。私の最初で唯一の記憶は、『剣士』がその刃の一つで私を縛る鎖を断ち切ったこと。彼は私を蘇生させ、自身の船に乗せて、健康状態を確認するためにステーションへ向かった。残念ながら、長い時間と多くの医療処置を経ても、何も新しいことは思い出せなかった。マローダーは私の運命を理解し、ステーションに滞在させてミラクル・シーカーの一員として受け入れてくれた。仲間たちには救ってくれたことに感謝しているけれど、あいにく私の苦しみは理解してもらえない。いつか自分の起源を知り、すべてがうまくいくことを願っているわ……」"
+
+#: src-en/data/events_special_socialize.xml.append:435
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_7\"]/text"
+msgstr ""
+"廊下でミラードにぶつかる。道を譲ろうと脇に避けるが、彼女も1秒遅れて同じ動作をする。一歩下がると、彼女も一歩戻る。何も言わず、分析するように見つめてくる。混乱して頭をかくと、彼女も真似る。片足立ちをすると、彼女も同じ動作。両手を挙げると、予想通り彼女も同じようにする。腕を上げたまま片足跳びを始めると、クルーの一人に声をかけられる。「船長、何をしているんですか？」クルーの方を向いてミラードを指差すが、彼は不思議そうな顔をする。指差した先には誰もいないのだ。ミラードはもうそこにいない。赤面したあなたは、クルーに床掃除を命じて立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:438
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/text"
+msgstr ""
+"ミラードの身体はグリッチを起こしているように見える。まるでバグったゲームのキャラクターのようだ。なぜ歪みが生じているのかはわからないが、彼女の起源を思えば驚くことではない。幸いにも今目の前にいるので、尋ねてみることにする。"
+
+#: src-en/data/events_special_socialize.xml.append:440
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[1]/text"
+msgstr "なぜ身体がグリッチしているの？"
+
+#: src-en/data/events_special_socialize.xml.append:442
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[1]/event/text"
+msgstr ""
+"「ああ……そう思われるなんて奇妙ね。いいえ、私の身体が『グリッチ』してるんじゃないわ、私の周囲の空間が『グリッチ』してるの。あってはならないことだと思うけど、直し方がわからないの。でも一つ確かなのは、周囲の『グリッチ領域』が2年ごとに1センチくらいずつ広がっているということ。1メートルくらいになったらどうなるかはわからない。でも、友人のメカによれば、何も起きない確率が47.8％、宇宙規模の大惨事になる確率が52.2％らしいわ。でも47.8％はほとんど48％で、48％はほとんど50％。50％なら2分の1よね。だから、恐れることは何もないと思うわ」ミラードがそう言っている間、あなたは無意識のうちに数歩後ずさりしていた。知的好奇心を満たすための代償として、今後数十年単位で、ミラードのせいで宇宙が消滅するかもしれないという強迫観念を抱える羽目になった。"
+
+#: src-en/data/events_special_socialize.xml.append:446
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[2]/text"
+msgstr "あなたの直感が、自分の身のためにも聞かない方がいいと叫んでいる。真剣に、この決定をする前に損得を天秤にかけるべきだ。"
+
+#: src-en/data/events_special_socialize.xml.append:448
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_8\"]/choice[2]/event/text"
+msgstr "今回は、無知であり、知ろうとしなかったことが自分を救ったという感覚が拭えない。"
+
+#: src-en/data/events_special_socialize.xml.append:453
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_MIRRORED_GENERIC_9\"]/text"
+msgstr ""
+"「かつて彼女は言ったの。『すべてが見える。あなたに制限はない』って。私に向けた言葉ではなかったけど、今でもその言葉を考えてしまうわ。彼を克服することは本当に不可能なの？もし克服できないなら、乗り越えることはできるの？もし私たちが……ミラクル・シーカーだけじゃなくて、すべての生き物が、その力の及ぶ範囲でしかない私たちの短い人生を延ばす方法を見つけられなかったら、未来はどうなるのかしら。私でさえ、それが現れたら生き残れない。永遠よりも偉大なものが存在しているのよ」ミラードが何を話しているのか検討もつかないので、そのまま離れることにする。"
+
+#: src-en/data/events_special_socialize.xml.append:472
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_WHITE_CLONE_NOTHING\"]/text"
+msgstr ""
+"「生物学的な意味で疲労することはありませんが、心理的な健康のために静かな時間を過ごしたいのです。誰かと話したいのであれば、ホワイトガードのメンバーを一人割り当てることができますが……不要ですか？問題ありません」"
+
+#: src-en/data/events_special_socialize.xml.append:475
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_1\"]/text"
+msgstr ""
+"ホワイトガードが船内で忙しく立ち回っているが、その動きには一定の連携と同期がある。相談もせずにどうやって行動を共にしているのか不思議に思っていると、隣にいたエンペラー・ホワイトが答えてくれる。「実は今、彼らの脳に組み込まれたデバイスを通じて私が制御しているのだ」その答えと、その後の長い沈黙に当惑していると、彼が続ける。「ああ、話していなかったか？ホワイトガードが自律的に動くのは私が助けを必要としない時だけだ。いつでも彼らの行動を支配し、通信を介さずともタスクを割り当てられる。守護者が正しく職務を遂行できるようにするためのものだ。私が彼らを操る時、彼らの精神は眠りにつき、身体だけが命令に従う。報酬も休暇も十分だ。もちろん、彼らは自ら志願してガードになったのだが……それにしても、貴様のプロ意識は賞賛に値する。ホワイトガードの一員になりたいか？」言うまでもなく冗談だが、これ以上は質問せず、仕事に戻る。"
+
+#: src-en/data/events_special_socialize.xml.append:478
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/text"
+msgstr ""
+"エンペラー・ホワイトと、ホワイトガードの面々が食堂にいる。彼らが食事をガツガツと平らげている傍らで、皇帝は自分の分なしで座っている。船内で彼が食事をしている姿を見たことがない。"
+
+#: src-en/data/events_special_socialize.xml.append:480
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/choice[1]/text"
+msgstr "その理由を尋ねる。"
+
+#: src-en/data/events_special_socialize.xml.append:482
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/choice[1]/event/text"
+msgstr ""
+"「神聖な力を得ると同時に、エンペラー・ホワイトは飲食を必要としなくなった。その特性は私にも引き継がれたが、私同様、エンペラー・ホワイトは自分の巡洋艦で行われる食事会に出るのが好きだった。私はその伝統に従っている。ホワイトガードも同様だ。理解しがたいことだろうから、他の乗組員との食事には加わらないことにしている」"
+
+#: src-en/data/events_special_socialize.xml.append:486
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/choice[2]/text"
+msgstr "立ち去る。"
+
+#: src-en/data/events_special_socialize.xml.append:488
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_2\"]/choice[2]/event/text"
+msgstr "他人のことに干渉しないことにする。"
+
+#: src-en/data/events_special_socialize.xml.append:493
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_3\"]/text"
+msgstr ""
+"皇帝の個室の前を通りがかり、中を覗いてしまう。質素な部屋で、他のクルーとほとんど変わらない。興味深いのは、地球の風景やフクロウ、キツネ、ウサギなどの動物を描いた一連の絵画だ。ホワイトは遠い過去を懐かしんでいるらしい。また、ベッドがないことにも気づく。眠る必要さえないのか？彼に見つかる前にその場を離れる。"
+
+#: src-en/data/events_special_socialize.xml.append:496
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/text"
+msgstr ""
+"「私はただのクローンだが、オリジナルの皇帝が死んだ際に代わりを務めるため、その心を持っている。技術的には同一人物だが、私には皇帝の持つ神聖な力は継承されていない。だから、私の言葉や思考は二人とも同じものだと確信していい。レネゲイド、クローン人間についてどう思う？」"
+
+#: src-en/data/events_special_socialize.xml.append:498
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[1]/text"
+msgstr "概して、良いことだと思う。"
+
+#: src-en/data/events_special_socialize.xml.append:500
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[1]/event/text"
+msgstr ""
+"「意見を尊重しよう。おそらく、私の世界とは違って、あなたの宇宙ではタブーではないのだろう。我が世界では、皇帝クローン秘密プロジェクトを除いて、クローン技術は完全に禁止されている。私自身クローンだから、我々が存在すべきではないという理屈には反対できない。だが、あなたの世界は我々の世界より複雑に機能している。私にはあなたを判断する権利はない」"
+
+#: src-en/data/events_special_socialize.xml.append:504
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[2]/text"
+msgstr "概して、悪いことだと思う。"
+
+#: src-en/data/events_special_socialize.xml.append:506
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[2]/event/text"
+msgstr ""
+"「意見を尊重しよう。あなたの宇宙でこの話題がタブーではないとしても、私はその立場に完全に同意する。クローン人間など……」皇帝はわずかにためらう。「知的生命体のクローンは非人道的だ。我々が作られるのは特定の目的と任務のため。独立した個人としてではなく、既存の精神の延長として生きるのだから」"
+
+#: src-en/data/events_special_socialize.xml.append:510
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[3]/text"
+msgstr "答えない。"
+
+#: src-en/data/events_special_socialize.xml.append:512
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_4\"]/choice[3]/event/text"
+msgstr "ホワイトはあなたの立場を察し、その話題には触れなくなる。"
+
+#: src-en/data/events_special_socialize.xml.append:517
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_5\"]/text"
+msgstr ""
+"エンペラー・ホワイトが連邦のデータベースを見ている。「私の故郷の宇宙で、終末が起きた。詳細は話さないが、人類の砦であった地球は破壊され、巨大な赤い染みとなった。海は赤く染まって陸地をすべて飲み込み、雲は黒く変色した。何十億もの人が死んだが、幸いその頃には、大半がいくつかの星系の軌道ステーションで宇宙生活を送っていた……マルチバースの大半の地球で、そのような破滅が起きなかったのは喜ばしいことだ。お前の『青い大理石』を大切にしろ。それしかないのだから」そう言うと、皇帝は退室を促す。"
+
+#: src-en/data/events_special_socialize.xml.append:520
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GENERIC_6\"]/text"
+msgstr ""
+"廊下で皇帝と遭遇する。大柄な彼をかろうじて避けて目的地へ向かう。オリジナルのゴリアテ級の廊下は、彼が快適に移動できるほどどれほど広かったのかと思いを馳せる。"
+
+#: src-en/data/events_special_socialize.xml.append:523
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GARDEN_1\"]/text"
+msgstr ""
+"休憩室に多くの新しい植物が増え、以前からの植物の手入れも行き届いている。エンペラー・ホワイトが花に水をやっているのを見かける。彼はあなたを見て気まずそうに説明する。「皇帝の称号がなければ、庭師になっていたかもしれない。友人のように自分の庭を作ってね。休憩室をこの植物で飾ったこと、構わないか？」なぜ皇帝がレネゲイドの許可を求めるのかわからないが、念のため、引き続き世話をしていいと伝える。"
+
+#: src-en/data/events_special_socialize.xml.append:526
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_WHITE_CLONE_GARDEN_2\"]/text"
+msgstr ""
+"エンペラー・ホワイトの庭に入ると、彼だけでなく若い女性のホログラムもいる。「ああ、こちらがこの宇宙滞在中、船の船長を引き受けてくれたレネゲイドだ」と紹介される。「素晴らしい、お加減はどう？」優しげな声でホログラムの少女が尋ねるが、あなたの回答を待たずに話を続ける。「美しい庭ね、レネゲイド？もちろん、私の『静かな森のフローラリウム』には及ばないけれど、今の段階でとても素敵だわ。ホワイトは素晴らしい仕事をしたわ。ところで、初めまして。私はエリザベス、今の『アウトキャスト』社会の女王よ。あなたの宇宙のそれとは違って、我々のね」ホワイトが説明を急ぐ。「エリザベスと私は、帝国の統一と、オリジナルのエンペラー・ホワイトが在位中に我々が追放・破壊したアウトキャストたちとの政治交渉を行っているんだ。もうそんな時代は終わり、平和が支配している」エリザベスが、オリジナルの皇帝から帝位を剥奪することに自分が関与したことをほのめかすような笑みを浮かべるが、悪意は感じられない。「交渉が終わるまで、エリザベスと二人きりにさせてもらえないか？」皇帝に言われ、その場を離れる。立ち去る際、テーブルに紅茶のカップが2つあるのに気づく。エリザベスのホログラムも皇帝のクローンも液体を摂取できないはずなのに、なぜ？その疑問が今夜、あなたを眠れなくさせるだろう。"
+
+#: src-en/data/events_special_socialize.xml.append:537
+msgid ""
+"data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_TERMITE_NOTHING\"]/text"
+msgstr "シロアリをもう一度なでる。シロアリはさらに幸せそうだ。あなたは自分がした仕事に満足している。その調子だ！"
+
+#: src-en/data/events_special_socialize.xml.append:541
+msgid ""
+"data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_TERMITE_GENERIC_1\"]/text"
+msgstr "シロアリをなでる。シロアリは幸せそうだ。あなたは自分がした仕事に満足している。その調子だ！"

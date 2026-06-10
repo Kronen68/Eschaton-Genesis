@@ -1,0 +1,2191 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:11
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/text"
+msgstr ""
+"NEOSTAR貨物輸送 - 我々は光より速い！\n"
+"\n"
+"ようこそ、Neostarメガコーポレーション(R)・ジュニア社員！何を達成したいですか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:15
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_beacon_task\"]/text"
+msgstr "貨物を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:19
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_available_task\""
+" and @lvl=\"1\"]/text"
+msgstr "貨物配送任務を引き受ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:23
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"neostar_cargo_available_task\""
+" and @lvl=\"0\"]/text"
+msgstr "さらに2つの配送任務を引き受けるには、宙域間をジャンプして上司に連絡する必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:27
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[4]/text"
+msgstr "ロイヤリティプログラム(R)メニューへ行く。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:31
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[5]/text"
+msgstr "ジュニア社員FAQ(R)。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:35
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE\"]/text"
+msgstr "突然、誰かがあなたに連絡してきた……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:37
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_CHANCE\"]/event/text"
+msgstr ""
+"画面に「テールのウリエル」が現れる。「やあ、同僚！苦戦しているようだね……昇進までロイヤリティポイントがあと少しだ！……僕の配送依頼を一つ譲ってあげよう。友人として、手数料は無料だ！」\n"
+"\n"
+"「それと……あの怪物との戦い、頑張ってくれ。反乱軍の旗艦だろ？……かなり恐ろしそうだけど、君ならやれると信じているよ！」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:46
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_BUTTON_REAL\"]/choice[7]/text"
+msgstr "Neostarフォームを閉じる。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:71
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/text"
+msgstr "Neostar(R)ジュニア社員向けロイヤリティプログラム(R)メニューへようこそ。何を行いますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:73
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_1\"]/text"
+msgstr "最初のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:77
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_2\"]/text"
+msgstr "2回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:81
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_3\"]/text"
+msgstr "3回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:85
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_4\"]/text"
+msgstr "4回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:89
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_5\"]/text"
+msgstr "5回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:93
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_6\"]/text"
+msgstr "6回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:97
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"EG_REQ_NEOSTAR_LOYALTY_PROGRAM_7\"]/text"
+msgstr "7回目のボーナス支払いを受け取る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:101
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[8]/text"
+msgstr "昇進の手続きを行う。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:105
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[9]/text"
+msgstr "[警告！昇進対象です]"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:109
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[@req=\"neostar_loyalty_program_final\"]/text"
+msgstr "Neostar(R)ジュニア社員の最大ロイヤリティレベル(R)に到達しました。おめでとうございます！"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:113
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_MENU\"]/choice[11]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:119
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、最初のプレミアム報酬を発見した。資源と、エンジンにインストールして能力を向上させる「Neostarスラストブースター(R)」という小さなデバイスだ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:127
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/text"
+msgstr "デバイスをエンジンにインストールする。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:129
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/event/text"
+msgstr "Neostarスラストブースター(R)をエンジンにインストールした。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:132
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[1]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:138
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/text"
+msgstr "デバイスを分解する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:140
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/event/text"
+msgstr "Neostarスラストブースター(R)を解体してスクラップにする。中から燃料セルも見つかった。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:146
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_1\"]/choice[2]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:154
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_2\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、2回目のプレミアム報酬が入っていた。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:163
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_2\"]/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:169
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_3\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、3回目のプレミアム報酬として資源と、社内専用の「Neostarレーザー(R)」が入っていた。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:177
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_3\"]/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:183
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_4\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、4回目のプレミアム報酬が入っていた。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:192
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_4\"]/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:198
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、5回目のプレミアム報酬を発見した。資源と、エンジンにインストールして能力を向上させる「Neostarスラストブースター(R)」という小さなデバイスだ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:207
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/text"
+msgstr "デバイスをエンジンにインストールする。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:209
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/event/text"
+msgstr "Neostarスラストブースター(R)をエンジンにインストールした。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:212
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[1]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:218
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/text"
+msgstr "デバイスを分解する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:220
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/event/text"
+msgstr "Neostarスラストブースター(R)を解体してスクラップにする。中から燃料セルも見つかった。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:226
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_5\"]/choice[2]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:234
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_6\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、3回目のプレミアム報酬として資源と、社内専用の「Neostarコンバットドローン(R)」が入っていた。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:244
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_6\"]/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:250
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_7\"]/text"
+msgstr ""
+"近くに小さなワームホールが開く。封印されたNeostarクレートが飛び出し、Neostarの白紙伝票が開封用のユニークコードを伝えてくる。開封すると、7回目のプレミアム報酬が入っていた。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:259
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_7\"]/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:265
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/text"
+msgstr "昇進を期待してボタンを押す……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:267
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:269
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/text"
+msgstr ""
+"Neostarフォームの画面に花火が打ち上がり、「昇進（PROMOTION）」という言葉が一文字ずつゆっくりと現れる。\n"
+"\n"
+"花火は数秒間炸裂し続け、画面はNeostarメガコーポレーション創設者、ソールの映像に切り替わる。幸運なことに、ただの録画ビデオだ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:273
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:275
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/text"
+msgstr ""
+"「おめでとう、Neostarジュニア社員よ！君は最初の昇進を成し遂げ、正式なNeostar社員となった。これからは担当したい配送任務を選べるようになり、より高い給与を得る機会があり、何より重要なこととして、今後は我が社の境界内での住居が公式に提供される！」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:277
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:279
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"ビデオが突然終わり、Neostarフォームに次のテキストが表示される。\n"
+"\n"
+"注意！「追加プレミアム報酬」というこれらの無料の機会は、ロイヤリティプログラム(R)の下で発行されるプレミアム報酬の受け取りを拒否した場合にのみ利用可能です。また、これらは少なくとも「Neostar(R)平均社員・第3等級」以上のランクを持つNeostar(R)社員のみが利用できます。\n"
+"\n"
+"受領済みのプレミアム報酬数: 7\n"
+"注意！あなたは「追加プレミアム報酬」プログラムの対象ではありません！「追加プレミアム報酬」の資格を得るには、プレミアム報酬を所定の手数料とともに最寄りのNeostar(R)代表オフィスへ提出してください。\n"
+"現在のNeostar(R)社員ランク: Neostar(R)ジュニア社員\n"
+"注意！あなたは「追加プレミアム報酬」プログラムの対象ではありません！\n"
+"\n"
+"「追加プレミアム報酬」を獲得するために必要な残りのランク数: 5\n"
+"残りのランク:\n"
+"1. Neostar(R)ジュニア社員・第2等級\n"
+"2. Neostar(R)ジュニア社員・第3等級\n"
+"3. Neostar(R)平均社員\n"
+"4. Neostar(R)平均社員・第2等級\n"
+"5. Neostar(R)平均社員・第3等級\n"
+"\n"
+"公式に「Neostar(R)ジュニア社員・第2等級」へ昇進するには、最寄りのNeostar(R)代表オフィスを訪問する必要があります。今後9システム日以内にこれを怠った場合、ペナルティが科せられます。\n"
+"\n"
+"最寄りのNeostar代表オフィス所在地: エラー！距離を特定できません。考えられる原因: 現在別の宇宙にいます。この問題を解決するには、Neostar(R)テクニカルスペシャリストへ連絡してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:300
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:302
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_LOYALTY_PROGRAM_FINAL\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"これはおそらく、あなたが見たかったものではないだろう。だが、怪しげな魚顔の人物に率いられた巨大企業に何を期待するというのか？\n"
+"\n"
+"まあ、少なくとも連邦を救うという最大の任務を果たせば、これらをすべて無視して新たな人生を始めることができる。Neostarフォームも、Neostar製品も、今乗っている船さえも返す必要はない。Neostarメガコーポレーションがいかに巨大であっても、ほとんどの宇宙に適用される法則を破ることはできないのだ……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:317
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/text"
+msgstr "Neostar(R)ジュニア社員FAQへようこそ。どの質問に興味がありますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:319
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/text"
+msgstr "Neostarメガコーポレーション(R)とは何ですか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:321
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/event/text"
+msgstr ""
+"Neostarメガコーポレーション(R)は、Neostar製品(R)の主要メーカーであり、販売代理店、そして民間輸送会社です。Neostar(R)は『Thesis"
+" "
+"Incarnation（テーシス転生）』全域で名高い企業です。低価格かつ高品質な製品により、ほとんどの宇宙帝国や宇宙政治主体と提携しています。Neostar(R)のもう一つの功績は、製品および顧客の荷物の高速配送です。光の橋交差点（Light"
+" Bridge Intersection(R)）技術のおかげで、『Thesis "
+"Incarnation』においてNeostarメガコーポレーション(R)が使用するものより速い輸送船は存在しません。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:323
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[1]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:329
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/text"
+msgstr "ロイヤリティプログラム(R)の下で、ボーナス支払いはどのくらいの頻度で受け取れますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:331
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/event/text"
+msgstr ""
+"ボーナス支払いの受け取りは、新しいロイヤリティレベル(R)に到達するために獲得するロイヤリティプログラムポイント(R)の数に直接依存します。配送任務完了時に得られるポイントは通常2ポイントですが、特別なケースとして、より多くの貨物を配送する必要がある場合は3ポイントになります。通常、新しいレベルに到達し、それに対応するボーナスを受け取るには5ポイント蓄積する必要があります。ただし、Neostar(R)ジュニア社員としてキャリアを開始する際、最初のボーナスはより少ないポイントで発行される可能性があります。昇進に直結するロイヤリティレベル(R)は全部で7つあります。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:333
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[2]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:339
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/text"
+msgstr "昇進後、何が待っていますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:341
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/event/text"
+msgstr ""
+"この質問への回答については、直属のNeostarメガコーポレーション(R)の上級管理責任者に連絡してください。それが不可能な場合、この質問に対する回答を特別にリクエストし、次のシステム年以内に受け取ることができます。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:343
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[3]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:349
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/text"
+msgstr "仕事中にNeostarクレート(R)を紛失した場合はどうなりますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:351
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/event/text"
+msgstr ""
+"Neostar(R)ジュニア社員の間は、これに対する罰則はありません。しかし、昇進後は、ジュニア社員時代に紛失した貨物に対する罰則が科せられます。これらの罰則には、現在の給与の減額、過去の給与の全額没収、Neostar星系の惑星「Firstflood（ファーストフラッド）」での強制労働などが含まれます（ただしこれらに限定されません）。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:353
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[4]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:359
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/text"
+msgstr "Neostar(R)ジュニア社員として、給与のボーナスを受け取ることはできますか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:361
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/event/text"
+msgstr "いいえ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:363
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[5]/event/choice/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:369
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TUTORIAL_MENU\"]/choice[6]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:375
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/text"
+msgstr "貨物の引き渡し準備をしている。時間はあまりかからないはずだ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:377
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
+" and @lvl=\"2\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:381
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
+" and @lvl=\"3\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:385
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK\"]/choice[@req=\"neostar_cargo_check\""
+" and @lvl=\"4\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:391
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/text"
+msgstr ""
+"あなたの船が別のNeostar船とドッキングし、貨物の転送を開始する。\n"
+"\n"
+"配送に必要なNeostarクレート(R): 2"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:395
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:397
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/text"
+msgstr "最初のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:400
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:402
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/text"
+msgstr "2番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:405
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:407
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「素晴らしい、これで全部だ。今回の配送で、ロイヤリティプログラムをレベルアップさせるポイントを2つあげるよ。君にとってまだ意味があるならだけど。あと、貨物転送の直接報酬として資源を渡す。また後で、同僚！」\n"
+"\n"
+"同僚たちはワームホールを通って故郷の宇宙へ戻り、ワームホールはすぐに閉じる。あなたも出発する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:421
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:429
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:431
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:434
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:442
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:444
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:447
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_2_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:455
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/text"
+msgstr ""
+"あなたの船が別のNeostar船とドッキングし、貨物の転送を開始する。\n"
+"\n"
+"配送に必要なNeostarクレート(R): 3"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:459
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:461
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/text"
+msgstr "最初のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:464
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:466
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/text"
+msgstr "2番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:469
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:471
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
+msgstr "3番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:474
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:476
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「素晴らしい、これで全部だ。今回の配送で、ロイヤリティプログラムをレベルアップさせるポイントを2つあげるよ。君にとってまだ意味があるならだけど。あと、貨物転送の直接報酬として資源を渡す。また後で、同僚！」\n"
+"\n"
+"同僚たちはワームホールを通って故郷の宇宙へ戻り、ワームホールはすぐに閉じる。あなたも出発する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:490
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:498
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:500
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:503
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:511
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:513
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:516
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:524
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:526
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:529
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_3_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:537
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/text"
+msgstr ""
+"あなたの船が別のNeostar船とドッキングし、貨物の転送を開始する。\n"
+"\n"
+"配送に必要なNeostarクレート(R): 4"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:541
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:543
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/text"
+msgstr "最初のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:546
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:548
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/text"
+msgstr "2番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:551
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:553
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
+msgstr "3番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:556
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:558
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and not(@lvl)]/event/text"
+msgstr "4番目のNeostarクレート(R)を引き渡す。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:561
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:563
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「素晴らしい、これで全部だ。今回の配送で、ロイヤリティプログラムをレベルアップさせるポイントを3つあげるよ。君にとってまだ意味があるならだけど。あと、貨物転送の直接報酬として資源を渡す。また後で、同僚！」\n"
+"\n"
+"同僚たちはワームホールを通って故郷の宇宙へ戻り、ワームホールはすぐに閉じる。あなたも出発する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:577
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:585
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:587
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:590
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:598
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:600
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:603
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:611
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:613
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:616
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and not(@lvl)]/event/choice[@req=\"EG_NEOSTAR_CARGO\" and "
+"@lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:624
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:626
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"テールのウリエルが連絡してくる。「うーん……必要な貨物を持っていないようだね。紛失したのかい？ふむ……この宇宙におけるNeostarメガコーポレーションのインターンとして、罰せられることはないけれど、次はもっと責任を持ってくれ……今回の配送に対する報酬はなしだ」"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:629
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_CARGO_CHECK_4_СARGO\"]/choice[@req=\"EG_NEOSTAR_CARGO\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:658
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): D-12-M\n"
+"目的地: U-E33, 大同盟, アッパー・プランツ, セクション KS-0S\n"
+"製品: 希少金属, 軍事製品\n"
+"合計貨物量: 4\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:668
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:670
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:673
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:675
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:678
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:680
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:683
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:685
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:688
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_1\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:704
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:716
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:724
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:726
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「大同盟への配送はいつも報酬がいいんだ。ここには大量の貨物が絶えず運び込まれている。機械知能の絶え間ない開発には、絶え間ない供給が必要だからね。大同盟を支えるロボットたちは寛大で、例えば『最高保管庫』のようなプロジェクトを維持するためなら費用を惜しまない。ロボットが宗教的な行動をとるなんて奇妙だが、彼らはあまりに多くの実存的な問いを自分たちに投げかけ、そのほとんどに答えられなかったらしい。それが、自分たちで新しい神々、つまり関係のない神話的なものを発明する結果を招いたという……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:734
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_1\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:742
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/text"
+msgstr ""
+"警告！新しい配送依頼があります。\n"
+"\t\n"
+"\t顧客（正規）：Ego Sum\n"
+"\t目的地：U-E33, Peaks, Planetary Formation Stones, Planetoid Sharps\n"
+"\t製品：砲兵システム\n"
+"\t合計貨物数量：3\n"
+"\t貨物転送プロセス：間接"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:752
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:754
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:757
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:759
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:762
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:764
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:767
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_2\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:781
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:793
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:801
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:803
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「Neostarは軍事開発にも関わっている。地元の首都政府『ピークス』から砲兵システムの注文が来たのも驚くことじゃない。『ピークス……ここは生活が過酷だ』というのは、この宇宙域の住民の口癖だ。ここは貧困層、追放者、逃亡犯罪者、そして『テーシス転生』全域の下層階級の代表たちの住処だ。常に何らかの確執や内紛があり、内部対立、時には血なまぐさい騒動さえ起きる。それにもかかわらず、Neostar社員の10％以上はピークスの元住民なんだ。当然だろう。あそこに住んで明日生きているか怯えるより、我々のメガコーポレーションに魂を売った方がマシだからな。そして……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:811
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_2\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:819
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): アイソラン・ザ・スケーリッド\n"
+"目的地: U-E33, Neostarメガコーポレーション, Neostar星系, 惑星ファーストフラッド, 流通ノード No.14\n"
+"製品: Neostar崩壊ジェネレーター(R)の部品\n"
+"備考: 廃棄のための製品リコール\n"
+"合計貨物量: 2\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:830
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:832
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:835
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:837
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:840
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_3\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:852
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:864
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:872
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:874
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「故郷へ製品を戻すなんてことは滅多にないよ。ましてやそこで廃棄するなんてね」ウリエルは少し悲しげになり、懐古し始める。「ああ、ソール・ザ・スモールギルドが我々の惑星ファーストフラッドで会社を創業した当時のことを思い出すよ。私はまだ子供だったが、彼の企業、つまりNeostarが恐ろしいスピードで成長し始めたのを鮮明に覚えている。Neostarの製品――家電、家具、家庭用品が海や地上の世界中で作られ、出荷されていた。その後、食品や医療品を作り始め、政府補助金や産業規模の注文を受けるようになった。ファーストフラッド中の工場が毎日増えていったんだ。Neostarはメガコーポレーションとなり、世界の他の主要企業を吸収し、軍事開発、宇宙進出、ハイドロフォーミングまで始めた……」\n"
+"\n"
+"「そしてある日、ほとんどの国家政府が崩壊した。経緯は詳しく話さないが、ソール・ザ・スモールギルドはその機会を逃さず、評判と権威を利用して唯一の支配者になった。そして惑星の新しい発展ベクトル、すなわち個々のニーズをすべて満たせる産業ユートピアを宣言したんだ。内部対立がなくなったファーストフラッドは急速に発展し、宇宙へ進出し、他帝国と外交関係を築き始めた。Neostar……いや、当時のNeostarメガコーポレーションは羨ましいほどの速さで境界を広げていった。すべてが順調だった。ああ、あの時代に戻りたいくらいだ！……しかしある日、我が支配者の野心が度を越した。社名の由来となった我々の恒星のエネルギーを、会社自身のために利用しようとしたんだ。我々の種族のほとんどが宇宙へ出ていた時、彼は太陽エネルギーの生産を人工的に加速させようとした。それが壊滅的な事態を招いた……。惑星の水のほとんどが蒸発したんだ。惑星の特性上、元々水位は低かったが、太陽が赤色巨星になった時、完全に干上がってしまった。全部ではないにしろ……今、この惑星を『ファーストフラッド（最初の洪水）』と呼ぶのは難しい。我々がどれほど水に依存していたか想像できるか？」\n"
+"\n"
+"「今、ファーストフラッドにはほとんど誰も住んでいない。我々のような水棲生物には暑すぎて、湿度も皆無だ。我々の種族は他の星系や惑星の軌道ステーションへ移住せざるを得なくなった。惑星の表面で茹で上がる心配をせずに快適に暮らすためにね。たとえ貨物を届けてすぐ立ち去るだけでも、あそこへ戻るのは辛い。だが、Neostarの直接雇用社員として他に選択肢があるか？ええ……私は元々教師だったんだ、同僚。稚魚たちに歴史を教えていた……すべてどこへ行ってしまったのか……」\n"
+"\n"
+"ウリエルは奇妙な様子で画面を凝視し、何かを期待している。「うむ、喋りすぎたかな。同僚と長話をしすぎると罰金を科されるんだ。システムが今回は許してくれたようだが……よし、仕事を始めよう！」\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:886
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_3\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:894
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (法人): E.N.B.\n"
+"目的地: U-E33, エルミ・ニュース・ブロック, 倉庫 A-2\n"
+"製品: Neostarビデオグラファー(R)\n"
+"合計貨物量: 2\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:904
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:906
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:909
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:911
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:914
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_4\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:926
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:938
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:946
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:948
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「エルミ・ニュース・ブロックは全宇宙で10億人以上を雇用している。その数を想像できるか？彼らは様々な種族出身で、情報エージェントやジャーナリストとして働いていることが多いが、ほとんどはどんなトピックでもニュース記事を書いている！エルミ・ステーションは、全宇宙が議題の最重要トピックを知ることを可能にしている。この組織は、ほとんどの平和的な文明に独自の代表事務所を持っている。Neostarメガコーポレーションでさえ持っていない強みだ！彼らの役割は本当に、本当に重要だ。『審判の刻』において、例えば彼らは……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:956
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_4\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:964
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): ヴィピ＝スヴィ\n"
+"目的地: U-E33, 中央同盟, ノヴァレテ帝国, プロトレテ星系, 惑星レテ, ミニレテ軌道都市\n"
+"製品: 希少金属, 医療機器\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:974
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:976
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:979
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:981
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:984
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:986
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:989
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_5\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1003
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1015
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1023
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1025
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「おっ、ノヴァレテへの配送だな！レテ人は平和な人々だ。全宇宙でこれほど平和な生き物は滅多に見つからないよ。彼らは遺伝的に発達した共感能力を持っていて、他の生き物が苦しむのを見ていられない。その代わり、あらゆる方法で近隣帝国を利することに努めている。なぜそんなことを話しているのか自分でもわからないが、配送の詳細もないのに、私はこの種族が本当に好きなんだ。無害で可愛らしい見た目なんだぞ、想像できるか？一対の翼と一つの目、灰色の肌を持つ小さな生き物だ。本当に小さな天使のように見えるんだ！そして彼らは……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1033
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_5\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1041
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (法人): カストロフィス（Castrophis）\n"
+"目的地: U-E33, テラ・ウルティマ, カストロフィス・ステーション, 下層階, 3階\n"
+"製品: 無線機器, 迷彩フィールドジェネレーター\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1051
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1053
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1056
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1058
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1061
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1063
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1066
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_6\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1080
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1092
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1100
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1102
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「最近、カストロフィス・ステーションからの配送が多いな。終末論者たちが何か理由で忙しくしているのかな？終末論協会は若い組織だが、研究分野ではかなりの影響力を持っている。世界が他より先に闇に飲み込まれる可能性に関連する衝突を防ぐ手助けをしているんだ。彼らの仕事が我々の宇宙でなぜ重要なのか説明するのは難しいし、他宇宙の人間に理解してもらうのはもっと難しいが、やってみたい。まずは……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1110
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_6\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1118
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): プロトテウス・プライム\n"
+"目的地: U-E33, ベルフライ\n"
+"製品: 医療機器, 余暇用品\n"
+"備考: 最寄りの聖域に届けてください。ありがとう。\n"
+"合計貨物量: 4\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1129
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1131
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1134
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1136
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1139
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1141
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1144
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1146
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1149
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_7\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1165
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1177
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1185
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1187
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「宇宙の中心に直接配送する依頼なんて滅多にない。人道支援の依頼ならなおさらだ。ベルフライは高い地位と非常に重要な役割を持つにもかかわらず、理由は知らないが人気がない。Neostarメガコーポレーションにとって、ピークスやオメガ宙域への配送より供給量は少ないだろう。もちろん、ベルフライや『両方の因果の柱』の原住民は純粋な禁欲主義者で、文明の恩恵を無視している。だが、彼らが何も必要としていないという意味ではない。セクンダがどれほど努力しようと……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1195
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_7\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1203
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): デイ（Day）\n"
+"目的地: U-E33, エオス\n"
+"製品: 特別マーク付き注文 No.42\n"
+"備考: 警備員に預けてくれ。彼が君を見つけるはずだ。\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1214
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1216
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1219
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1221
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1224
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1226
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1229
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_8\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1243
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1255
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1263
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1265
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「エオスへの配送だって？エオスの所有者、デイは我々の宇宙の非常に重要な人物だ。彼は『Solsプロジェクト』の責任者。恐ろしい力を持つ単一のアーティファクトから生まれた『若き宇宙』と接触した知的機械のプロジェクトさ。彼は無実の者の守護者であり、聡明な発明家であり科学者だ。二人組の『創造主』とも個人的に知り合いで、宇宙のあらゆる隅々で権威と認識を得ている。正直、彼は私のアイドルなんだ。君と私にこの配送が回ってきたのは嬉しいね。エオスを直接見るのが楽しみだ。行ったことがないんだよ。ああ、この木箱に何が入っているか知ってるか？デイはまた何かを……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1273
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_8\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1281
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (法人): ルーメン財団\n"
+"目的地: U-E33, 外地, 灯台ステーション, 物流区画\n"
+"製品: 対闇レギュレーター\n"
+"合計貨物量: 2\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1291
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1293
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1296
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1298
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1301
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_9\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1313
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1325
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1333
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1335
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「ふむ……灯台ステーションへの直接配送か！『Postulate（公理）』の身体を見る稀な機会だ。ここが、観測可能な宇宙の境界の外側に位置する、唯一のステーション、いや宇宙で唯一の場所だと知っていたか？そこで働く科学者たちは常に危険に身をさらし、『闇』の深淵へ突き進んでいる。公理を腐食させる『対闇レギュレーター』が機能している限りは安全だ。十分なレギュレーターで止められなければ、『闇』はすべてを破壊する。無機物も有機物もすべてだ。創造主さえも恐れる危険。我々も恐れる危険。避けられず、多面的で、理解不能で、そして……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1343
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_9\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1351
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (法人): 武闘派シェルター\n"
+"目的地: U-E33, ライオン軍団, インサイザー星系, インサイザーII, セディア・ヘスタトリア市, 大邸宅\n"
+"製品: クォークレベル分解機\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1361
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1363
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1366
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1368
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1371
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_10\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1383
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1395
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1403
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1405
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「不死のライオンたち！ライオン軍団は彼らの永遠の肉体の永遠の住処だ！彼らは最も好戦的な頂点捕食者。その気になれば全宇宙に戦争を仕掛け、確実に勝利するだろう。まあ、少し誇張だが、要点はわかるだろ……基本的に彼らは不死身で、それが否定できない強みだ。だが問題は、不死身というものが外の世界からは到達不能な祝福に見えても、ライオン自身にとっては最悪の呪いだということだ。例えば、連続殺人犯のライオンを排除できないとすればどうする？どうすることもできないからだ。そんな時のために、『Vitae Nostra』の科学者がクォークレベル分解機を開発した。ライオンを数百万の粒子に分割し、その後、一つ一つの粒子を破壊できる機械だ。かなり恐ろしい処刑方法だよ、ライオンは……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1413
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_10\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1421
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (法人): 新道路プロジェクト\n"
+"目的地: U-E33, 星間造船所, アストロトレイン・ステーション, エンジン区画\n"
+"製品: 特別マーク付き注文 No.14\n"
+"合計貨物量: 4\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1431
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1433
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1436
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1438
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1441
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1443
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1446
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1448
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1451
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_11\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1467
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1479
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1487
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1489
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「ふむ……星間造船所からの注文は久々だな。彼らは通常、新しい『ライトウェイ（光の道）』の敷設は自前でやるんだが、今回は何かうまくいかなかったらしい。中央同盟が宇宙航路の改修に真剣に取り組んでいるのは良いことだ。航行は以前よりずっと快適で、不安も少なくなった。以前、立証は難しいが、ライトブリッジが完全に破壊される……いや、違うな。ある極めて低い確率で、特定の船を全現実から完全に抹消する可能性があるという報告があった。抹消された船は何一つ残らない。単なる船としてだけでなく、船という概念としても消えてしまうんだ！わかってないのか？まあ、我々の宇宙の特異性が関わっているんだ。結局のところ、始祖神テーシスがかつて……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1497
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_11\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1505
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): ギコク・ペルペティエル\n"
+"目的地: U-E33, 外交領事館, ガーヴス星系, 惑星アンドリオン, ナカトミ入植地\n"
+"製品: 多機能ドローン\n"
+"合計貨物量: 4\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1515
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1517
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1520
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1522
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1525
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1527
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1530
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1532
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1535
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_12\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1551
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1563
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1571
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1573
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「外交領事館についてはほとんど知らない……そこのエージェントは『Work』や『創造主』たちと、距離が離れているにもかかわらず何らかの方法で繋がっているんだ……さらに笑えるのは、今回エージェントの一人がドローンを4箱も注文したことだ！彼らは機械類を何よりも嫌っているんだぞ？宇宙船にさえ機械部品が一つもなく、バイオコンポーネントだけでできているんだ。人工知能の代わりに、生き物の発達した意識が備わっている。素晴らしくないか？もっと驚くべき話がある。あるエージェントがかつて……を殺したという噂があるんだ……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1581
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_12\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1589
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): プス・コロリス"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1599
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1601
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1604
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1606
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1609
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1611
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1614
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_13\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1628
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1640
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1648
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1650
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「ああ、モノクローム。滅びゆく世界だ。最も悲劇的な運命をたどる世界の一つだな。『Postulate（公理）』の体と、我々の観測可能な宇宙との境界に位置しているんだ。『闇』がモノクロームを日々食いつぶしているが、この惑星は完全には死ねない。非常に神秘的な世界で、『公理』の力で破壊されるどころか、それによって養われているかもしれない。しかし、だからといって住民が抵抗しなくていいわけではない。逆に、『闇』の力へ完全移行すればずっと強くなるだろうが、幸せにはなれないだろうな……。ああ、誰が『公理』か話してなかったな？そうだな、この存在――というか創造主は、その肉からあらゆるものが編み出され……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1658
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_13\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1666
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): [未定義]\n"
+"目的地: U-E33, 第一星雲\n"
+"製品: 教材\n"
+"備考: 貨物を星雲空間に投棄してください。\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1677
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1679
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1682
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1684
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1687
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1689
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1692
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_14\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1706
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1718
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1726
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1728
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「面白い依頼だ。第一星雲は実質的に、星雲の形をした巨大な集合知性なんだ。個々の粒子にはもちろん意識があり、他の粒子と個別に通信できるが、一緒になると『ボルツマン脳』のような存在になる。そんな話を聞いたことはあるか？第一星雲は、一つの集合知性として、他の知的生命体とはめったに関わらないのだが、どういうわけか今、我々に興味を示しているようだ。ああ、彼らが我々の宇宙で最も古くから存在する存在の一つだって知ってたか？どの宇宙文明が『最初』だったのかについては論争があるが、第一星雲はその深淵に、謎を解く鍵の破片の一つを確実に隠し持っていて……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1736
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_14\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1744
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): [未定義]\n"
+"目的地: U-E33, Work, 記法球体\n"
+"製品: 特別マーク付き注文 No.02\n"
+"合計貨物量: 3\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1754
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1756
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1759
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/text"
+msgstr "準備を続ける……"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1761
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/text"
+msgstr "配送用の貨物の準備を続ける。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1764
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1766
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1769
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_15\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1783
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1795
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1803
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1805
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「まさか……『Work』への直接配送だって？……『Work』へだって？本気か？君がこの貨物を保管して、ここに運ぶ任務を負ったのか？『創造主』は我々の世界の神々だぞ？彼らはあらゆる技術を極めていて、気になればこんな箱を1000個でも作り出せる！それを考えると、この貨物には創造主にとっても、『Work』全体にとっても非常に重要な何かがある気がする。神々でさえ創造、あるいは再創造できない何かが……待て、これは『記法球体』への直接配送でもあるのか！同僚、球体に住む創造主は今まで一度も……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1813
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_15\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1821
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/text"
+msgstr ""
+"注意！新しい配送依頼があります。\n"
+"\n"
+"顧客 (個人): サヴィニール・レイン\n"
+"目的地: U-E33, テラ・ウルティマ, 太陽系, 地球, 浮遊都市ヘレディタス, テラ研究所\n"
+"製品: 科学製品\n"
+"合計貨物量: 2\n"
+"貨物転送プロセス: 間接的"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1831
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1833
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/text"
+msgstr "配送用の貨物を準備する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1836
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/text"
+msgstr "準備を完了する。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1838
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/event/text"
+msgstr "貨物の準備が整った。目的地へ配送する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1841
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$/dummyroot/event[@name=\"EG_NEOSTAR_LIST_OF_TASKS_16\"]/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1853
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/beaconType/unvisitedTooltip"
+msgstr "ここがNeostar貨物の配送先だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1865
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/text"
+msgstr ""
+"配送座標に到着する。近くに活動中のワームホールがあり、そのそばを別のNeostar船が漂流している。相手が通信を送ってきた。\n"
+"\n"
+"画面に現れたのは、あなたの雇用主と同じ種族の人型両生類だが、非常に疲れている様子だ。これは「テールのウリエル」。ジュニア・アソシエイトであるあなたの代わりに、別の宇宙で任務を遂行するあなたの補佐としてNeostarに割り当てられている。あなたの特別な地位のため、直接貨物を配送することはできない。彼を通じて個人的に行う必要がある。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1873
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1875
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/event/text"
+msgstr ""
+"テールのウリエルが親しげに挨拶し、なぜかこの配送について語り始める。\n"
+"\n"
+"「なあ同僚、サヴィニール・レインはとても重要な人物だ。テラ・ウルティマの事実上の創設者の一人さ……エリザベスだったかな？そう、確かその名前だ。テラ研究所には十分すぎるほどの機材があるはずなのに、なぜさらに科学機器が必要なんだろうな。あの研究所はテラ・ウルティマ全体でも最大級だって知ってたか？浮遊都市の全域を占めているようなもんだぞ！ああ、それと、なぜ地球全体が今や水に覆われて、陸地が一片もないか知っているか？あれは、地球の海が血の色に染まった時に始まった……」\n"
+"\n"
+"突然、同僚のNeostarフォームから警告音が鳴る。テールのウリエルが長話で罰金を科されたという通知だ。さて、仕事に取り掛かろう。\n"
+"\n"
+"注意: 保有しているNeostarクレート(R)は、Neostarフォーム(R)メニューから転送してください。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1883
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_TASK_16\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1891
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/text"
+msgstr "すべてのNeostarクレート(R)を転送したか確認しましたか？"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1893
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/text"
+msgstr "はい。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1895
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/event/text"
+msgstr "同僚たちはワームホールを通って故郷の宇宙へ戻っていく。ワームホールはすぐに閉じようとしている。あなたも出発する時だ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1902
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1908
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/text"
+msgstr "いいえ。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1910
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/event/text"
+msgstr "すべての貨物が配送されたことを確認することにする。"
+
+#: src-en/data/events_special_eg_neostar_cargo.xml:1913
+msgid ""
+"data/events_special_eg_neostar_cargo.xml$//event[@name=\"EG_NEOSTAR_WARNING\"]/choice[2]/event/choice/text"
+msgstr "次へ…"

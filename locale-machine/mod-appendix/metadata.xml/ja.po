@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/mod-appendix/metadata.xml:2
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
+msgstr "エシャトン・ジェネシス"
+
+#: src-en/mod-appendix/metadata.xml:5
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
+msgstr ""
+"– 7つのクエスト\n"
+"– 合計30種類の新しい船（タイプを含む）\n"
+"– 2人の新しいユニーククルー\n"
+"– 1つの新しい種族\n"
+"– 手ごわいミニボス\n"
+"– 新しいオーグメントと武器\n"
+"\n"
+"「奇跡の探求者」は自らの意志でこの宇宙に入ったわけではなく、長い間帰還することはできないだろう。セクター5に到着したら、彼らのステーションのビーコンへ向かい、この組織についてより深く知り、特定の任務を請け負おう。もちろん彼らには多くの秘密があり、必ずしも真実のすべてを語るわけではないが、今のところ、彼らの抱える数々の問題を手助けできるのは君だけだ。\n"
+"\n"
+"メタ評判システムにより、「奇跡の探求者」と親交を深めることができる。任務を完了するたびに、彼らのステーションで新しい機会が得られる。彼らの故郷の宇宙に関する情報の入手から、長年の友情への感謝として定期的に贈り物を受け取るまで様々だ。"

@@ -1,0 +1,2210 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:6
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
+msgstr "破片"
+
+#: src-en/data/blueprints.xml.append:7
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/desc"
+msgstr "破片。これを見ることは本来想定されていない。"
+
+#: src-en/data/blueprints.xml.append:17
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/title"
+msgstr "ネオスター・クレート (R)"
+
+#: src-en/data/blueprints.xml.append:18
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/short"
+msgstr "ネオスター・クレート (R)"
+
+#: src-en/data/blueprints.xml.append:19
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/desc"
+msgstr ""
+"ネオスター・メガコープ (R) の最先端開発品である、様々な貨物がぎっしりと詰まったクレート！時空連続体の特定の混乱のおかげで、競合他社の同サイズのクレートの少なくとも3倍の貨物を収納可能！\n"
+"\tネオスター (R) 社員への注記：何としても貨物を配送すること。いかなる既知の手段を使っても販売したり、ハッキングを試みたりしてはならない。ネオスター・メガコープの特殊セキュリティシステム (R) が直ちにクレートの中身を破壊し、貨物の紛失が確認された場合、あなたは罰則の対象となる。"
+
+#: src-en/data/blueprints.xml.append:21
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_CARGO\"]/tooltip"
+msgstr "ストレージ兵器"
+
+#: src-en/data/blueprints.xml.append:36
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/title"
+msgstr "コーポレートの肖像画"
+
+#: src-en/data/blueprints.xml.append:37
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_CORPORATE_GIFT\"]/desc"
+msgstr ""
+"プレスされたフォーマルスーツとサングラスを身につけた金髪の男性が、この肖像画からあなたを見て優しく微笑んでいる。これはコーポレートからの個人的な贈り物であり、傲慢に見えるかもしれないが、彼自身が描かれている。この肖像画が船内にある間、クルーは修理と移動速度に20%のボーナス、すべての船で回復速度に30%のボーナスを受ける。"
+
+#: src-en/data/blueprints.xml.append:44
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/title"
+msgstr "ユニオン協定"
+
+#: src-en/data/blueprints.xml.append:45
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_MIRACLE_ALLIANCE\"]/desc"
+msgstr "完全に無益な文書。何の効果もない。30スクラップで売却可能。"
+
+#: src-en/data/blueprints.xml.append:52
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/title"
+msgstr "民間人"
+
+#: src-en/data/blueprints.xml.append:53
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SECOND_VOICE_CIVIL\"]/desc"
+msgstr ""
+"あなたの船はセカンド・ヴォイスの民間船です。他の民間船と同様、非常に小さく多くの重大な欠点がありますが、微妙な利点も提供します。特別なメニューで自分の船を民間船として登録することで、全体の悪名やほとんどの平和的な勢力に対する悪名を減らし、そのメニューの他の機能にアクセスできるようになります。民間船の機動性と速度により、ほとんどのソースから25%多くのスクラップを回収できます。船が小さいため、兵器のリチャージが10%速くなり、シールドのリチャージが15%速くなります。"
+
+#: src-en/data/blueprints.xml.append:61
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/title"
+msgstr "セカンド・ヴォイスの船"
+
+#: src-en/data/blueprints.xml.append:62
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SECOND_VOICE\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:71
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/title"
+msgstr "ロイヤリティプログラム (R)"
+
+#: src-en/data/blueprints.xml.append:72
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LOYALTY_PROGRAM\"]/desc"
+msgstr ""
+"イノベーティブ・ディベロップメント (R) と貨物輸送 (R) に注力する最先端の宇宙メガコーポレーション (R)、ネオスター・メガコープ (R) のジュニア従業員ですか？何を期待すべきかわからずにこの仕事に就きましたか？問題ありません。ネオスター・フォーム (R) に直接統合されたネオスター・メガコープ・ジュニア配送従業員トレーニングガイド (R) とロイヤリティプログラム (R) が、新しい職場環境への適応を支援します！様々な貨物で満杯になった拡張貨物ホールドに気づいたことでしょう。ネオスター・フォーム (R) を使用すると、特別な貨物配送タスクを受け取り、それを完了して報酬を得ることができます。これはロイヤリティレベル (R) も上昇させます。ロイヤリティレベル (R) が上がるごとに昇進に近づき、プレミアムリワード (R) を獲得できます。想像していたよりもずっと簡単で、こんなに単純な仕事に就けたことに安心していますか？それでは幸運を、ネオスター・メガコープ (R) ジュニア従業員！質問はありますか？ネオスター・フォーム (R) のジュニア従業員FAQ (R) を参照してください！\n"
+"\n"
+"\t注：ネオスター・メガコープ (R) は貨物配送中の安全を保証しません。苦情や提案は8-800-555-35-35まで。覚えておいてください：ネオスター・メガコープ (R) はあなたの幸福を大切にしています！"
+
+#: src-en/data/blueprints.xml.append:82
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/title"
+msgstr "ネオスターの船"
+
+#: src-en/data/blueprints.xml.append:83
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_NEOSTAR\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:92
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
+msgstr "夢探求者の心臓"
+
+#: src-en/data/blueprints.xml.append:93
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/desc"
+msgstr "クルーが精神支配を無視できるようになる。自身の精神支配のリチャージが5秒速くなる。"
+
+#: src-en/data/blueprints.xml.append:102
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/title"
+msgstr "装甲板"
+
+#: src-en/data/blueprints.xml.append:103
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR\"]/desc"
+msgstr ""
+"装甲板を船に取り付けると、5%の確率で船体へのダメージを、10%の確率でシステムへのダメージを防ぐ。ストレージメニューから船に統合することで、オーグメントスロットを占有しないようにできる。"
+
+#: src-en/data/blueprints.xml.append:111
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/title"
+msgstr "装甲板"
+
+#: src-en/data/blueprints.xml.append:112
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ROBUR_ARMOR_INTERNAL\"]/desc"
+msgstr "装甲板を船に取り付けると、5%の確率で船体へのダメージを、10%の確率でシステムへのダメージを防ぐ。"
+
+#: src-en/data/blueprints.xml.append:121
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/title"
+msgstr "夢の殿堂"
+
+#: src-en/data/blueprints.xml.append:122
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER\"]/desc"
+msgstr ""
+"信仰により、戦闘中に一定回数『全願望の夢』に祈りを捧げて特定の支援を受けたり、空のビーコンで祈って報酬を受け取ったりすることができる。この船と共にこの宇宙に入った夢想者の残留力が、あなたの夢を叶えようとする。"
+
+#: src-en/data/blueprints.xml.append:130
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/title"
+msgstr "夢の教団"
+
+#: src-en/data/blueprints.xml.append:131
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAMPRAYER_CULT\"]/desc"
+msgstr ""
+"『全願望の夢』への信仰が過激すぎるのかもしれない。空のビーコンで大量のリソースを得たり、戦闘で大きな支援を受けたりといった、夢想者からの確実で強力な助けを得られる機会があるが、代償としてクルーの一人の命を差し出さなければならない…"
+
+#: src-en/data/blueprints.xml.append:139
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/title"
+msgstr "全願望の夢の教会"
+
+#: src-en/data/blueprints.xml.append:140
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DREAMPRAYER\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:149
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/title"
+msgstr "ガーディアン・プロテクター"
+
+#: src-en/data/blueprints.xml.append:150
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_GUARDIANS_PROTECTOR\"]/desc"
+msgstr "耐久値120を誇る、ほぼ破壊不能なスーパーシールド。通常のシールドのリチャージ率を150%増加させる。"
+
+#: src-en/data/blueprints.xml.append:159
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/title"
+msgstr "不可侵の装甲"
+
+#: src-en/data/blueprints.xml.append:160
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ENEMY_IMPENETRABLE_ARMOR\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:168
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/title"
+msgstr "不可侵の装甲 I"
+
+#: src-en/data/blueprints.xml.append:169
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_1\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は改良されておらず、船体ダメージを10%の確率で、システムダメージを40%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。アップグレードレベル3で、装甲は以降のアップグレードごとに武器のリロードを5%高速化する。レベル5からは、戦闘前に敵に体当たりする能力を獲得する。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:177
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/title"
+msgstr "不可侵の装甲 II"
+
+#: src-en/data/blueprints.xml.append:178
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_2\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを20%の確率で、システムダメージを50%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。アップグレードレベル3で、装甲は以降のアップグレードごとに武器のリロードを5%高速化する。レベル5からは、戦闘前に敵に体当たりする能力を獲得する。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:186
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/title"
+msgstr "不可侵の装甲 III"
+
+#: src-en/data/blueprints.xml.append:187
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_3\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを30%の確率で、システムダメージを60%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。さらに武器のリロードを5%高速化し、以降のアップグレードごとにリロードを5%追加で高速化する。レベル5からは、戦闘前に敵に体当たりする能力を獲得する。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:195
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/title"
+msgstr "不可侵の装甲 IV"
+
+#: src-en/data/blueprints.xml.append:196
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_4\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを40%の確率で、システムダメージを70%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。さらに武器のリロードを10%高速化し、以降のアップグレードごとにリロードを5%追加で高速化する。レベル5からは、戦闘前に敵に体当たりする能力を獲得する。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:204
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/title"
+msgstr "不可侵の装甲 V"
+
+#: src-en/data/blueprints.xml.append:205
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_5\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを50%の確率で、システムダメージを80%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。さらに武器のリロードを15%高速化し、以降のアップグレードごとにリロードを5%追加で高速化する。さらに、戦闘前に敵に体当たりできるようになった。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:213
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/title"
+msgstr "不可侵の装甲 VI"
+
+#: src-en/data/blueprints.xml.append:214
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_6\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを60%の確率で、システムダメージを90%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%、システムダメージ無効化率が10%追加される。さらに武器のリロードを20%高速化し、以降のアップグレードごとにリロードを5%追加で高速化する。さらに、戦闘前に敵に体当たりできるようになった。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:222
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/title"
+msgstr "不可侵の装甲 VII"
+
+#: src-en/data/blueprints.xml.append:223
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_7\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを70%の確率で、システムダメージを100%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が10%追加される。さらに武器のリロードを25%高速化し、以降のアップグレードごとにリロードを3%追加で高速化する。さらに、戦闘前に敵に体当たりできるようになった。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:231
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/title"
+msgstr "不可侵の装甲 VIII"
+
+#: src-en/data/blueprints.xml.append:232
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_8\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを80%の確率で、システムダメージを100%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が5%追加される。さらに武器のリロードを28%高速化し、以降のアップグレードごとにリロードを3%追加で高速化する。さらに、戦闘前に敵に体当たりできるようになった。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:240
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/title"
+msgstr "不可侵の装甲 IX"
+
+#: src-en/data/blueprints.xml.append:241
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_9\"]/desc"
+msgstr ""
+"船体は非常に頑丈だが、大ダメージを避けるには絶え間ない改良が必要だ。現在、装甲は船体ダメージを85%の確率で、システムダメージを100%の確率で無効化できる。アップグレードレベルごとに、ダメージ無効化率が5%追加される。さらに武器のリロードを31%高速化し、以降のアップグレードごとにリロードを3%追加で高速化する。さらに、戦闘前に敵に体当たりできるようになった。船体装甲のアップグレードには、船に20のダメージを与えるコストがかかる。"
+
+#: src-en/data/blueprints.xml.append:249
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/title"
+msgstr "不可侵の装甲 X"
+
+#: src-en/data/blueprints.xml.append:250
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_IMPENETRABLE_ARMOR_10\"]/desc"
+msgstr ""
+"船体は非常に頑丈だ。その装甲は船体ダメージを90%の確率で、システムダメージを100%の確率で無効化できる。さらに武器のリロードを34%高速化する。戦闘前に敵に体当たりする能力を備えている。幸運を、レネゲイド。"
+
+#: src-en/data/blueprints.xml.append:259
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/title"
+msgstr "ASBプラットフォーム・プリンター"
+
+#: src-en/data/blueprints.xml.append:260
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB\"]/desc"
+msgstr ""
+"戦闘前、船は自律展開型のASBプラットフォームを発射し、燃料3、ミサイル2、またはドローンパーツ2のいずれかのコストで敵を攻撃できる。スクラップアームまたはマグネティックアームをインストールすれば、プラットフォームを無料で発射可能。"
+
+#: src-en/data/blueprints.xml.append:268
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/title"
+msgstr "ASBプラットフォーム・プリンター"
+
+#: src-en/data/blueprints.xml.append:269
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_LESSER_GUARDIAN_ASB_INFO\"]/desc"
+msgstr ""
+"戦闘前、船は自律展開型のASBプラットフォームを発射し、燃料3、ミサイル2、またはドローンパーツ2のいずれかのコストで敵を攻撃できる。スクラップアームまたはマグネティックアームをインストールすれば、プラットフォームを無料で発射可能。[このオーグメントは破棄または売却可能です；船に内蔵されており、情報提供目的でのみここに存在します]。"
+
+#: src-en/data/blueprints.xml.append:277
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/title"
+msgstr "下級ガーディアン"
+
+#: src-en/data/blueprints.xml.append:278
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_LESSER_GUARDIAN\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:285
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/title"
+msgstr "シロアリコロニー"
+
+#: src-en/data/blueprints.xml.append:286
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_TERMITE_COLONY\"]/desc"
+msgstr ""
+"シロアリは甲虫のバイオシップで移動する。彼らの船はある程度の再生能力を持ち、自動的に穴を塞ぎ、火を消し、システムを修理する。甲虫の厚いキチン質の殻は、船体へのダメージを無視する+15%の確率を与える。昆虫種族のみが甲虫間を移動可能。"
+
+#: src-en/data/blueprints.xml.append:294
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/title"
+msgstr "シロアリの群れ"
+
+#: src-en/data/blueprints.xml.append:295
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_TERMITES\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:302
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/title"
+msgstr "ホワイト皇帝の船"
+
+#: src-en/data/blueprints.xml.append:303
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GOLIATH\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:309
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/title"
+msgstr "ホワイト皇帝のクローン船"
+
+#: src-en/data/blueprints.xml.append:310
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_DAVID\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:316
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/title"
+msgstr "植物群落プロトタイプ"
+
+#: src-en/data/blueprints.xml.append:317
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_PROTOTYPE\"]/desc"
+msgstr ""
+"この船のエンジンは生きた植物群落のバイオソースで駆動し、初期リアクターエネルギー+3を提供し、燃料1で宙域内のどのビーコンへも移動可能。生きた植物群落からの胞子が船内に広がり、敵のボーダーに毎秒2ダメージを与える。プロトタイプの不安定さにより、船のシステムの修理速度が50%に低下している。"
+
+#: src-en/data/blueprints.xml.append:323
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/title"
+msgstr "生きた植物群落"
+
+#: src-en/data/blueprints.xml.append:324
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_PHYTOCENOSIS_LIVING\"]/desc"
+msgstr ""
+"この船のエンジンは生きた植物群落のバイオソースで駆動し、初期リアクターエネルギー+3を提供し、燃料2で宙域内のどのビーコンへも移動可能。鎮静化された生きた植物群落からの胞子が船内に広がり、敵のボーダーに毎秒1ダメージを与え、部屋の穴を修理する。"
+
+#: src-en/data/blueprints.xml.append:330
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/title"
+msgstr "ホワイト・ガーデン"
+
+#: src-en/data/blueprints.xml.append:331
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_WHITE_GARDEN\"]/desc"
+msgstr ""
+"皇帝のクローンの美しい庭園が船尾にある。酸素システムが稼働していれば、そのエネルギー1単位につき、味方クルーの最大体力+15%、移動速度+10%の効果が味方船と敵船の両方で得られる。さらに、窒息に対する固定+30%の耐性と毎秒1の体力再生を提供する。"
+
+#: src-en/data/blueprints.xml.append:338
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/title"
+msgstr "ロブールの船"
+
+#: src-en/data/blueprints.xml.append:339
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ROBUR\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:346
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/title"
+msgstr "ガラスの船"
+
+#: src-en/data/blueprints.xml.append:347
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GLASS_SHIP\"]/desc"
+msgstr ""
+"この船の船体は特殊なガラスだけで作られている。耐久性は低下するが、35%の確率でイオンダメージを、10%の確率で船体ダメージを無視できる。また、船内の火災は自動的に消火され、クルーは精神支配に対して免疫を持つ。ボーナスとして、武器のリロード速度が10%増加する。"
+
+#: src-en/data/blueprints.xml.append:355
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/title"
+msgstr "ガラスの船"
+
+#: src-en/data/blueprints.xml.append:356
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GLASSSHIP\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:362
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/title"
+msgstr "ミラーの船"
+
+#: src-en/data/blueprints.xml.append:363
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MIRRORED\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:370
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/title"
+msgstr "バッテリーパック"
+
+#: src-en/data/blueprints.xml.append:371
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_BATTERY_PACK\"]/desc"
+msgstr ""
+"このパックには明らかにバッテリーが含まれている。65スクラップで売却するか、保持してシールドリチャージ+7%、武器リチャージ+5%を得ることができる。"
+
+#: src-en/data/blueprints.xml.append:379
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/title"
+msgstr "ハイテク・バッテリー"
+
+#: src-en/data/blueprints.xml.append:380
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_COOL_BATTERY\"]/desc"
+msgstr ""
+"海賊に盗まれたハイテク・バッテリーを回収した。各150スクラップで売却するか、保持してシールドリチャージ+12%、武器リチャージ+9%を得ることができる。"
+
+#: src-en/data/blueprints.xml.append:388
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/title"
+msgstr "バッテリー商人の船"
+
+#: src-en/data/blueprints.xml.append:389
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_BATTERY_MERCHANT\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:396
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/title"
+msgstr "月の口づけ"
+
+#: src-en/data/blueprints.xml.append:397
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_LUNAR_KISS\"]/desc"
+msgstr ""
+"船のリアクターとして機能するミニチュア星のおかげで、当初から最大エネルギーレベルを持つ。この星は船にイオンダメージに対する完全な耐性を与え、武器のリロード速度を15%向上させるが、星の活動により武器システム自体は劣悪な状態にある。星を稼働させ続けるため、発見したすべてのスクラップの50%を燃料として燃やさなければならない。"
+
+#: src-en/data/blueprints.xml.append:405
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/title"
+msgstr "ソラーラの口づけ"
+
+#: src-en/data/blueprints.xml.append:406
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SOLARA_KISS\"]/desc"
+msgstr ""
+"船のリアクターとして機能するミニチュア星のおかげで、当初から最大エネルギーレベルを持つ。星は特別な12層のソーラーシールドを作り出し、通常シールドのリチャージ率を45%向上させるが、過負荷のため、ソーラーシールドに加えて通常シールドを最大2層までしか持てない。星を稼働させ続けるため、発見したすべてのスクラップの50%を燃料として燃やさなければならない。"
+
+#: src-en/data/blueprints.xml.append:414
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/title"
+msgstr "アストラの口づけ"
+
+#: src-en/data/blueprints.xml.append:415
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_ASTRA_KISS\"]/desc"
+msgstr ""
+"船のリアクターとして機能するミニチュア星のおかげで、当初から最大エネルギーレベルを持つ。星は船にイオンダメージに対する完全な耐性を与え、武器リチャージを15%向上させ、通常シールドのリチャージを向上させる特別な12層のソーラーシールドを作り出す。星を稼働させ続けるため、発見したすべてのスクラップの70%を燃料として燃やさなければならない。ルナとソラーラがあなたを愛しているため、ミニチュア星の他の悪影響に悩まされることはない。"
+
+#: src-en/data/blueprints.xml.append:423
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/title"
+msgstr "月なき船"
+
+#: src-en/data/blueprints.xml.append:424
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_MOONLESS\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:430
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/title"
+msgstr "ヴァカンスの船"
+
+#: src-en/data/blueprints.xml.append:431
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_VAKANS\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:438
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/title"
+msgstr "リーパーの船"
+
+#: src-en/data/blueprints.xml.append:439
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_REAPER\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:446
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/title"
+msgstr "エシャトロジスト"
+
+#: src-en/data/blueprints.xml.append:447
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_ESCHATOLOGISTS\"]/desc"
+msgstr ""
+"あなたは調査船を指揮しているため、長距離スキャナー、スリップスキャナー、生命体スキャナーが最初からセンサーシステムに組み込まれている。全体マップ上で全宙域の名前を確認できる。さらに、クルーは戦闘時の体力とダメージを最大1.3倍に増加させる高度な装備を身につけている。船のクルーが守る不干渉のドグマに反して、この状況下でそれらを使い続けるかどうかを決めるのはあなた次第だ。"
+
+#: src-en/data/blueprints.xml.append:455
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/title"
+msgstr "エシャトロジストの船"
+
+#: src-en/data/blueprints.xml.append:456
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_ESCHATOLOGISTS\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:463
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/title"
+msgstr "サーチャー"
+
+#: src-en/data/blueprints.xml.append:464
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SEARCHER_SENSE\"]/desc"
+msgstr ""
+"オンボードAIが船の全システムをレベル2のスキルで制御し、素早く修理する（船体の穴も同様）。センサーシステムにより、敵がクローキングを使用していてもその位置を検出し、その間も武器をチャージできる。すべての投射物は精度が向上している。さらに、マルチバースのレネゲイドからの信号を検出し、燃料7で自分のもとへ転送して戦闘可能。"
+
+#: src-en/data/blueprints.xml.append:472
+msgid ""
+"data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/title"
+msgstr "サーチャー"
+
+#: src-en/data/blueprints.xml.append:473
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_SEARCHER\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:480
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/title"
+msgstr "貴重な破片"
+
+#: src-en/data/blueprints.xml.append:481
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_SHIP_GEM\"]/desc"
+msgstr "あなたはおそらくそれを見るべきではありませんでした。"
+
+#: src-en/data/blueprints.xml.append:487
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/title"
+msgstr "スギライト石"
+
+#: src-en/data/blueprints.xml.append:488
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_VIOLET\"]/desc"
+msgstr ""
+"敵の兵器が船体に命中すると、スギライト宝石の強力な破片が外れる。これはイオンダメージ3と船体ダメージ1を与える。破片はほぼ確実にターゲットに命中する。さらに、船は50%の確率でイオンダメージを無視する。"
+
+#: src-en/data/blueprints.xml.append:494
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/title"
+msgstr "アクアマリン石"
+
+#: src-en/data/blueprints.xml.append:495
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CYAN\"]/desc"
+msgstr ""
+"敵の兵器が船体に命中すると、アクアマリン宝石の強力な破片が外れる。これは船体に4ダメージを与え、部屋をロックし、確実に穴を開ける。破片はほぼ確実にターゲットに命中する。さらに、船はすべての穴を自動的に修理する。"
+
+#: src-en/data/blueprints.xml.append:501
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/title"
+msgstr "カーネリアン石"
+
+#: src-en/data/blueprints.xml.append:502
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_CORAL\"]/desc"
+msgstr ""
+"敵の兵器が船体に命中すると、カーネリアン宝石の強力な破片が外れる。これはシステムに2ダメージ、船体に2ダメージを与え、確実に火災を発生させる。破片はほぼ確実にターゲットに命中する。さらに、船は自動的に火災を消火する。"
+
+#: src-en/data/blueprints.xml.append:508
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/title"
+msgstr "クリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:509
+msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_GEM_SHARDS\"]/desc"
+msgstr "時空の亀裂近くでの『貴重な破片』との勝利後に残された大きなクリスタルの破片。90スクラップで売却可能。"
+
+#: src-en/data/blueprints.xml.append:517
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/title"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:518
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/short"
+msgstr "EGCRYS"
+
+#: src-en/data/blueprints.xml.append:519
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/desc"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:520
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_VIOLET\"]/tooltip"
+msgstr "この説明は決して表示されないはず。"
+
+#: src-en/data/blueprints.xml.append:560
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/title"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:561
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/short"
+msgstr "EGCRYS"
+
+#: src-en/data/blueprints.xml.append:562
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/desc"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:563
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CYAN\"]/tooltip"
+msgstr "この説明は決して表示されないはず。"
+
+#: src-en/data/blueprints.xml.append:603
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/title"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:604
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/short"
+msgstr "EGCRYS"
+
+#: src-en/data/blueprints.xml.append:605
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/desc"
+msgstr "EGクリスタルの破片"
+
+#: src-en/data/blueprints.xml.append:606
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_GEM_ARMOR_CORAL\"]/tooltip"
+msgstr "この説明は決して表示されないはず。"
+
+#: src-en/data/blueprints.xml.append:645
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/title"
+msgstr "スギライト"
+
+#: src-en/data/blueprints.xml.append:646
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/short"
+msgstr "スギライト"
+
+#: src-en/data/blueprints.xml.append:647
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/desc"
+msgstr ""
+"[基本クールダウン: 20] "
+"スギライト石は光を凝縮し、少しの遅延の後、敵船にイオンビームを発射する。経路上にあるすべてのシステムにイオンダメージ1を与え、クルーに30ダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:648
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_VIOLET_BEAM\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 20] "
+"スギライト石は光を凝縮し、少しの遅延の後、敵船にイオンビームを発射する。経路上にあるすべてのシステムにイオンダメージ1を与え、クルーに30ダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:676
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/title"
+msgstr "アクアマリン"
+
+#: src-en/data/blueprints.xml.append:677
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/short"
+msgstr "アクアマリン"
+
+#: src-en/data/blueprints.xml.append:678
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/desc"
+msgstr ""
+"[基本クールダウン: 20] "
+"アクアマリン石は光を凝縮し、少しの遅延の後、敵船に穴を開けるビームを発射する。穴は平均的な確率で発生する。ビームは通過する部屋ごとに船体に1ダメージを与える。シールド層を1つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:679
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CYAN_BEAM\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 20] "
+"アクアマリン石は光を凝縮し、少しの遅延の後、敵船に穴を開けるビームを発射する。穴は平均的な確率で発生する。ビームは通過する部屋ごとに船体に1ダメージを与える。シールド層を1つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:708
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/title"
+msgstr "カーネリアン"
+
+#: src-en/data/blueprints.xml.append:709
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/short"
+msgstr "カーネリアン"
+
+#: src-en/data/blueprints.xml.append:710
+msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/desc"
+msgstr ""
+"[基本クールダウン: 20] "
+"カーネリアン石は光を凝縮し、少しの遅延の後、敵船に火炎ビームを発射する。命中した各システムに1ダメージを与え、中程度の確率で火災を発生させる。"
+
+#: src-en/data/blueprints.xml.append:711
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_CORAL_BEAM\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 20] "
+"カーネリアン石は光を凝縮し、少しの遅延の後、敵船に火炎ビームを発射する。命中した各システムに1ダメージを与え、中程度の確率で火災を発生させる。"
+
+#: src-en/data/blueprints.xml.append:739
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/title"
+msgstr "ネオスター・レーザー (R)"
+
+#: src-en/data/blueprints.xml.append:740
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/short"
+msgstr "ネオスター・レーザー (R)"
+
+#: src-en/data/blueprints.xml.append:741
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/desc"
+msgstr "ネオスター・メガコープの船での内部使用を想定した高度なレーザー兵器。3発を発射し、各2ダメージを与え、小さな確率で穴を開ける。"
+
+#: src-en/data/blueprints.xml.append:742
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_LASER\"]/tooltip"
+msgstr "ネオスター・メガコープの船での内部使用を想定した高度なレーザー兵器。3発を発射し、各2ダメージを与え、小さな確率で穴を開ける。"
+
+#: src-en/data/blueprints.xml.append:793
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_NEOSTAR_DRONE_LASER\"]/title"
+msgstr "ドローンレーザー"
+
+#: src-en/data/blueprints.xml.append:822
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/title"
+msgstr "'視点'"
+
+#: src-en/data/blueprints.xml.append:823
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/short"
+msgstr "'視点'"
+
+#: src-en/data/blueprints.xml.append:824
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/desc"
+msgstr ""
+"[基本クールダウン: 12] "
+"このビーム兵器はすべてのシールド層を貫通し、通過する部屋ごとに船体に1ダメージを与える。敵クルーを15秒間確実に気絶させる。"
+
+#: src-en/data/blueprints.xml.append:825
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_1\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 12] "
+"このビーム兵器はすべてのシールド層を貫通し、通過する部屋ごとに船体に1ダメージを与える。敵クルーを15秒間確実に気絶させる。"
+
+#: src-en/data/blueprints.xml.append:853
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/title"
+msgstr "'説得'"
+
+#: src-en/data/blueprints.xml.append:854
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/short"
+msgstr "'説得'"
+
+#: src-en/data/blueprints.xml.append:855
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/desc"
+msgstr "[基本クールダウン: 8] このビーム兵器はすべてのシールド層を貫通し、システムに1ダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:856
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2\"]/tooltip"
+msgstr "[基本クールダウン: 8] このビーム兵器はすべてのシールド層を貫通し、システムに1ダメージを与える。"
+
+#: src-en/data/blueprints.xml.append:884
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/title"
+msgstr "'説得'"
+
+#: src-en/data/blueprints.xml.append:885
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/short"
+msgstr "'説得'"
+
+#: src-en/data/blueprints.xml.append:887
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/desc"
+msgstr ""
+"エルーダイトによる特別な開発品。このビーム兵器はすべてのシールド層を貫通し、システムに1ダメージを与える。エネルギー効率が悪いため、1戦闘につき2回しか発射できない。"
+
+#: src-en/data/blueprints.xml.append:888
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_ERUDITE_BEAM_2_REAL\"]/tooltip"
+msgstr "このビーム兵器はすべてのシールド層を貫通し、システムに1ダメージを与える。エネルギー効率が悪いため、1戦闘につき2回しか発射できない。"
+
+#: src-en/data/blueprints.xml.append:917
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/title"
+msgstr "バイオアシッド・ビートル"
+
+#: src-en/data/blueprints.xml.append:918
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/short"
+msgstr "バイオアシッド・ビートル"
+
+#: src-en/data/blueprints.xml.append:919
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/desc"
+msgstr ""
+"[基本クールダウン: 20] "
+"この甲虫は敵クルーを腐食させる酸の投射物を吐く。唾液はクルーに45ダメージを与え、確実に10秒間気絶させる。シールド層を5つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:920
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite1\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 20] "
+"この甲虫は敵クルーを腐食させる酸の投射物を吐く。唾液はクルーに45ダメージを与え、確実に10秒間気絶させる。シールド層を5つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:955
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/title"
+msgstr "アシッド・ビートル"
+
+#: src-en/data/blueprints.xml.append:956
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/short"
+msgstr "アシッド・ビートル"
+
+#: src-en/data/blueprints.xml.append:957
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/desc"
+msgstr ""
+"[基本クールダウン: 20] "
+"この甲虫は船のシステムを腐食させる酸の投射物を吐き、各2ダメージを与える。中程度の確率で部屋に穴を開ける。シールド層を2つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:958
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite2\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 20] "
+"この甲虫は船のシステムを腐食させる酸の投射物を吐き、各2ダメージを与える。中程度の確率で部屋に穴を開ける。シールド層を2つ貫通する。"
+
+#: src-en/data/blueprints.xml.append:993
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/title"
+msgstr "船体腐食ビートル"
+
+#: src-en/data/blueprints.xml.append:994
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/short"
+msgstr "船体腐食ビートル"
+
+#: src-en/data/blueprints.xml.append:995
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/desc"
+msgstr "[基本クールダウン: 25] この甲虫は船体とシステムに1ダメージ、シールドまたはシステムにイオンダメージ1を与える酸の投射物を吐く。"
+
+#: src-en/data/blueprints.xml.append:996
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_termite3\"]/tooltip"
+msgstr "[基本クールダウン: 25] この甲虫は船体とシステムに1ダメージ、シールドまたはシステムにイオンダメージ1を与える酸の投射物を吐く。"
+
+#: src-en/data/blueprints.xml.append:1032
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/title"
+msgstr "大麦畑"
+
+#: src-en/data/blueprints.xml.append:1033
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/short"
+msgstr "大麦畑"
+
+#: src-en/data/blueprints.xml.append:1034
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/desc"
+msgstr ""
+"[基本クールダウン: 15] "
+"この船では、リーパーの大麦水耕栽培システムが故障している。種子の代わりに生物兵器を作り出し、各投射物はクルーに45ダメージを与え、悪影響を及ぼす。5発のバーストで発射されるが、シールドを貫通せず、他のダメージも与えない。"
+
+#: src-en/data/blueprints.xml.append:1035
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley1\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 15] "
+"この船では、リーパーの大麦水耕栽培システムが故障している。種子の代わりに生物兵器を作り出し、各投射物はクルーに45ダメージを与え、悪影響を及ぼす。5発のバーストで発射されるが、シールドを貫通せず、他のダメージも与えない。"
+
+#: src-en/data/blueprints.xml.append:1079
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/title"
+msgstr "大麦畑"
+
+#: src-en/data/blueprints.xml.append:1080
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/short"
+msgstr "大麦畑"
+
+#: src-en/data/blueprints.xml.append:1081
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/desc"
+msgstr ""
+"[基本クールダウン: 15] "
+"この船では、リーパーの大麦水耕栽培システムが故障している。種子の代わりに生物兵器を作り出し、各投射物はクルーに45ダメージを与え、悪影響を及ぼす。5発のバーストで発射されるが、シールドを貫通せず、他のダメージも与えない。"
+
+#: src-en/data/blueprints.xml.append:1082
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"eg_artillery_barley2\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 15] "
+"この船では、リーパーの大麦水耕栽培システムが故障している。種子の代わりに生物兵器を作り出し、各投射物はクルーに45ダメージを与え、悪影響を及ぼす。5発のバーストで発射されるが、シールドを貫通せず、他のダメージも与えない。"
+
+#: src-en/data/blueprints.xml.append:1126
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/title"
+msgstr "スプレイヤー"
+
+#: src-en/data/blueprints.xml.append:1127
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/short"
+msgstr "スプレイヤー"
+
+#: src-en/data/blueprints.xml.append:1128
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/desc"
+msgstr ""
+"この生物兵器の投射物は敵クルーに深刻なダメージを与え、悪影響も及ぼす。各ショットは武器のリロード時間を3秒ずつ3回短縮する。電力を必要としない。"
+
+#: src-en/data/blueprints.xml.append:1129
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"EG_PLAYER_BARLEY\"]/tooltip"
+msgstr "敵クルーに45ダメージ、3投射物。悪影響を適用。基本リロード時間は14秒で、3回までショットごとに3秒ずつ短縮される。電力を必要としない。"
+
+#: src-en/data/blueprints.xml.append:1178
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/title"
+msgstr "ミニチュア星"
+
+#: src-en/data/blueprints.xml.append:1179
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/short"
+msgstr "ミニチュア星"
+
+#: src-en/data/blueprints.xml.append:1180
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/desc"
+msgstr ""
+"[基本クールダウン: 25] "
+"この船を動力化する星は、時折そのエネルギーの投射物を敵船に放つ。イオンダメージ4、クルーダメージ30を与え、部屋に火災を発生させる確率がほぼ確実にある。"
+
+#: src-en/data/blueprints.xml.append:1181
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_ministar\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 25] "
+"この船を動力化する星は、時折そのエネルギーの投射物を敵船に放つ。イオンダメージ4、クルーダメージ30を与え、部屋に火災を発生させる確率がほぼ確実にある。"
+
+#: src-en/data/blueprints.xml.append:1217
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/title"
+msgstr "ムーンストーンの畑"
+
+#: src-en/data/blueprints.xml.append:1218
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/short"
+msgstr "ムーンストーンの畑"
+
+#: src-en/data/blueprints.xml.append:1219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/desc"
+msgstr ""
+"[基本クールダウン: 22] "
+"この船は小惑星を生成し、自衛として敵船に向けて4投射物のバレーで発射する。これらの月の小惑星は船体とシステムに1ダメージを与え、中程度の確率で穴を開ける。"
+
+#: src-en/data/blueprints.xml.append:1220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone1\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 22] "
+"この船は小惑星を生成し、自衛として敵船に向けて4投射物のバレーで発射する。これらの月の小惑星は船体とシステムに1ダメージを与え、中程度の確率で穴を開ける。"
+
+#: src-en/data/blueprints.xml.append:1256
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/title"
+msgstr "ムーンストーンの畑"
+
+#: src-en/data/blueprints.xml.append:1257
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/short"
+msgstr "ムーンストーンの畑"
+
+#: src-en/data/blueprints.xml.append:1258
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/desc"
+msgstr ""
+"[基本クールダウン: 24] "
+"この船は小惑星を生成し、自衛として敵船に向けて2投射物のバレーで発射する。これらの月の小惑星は船体とシステムに2ダメージを与え、部屋をロックする。"
+
+#: src-en/data/blueprints.xml.append:1259
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"artillery_moonstone2\"]/tooltip"
+msgstr ""
+"[基本クールダウン: 24] "
+"この船は小惑星を生成し、自衛として敵船に向けて2投射物のバレーで発射する。これらの月の小惑星は船体とシステムに2ダメージを与え、部屋をロックする。"
+
+#: src-en/data/blueprints.xml.append:1295
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/class"
+msgstr "パワーハウス"
+
+#: src-en/data/blueprints.xml.append:1296
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/name"
+msgstr "IG-23"
+
+#: src-en/data/blueprints.xml.append:1297
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE\"]/desc"
+msgstr ""
+"海賊がこのバッテリー商人の船を襲い、ハイテク製品一式を奪った。商人はそれらを取り戻すつもりだ。不運にも船のリアクターは非常に弱いが、レベル4までアップグレード可能な強力なバッテリーシステムがこの欠点を補っている。"
+
+#: src-en/data/blueprints.xml.append:1372
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/class"
+msgstr "パワーハウス"
+
+#: src-en/data/blueprints.xml.append:1373
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/name"
+msgstr "EE-24"
+
+#: src-en/data/blueprints.xml.append:1374
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:1375
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_2\"]/desc"
+msgstr ""
+"商人は海賊に盗まれた商品をすべて回収したが、戦闘は容易ではなかった。新しい状況に合わせて船を再設計する必要があり、商人が船を修理するのに十分なスクラップを蓄えるまで、大規模な取引は一時停止しなければならなかった。"
+
+#: src-en/data/blueprints.xml.append:1449
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/class"
+msgstr "パワーハウス"
+
+#: src-en/data/blueprints.xml.append:1450
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/name"
+msgstr "HG-25"
+
+#: src-en/data/blueprints.xml.append:1451
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:1452
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_POWERHOUSE_3\"]/desc"
+msgstr ""
+"商人はついに船を修理するのに十分なスクラップを集めた。海賊の再度の襲撃を防ぐため、ハイテク・バッテリーの一つをシールドシステムにインストールし、より強力な武器を手に入れた…しかし、これらすべてを行うために、二次システムの部品を売らなければならなかった。かかってこい、バッテリーマスター！"
+
+#: src-en/data/blueprints.xml.append:1527
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/class"
+msgstr "エシャトロジストの艦船"
+
+#: src-en/data/blueprints.xml.append:1528
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/name"
+msgstr "エシャトン"
+
+#: src-en/data/blueprints.xml.append:1529
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST\"]/desc"
+msgstr ""
+"エシャトロジストは宇宙を旅し、文明の「世界の終わり」を研究する不干渉政策に従っている。彼らがこの宇宙に興味を持ったのは、反乱軍の勝利がほとんどの知的種族にとって一種の世界の終わりだからに過ぎない。"
+
+#: src-en/data/blueprints.xml.append:1598
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/class"
+msgstr "エシャトロジストの艦船"
+
+#: src-en/data/blueprints.xml.append:1599
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/name"
+msgstr "最後のエシャトン"
+
+#: src-en/data/blueprints.xml.append:1600
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ESCHATOLOGIST_2\"]/desc"
+msgstr ""
+"この艦船は、単一の強力なアーティファクトの力を利用したものの、異次元の宇宙で種の完全な絶滅という代償を払ったラサーティッド族の船の正確なレプリカである。その後、彼らの船はエシャトロジストの研究プロジェクトの基礎となった。"
+
+#: src-en/data/blueprints.xml.append:1669
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/class"
+msgstr "月にキスされた"
+
+#: src-en/data/blueprints.xml.append:1670
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/name"
+msgstr "ルナの赦し"
+
+#: src-en/data/blueprints.xml.append:1671
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED\"]/desc"
+msgstr ""
+"隠者が辺境世界の一つでこの船を発見した。データベースには、船の元クルーが崇拝していたルナ神とソラーラ女神への言及しかなかった。船のマップは銀河の反対側の惑星を指しており、迷わず隠者は最後の旅に出た。"
+
+#: src-en/data/blueprints.xml.append:1739
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/class"
+msgstr "ソラーラにキスされた"
+
+#: src-en/data/blueprints.xml.append:1740
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/name"
+msgstr "ソラーラの救済"
+
+#: src-en/data/blueprints.xml.append:1741
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:1742
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_2\"]/desc"
+msgstr ""
+"隠者が発見した2番目の船は、ルナとソラーラについて何も新しいことを学ばせてはくれなかったが、そのクルーが星に住み、そのエネルギーを糧とする非物質的な存在であることを知った。2番目の船のマップは、消滅した種族の故郷である3番目のビーコン、『月なき故郷』を指していた。"
+
+#: src-en/data/blueprints.xml.append:1809
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/class"
+msgstr "アストラにキスされた"
+
+#: src-en/data/blueprints.xml.append:1810
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/name"
+msgstr "アストラの忘却"
+
+#: src-en/data/blueprints.xml.append:1811
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:1812
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ASTRAKISSED_3\"]/desc"
+msgstr ""
+"隠者は両方の船を大きな三連星系である『月なき故郷』に導いた。この時点で船が再会し、統合と真の活性化につながった。船のデータベースは研究のために開かれ、古代の写本は最終的に公共の財産となった。ルナとソラーラは隠者に視線を向けた。"
+
+#: src-en/data/blueprints.xml.append:1879
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/class"
+msgstr "ヴァカンスのクルーザー"
+
+#: src-en/data/blueprints.xml.append:1880
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/name"
+msgstr "苦行者の顔"
+
+#: src-en/data/blueprints.xml.append:1881
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/unlock"
+msgstr "あるアーティファクトについてある隠者の助言を求め、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:1882
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_3\"]/desc"
+msgstr ""
+"隠者が宇宙にソーラーリアクター技術について伝えた後、省庁は彼にゾルタン船のテストプロトタイプへの実装のために、ゼロからそれを再作成するよう依頼した。このプロジェクトのおかげで、隠者は老後に快適に暮らすのに十分な金を稼ぎ、警備員を雇い、再び宇宙を旅しに出かけた。"
+
+#: src-en/data/blueprints.xml.append:1951
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/class"
+msgstr "ガラスの艦船"
+
+#: src-en/data/blueprints.xml.append:1952
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/name"
+msgstr "臆病な青"
+
+#: src-en/data/blueprints.xml.append:1953
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/unlock"
+msgstr "奇跡探求者のための奇跡1111「ありがとう」の注文を完了し、最高の感謝の度合いとは何かを見つけよう。"
+
+#: src-en/data/blueprints.xml.append:1954
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP\"]/desc"
+msgstr ""
+"この船は宇宙の広がりの中で発見され、クルーの兆候はなかった。鏡のような特殊なガラスで完全に出きており、非常に脆い。しかし、その強力な初期兵装と特別なオーグメントは、危険な敵となる。"
+
+#: src-en/data/blueprints.xml.append:2029
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/class"
+msgstr "ガラスの艦船"
+
+#: src-en/data/blueprints.xml.append:2030
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/name"
+msgstr "天の祝福"
+
+#: src-en/data/blueprints.xml.append:2031
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2032
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_2\"]/desc"
+msgstr ""
+"船の研究の長いプロセスを経て、船を改良・近代化し、船の寿命を延ばすのに役立つエネルギーシールドをインストールできた。しかし、すべてのアップグレードの後、船体の強度は以前よりも低下してしまった。"
+
+#: src-en/data/blueprints.xml.append:2106
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/class"
+msgstr "ガラスの艦船"
+
+#: src-en/data/blueprints.xml.append:2107
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/name"
+msgstr "世界の称賛"
+
+#: src-en/data/blueprints.xml.append:2108
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2109
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SHIP_GLASSSHIP_3\"]/desc"
+msgstr ""
+"船がアップグレードされてしばらくして、その謎の持ち主が現れた。彼女は自分を奇跡探求者組織のメンバーと名乗り、奇跡を探す遠征に行った時に船を見失ったと説明した。その船がこの宇宙の反乱軍を阻止できる可能性があると説明されると、彼女は協力することに同意した。"
+
+#: src-en/data/blueprints.xml.append:2179
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/class"
+msgstr "ミラーのクルーザー"
+
+#: src-en/data/blueprints.xml.append:2180
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/name"
+msgstr "到達不能性"
+
+#: src-en/data/blueprints.xml.append:2181
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/unlock"
+msgstr "あるアーティファクトについて、ある宇宙の異常であり奇跡探求者の兼任メンバーである者の助言を求め、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2182
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER_2\"]/desc"
+msgstr ""
+"これが、全世界を抱きしめることができる境界のない魂の運命である。これは宇宙の因果律と、害のためではなく生命の利益のために課せられた制限の教義である。これは古い偏見の最終的な終わりであり、永遠と時間そのものよりも偉大な何かの始まりである。"
+
+#: src-en/data/blueprints.xml.append:2254
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/class"
+msgstr "授粉者"
+
+#: src-en/data/blueprints.xml.append:2255
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/name"
+msgstr "大麦"
+
+#: src-en/data/blueprints.xml.append:2256
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/unlock"
+msgstr "奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、収穫の機械知性艦と会い、倒す。"
+
+#: src-en/data/blueprints.xml.append:2257
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER\"]/desc"
+msgstr ""
+"この艦船は、収穫の機械知性であるリーパーのものであった。彼らは大麦の栽培に従事し、全星系を農業のユートピアに変えていた。この船は使用不能になり、有毒な生物圏を生み出すようになった後、リーパーはそれを放棄した。オーキッドがそれを発見し、その可能性を引き出すことに決めた。"
+
+#: src-en/data/blueprints.xml.append:2332
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/class"
+msgstr "授粉者"
+
+#: src-en/data/blueprints.xml.append:2333
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/name"
+msgstr "シダ"
+
+#: src-en/data/blueprints.xml.append:2334
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2335
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_2\"]/desc"
+msgstr ""
+"オーキッドはヴァンプウィードに共鳴する魂を見出し、二人で船に小さな温室を設置した。友人たちの創意工夫とリーパーの遺産のおかげで、この船は砲兵や武器システムのための追加のバイオ弾薬を栽培できるようになった。しかし、船体にダメージを与えられる武器は装備していない。"
+
+#: src-en/data/blueprints.xml.append:2411
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/class"
+msgstr "授粉者"
+
+#: src-en/data/blueprints.xml.append:2412
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/name"
+msgstr "コケ"
+
+#: src-en/data/blueprints.xml.append:2413
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_REAPER_3\"]/desc"
+msgstr ""
+"リーパーの船を改良するプロジェクトは、ギャザリングと、驚くべきことにコンフェデラシーによって資金提供された。今では多種多様な植物が栽培される庭園になっている。一時は訪問者に開放され、多くのスクラップを稼いだが、セキュリティ上の理由から武器システムの最大レベルが削減された。"
+
+#: src-en/data/blueprints.xml.append:2493
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/class"
+msgstr "ゴライアスI"
+
+#: src-en/data/blueprints.xml.append:2494
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/name"
+msgstr "ゴライアスI"
+
+#: src-en/data/blueprints.xml.append:2495
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/unlock"
+msgstr "奇跡探求者のための奇跡0900「大空の白い糸」の注文を完了し、この宇宙での彼らの物語を始めよう。"
+
+#: src-en/data/blueprints.xml.append:2496
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH\"]/desc"
+msgstr ""
+"ある宇宙ですべての人類の支配者となったホワイト皇帝の最初の帝国船。奇妙なことに、皇帝自身は乗船していないが、彼の本当のアイデンティティから注意をそらすために作られた彼のクローンがいる。船は当初武器システムを持たないが、敵を破壊する他の方法を持っている。"
+
+#: src-en/data/blueprints.xml.append:2561
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/class"
+msgstr "植物群落プロトタイプ"
+
+#: src-en/data/blueprints.xml.append:2562
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/name"
+msgstr "植物群落モデル"
+
+#: src-en/data/blueprints.xml.append:2563
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2564
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_2\"]/desc"
+msgstr ""
+"生物源からエネルギーを抽出する技術を使用し、燃料わずか1で宙域内のどのビーコンへも移動できる実験的な船。植物群落が封じ込めカプセルから逃げ出したようだが、船は依然として正常に機能している…エンジンルームには近づかないように。"
+
+#: src-en/data/blueprints.xml.append:2628
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/class"
+msgstr "ゴライアスII"
+
+#: src-en/data/blueprints.xml.append:2629
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/name"
+msgstr "ゴライアスII"
+
+#: src-en/data/blueprints.xml.append:2630
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2631
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GOLIATH_3\"]/desc"
+msgstr ""
+"ホワイト皇帝の現在の帝国船のコピーで、サイズは100分の1に縮小されているが、以前の2つのバージョンよりも大きな潜在能力を持つ。最初のバージョンの最高の品質と生きた植物群落に基づいた最新のリアクターを組み合わせ、このマシンはホワイト帝国の偉大さを宇宙中に広めている。"
+
+#: src-en/data/blueprints.xml.append:2695
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/class"
+msgstr "皇帝のクルーザー"
+
+#: src-en/data/blueprints.xml.append:2696
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/name"
+msgstr "デビッド"
+
+#: src-en/data/blueprints.xml.append:2697
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/unlock"
+msgstr "あるアーティファクトについて、ある皇帝のクローンの助言を求め、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2698
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_CREWSER\"]/desc"
+msgstr ""
+"この物語にとって詳細は重要ではない近い将来、ホワイト皇帝のクローンの必要性がなくなった。自由になり夢に従った彼は、ホワイト帝国の船の一隻を自分の好みに改造し、旧知の友人の助言で、その中に小さな庭を育てた。今、役割の足枷から解放され、彼はついに幸せだった。"
+
+#: src-en/data/blueprints.xml.append:2764
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/class"
+msgstr "シロアリ塚"
+
+#: src-en/data/blueprints.xml.append:2765
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/name"
+msgstr "セーカー・イソプテラ"
+
+#: src-en/data/blueprints.xml.append:2766
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/unlock"
+msgstr "奇跡探求者のための奇跡9721「昆虫神の折れた角」の注文を完了し、彼らの神の死を悼む生き物たちを鎮めよう。"
+
+#: src-en/data/blueprints.xml.append:2767
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES\"]/desc"
+msgstr ""
+"シロアリのコロニーは羨ましいほどの速度でその境界を広げている。シロアリは半知能でコミュニケーション能力があるため、人間にとって大きな危険ではないはずだし、宇宙の虫に関するすべての決まり文句にもかかわらず、彼らは道にあるすべてを食い尽くすわけではない。具体的には、このシロアリの群れは、サイ能力を持つ甲虫を一匹育てることができた。"
+
+#: src-en/data/blueprints.xml.append:2836
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/class"
+msgstr "シロアリ塚"
+
+#: src-en/data/blueprints.xml.append:2837
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/name"
+msgstr "テリビリス・イソプテラ"
+
+#: src-en/data/blueprints.xml.append:2838
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2839
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_2\"]/desc"
+msgstr ""
+"より多くの世界を植民地化するにつれて、シロアリは他の種族と共存することを学んでいる。多くの人々はまだ彼らを恐れているが、シロアリは宇宙社会に統合しようと努めている。正直なところ、あまり成功していないが。具体的には、このシロアリの群れは、様々な酸を吐く甲虫を数匹育てることができた。"
+
+#: src-en/data/blueprints.xml.append:2907
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/class"
+msgstr "シロアリ塚"
+
+#: src-en/data/blueprints.xml.append:2908
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/name"
+msgstr "アルティフィシアリス・イソプテラ"
+
+#: src-en/data/blueprints.xml.append:2909
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:2910
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_TERMITES_3\"]/desc"
+msgstr ""
+"知能と意識の低さからシロアリとのコミュニケーションは非常に困難だが、彼らは連邦の造船所の一つで現代工学の恩恵にアクセスすることに何とか成功した。具体的には、このシロアリの群れは、戦闘を支援するためのサイボーグ甲虫を一匹育て、改造することができた。"
+
+#: src-en/data/blueprints.xml.append:2987
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/class"
+msgstr "サーチャー"
+
+#: src-en/data/blueprints.xml.append:2988
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/name"
+msgstr "遠い信号"
+
+#: src-en/data/blueprints.xml.append:2989
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/unlock"
+msgstr "この船の入手方法は遠い将来にゲームに追加される！"
+
+#: src-en/data/blueprints.xml.append:2990
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER\"]/desc"
+msgstr ""
+"自律型ラジオ局であるサーチャーは、その謎の創造者の注意に値する奇妙な信号を探して宇宙を旅する。改良されたセンサーシステムを持ち、イオン兵器と光線を使用するように設計されている。その旅の終わりに何が待ち受けているのか？"
+
+#: src-en/data/blueprints.xml.append:3061
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/class"
+msgstr "水中サーチャー"
+
+#: src-en/data/blueprints.xml.append:3062
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/name"
+msgstr "近い信号"
+
+#: src-en/data/blueprints.xml.append:3063
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3064
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_2\"]/desc"
+msgstr ""
+"このバージョンのサーチャーは、水中潜水と極限圧力下での信号検出用に設計されており、体力を増加させ、船を穴に対して無敵にする。しかし、プリインストールされたドアシステムと崩壊フィールドはサポートされなくなった。世界の大海の深淵の下には何が待ち受けているのか？"
+
+#: src-en/data/blueprints.xml.append:3134
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/class"
+msgstr "[信号を発見]"
+
+#: src-en/data/blueprints.xml.append:3135
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/name"
+msgstr "[信号を発見]"
+
+#: src-en/data/blueprints.xml.append:3136
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/unlock"
+msgstr "[データが破損しています。標準条件をロード中：タイプBで宙域5に到達するか、タイプAでゲームをクリアしてこの船をアンロックしてください。]"
+
+#: src-en/data/blueprints.xml.append:3137
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SEARCHER_3\"]/desc"
+msgstr ""
+"101 116 117 115 101 114 131 40 104 105 106 111 116 105 104 72 40 124 110 105"
+" 40 106 111 122 123 124 102 117 122 116 40 117 106 40 124 110 105 40 120 117"
+" 123 124 125 114 101 124 105"
+
+#: src-en/data/blueprints.xml.append:3207
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/class"
+msgstr "下級ガーディアン"
+
+#: src-en/data/blueprints.xml.append:3208
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/name"
+msgstr "無実の守護者"
+
+#: src-en/data/blueprints.xml.append:3209
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/unlock"
+msgstr "奇跡探求者のための奇跡3385「温もり」の注文を完了し、罪なき者を守ろう。"
+
+#: src-en/data/blueprints.xml.append:3210
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN\"]/desc"
+msgstr ""
+"船の護衛用に設計された傭兵の護衛フリゲート。最大武器システム電力は削減されているが、自律展開型のASBプラットフォームを作成し発射する能力がある。さらに、このバリエーションには効果的な防御ドローンとスラヴィック自身が含まれている！"
+
+#: src-en/data/blueprints.xml.append:3283
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/class"
+msgstr "下級ガーディアン"
+
+#: src-en/data/blueprints.xml.append:3284
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/name"
+msgstr "いたずらっ子"
+
+#: src-en/data/blueprints.xml.append:3285
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3286
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_2\"]/desc"
+msgstr ""
+"道徳的であれ物理的であれ、時代遅れになったすべてのものは必然的にスクラップヤードに行き着く。この船もかつてスクラップヤードにあった。少なくともそれを発見したファントムは、基本的な機能を復元し、シールドシステムを大幅に改善することができた。"
+
+#: src-en/data/blueprints.xml.append:3362
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/class"
+msgstr "下級ガーディアン"
+
+#: src-en/data/blueprints.xml.append:3363
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/name"
+msgstr "スパイディ"
+
+#: src-en/data/blueprints.xml.append:3364
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3365
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_LESSER_GUARDIAN_3\"]/desc"
+msgstr ""
+"ファントムがこの船を手に入れてからしばらくして、ブルードが狡猾な操作でそれを奪取した。元の武器はもうないため、クモで敵船を捕獲し、ASBプラットフォームで破壊することに頼っている。"
+
+#: src-en/data/blueprints.xml.append:3438
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/class"
+msgstr "不可侵"
+
+#: src-en/data/blueprints.xml.append:3439
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/name"
+msgstr "有形性"
+
+#: src-en/data/blueprints.xml.append:3440
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
+msgstr "奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、狂人のロックマンと会い、倒す。"
+
+#: src-en/data/blueprints.xml.append:3441
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
+msgstr ""
+"ロブールという名の十字軍戦士は、恩恵と引き換えに別の宇宙の謎の存在からこの船を受け取った。船尾には、あなたの船体を喜んで食いつくし、見返りに特性を向上させ武器のクールダウンを短縮させる生き物が住んでいるが、この船のシールドシステムは非常に弱い。"
+
+#: src-en/data/blueprints.xml.append:3511
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/class"
+msgstr "不可侵"
+
+#: src-en/data/blueprints.xml.append:3512
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/name"
+msgstr "孤独な戦士"
+
+#: src-en/data/blueprints.xml.append:3513
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3514
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_2\"]/desc"
+msgstr ""
+"ロブールは二度と友人の顔を見ることはなかった。それが彼を狂わせた存在を助けた代償だった。このバリエーションにはシールドシステムがなく、後からインストールすることもできないが、第3レベルの不可侵の装甲と強化された船体強度で始まる。"
+
+#: src-en/data/blueprints.xml.append:3578
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/class"
+msgstr "不可侵"
+
+#: src-en/data/blueprints.xml.append:3579
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/name"
+msgstr "カムバック"
+
+#: src-en/data/blueprints.xml.append:3580
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3581
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR_3\"]/desc"
+msgstr ""
+"ロブールが拷問者の手から何とか逃れたとき、彼は永遠の罪悪感と戦うために長い心理療法のコースを受けた。しばらくして彼は立ち直り、すべてがうまくいくように思えた。"
+
+#: src-en/data/blueprints.xml.append:3651
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/class"
+msgstr "貴重な破片"
+
+#: src-en/data/blueprints.xml.append:3652
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/name"
+msgstr "スギライト"
+
+#: src-en/data/blueprints.xml.append:3653
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/unlock"
+msgstr ""
+"奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、珍しいスギライト船と会い、倒す。またはタイプBで宙域5に到達するか、タイプCでゲームをクリアしてこの船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3654
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM\"]/desc"
+msgstr ""
+"スギライト宝石が埋め込まれたこの船は、初期武装がひどく、最初はダメージを受けたときに外れる破片の助けを借りてしか敵を倒すことができない。しかし、この船の欠点は、内部の石を凝縮する強力なイオンビームによって補われている。"
+
+#: src-en/data/blueprints.xml.append:3730
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/class"
+msgstr "貴重な破片"
+
+#: src-en/data/blueprints.xml.append:3731
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/name"
+msgstr "アクアマリン"
+
+#: src-en/data/blueprints.xml.append:3732
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/unlock"
+msgstr ""
+"奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、珍しいアクアマリン船と会い、倒す。またはタイプCで宙域5に到達するか、タイプAでゲームをクリアしてこの船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3733
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_2\"]/desc"
+msgstr ""
+"アクアマリン宝石が埋め込まれたこの船は、初期武装がひどく、最初はダメージを受けたときに外れる破片の助けを借りてしか敵を倒すことができない。しかし、この船の欠点は、内部の石を凝縮する強力な穴あけビームによって補われている。"
+
+#: src-en/data/blueprints.xml.append:3808
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/class"
+msgstr "貴重な破片"
+
+#: src-en/data/blueprints.xml.append:3809
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/name"
+msgstr "カーネリアン"
+
+#: src-en/data/blueprints.xml.append:3810
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/unlock"
+msgstr ""
+"奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、珍しいカーネリアン船と会い、倒す。またはタイプAで宙域5に到達するか、タイプBでゲームをクリアしてこの船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3811
+msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_GEM_3\"]/desc"
+msgstr ""
+"カーネリアン宝石が埋め込まれたこの船は、初期武装がひどく、最初はダメージを受けたときに外れる破片の助けを借りてしか敵を倒すことができない。しかし、この船の欠点は、内部の石を凝縮する強力な火炎ビームによって補われている。"
+
+#: src-en/data/blueprints.xml.append:3887
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/class"
+msgstr "夢の探求者"
+
+#: src-en/data/blueprints.xml.append:3888
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/name"
+msgstr "約束された恵み"
+
+#: src-en/data/blueprints.xml.append:3889
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/unlock"
+msgstr "奇跡探求者から信頼を得た際に与えられる座標の時空の異常近くで、『全願望の夢』教会の狂信者と会い、倒す。"
+
+#: src-en/data/blueprints.xml.append:3890
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/desc"
+msgstr ""
+"元の宇宙で破壊され、夢の危機の後に夢想者自身が処刑されたが、『全願望の夢』教会の残りの信者は別の宇宙に移った。今、彼らは完全に失敗しているものの教えを広めており、反乱軍でさえ彼らを止めることはできない。"
+
+#: src-en/data/blueprints.xml.append:3957
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/class"
+msgstr "夢の探求者"
+
+#: src-en/data/blueprints.xml.append:3958
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/name"
+msgstr "約束された夢"
+
+#: src-en/data/blueprints.xml.append:3959
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:3960
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/desc"
+msgstr ""
+"この船は、『全願望の夢』教会の代表者たちの独特の平和主義のために、乗船に効果的に対処できない。その代償として、より強力な初期武装と最初からのクローキングシステムを持つ。"
+
+#: src-en/data/blueprints.xml.append:4031
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/class"
+msgstr "夢の探求者"
+
+#: src-en/data/blueprints.xml.append:4032
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/name"
+msgstr "約束された楽園"
+
+#: src-en/data/blueprints.xml.append:4033
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:4034
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/desc"
+msgstr ""
+"この船のクルーは、『全願望の夢』教会の運動に対して代替的かつより過激な見解を持っており、それを教団に変えている。彼らは女神を称えるための血なまぐさい儀式を行うことを許可しており、忘れ去られないために、女神は残った信者たちに媚びるしかない。"
+
+#: src-en/data/blueprints.xml.append:4107
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/class"
+msgstr "セカンド・ヴォイスの民間船"
+
+#: src-en/data/blueprints.xml.append:4108
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/name"
+msgstr "レイニー-1"
+
+#: src-en/data/blueprints.xml.append:4109
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/desc"
+msgstr ""
+"このセカンド・ヴォイスの船は、主に民間船であり、中央ユニオン宙域内での快適な旅行のために設計された。非常に小さく多くの欠点があるが、生活を楽にする多くの利点もある。"
+
+#: src-en/data/blueprints.xml.append:4110
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE\"]/unlock"
+msgstr "奇跡探求者のための奇跡7302「ユニオン協定」の注文を完了し、特定の分野での輝かしい知識を示そう。"
+
+#: src-en/data/blueprints.xml.append:4183
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/class"
+msgstr "セカンド・ヴォイスの民間船"
+
+#: src-en/data/blueprints.xml.append:4184
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/name"
+msgstr "スター・ローバー"
+
+#: src-en/data/blueprints.xml.append:4185
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/desc"
+msgstr ""
+"このセカンド・ヴォイスの民間船のバリエーションは、中央ユニオンと隣接する他の領土への長距離宇宙旅行のために特別に設計されており、より高度な防御システムを備えている。"
+
+#: src-en/data/blueprints.xml.append:4186
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:4260
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/class"
+msgstr "セカンド・ヴォイスの民間船"
+
+#: src-en/data/blueprints.xml.append:4261
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/name"
+msgstr "コンピテンシー"
+
+#: src-en/data/blueprints.xml.append:4262
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/desc"
+msgstr ""
+"標準的な民間船が中央ユニオン当局者向けに特別に改装された。当局者が含まれており、彼らは船上で何もしないが、クルーの一員である限り、保護の対価を支払ってくれる。"
+
+#: src-en/data/blueprints.xml.append:4263
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_SECOND_VOICE_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:4337
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/class"
+msgstr "ネオスター輸送船"
+
+#: src-en/data/blueprints.xml.append:4338
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/name"
+msgstr "超光速"
+
+#: src-en/data/blueprints.xml.append:4339
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/desc"
+msgstr ""
+"ネオスターが所有する標準的な超因果的な貨物船。ロイヤリティプログラムで配送を完了し、スクラップを獲得し、ロイヤリティレベルを上げることができる。拡張された貨物ホールドがこれを達成するのに役立つ。"
+
+#: src-en/data/blueprints.xml.append:4340
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR\"]/unlock"
+msgstr ""
+"奇跡探求者のための奇跡6419「ネオスター・フォーム」の注文を完了し、別のマルチバースのメガコーポレーションが地元の宇宙クラスターに侵入するのを防ごう。"
+
+#: src-en/data/blueprints.xml.append:4413
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/class"
+msgstr "ネオスター輸送船"
+
+#: src-en/data/blueprints.xml.append:4414
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/name"
+msgstr "時間通り！"
+
+#: src-en/data/blueprints.xml.append:4415
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/desc"
+msgstr ""
+"このバージョンのネオスター輸送船は、宇宙の特に危険な場所に貨物を配送するために設計されている。強力なドローンが配送を支援するが、船の武器システムは大幅に弱体化している。さらに、この船にはより多くのオーグメントをインストールできる。"
+
+#: src-en/data/blueprints.xml.append:4416
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_2\"]/unlock"
+msgstr "タイプAで宙域5に到達し、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:4491
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/class"
+msgstr "ネオスター輸送船"
+
+#: src-en/data/blueprints.xml.append:4492
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/name"
+msgstr "M&A"
+
+#: src-en/data/blueprints.xml.append:4493
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/desc"
+msgstr ""
+"ネオスター・メガコープとヘクター・インダストリーズがどういうわけかパートナーシップを組むことに決めたようだが、両社のトップはこの協力関係が具体的に何になるかについて合意できず、この船が誕生した…ここにあるパニックボタンは何をするのか？"
+
+#: src-en/data/blueprints.xml.append:4494
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_NEOSTAR_3\"]/unlock"
+msgstr "タイプBで宙域5に到達するか、タイプAでゲームをクリアし、この船をアンロックする。"
+
+#: src-en/data/blueprints.xml.append:4566
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/desc"
+msgstr ""
+"3D514E5B4E1460525555144B4E1457581456585B4E14595B584B554E565C14585B145C5E\n"
+"4F4F4E5B52575017143D514E5B4E1460525555144B4E1457585D51525750144A576256585\n"
+"B4E17"
+
+#: src-en/data/blueprints.xml.append:4569
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/title"
+msgstr "創造の胚"
+
+#: src-en/data/blueprints.xml.append:4570
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/short"
+msgstr "創造の胚"
+
+#: src-en/data/blueprints.xml.append:4575
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[1]"
+msgstr "情報提供と知らされること"
+
+#: src-en/data/blueprints.xml.append:4576
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[2]"
+msgstr "何もできない。クルースロットを占有しない"
+
+#: src-en/data/blueprints.xml.append:4577
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[3]"
+msgstr "最大体力が1に削減される。永久に死ぬことはない"
+
+#: src-en/data/blueprints.xml.append:4578
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_seed_of_conception\"]/powerList/power[4]"
+msgstr "2E564B5B6258"
+
+#: src-en/data/blueprints.xml.append:4583
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/desc"
+msgstr ""
+"間違いなくスラヴィック。不運で社会的に不器用な傭兵で元反乱軍。\n"
+"\t\n"
+"\t継承された人間ステータス：軽度の危険ダメージ耐性"
+
+#: src-en/data/blueprints.xml.append:4586
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/title"
+msgstr "傭兵"
+
+#: src-en/data/blueprints.xml.append:4587
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/short"
+msgstr "傭兵"
+
+#: src-en/data/blueprints.xml.append:4592
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[1]"
+msgstr "最大体力が80に削減される"
+
+#: src-en/data/blueprints.xml.append:4593
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_slavik\"]/powerList/power[2]"
+msgstr "クルースロットを占有しない。彼を解雇しないでください"
+
+#: src-en/data/blueprints.xml.append:4598
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/desc"
+msgstr "この半知能のシロアリ種は、最近この宇宙に現れた。まだ完全には定着しておらず、新しいコロニーの場所を探している。"
+
+#: src-en/data/blueprints.xml.append:4599
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/title"
+msgstr "下級シロアリ"
+
+#: src-en/data/blueprints.xml.append:4600
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/short"
+msgstr "下級シロアリ"
+
+#: src-en/data/blueprints.xml.append:4605
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[1]"
+msgstr "パッシブ能力：部屋にいる他のシロアリごとにダメージと移動速度が1.3倍に増加"
+
+#: src-en/data/blueprints.xml.append:4606
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[2]"
+msgstr "最大体力が90に削減される。船の乗員リストで半分のクルースロットを占有する"
+
+#: src-en/data/blueprints.xml.append:4607
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[3]"
+msgstr "危険から1.3倍のダメージを受ける。"
+
+#: src-en/data/blueprints.xml.append:4608
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_termite\"]/powerList/power[4]"
+msgstr "「肉球」があるため、システムを修理したり火を消したりできない"
+
+#: src-en/data/blueprints.xml.append:4612
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/desc"
+msgstr "年老いたゾルタンは誇り高い隠遁生活の中で平和を見つけた。今、彼は大義のために社会に戻らなければならない。"
+
+#: src-en/data/blueprints.xml.append:4613
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/title"
+msgstr "隠者"
+
+#: src-en/data/blueprints.xml.append:4614
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/short"
+msgstr "隠者"
+
+#: src-en/data/blueprints.xml.append:4619
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[1]"
+msgstr "アクティブ能力：10秒間、修理速度を最大15倍に増加"
+
+#: src-en/data/blueprints.xml.append:4620
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[2]"
+msgstr "システムにエネルギーを供給しないが、ポータブルテレポートを使用して船の部屋間をテレポートできる"
+
+#: src-en/data/blueprints.xml.append:4621
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[3]"
+msgstr "修理速度2倍"
+
+#: src-en/data/blueprints.xml.append:4622
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[4]"
+msgstr "死亡時に敵クルーに30ダメージ、システムにイオンダメージ3を与える。"
+
+#: src-en/data/blueprints.xml.append:4623
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_vakans\"]/powerList/power[5]"
+msgstr "揺るぎない生きる意志により体力が120に増加。危険からのダメージを0.5倍しか受けない。"
+
+#: src-en/data/blueprints.xml.append:4627
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/desc"
+msgstr ""
+"意識を持つ異常であり、奇跡探求者の新たに任命されたメンバー。境界のない世界を見るためにこの宇宙を探索する。\n"
+"\t\n"
+"\t継承されたファントムステータス：窒息によるダメージを受けない、ドアをすり抜ける特性を持つ"
+
+#: src-en/data/blueprints.xml.append:4630
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/title"
+msgstr "奇跡探求者"
+
+#: src-en/data/blueprints.xml.append:4631
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/short"
+msgstr "奇跡探求者"
+
+#: src-en/data/blueprints.xml.append:4636
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[1]"
+msgstr ""
+"アクティブ能力：7秒間、システムダメージを50%の確率で、船体ダメージを100%の確率で無視できるようにする（サボタージュによるダメージを除く）"
+
+#: src-en/data/blueprints.xml.append:4637
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[2]"
+msgstr "体力は30だが、すべてのソースからのダメージを0.1倍しか受けない"
+
+#: src-en/data/blueprints.xml.append:4638
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[3]"
+msgstr "戦えない - すべての生き物、直接の敵でさえ愛しているが、システムをサボタージュすることはできる"
+
+#: src-en/data/blueprints.xml.append:4639
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_mirrored\"]/powerList/power[4]"
+msgstr "精神支配を無視する"
+
+#: src-en/data/blueprints.xml.append:4643
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/desc"
+msgstr "あなたは見ることになっていなかった。"
+
+#: src-en/data/blueprints.xml.append:4644
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/title"
+msgstr "異常"
+
+#: src-en/data/blueprints.xml.append:4645
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/short"
+msgstr "異常"
+
+#: src-en/data/blueprints.xml.append:4650
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[1]"
+msgstr "連続性の異常。何としても破壊すること。"
+
+#: src-en/data/blueprints.xml.append:4651
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[2]"
+msgstr "体力は400で、すべてのソースからのダメージを0.9倍しか受けないが、移動速度は0.55倍に、ダメージは0.45倍に削減される。"
+
+#: src-en/data/blueprints.xml.append:4652
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_anomaly\"]/powerList/power[3]"
+msgstr "クローン作成不可"
+
+#: src-en/data/blueprints.xml.append:4656
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/desc"
+msgstr "半神の力を授けられた最初の人間で、それによりホワイト帝国を築いた。より正確には、半神の力を持たないその人物のクローン。"
+
+#: src-en/data/blueprints.xml.append:4657
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/title"
+msgstr "皇帝"
+
+#: src-en/data/blueprints.xml.append:4658
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/short"
+msgstr "皇帝"
+
+#: src-en/data/blueprints.xml.append:4663
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[1]"
+msgstr ""
+"アクティブ能力：ニューラルインプラントの起動。味方船と敵船のホワイトガード全員が、戦闘ダメージ、速度、修理速度、サボタージュ速度に2.2倍の乗数を受け、15秒間毎秒体力2の再生を得る。"
+
+#: src-en/data/blueprints.xml.append:4664
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[2]"
+msgstr "体力は350で、すべてのソースからのダメージを0.9倍しか受けないが、移動速度は0.65倍に、ダメージは0.35倍に削減される"
+
+#: src-en/data/blueprints.xml.append:4665
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[3]"
+msgstr "レベル2のスキルを訓練済み"
+
+#: src-en/data/blueprints.xml.append:4666
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"unique_white_clone\"]/powerList/power[4]"
+msgstr "クローン作成不可"
+
+#: src-en/data/blueprints.xml.append:4670
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/desc"
+msgstr "ホワイト皇帝の忠実な個人的な護衛。皇帝に仕えること以外のすべての欲望を失い、これらの兵士は最後の一滴の血まで敵と戦う。"
+
+#: src-en/data/blueprints.xml.append:4671
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/title"
+msgstr "ホワイトガード"
+
+#: src-en/data/blueprints.xml.append:4672
+msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/short"
+msgstr "ホワイトガード"
+
+#: src-en/data/blueprints.xml.append:4677
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[1]"
+msgstr "最大体力が170に増加"
+
+#: src-en/data/blueprints.xml.append:4678
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[2]"
+msgstr "ダメージと移動速度が1.35倍に増加"
+
+#: src-en/data/blueprints.xml.append:4679
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"white_guard\"]/powerList/power[3]"
+msgstr "レベル1のスキルを訓練済み、クローン作成時にそれらを失わない"
+
+#: src-en/data/blueprints.xml.append:4684
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/desc"
+msgstr ""
+"セカンド・ヴォイスの当局者。故郷の宇宙の政治的問題で忙しいため、途中で助けてはくれないが、船に乗っていることの対価を支払ってくれる。\n"
+"\t\n"
+"\t継承された人間ステータス：軽度の危険ダメージ耐性"
+
+#: src-en/data/blueprints.xml.append:4687
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/title"
+msgstr "セカンド・ヴォイスの当局者"
+
+#: src-en/data/blueprints.xml.append:4688
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/short"
+msgstr "SV当局者"
+
+#: src-en/data/blueprints.xml.append:4693
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[1]"
+msgstr "システムに配置したり修理を行ったりしない"
+
+#: src-en/data/blueprints.xml.append:4694
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[2]"
+msgstr "船の乗員リストで半分のクルースロットを占有する"
+
+#: src-en/data/blueprints.xml.append:4695
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"eg_second_voice_officiary\"]/powerList/power[3]"
+msgstr "船にいる間、ビーコンごとに2スクラップをくれる"

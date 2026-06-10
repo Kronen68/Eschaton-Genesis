@@ -1,0 +1,260 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:19
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/tooltip"
+msgstr "民間船の利益を確認する。"
+
+#: src-en/data/events_special_main.xml.append:20
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_CIVILIAN_BUTTON\"]/inactiveTooltip"
+msgstr "民間船の利益は現在利用できません。"
+
+#: src-en/data/events_special_main.xml.append:39
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/tooltip"
+msgstr "Neostarフォーム(R)メニュー。"
+
+#: src-en/data/events_special_main.xml.append:40
+msgid ""
+"data/events_special_main.xml.append$//eventButton[@name=\"EG_UI_NEOSTAR_BUTTON\"]/inactiveTooltip"
+msgstr "危険な場所から離れなければ！"
+
+#: src-en/data/events_special_main.xml.append:52
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/text"
+msgstr "民間船で何をしたいですか？各アクションは1ジャンプ消費します。ビーコンごとに一度しか使用できません。"
+
+#: src-en/data/events_special_main.xml.append:54
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/text"
+msgstr "民間船の公式登録を完了する。"
+
+#: src-en/data/events_special_main.xml.append:56
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/event/text"
+msgstr ""
+"船の民間ステータスを割り当て、確認するプロセスを経る。多少時間はかかるが、少なくとも平和的な意図をより簡単に提示し証明できるようになる。このステータスによる制限は一切ない。\n"
+"\n"
+"[悪評が2倍減少 - 一般]\n"
+"[悪評が2倍減少 - ユニオン]\n"
+"[悪評が減少 - ハーモニー]\n"
+"[悪評が減少 - 教会]\n"
+"[悪評が減少 - ギャザリング]\n"
+"[悪評が減少 - フリー・マンティス]\n"
+"[悪評が減少 - 天才政治]\n"
+"[悪評が減少 - アウトキャスト]"
+
+#: src-en/data/events_special_main.xml.append:93
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0 \"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:99
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"second_voice_civilian\""
+" and @lvl=\"0\"]/text"
+msgstr "民間船の公式登録を完了し、特別な機能へアクセスする。"
+
+#: src-en/data/events_special_main.xml.append:103
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[@req=\"loc_laststand\"]/text"
+msgstr "そんな些事に関わっている時間はない！"
+
+#: src-en/data/events_special_main.xml.append:107
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[4]/text"
+msgstr "無料で資源をくれる誰かを探す。"
+
+#: src-en/data/events_special_main.xml.append:111
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[5]/text"
+msgstr "見つけた他の民間船と資源を取引する。"
+
+#: src-en/data/events_special_main.xml.append:115
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[6]/text"
+msgstr "近くの店を探す。"
+
+#: src-en/data/events_special_main.xml.append:119
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"EG_CIVILIAN_BUTTON\"]/choice[7]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_main.xml.append:194
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[1]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:203
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[2]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:212
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[3]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:222
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[4]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:232
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_1\"]/choice[5]/text"
+msgstr "交換しない。"
+
+#: src-en/data/events_special_main.xml.append:242
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[1]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:251
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[2]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:261
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[3]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:270
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[4]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:279
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[5]/text"
+msgstr "交換:"
+
+#: src-en/data/events_special_main.xml.append:289
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_BARTER_2\"]/choice[6]/text"
+msgstr "交換しない。"
+
+#: src-en/data/events_special_main.xml.append:300
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_1\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:312
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_SHOP_2\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:318
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/text"
+msgstr "周囲には何も見つからない。時間を無駄にした。"
+
+#: src-en/data/events_special_main.xml.append:322
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_NO\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:336
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_1\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:350
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_2\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:366
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_RESOURCES_3\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:371
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/text"
+msgstr "周囲を探索している間に、センサーが貨物倉からの資源の瞬間転送を検知した。何者かに盗まれ、痕跡も残さず瞬時に消え去った。"
+
+#: src-en/data/events_special_main.xml.append:381
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ROBBERY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_main.xml.append:387
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[1]"
+msgstr "平和的な船が通り過ぎる。資源が少し足りないと説明すると、彼らは少し援助してくれることに同意した。"
+
+#: src-en/data/events_special_main.xml.append:388
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[2]"
+msgstr "通り過ぎる船に連絡する。船長が応じ、資源が少し足りないと説明すると、彼らは少し援助してくれることに同意した。"
+
+#: src-en/data/events_special_main.xml.append:389
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_RESOURCES_TEXT\"]/text[3]"
+msgstr "あなたがこの宇宙で反乱軍を粉砕するつもりだと知った通りすがりの船は、善意で資源を分けてくれることに決めた。"
+
+#: src-en/data/events_special_main.xml.append:393
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[1]"
+msgstr "海賊に損傷させられた船が近くを飛んでいる。連絡を取り、取引を持ちかける。"
+
+#: src-en/data/events_special_main.xml.append:394
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[2]"
+msgstr "他の民間船が通り過ぎる。彼らも特定の資源が不足しており、物々交換に同意した。"
+
+#: src-en/data/events_special_main.xml.append:395
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_BARTER_TEXT\"]/text[3]"
+msgstr "船から通信があり、先方から物々交換を持ちかけてきた。"
+
+#: src-en/data/events_special_main.xml.append:399
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[1]"
+msgstr "店を探し回り、ようやく見つける。店主は新しい客を見て喜んでいる。"
+
+#: src-en/data/events_special_main.xml.append:400
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[2]"
+msgstr "このビーコンの近くで、小さな移動式貿易ステーションを見つける。問題なくドッキングする。"
+
+#: src-en/data/events_special_main.xml.append:401
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_TEXT\"]/text[3]"
+msgstr "最寄りの惑星に前哨基地がある。住民はあなたとの取引に同意する。"
+
+#: src-en/data/events_special_main.xml.append:404
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[1]"
+msgstr "店を探し回り、ようやく見つける。店主は新しい客を喜んで迎えてくれ、さらに店の費用で無料修理を提供してくれると言う。"
+
+#: src-en/data/events_special_main.xml.append:405
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[2]"
+msgstr "このビーコンの近くで、小さな移動式貿易ステーションを見つける。訪問者の特典として、少額の無料修理を提供してくれることになった。"
+
+#: src-en/data/events_special_main.xml.append:406
+msgid ""
+"data/events_special_main.xml.append$//textList[@name=\"EG_CIVILIAN_SHOP_REPAIR_TEXT\"]/text[3]"
+msgstr "最寄りの惑星に前哨基地がある。住民はあなたとの取引に同意し、無料修理を提供してくれる。"
+
+#: src-en/data/events_special_main.xml.append:410
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/text"
+msgstr "周囲を探索したが収穫はなく、小惑星帯に迷い込んでしまった。運が味方していないようだ。"
+
+#: src-en/data/events_special_main.xml.append:415
+msgid ""
+"data/events_special_main.xml.append$/dummyroot/FTL/event[@name=\"EG_CIVILIAN_ASTEROIDS\"]/choice/text"
+msgstr "次へ…"

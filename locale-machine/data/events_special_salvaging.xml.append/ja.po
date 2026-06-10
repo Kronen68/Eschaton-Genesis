@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_salvaging.xml.append:6
+msgid ""
+"data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_TEXT\"]/text"
+msgstr "ミラードが警告している。彼女の言葉に従うべきか？"
+
+#: src-en/data/events_special_salvaging.xml.append:10
+msgid ""
+"data/events_special_salvaging.xml.append$//textList[@name=\"EG_MIRRORED_WARNING_2_TEXT\"]/text"
+msgstr ""
+"「先に危険を感じるわ。周囲を探索して、何か有用なものがないか見てくるわ」あなたはクルーに待機を命じ、ミラードは姿を消す。数分後、彼女自身で見つけ出し、運び出してきたスクラップを持って戻ってくる。"
+
+#: src-en/data/events_special_salvaging.xml.append:20
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_salvaging.xml.append:24
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_MINEFIELD\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_salvaging.xml.append:37
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_salvaging.xml.append:41
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_CACHE\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_salvaging.xml.append:54
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
+"append:choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_salvaging.xml.append:58
+msgid ""
+"data/events_special_salvaging.xml.append$//mod:findName[@name=\"SALVAGE_DEFAULT_COLONY\"]/mod-"
+"append:choice/event/choice[2]/text"
+msgstr "何もしない。"

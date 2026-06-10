@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_showdown.xml.append:20
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[1]/text"
+msgstr "ヴァカンスにこれについて尋ねる。"
+
+#: src-en/data/events_sector_showdown.xml.append:24
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[2]/text"
+msgstr "ミラーにこれについて尋ねる。"
+
+#: src-en/data/events_sector_showdown.xml.append:28
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[3]/text"
+msgstr "ホワイト皇帝にこれについて尋ねる。"
+
+#: src-en/data/events_sector_showdown.xml.append:32
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[4]/text"
+msgstr "エシャトロジストが緊急会議を招集している…"
+
+#: src-en/data/events_sector_showdown.xml.append:38
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_VAKANS\"]/text"
+msgstr ""
+"あなたは船のエンジンルームに向かう。この運命的な瞬間にヴァカンスが必ず船の何らかの不具合を探していることを知っているからだ。「船長…私の意見を言わせてください。もちろん最終決定は船長のものですが。私が今知ったように、マルチバースは真に広大で、我々がまだ見ぬあらゆる種類の驚異に満ちています。他の宇宙を知る道筋を断つことは、記憶する能力を失うことです。あなたを鼓舞したすべてを、何があってもあなたを生かし、前進させたすべてを記憶するために…あなたの決定に関わらず、私はあなたを記憶し、あなたについて回想できて幸せでした。そして、これからもあなたを記憶し続けられることを幸せに思います。」"
+
+#: src-en/data/events_sector_showdown.xml.append:41
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_VAKANS\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_showdown.xml.append:47
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_MIRRORED\"]/text"
+msgstr ""
+"この非常に劇的な瞬間に、ミラーはいつものようにクルーの集合合図を無視してパイロット席に閉じこもった。あなたが近づこうとすると、偶然にも通信システムでの彼女の会話を耳にしてしまう。「…いいえ、スポリー、この宇宙で私に何が起こったかを誰にも言わないで。みんなには私がただ奇跡探求者を去ることに決めたと思わせて…それがみんなのためよ。」ミラーは視線を感じて振り返り、素早く通話を切る。「ああ、船長…会議に出なくてごめんなさい。友達に何か伝えないといけなかったの。会話を終わらせてもいい？とても大切なことなの。」あなたはパイロット席を離れ、数分後にミラーがあなたに追いつき、会話を始める。「世界には、すべての宇宙にとってのアクセスを断つにはあまりにも多くの楽しいもの、人々、奇跡がありすぎるわ。すべての困難や苦難にもかかわらず、あなたの宇宙はこの段階を経る必要があるの。途中の問題を恐れて飛び越えるんじゃなくて…いずれにせよ、最終決定はあなたよ、船長。だから念のためにあの挑戦を出したの。でも、選択を検討してくれたら嬉しいわ。あなたのこと、そしてこの、良い意味で奇妙な旅を、どちらの結果になっても懐かしく思うでしょうね。」"
+
+#: src-en/data/events_sector_showdown.xml.append:50
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_MIRRORED\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_showdown.xml.append:56
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_WHITE_CLONE\"]/text"
+msgstr ""
+"皇帝はパラゴンを考え深げに見つめる。船内のすべてのホワイトガードは非アクティブなままだが、どうやらホワイト皇帝はもはや彼らを制御していないようだ。数分間の沈黙の後、彼はついに意見を表明する。「私の世界はこのような兵器のために破壊された。このようなアーティファクトの存在は、常にそれらの使用後に知的生命体が生き残る可能性を疑わせる…しかし、現時点で私はそれを破壊することを提案しているのではない。代わりに、問題の根源、つまりマルチバースを旅するすべての手段を取り除かなければならない。そうすれば、このようなアーティファクトの出現を防ぐことができる。我々は滅びるだろうが、大義のために滅びるのだ。私はただのクローンだが、オリジナルのホワイト皇帝も同じ選択をしたと確信している。」"
+
+#: src-en/data/events_sector_showdown.xml.append:59
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_WHITE_CLONE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_showdown.xml.append:65
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_ESCHATOLOGISTS\"]/text"
+msgstr ""
+"エシャトロジストの会議ホールで、彼らが置かれた現状について議論が巻き起こる。「我々はこんなことをするために来たのではない。ここまで来るのに十分な損害を与えてきた。これ以上この紛争に関わる必要はない。カストロフィス・ステーションが連邦を代表する現地政府と交渉したのはそのためではない。直ちに立ち去り、これらすべてを放棄すべきだ」と、特におびえたエシャトロジストが言う。別のエシャトロジストはその考えを支持しない。「これはマルチバースレベルの紛争だ。立ち去れば、遅かれ早かれこれらのトラブルは我々にも影響する。このアーティファクトを使うべきだ。」3番目のエシャトロジストが2番目に反対する。「我々の宇宙には、反乱軍やオベリスクに支配される可能性よりも大きな問題がある。さらに、これらの問題はどちらの結果になっても明らかに我々には影響しない。考慮する意味はない。」「ではどうすべきだと？ここを去り、連邦やこの宇宙の他の野蛮人が我々の当初の計画を知らないことを願えというのか？次に何が起こるか考えたか？パラゴンを持ってどうやってこの宇宙を去るんだ？」最初のエシャトロジストが答える。「我々はパラゴンを持っては行かない。破壊するか、ただ宇宙に放り投げる。次に何が起ころうと我々の問題ではない。我々はマルチバースの他のクラスターに関する十分な情報を得た。帰る時が来たのだ。カストロフィス・ステーションとエシャトロジストのコミュニティは我々の状況を理解するはずだ。今や、この宇宙について集めたすべての知識を保存することの方が重要だ。」"
+
+#: src-en/data/events_sector_showdown.xml.append:67
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_ESCHATOLOGISTS\"]/choice/text"
+msgstr "次へ…"

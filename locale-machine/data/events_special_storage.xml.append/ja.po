@@ -1,0 +1,1157 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:7
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
+"append:choice/text"
+msgstr "船体にアーマープレートを装着する。"
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
+"append:choice/event/text"
+msgstr "アーマープレートの装着に成功した。"
+
+#: src-en/data/events_special_storage.xml.append:12
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:25
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
+"append:choice/text"
+msgstr ""
+"(昆虫の肉) 売却先を探す。\n"
+"[艦隊が1ジャンプで接近する]"
+
+#: src-en/data/events_special_storage.xml.append:34
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:41
+msgid ""
+"data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[1]"
+msgstr "少し探すと、最寄りの惑星の月に小さな植民地を見つける。食糧不足で、奇妙な由来の肉であっても喜んで受け入れてくれる。"
+
+#: src-en/data/events_special_storage.xml.append:42
+msgid ""
+"data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[2]"
+msgstr "民間船が通り過ぎる。通信し、エキゾチックな虫肉の購入を持ちかける。説得に時間はかかるが、その珍しさに最終的に応じる。"
+
+#: src-en/data/events_special_storage.xml.append:43
+msgid ""
+"data/events_special_storage.xml.append$//textList[@name=\"TERMITE_INSECT_MEAT_SELL\"]/text[3]"
+msgstr ""
+"船体に「8」と書かれた奇妙な自動船が接近し、通信してくる。「C.E.L.の布告により、貴船に禁制品が発見された。報酬と引き換えに引き渡すことを求める。応じなければ破壊するしかない」あなたは条件に従い肉を渡す。代わりに資源を受け取る。"
+
+#: src-en/data/events_special_storage.xml.append:48
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[1]/text"
+msgstr "不可侵アーマー（Impenetrable Armor）をレベル2にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:52
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[2]/text"
+msgstr "不可侵アーマーをレベル3にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:56
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[3]/text"
+msgstr "不可侵アーマーをレベル4にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:60
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[4]/text"
+msgstr "不可侵アーマーをレベル5にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:64
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[5]/text"
+msgstr "不可侵アーマーをレベル6にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:68
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[6]/text"
+msgstr "不可侵アーマーをレベル7にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:72
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[7]/text"
+msgstr "不可侵アーマーをレベル8にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:76
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[8]/text"
+msgstr "不可侵アーマーをレベル9にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:80
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[3]/mod-"
+"append:choice[9]/text"
+msgstr "不可侵アーマーを最終レベル10にアップグレード。"
+
+#: src-en/data/events_special_storage.xml.append:90
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
+"append:choice/text"
+msgstr "夢のホール: 「夢想家（Dreamer）」に祈りを捧げる"
+
+#: src-en/data/events_special_storage.xml.append:97
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice/text"
+msgstr "夢の崇拝: 「夢想家」に生贄を捧げる"
+
+#: src-en/data/events_special_storage.xml.append:103
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/text"
+msgstr ""
+"「夢想家」の名のもとに生贄を捧げますか？結果としてランダムな乗組員が死亡します。ユニークな乗組員は最後に、通常の人間クルーが最初に選ばれます。代償として確実かつ高額な報酬が得られます。"
+
+#: src-en/data/events_special_storage.xml.append:105
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[1]/text"
+msgstr "はい、儀式を執り行う。"
+
+#: src-en/data/events_special_storage.xml.append:109
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:114
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/text"
+msgstr "ランダムな選別により、乗組員の一人が生贄となり、その遺体が夢のホールの中央の台座に置かれる……"
+
+#: src-en/data/events_special_storage.xml.append:117
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/removeCrew/text"
+msgstr "クローンベイにあったその乗組員のデータは不可逆的に削除された。彼らを生き返らせることは不可能だ。"
+
+#: src-en/data/events_special_storage.xml.append:120
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFT_CULT\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:125
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/text"
+msgstr ""
+"夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、生贄に捧げたクルーの遺体が台座から消えていることに気づく。どうやら「万願の夢」はこの恐ろしい生贄を受け入れ、それ相応の報いを与えたようだ。しかし、本当に彼女が望んでいたのはこれなのだろうか？"
+
+#: src-en/data/events_special_storage.xml.append:133
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_CULT_SACRIFICE\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:148
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE\"]/text"
+msgstr "夢見る者への祈りが聞き届けられた。強力な青い光線が敵の船体を貫き、2ダメージを与えて船体に亀裂を生じさせる様子を目の当たりにする！"
+
+#: src-en/data/events_special_storage.xml.append:154
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_DAMAGE_FIRE\"]/text"
+msgstr "夢見る者への祈りが聞き届けられた。強力な青い光線が敵の船体を貫き、システム室で火災を発生させる様子を目の当たりにする！"
+
+#: src-en/data/events_special_storage.xml.append:160
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_SYSTEM_DAMAGE\"]/text"
+msgstr "夢見る者への祈りが聞き届けられた。敵のシステムが突然誤作動を起こし、機能停止する様子を目の当たりにする！"
+
+#: src-en/data/events_special_storage.xml.append:165
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_3\"]/text"
+msgstr "夢見る者への祈りが聞き届けられた。船の船体が3回復する！"
+
+#: src-en/data/events_special_storage.xml.append:169
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_HULL_REPAIR_5\"]/text"
+msgstr "夢見る者への祈りが聞き届けられた。船の船体が5回復する！"
+
+#: src-en/data/events_special_storage.xml.append:173
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_PLAYER_NOTHING\"]/text"
+msgstr "「万願の夢」はあなたの願いを無視したようだ。あるいは、単に彼女に届かなかったのかもしれない。あなたは戦いを続ける。"
+
+#: src-en/data/events_special_storage.xml.append:176
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"PRAYING_FOR_DREAMS_CULT\"]/text"
+msgstr ""
+"一瞬の間、敵船が青い光に包まれる。一秒後、多くのシステムが停止し、いくつかの部屋で亀裂や火災が発生、船体が5ダメージを受けていることに気づく。その後、青い光は消え、あなたの魂にわずかな重苦しさを感じるが、それはすぐに消え去った。"
+
+#: src-en/data/events_special_storage.xml.append:185
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/text"
+msgstr "夢見る者に祈りを捧げる…今度は何を与えてくれるだろうか？"
+
+#: src-en/data/events_special_storage.xml.append:187
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER\"]/choice/text"
+msgstr "待つ。"
+
+#: src-en/data/events_special_storage.xml.append:192
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/text"
+msgstr "夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、少量のスクラップを見つける。"
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_SCRAP\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/text"
+msgstr "夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、少量のミサイルとドローン部品を見つける。"
+
+#: src-en/data/events_special_storage.xml.append:208
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_AMMUNITION\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:213
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/text"
+msgstr "夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、部屋の中央に少量の燃料電池を見つける。"
+
+#: src-en/data/events_special_storage.xml.append:218
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_FUEL\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/text"
+msgstr ""
+"夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、部屋の中央に様々な報酬を見つける。どうやら今回は「万願の夢」のご機嫌が良かったようだ。"
+
+#: src-en/data/events_special_storage.xml.append:231
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_EVERYTHING\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:236
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/text"
+msgstr "祈りを捧げた後、全く何も起こらなかった。「万願の夢」はあなたの願いを無視したようだ。あるいは、単に彼女に届かなかったのかもしれない。"
+
+#: src-en/data/events_special_storage.xml.append:238
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"DREAM_PRAYER_GIFTS_NOTHING\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:263
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/text"
+msgstr ""
+"[レベル2 不可侵の装甲：船体ダメージ耐性20%、システムダメージ耐性50%] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:265
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:270
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:272
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:275
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:277
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:280
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_2\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:295
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/text"
+msgstr ""
+"[レベル3 不可侵の装甲：船体ダメージ耐性30%、システムダメージ耐性60%、武器クールダウン5%短縮] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:297
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:299
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:304
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:307
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:309
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:312
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:322
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_3\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:327
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/text"
+msgstr ""
+"[レベル4 不可侵の装甲：船体ダメージ耐性40%、システムダメージ耐性70%、武器クールダウン10%短縮] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:329
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:331
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:336
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:339
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:341
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:344
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:354
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_4\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:359
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/text"
+msgstr ""
+"[レベル5 不可侵の装甲：船体ダメージ耐性50%、システムダメージ耐性80%、武器クールダウン15%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:361
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:363
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:366
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:368
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:371
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:373
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:376
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_5\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:391
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/text"
+msgstr ""
+"[レベル6 不可侵の装甲：船体ダメージ耐性60%、システムダメージ耐性90%、武器クールダウン20%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:393
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:395
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:398
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:400
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:403
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:405
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:408
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:418
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_6\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:423
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/text"
+msgstr ""
+"[レベル7 不可侵の装甲：船体ダメージ耐性70%、システムダメージ耐性100%、武器クールダウン25%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:425
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:427
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:432
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:435
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:437
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:440
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:450
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_7\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:455
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/text"
+msgstr ""
+"[レベル8 不可侵の装甲：船体ダメージ耐性80%、システムダメージ耐性100%、武器クールダウン28%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:457
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:459
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:462
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:467
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:469
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:482
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_8\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:487
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/text"
+msgstr ""
+"[レベル9 不可侵の装甲：船体ダメージ耐性85%、システムダメージ耐性100%、武器クールダウン31%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:489
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:491
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:494
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:496
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:499
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:501
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」のアップグレードに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_9\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:519
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/text"
+msgstr ""
+"[レベル10 不可侵の装甲：船体ダメージ耐性90%、システムダメージ耐性100%、武器クールダウン34%短縮、戦闘前に敵へ体当たりする機会] "
+"このアップグレードをインストールしますか？警告：インストールに船体ダメージ20が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:521
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/text"
+msgstr "はい、アップグレードをインストールする。"
+
+#: src-en/data/events_special_storage.xml.append:523
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/text"
+msgstr "装甲を強化する準備を始める。船の上部装甲を取り外し、船尾に住む生物に与える。その対価として、それが新しい装甲を成長させてくれる…"
+
+#: src-en/data/events_special_storage.xml.append:526
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:528
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/text"
+msgstr "新しい「不可侵の装甲」をインストールする…"
+
+#: src-en/data/events_special_storage.xml.append:531
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:533
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr "「不可侵の装甲」を最終レベルまでアップグレードすることに成功した！"
+
+#: src-en/data/events_special_storage.xml.append:537
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:547
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"UPG_IMPENETRABLE_ARMOR_10\"]/choice[2]/text"
+msgstr "戻る。"
+
+#: src-en/data/events_special_storage.xml.append:557
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "「胚」を探す。"
+
+#: src-en/data/events_special_storage.xml.append:561
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "「スラヴィク」を探す。"
+
+#: src-en/data/events_special_storage.xml.append:565
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "「ヴァカンス」を探す。"
+
+#: src-en/data/events_special_storage.xml.append:569
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[4]/text"
+msgstr "「ミラード」を探す。"
+
+#: src-en/data/events_special_storage.xml.append:573
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[5]/text"
+msgstr "「皇帝ホワイト」を探す。"
+
+#: src-en/data/events_special_storage.xml.append:577
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
+"append:choice[6]/text"
+msgstr "シロアリを撫でる。"
+
+#: src-en/data/events_special_storage.xml.append:584
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/text"
+msgstr "小型ASBプラットフォームを射出する。残り3。"
+
+#: src-en/data/events_special_storage.xml.append:586
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/text"
+msgstr "小型ASBプラットフォームを射出しますか？"
+
+#: src-en/data/events_special_storage.xml.append:588
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/choice[1]/text"
+msgstr "はい、射出する。"
+
+#: src-en/data/events_special_storage.xml.append:590
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/choice[1]/event/text"
+msgstr "ASBプラットフォームを宇宙へ送る。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:597
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/choice[2]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:601
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/choice[3]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:603
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[1]/event/choice[3]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:609
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/text"
+msgstr "小型ASBプラットフォームを射出する。残り2。"
+
+#: src-en/data/events_special_storage.xml.append:611
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/text"
+msgstr "小型ASBプラットフォームを射出しますか？"
+
+#: src-en/data/events_special_storage.xml.append:613
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/choice[1]/text"
+msgstr "はい、射出する。"
+
+#: src-en/data/events_special_storage.xml.append:615
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/choice[1]/event/text"
+msgstr "ASBプラットフォームを宇宙へ送る。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:622
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/choice[2]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:626
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/choice[3]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:628
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[2]/event/choice[3]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:634
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/text"
+msgstr "小型ASBプラットフォームを射出する。残り1。"
+
+#: src-en/data/events_special_storage.xml.append:636
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/text"
+msgstr "最後の小型ASBプラットフォームを射出しますか？"
+
+#: src-en/data/events_special_storage.xml.append:638
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/choice[1]/text"
+msgstr "はい、射出する。"
+
+#: src-en/data/events_special_storage.xml.append:640
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/choice[1]/event/text"
+msgstr "ASBプラットフォームを宇宙へ送る。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:647
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/choice[2]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:651
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/choice[3]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:653
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[3]/event/choice[3]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:659
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/text"
+msgstr "夢の殿堂：夢見る者に祈りを捧げる。"
+
+#: src-en/data/events_special_storage.xml.append:661
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/text"
+msgstr ""
+"戦闘中に「夢見る者」の名のもとで祈りの儀式を開始しますか？15秒ごとに、彼女が船体を修理するか、敵にダメージを与えます。これにはスクラップ10が必要です。"
+
+#: src-en/data/events_special_storage.xml.append:663
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[1]/text"
+msgstr "はい、儀式の準備をして戦闘を開始する。"
+
+#: src-en/data/events_special_storage.xml.append:665
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[1]/event/text"
+msgstr ""
+"夢の殿堂の中央に、「万願の夢」への小さな供え物を置く。それは空中に消えていく。今や彼女は戦闘で助けてくれるだろうが、その力は4回分しか持続しない。"
+
+#: src-en/data/events_special_storage.xml.append:672
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "「万願の夢」への供え物を置く準備をしている…"
+
+#: src-en/data/events_special_storage.xml.append:678
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[2]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:682
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[3]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:684
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[4]/event/choice[3]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:690
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/text"
+msgstr "夢の崇拝: 「夢想家」に生贄を捧げる"
+
+#: src-en/data/events_special_storage.xml.append:692
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/text"
+msgstr ""
+"「夢見る者」の名のもとで生贄を捧げますか？生贄の結果としてランダムなクルーが死亡します。ユニーククルーは最後に選ばれ、通常の人間クルーが最初に選ばれます。夢見る者が戦闘を強力に支援してくれます。"
+
+#: src-en/data/events_special_storage.xml.append:694
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[1]/text"
+msgstr "はい、儀式を執り行う。"
+
+#: src-en/data/events_special_storage.xml.append:696
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[1]/event/text"
+msgstr ""
+"夢の殿堂の明かりが突然薄暗くなって消え、再びついた時、生贄に捧げたクルーの遺体が台座から消えていることに気づく。「万願の夢」が敵船を積極的に攻撃し、戦闘を3回支援してくれる。"
+
+#: src-en/data/events_special_storage.xml.append:699
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[1]/event/removeCrew/text"
+msgstr "クローンベイにあったその乗組員のデータは不可逆的に削除された。彼らを生き返らせることは不可能だ。"
+
+#: src-en/data/events_special_storage.xml.append:704
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "「万願の夢」が罰を準備している…"
+
+#: src-en/data/events_special_storage.xml.append:710
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[2]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:714
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[3]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:716
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[5]/event/choice[3]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:723
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/text"
+msgstr "ASBプラットフォームを射出する。"
+
+#: src-en/data/events_special_storage.xml.append:725
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/text"
+msgstr "ASBプラットフォームを射出しますか？"
+
+#: src-en/data/events_special_storage.xml.append:735
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/text"
+msgstr "射出して、スクラップアームを使用する。"
+
+#: src-en/data/events_special_storage.xml.append:737
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[@req=\"EG_SCRAP_ARMS\"]/event/text"
+msgstr "ASBプラットフォームを宇宙へ送る。高速で船から離れ、敵船の近くで展開を始める。戦闘後、船のアームを使って回収するため、何も消費しない。"
+
+#: src-en/data/events_special_storage.xml.append:751
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/text"
+msgstr "射出して、磁気アームを使用する。"
+
+#: src-en/data/events_special_storage.xml.append:753
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[@req=\"EG_MAGNETIC_ARMS\"]/event/text"
+msgstr "ASBプラットフォームを宇宙へ送る。高速で船から離れ、敵船の近くで展開を始める。戦闘後、船のアームを使って回収するため、何も消費しない。"
+
+#: src-en/data/events_special_storage.xml.append:759
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[3]/text"
+msgstr "燃料電池3個で射出する。"
+
+#: src-en/data/events_special_storage.xml.append:761
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[3]/event/text"
+msgstr "完成したASBプラットフォームのテンプレートに大量の燃料を注ぎ込み、宇宙へ送り出す。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:770
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[4]/text"
+msgstr "ミサイル2個で射出する。"
+
+#: src-en/data/events_special_storage.xml.append:772
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[4]/event/text"
+msgstr "ミサイルを素材としてハイテクプリンターでASBプラットフォームを作成し、宇宙へ送り出す。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:781
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[5]/text"
+msgstr "ドローン部品2個で射出する。"
+
+#: src-en/data/events_special_storage.xml.append:783
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[5]/event/text"
+msgstr "ドローン部品を素材としてハイテクプリンターでASBプラットフォームを作成し、宇宙へ送り出す。高速で船から離れ、敵船の近くで展開を始める。"
+
+#: src-en/data/events_special_storage.xml.append:792
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[6]/text"
+msgstr "代わりに他のことをする。"
+
+#: src-en/data/events_special_storage.xml.append:796
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[7]/text"
+msgstr "やっぱりいい、戦おう！"
+
+#: src-en/data/events_special_storage.xml.append:798
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
+"append:choice[6]/event/choice[7]/event/text"
+msgstr "何もしないことに決め、戦闘の準備をする。"
+
+#: src-en/data/events_special_storage.xml.append:810
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice/text"
+msgstr "スラヴィク"
+
+#: src-en/data/events_special_storage.xml.append:812
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice/event/text"
+msgstr ""
+"プロフィール：スラヴィク\n"
+"\t\t\t肩書き：傭兵、元反乱軍\n"
+"\t\t\t種族：人間 - 年齢：20 - 性別：男性\n"
+"\t\t\t\n"
+"\t\t\t間違いなくスラヴィクだ。彼は他の人々と大して変わらず、ある意味では平均的な人よりも平凡かもしれないが、少なくとも全力を尽くそうとはしている。彼について語るべきことは他にない。"
+
+#: src-en/data/events_special_storage.xml.append:818
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[8]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:827
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
+"append:choice/text"
+msgstr "ヴァカンス"
+
+#: src-en/data/events_special_storage.xml.append:829
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
+"append:choice/event/text"
+msgstr ""
+"プロフィール：ヴァカンス・ピース\n"
+"\t\t\t肩書き：隠者\n"
+"\t\t\t種族：ゾルタン - 年齢：[思い出せない] - 性別：男性\n"
+"\t\t\t\n"
+"\t\t\tこの老いたゾルタンは、何十年も前に一人で暮らし旅を始める前の人生を覚えていない。彼の放浪は、故郷と呼べる辺境の惑星に定住するまで続いた。周辺を探索する中で、彼は出自不明の古代船の残骸を見つけ、2年かけて独力で修復した。高齢のため彼の内なるエネルギーはまもなく枯渇しようとしており、死ぬ前に人生最後の善行をしようと決意した。それは、この船の謎を解き明かし、世界中に知らせることだった。しかし、長期間の孤立により社会的能力が著しく損なわれており、正式に船長という肩書きを得ることは不可能であったため、レネゲイドであるあなたがこれを手伝うことにした。"
+
+#: src-en/data/events_special_storage.xml.append:835
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:844
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
+"append:choice/text"
+msgstr "ミラード"
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
+"append:choice/event/text"
+msgstr ""
+"プロフィール：ミラード\n"
+"\t\t\t肩書き：「奇跡の探求者」メンバー、宇宙的異変\n"
+"\t\t\t種族：[不明] - 年齢：20歳から970歳の間 - 性別：女性\n"
+"\t\t\t\n"
+"\t\t\tミラードの出自の歴史は非常に曖昧で謎に包まれている。本質的には、意識を持った宇宙的な異変体である。彼女は自分の誕生の詳細は知らず、最初の記憶は「奇跡の探求者」の一人であるスウォーズマンによって真空の束縛から解放されたことである。その後、行くあてがなかったため彼女はこの組織に加わった。彼女は本来隠すべきこと以上に何かを隠しているようだが、それを証明するのは難しい。"
+
+#: src-en/data/events_special_storage.xml.append:852
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[10]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:861
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
+"append:choice/text"
+msgstr "皇帝ホワイト"
+
+#: src-en/data/events_special_storage.xml.append:863
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
+"append:choice/event/text"
+msgstr ""
+"プロフィール：アレクサンダー・ホワイト\n"
+"\t\t\t肩書き：皇帝ホワイトのクローン\n"
+"\t\t\t種族：人間（異変）\n"
+"\t\t\t年齢：156（時間経過上）、52（生物学的）\n"
+"\t\t\t性別：男性\n"
+"\t\t\t\n"
+"\t\t\t皇帝ホワイトは孤立した宇宙の一つで人類帝国を築いた。彼は見事に任務を遂行し、その指導力によって人類を宇宙へと導いた。ある日、別の宇宙から来たフクロウのマスクを被ったアンドロイドが現れ、彼に取り入り始めた。奇妙な経歴にもかかわらず、アンドロイドはあらゆる努力で人類を助け、皇帝の完全な信頼を得た後、自分の宇宙の「神の血」が入った器を彼に与え、それを飲んで神の力を手に入れるよう勧めた。アンドロイドに安全だと言われたホワイトは器を飲み干し、神のごとき存在となった。しかし、その新しい力は彼の否定的な資質を悪化させるだけであり、猜疑心を生むことになった。この船にいる皇帝ホワイトは、元の皇帝が死んだ場合に備えて作られたクローンに過ぎない。彼は間違いでこの宇宙に迷い込んだが、今のところ故郷の宇宙に戻るつもりはない。"
+
+#: src-en/data/events_special_storage.xml.append:871
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[11]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_storage.xml.append:880
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
+"append:choice/text"
+msgstr "受胎の種"
+
+#: src-en/data/events_special_storage.xml.append:882
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
+"append:choice/event/text"
+msgstr ""
+"プロフィール：創造の胚\n"
+"\t\t\t肩書き：死せる創造主、黙示録の異変、未生の胚\n"
+"\t\t\t種族：神の使い - 年齢：0 - 性別：なし\n"
+"\t\t\t\n"
+"\t\t\t最後の警告であり最後通牒――しかし、生きた神であるべきものの抜け殻に過ぎない。永遠の闇からの現実の誕生を目撃した者たちによって、罪と人生の苦悩の中で受胎した、壊れやすくすでに朽ちつつある有機体、病弱な子供。これは存在するはずのないものだが、それでも君は同じ船に乗っていることを受け入れなければならない。危険というよりは、むしろ恐ろしく、野生的なものだ。「奇跡の探求者」はこれについて何か知っているのだろうか？"
+
+#: src-en/data/events_special_storage.xml.append:888
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[12]/mod-"
+"append:choice/event/choice/text"
+msgstr "次へ…"

@@ -1,0 +1,646 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:8
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/unvisitedTooltip"
+msgstr "奇跡探求者は、これらの座標に時空の亀裂があり、それを閉じるように試みなければならないと伝えている。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:9
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/beaconType/visitedTooltip"
+msgstr "ここはすでに訪れた時空の亀裂。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:22
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/text"
+msgstr ""
+"このビーコンが建てられた無人の海洋惑星の近くで時空の異常に気づいた途端、船内の雰囲気が劇的に変わる。到着から1分後、異常そのものから来ていると思われる奇妙な通信リクエストを受け取る。奇跡探求者が、時空の亀裂を閉じるために亀裂の中にいる誰かのリクエストを実行するように求めたことを思い出す。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:26
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/text"
+msgstr "通信を受信する。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:28
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/text"
+msgstr ""
+"通信を受信し、操縦席で録音メッセージが流れ始める。明らかに生き物ではない合成された男性の声が聞こえる。「ついに、私に興味を持つ者が現れたか。自分の崩壊する宇宙から脱出することには成功したが、私と一緒に『故郷』から脱出しようとしたすべての者と同様に、世界の間の空間に閉じ込められている。毎年数が増えていて、この宇宙の間の沼地には我々全員の場所があまりない。彼らの付き合いにはうんざりだ。誰であろうと取引を提案しよう：彼らを君に転送する。君の好きなように対処してくれ。対価は支払える。この単純なタスクを実行したいなら、この時空の亀裂に『受け入れる』というメッセージを送れ。彼らと対峙するのに十分な強さがあることを確認しておくことだ。これ以上苦しみが増えるのを見るのは、私の望むところではない。」"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:31
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/text"
+msgstr "「受け入れる」とメッセージを送る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:33
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/text"
+msgstr "通信座標にメッセージを送る。数分経つと、宇宙の亀裂が通常より明るく光り始め、わずかに大きくなる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:36
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[@req=\"jester_local_wins\"]/text"
+msgstr "突然、安堵感が広がる…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:40
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr "それを見る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:47
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/text"
+msgstr "メッセージを送らずに飛び去る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:49
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/text"
+msgstr "船のFTLがチャージされる間、時空の亀裂近くの惑星から離れる。この奇妙な現象の背後にどのような秘密があるのか、不思議に思う。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:51
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:54
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:58
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:70
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/text"
+msgstr "通信を拒否して飛び去る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:72
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/text"
+msgstr "船のFTLがチャージされる間、時空の亀裂近くの惑星から離れる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:74
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:77
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:81
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_JESTER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:91
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/text"
+msgstr ""
+"宇宙の亀裂が広がるのを見ていると、耳にかすかな羽音が聞こえ始める。以前話しかけてきた声と痛々しいほど似た声が頭に響く。「レネゲイドの忠誠には笑わされるな！今回は小さな贈り物をやろう。最も死を望むクリーチャーを選ぶがいい。亀裂から適切に出現させる。君が考えるだけでいいのだ。」耳の羽音は消え、すべてが通常に戻るが、異常からこちらに向かってくる者はいない。頭の中の声の言葉を考え、君は決める…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:94
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[1]/text"
+msgstr "狂人ロブールについて考える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:98
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[2]/text"
+msgstr "3つの『貴重な破片』のうちの一つについて考える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:102
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[3]/text"
+msgstr "壊れたリーパーの船について考える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:106
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[4]/text"
+msgstr "夢の探求者について考える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:110
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/text"
+msgstr "誰のことも考えず、異常から距離を置く。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:112
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/text"
+msgstr "船のFTLがチャージされる間、時空の亀裂近くの惑星から離れる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:114
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:117
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:121
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:145
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/text"
+msgstr ""
+"突然、非常に気分が良くなる。人生のあらゆる苦難が徐々に遠ざかっていくようで、見慣れない船が近づいてくると、その感覚は強まる。その船長が直ちに連絡してくるが、何らかの教団の信者にしては幸福すぎると感じられる。「こんにちは、子よ。我々は『全願望の夢』教会、夢の救済者、我らの運命の緩和者、夢想の女神である…そして、君は誰だ、子よ？ここで何をしているのか、君の出現はあの暴君の支配から我々が解放されたことと関係があるのか？とはいえ、君がそれに関与しているかどうかを知ることは我々にとってそれほど重要ではない…静かに通り過ぎるがいい。調査を促してはならない。我々は彼女のまなざしに守られている…」この船が何らかのサイ放射で攻撃し、気をそらすために幸福感を与えていることが明らかになる。この事実に気づくと呪縛は解け、冷静に考えられるようになるが、狂信者たちはまだそれに気づいていない。すぐにジャンプで逃げようとするはずだ。迅速に行動しなければならない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:147
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/text"
+msgstr "精神を支配しようとした彼らを攻撃する。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:149
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/text"
+msgstr ""
+"「な、何だ？君…効かなかったのか？くそっ…ああ、『全願望の夢』よ、我らの苦しみを和らげ給え…」狂信者たちが祈りを捧げ始めたようだ。彼らの祈りがどのような結果をもたらすかは不明だが、嫌な予感がする…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:154
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "『全願望の夢』教会の信者が共同祈祷のために集まっている！夢想者への訴えの理由は不明だ！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:158
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:164
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/text"
+msgstr "彼らは他の策略も持っているようだ。紛争に関わらず、飛び去る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:166
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/text"
+msgstr ""
+"船のFTLがチャージされる間、時空の亀裂近くの惑星から離れる。これの背後にいる誰かが、彼らの条件に同意しないことだけで本当に君を傷つけることができるとは考えにくい。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:168
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:171
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:175
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:184
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+"狂信者の船を破壊した。女神は群れを救いもせず、君が彼らを殺したことに復讐もしてこなかった。そもそも存在していたのかさえ疑わしい。\n"
+"\t\n"
+"\t船をスクラップとして解体するよう命じると、軽いめまいを感じる。このめまいの源は、何らかのエネルギーを脈動させている小さな容器のようだ。迷わず船に持ち込む。狂信者たちが君の精神を支配しようとするために使っていたものだろう。その後、めまいは消える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:190
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:195
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/text"
+msgstr ""
+"狂信者たちを倒した。船内を探索すると、彼らのいわゆる女神についてより多くを語る興味深いものが多く見つかった。例えば、彼女は宇宙全体の権力を握りかけ、大規模な大量虐殺（後に『夢の危機』と呼ばれる）を引き起こしそうになったことなどだ。この事実は不安にさせるが、船の奥からの轟音によって突然思考を中断され、少しめまいがする。\n"
+"\t\n"
+"\t轟音に従って大きな部屋に入ると、何らかのエネルギーを発している奇妙な小さな容器を見つける。迷わず船に持ち込む。狂信者たちが君の精神を支配しようとするために使っていたものだろう。その後、めまいは消える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:201
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_DREAMSEEKER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:206
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/text"
+msgstr ""
+"しばらくすると、宇宙の異常は活動が低下し、わずかに閉じ始める。赤と白の色で灰色の目を持つ奇妙な見た目の自動ドローンが飛んでくる。奇跡探求者の配送ドローンの一種だとぼんやり認識するが、なぜこのドローンがこのような見た目をしているのかはわからない。以前聞いたのと同じ合成された男性の声で、録音メッセージが再生される。\n"
+"\t\n"
+"\t「ハッ、彼らの終わりのない説教と祈りには本当にうんざりさせられた。宗派的なナンセンスで我が住まいのユニークな雰囲気を損なってくれたよ。君は夢想者とその教団について疑問を持っているかもしれないが、事実は彼女はずっと前に死んでおり、信者を助けることはほとんどできない。彼らとの戦闘中に君が目撃したであろう『奇跡』というものも、何らかの物質的なものにしがみつこうとする、かろうじて生きている彼女の魂による哀れな試みに過ぎない。いずれにせよ、そんなナンセンスで頭を一杯にするな。いずれにしても君の宇宙には神などいない…少なくとも私が知る限りではな。さて…さらばだ、立ち去れ。」ドローンは報酬を与えて自爆する。その破片は宇宙の真空に溶け込み、君は混乱の中に残される。ここから飛び去ることにする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:221
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_DREAMSEEKER_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:228
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/text"
+msgstr ""
+"異常から黄色い船がゆっくりと近づいてくるのが見える。前方セクションには多数の穴が開いており、その目的は現時点では不明だ。船をスキャンすると、何らかの穀物を栽培する多数の水耕農場があることがわかるが、操作に致命的なエラーが発生しており、作物は食用に適さず、さらに完全に有毒になっていることが判明した。船長であるエンジ分離主義者が、直ちに通信システムを通じて連絡してくる。「指令：[船の所有者]"
+" [発見]。実行方法：[あなた] "
+"[助けて]。」分離主義者が彼らが現在乗っている船の所有者を見つけるように求めているようだと理解する。彼らの言葉遣いの奇妙さにも気づかずにはいられず、おそらく彼らは故障しているか、何らかのウイルスに感染しているのだと仮定する。彼らは辛抱強く君の返答を待っている。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:230
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/text"
+msgstr "船について何も知らないと伝える。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:232
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/text"
+msgstr ""
+"「エラー：[認識不能] [スピーチパターン]。アクション：[破壊] "
+"[エラー]。」君は自分がエラーと呼ばれたことに憤慨する。特に、これらの分離主義者たちの性質がエラーだらけであることを考えると。分離主義者たちは戦闘準備を始め、水耕栽培システムが今アクティブになる。彼らは毒のあるバイオ投射物を発射しようとしているようだ。さらに、君のシールドシステムとメドベイ/クローンベイにサイバー攻撃を仕掛けている！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:238
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "(アンチウイルス) サイバー攻撃を防ぐ。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:240
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr "アンチウイルスが分離主義者のサイバー攻撃を正常に撃退した。戦闘の時間だ。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:245
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:251
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/text"
+msgstr "(ハッキング) サイバー攻撃を防ぐ。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:253
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/text"
+msgstr "ハッキングが分離主義者のサイバー攻撃を正常に撃退した。戦闘の時間だ。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:258
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:264
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER\"]/choice/event/choice[3]/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:272
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+"爆発の直前、分離主義者の船長が最後のメッセージを送る：「脅威：[破壊] "
+"[避けられない]。応答：[復讐]。」突然、水耕栽培システムが最大容量に達し、数十発のバイオミサイルが君に向かって飛んでくる！幸いにも何らかの理由で、それらは宇宙で溶解し始め、船には届かない。その後、黄色い船の残骸からスクラップと他のリソースを回収するが、水耕栽培システムがまだ稼働していたらどうしようという不安がよぎる。しかし、恐れは根拠のないもので、これらの壊れた分離主義者によって作成されたと思われる何らかの兵器のプロトタイプさえ見つける。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:279
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_REAPER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:284
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/text"
+msgstr ""
+"分離主義者を倒し、船を調査する。至る所にカビのひどい臭いが漂っており、船内では息をしないように努める。以前は全く別の機械生命体種族のものだったようだが、正体不明の理由で以前の所有者に放棄されたようだ。船をスクラップとして解体し、すべての有益なリソースを取り出す前に、水耕栽培システムを無効化する。二度と使われないことを願いつつ、この壊れた分離主義者によって作成されたと思われる何らかの兵器のプロトタイプに偶然出くわす。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:291
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_REAPER\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:296
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/text"
+msgstr ""
+"しばらくすると、宇宙の異常は活動が低下し、わずかに閉じ始める。赤と白の色で灰色の目を持つ奇妙な見た目の自動ドローンが飛んでくる。奇跡探求者の配送ドローンの一種だとぼんやり認識するが、なぜこのドローンがこのような見た目をしているのかはわからない。以前聞いたのと同じ合成された男性の声で、録音メッセージが再生される。\n"
+"\t\n"
+"\t「彼らは他の『ルームメイト』たちには迷惑だったようだが、私にはそれほどでもなかった。彼らは我が住まいの内部でこの船を見つけ、理由も知らずに以前この船を所有していたロボットであるリーパーを探すことに決めたんだ。私にはリーパーとの接点はなかったから、助けたくても無理だったろう。いずれにせよ、君のおかげで、彼らはもうその奇妙な行動で誰にも迷惑をかけることはない。さて…さらばだ、立ち去れ。」ドローンは報酬を与えて自爆する。その破片は宇宙の真空に溶け込み、君は混乱の中に残される。ここから飛び去ることにする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:311
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_REAPER_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:318
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/text"
+msgstr ""
+"異常からクリスタルのものと思われる船が近づいてくる。数秒間、何も起こらない。船は君の呼びかけに応答せず、自分からも送ってこないが、船体に埋め込まれた大きな多面体の宝石の中で何らかのプロセスが起こり始めていることに気づく。オンボードコンピュータが警告する。内部のエネルギーが過剰になっており、船が船首を君に向けていることから、今まさに攻撃を仕掛けようとしている！\n"
+"\t\n"
+"\t突然、強力な紫色のビームがクリスタルから放たれ、船の数メートル先を通り過ぎる。反応する時間もなく、敵船から通信が入る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:322
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/text"
+msgstr "素早く通信を受け入れる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:324
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/text"
+msgstr ""
+"画面にクリスタル・センチネルが映る。その体は傷だらけで、おそらく時空の異常の中で負ったものだろう。彼はドラマチックに言う。「今の警告射撃だ、道化師の従者。FTLをロードしろ、さもなくば死ぬ準備をしろ。どれだけ速いか見せてもらおう。」"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:327
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:335
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/text"
+msgstr ""
+"異常からクリスタルのものと思われる船が近づいてくる。数秒間、何も起こらない。船は君の呼びかけに応答せず、自分からも送ってこないが、船体に埋め込まれた大きな多面体の宝石の中で何らかのプロセスが起こり始めていることに気づく。オンボードコンピュータが警告する。内部のエネルギーが過剰になっており、船が船首を君に向けていることから、今まさに攻撃を仕掛けようとしている！\n"
+"\t\n"
+"\t突然、強力なシアンのビームがクリスタルから放たれ、船の数メートル先を通り過ぎる。反応する時間もなく、敵船から通信が入る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:339
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/text"
+msgstr "素早く通信を受け入れる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:341
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/text"
+msgstr ""
+"画面にクリスタル・センチネルが映る。その体は傷だらけで、おそらく時空の異常の中で負ったものだろう。彼はドラマチックに言う。「今の警告射撃だ、道化師の従者。FTLをロードしろ、さもなくば死ぬ準備をしろ。どれだけ速いか見せてもらおう。」"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:344
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:352
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/text"
+msgstr ""
+"異常からクリスタルのものと思われる船が近づいてくる。数秒間、何も起こらない。船は君の呼びかけに応答せず、自分からも送ってこないが、船体に埋め込まれた大きな多面体の宝石の中で何らかのプロセスが起こり始めていることに気づく。オンボードコンピュータが警告する。内部のエネルギーが過剰になっており、船が船首を君に向けていることから、今まさに攻撃を仕掛けようとしている！\n"
+"\t\n"
+"\t突然、強力な赤みがかったビームがクリスタルから放たれ、船の数メートル先を通り過ぎる。反応する時間もなく、敵船から通信が入る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:356
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/text"
+msgstr "素早く通信を受け入れる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:358
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/text"
+msgstr ""
+"画面にクリスタル・センチネルが映る。その体は傷だらけで、おそらく時空の異常の中で負ったものだろう。彼はドラマチックに言う。「今の警告射撃だ、道化師の従者。FTLをロードしろ、さもなくば死ぬ準備をしろ。どれだけ速いか見せてもらおう。」"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:361
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3\"]/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:369
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+"クリスタル船に十分なダメージを与えたようだ。無傷のままだったが、次のビームをチャージしている最中に巨大なクリスタルが爆発した。膨大なエネルギーを放出した爆発とともに、その瞬間に無傷だった船の残りの部分も破壊された。何百ものクリスタルの破片が、奇跡的に君を避け、宇宙の四方八方に飛散する。将来的に高く売れることを期待して最大のものを回収する。爆発を免れた船の残骸から他のいくつかのリソースも見つける。さらに、中には3人のクリスタル・センチネルが写った小さな写真フレームがある。その一人が倒した船の船長だ。写真には「偉大なる兄弟、光屈折学派の宝石職人。一つの歴史、一つの血"
+" - 永遠に。」と記されている。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:373
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:378
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/text"
+msgstr ""
+"クリスタル船のクルーを排除した。元船長であるクリスタル・センチネルは、壁にもたれかかって床に座りながら、言葉では言い表せない悪意を君に向ける。「私を倒したか、レネゲイド…見事だ。だが、あそこの地獄の中には…まだ私の兄弟が二人残っている。彼らの血を共有している限り、君は私を殺せない。」"
+" "
+"そう言うと、突然ブラスターを取り出し、胸を撃ち抜き、心臓を貫いた。他の選択肢はなかったと確信し、チームに船内を捜索して貴重品を探すよう命じる。見つけた物資に加えて、船に戻る際に貴石の一部を撃ち落とし、将来高く売るためにその破片を持ち帰る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:382
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_1\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:387
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/text"
+msgstr ""
+"しばらくすると、宇宙の異常は活動が低下し、わずかに閉じ始める。赤と白の色で灰色の目を持つ奇妙な見た目の自動ドローンが飛んでくる。奇跡探求者の配送ドローンの一種だとぼんやり認識するが、なぜこのドローンがこのような見た目をしているのかはわからない。以前聞いたのと同じ合成された男性の声で、録音メッセージが再生される。\n"
+"\t\n"
+"\t「悲しいことだな、そうだろう？まあ、彼は死に値したし、威厳を持って受け入れた。私に多くのトラブルを起こしている彼の血を分けた兄弟たちについてはそうは言えないが、今や彼らを扱うのはずっと簡単になるだろう。ありがとう、レネゲイド。残りは私が片付けよう。さらばだ、立ち去れ。」ドローンは報酬を与えて自爆する。その破片は宇宙の真空に溶け込み、君は混乱の中に残される。ここから飛び去ることにする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:402
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_1_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:407
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+"クリスタル船に十分なダメージを与えたようだ。船体は無事だったものの、次のビームをチャージしている最中に巨大なクリスタルが破裂した。爆発とともに莫大なエネルギーが放出され、その時点で無事だった船の残骸も破壊された。数百ものクリスタルの破片が、宇宙のあらゆる方向に飛び散り、奇跡的にあなたを避けていった。将来高値で売れることを期待して、その中で最も大きいものを回収する。それらに加え、爆発から免れた船の残骸からいくつかの資源を見つけた。さらに、その中には写真が入った小さなフレームがあり、そこには3人のクリスタル・センチネルが写っており、そのうちの1人が撃墜された船の艦長だった。写真には「偉大なる兄弟たち、光屈折学派の宝石職人。一つの歴史、一つの血――永遠に。」と記されている。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:411
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:416
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/text"
+msgstr ""
+"クリスタル船のクルーを排除した。元船長であるクリスタル・センチネルは、壁にもたれかかって床に座りながら、言葉では言い表せない悪意を君に向ける。「私を倒したか、レネゲイド…見事だ。だが、あそこの地獄の中には…まだ私の兄弟が二人残っている。彼らの血を共有している限り、君は私を殺せない。」"
+" "
+"そう言うと、突然ブラスターを取り出し、胸を撃ち抜き、心臓を貫いた。他の選択肢はなかったと確信し、チームに船内を捜索して貴重品を探すよう命じる。見つけた物資に加えて、船に戻る際に貴石の一部を撃ち落とし、将来高く売るためにその破片を持ち帰る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:420
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_2\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:425
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/text"
+msgstr ""
+"しばらくすると、宇宙の異常は活動が低下し、わずかに閉じ始める。赤と白の色で灰色の目を持つ奇妙な見た目の自動ドローンが飛んでくる。奇跡探求者の配送ドローンの一種だとぼんやり認識するが、なぜこのドローンがこのような見た目をしているのかはわからない。以前聞いたのと同じ合成された男性の声で、録音メッセージが再生される。\n"
+"\t\n"
+"\t「悲しいことだな、そうだろう？まあ、彼は死に値したし、威厳を持って受け入れた。私に多くのトラブルを起こしている彼の血を分けた兄弟たちについてはそうは言えないが、今や彼らを扱うのはずっと簡単になるだろう。ありがとう、レネゲイド。残りは私が片付けよう。さらばだ、立ち去れ。」ドローンは報酬を与えて自爆する。その破片は宇宙の真空に溶け込み、君は混乱の中に残される。ここから飛び去ることにする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:440
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_2_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:445
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+"クリスタル船に十分なダメージを与えたようだ。船体は無事だったものの、次のビームをチャージしている最中に巨大なクリスタルが破裂した。爆発とともに莫大なエネルギーが放出され、その時点で無事だった船の残骸も破壊された。数百ものクリスタルの破片が、宇宙のあらゆる方向に飛び散り、奇跡的にあなたを避けていった。将来高値で売れることを期待して、その中で最も大きいものを回収する。それらに加え、爆発から免れた船の残骸からいくつかの資源を見つけた。さらに、その中には写真が入った小さなフレームがあり、そこには3人のクリスタル・センチネルが写っており、そのうちの1人が撃墜された船の艦長だった。写真には「偉大なる兄弟たち、光屈折学派の宝石職人。一つの歴史、一つの血――永遠に。」と記されている。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:449
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:454
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/text"
+msgstr ""
+"クリスタル船のクルーを排除した。元船長であるクリスタル・センチネルは、壁にもたれかかって床に座りながら、言葉では言い表せない悪意を君に向ける。「私を倒したか、レネゲイド…見事だ。だが、あそこの地獄の中には…まだ私の兄弟が二人残っている。彼らの血を共有している限り、君は私を殺せない。」"
+" "
+"そう言うと、突然ブラスターを取り出し、胸を撃ち抜き、心臓を貫いた。他の選択肢はなかったと確信し、チームに船内を捜索して貴重品を探すよう命じる。見つけた物資に加えて、船に戻る際に貴石の一部を撃ち落とし、将来高く売るためにその破片を持ち帰る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:458
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_GEM_3\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:463
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/text"
+msgstr ""
+"しばらくすると、宇宙の異常は活動が低下し、わずかに閉じ始める。赤と白の色で灰色の目を持つ奇妙な見た目の自動ドローンが飛んでくる。奇跡探求者の配送ドローンの一種だとぼんやり認識するが、なぜこのドローンがこのような見た目をしているのかはわからない。以前聞いたのと同じ合成された男性の声で、録音メッセージが再生される。\n"
+"\t\n"
+"\t「悲しいことだな、そうだろう？まあ、彼は死に値したし、威厳を持って受け入れた。私に多くのトラブルを起こしている彼の血を分けた兄弟たちについてはそうは言えないが、今や彼らを扱うのはずっと簡単になるだろう。ありがとう、レネゲイド。残りは私が片付けよう。さらばだ、立ち去れ。」ドローンは報酬を与えて自爆する。その破片は宇宙の真空に溶け込み、君は混乱の中に残される。ここから飛び去ることにする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:478
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_GEM_3_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:485
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/text"
+msgstr ""
+"奇妙な色をした船が、アノマリーからあなたに向かって突進してくる。船体は非常に厚く貫通させるのが難しそうだが、かなりのダメージを受けている。船尾がすべて何らかの生物学的構成要素で作られていることに気づくと、嫌な気分になる。この船はアノマリーの中で長い時間を過ごし、誰かと絶えず戦ってきたようで、その厚い船体だけが破壊を免れる術だったのだろう。船からの通信要求を受け入れると、画面には錯乱した表情を浮かべたひどく動揺したロックマンが映る。彼は通信システムに向かってすぐに叫び始めた。「なんてことだ！また生き物か！ここで何が起きているか信じられないだろう！ここから出て行け、危険だ！さもないとあいつの策略に引きずり込まれるぞ！」艦長が正気でないのは明らかだ。彼はまだ宇宙の亀裂の中にいると思い込んでいる。あなたは選択を迫られる。彼の苦しみを終わらせて報酬を受け取るか、事態がさらに奇妙になる前にここから飛び去るか。後者を選べば、時間を無駄にするだけだが。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:487
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/text"
+msgstr "攻撃して、狂人の苦しみを終わらせる。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:489
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/text"
+msgstr ""
+"あなたは武器をチャージし始める。「何をしているんだ？……ああ、分かったぞ。お前も、ついに他人を使って俺を殺そうと決めたあの怪物の手先だな！さあ来い、お前の実力を見せてみろ！この偉大なるロブールを倒せた者は、ここには一人もいないんだ！」"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:492
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:498
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/text"
+msgstr "狂人を放っておいて、その場を去る。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:500
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/text"
+msgstr ""
+"船のFTLがチャージされる間、時空の亀裂近くの惑星から離れる。これの背後にいる誰かが、彼らの条件に同意しないことだけで本当に君を傷つけることができるとは考えにくい。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:502
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:505
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[1]/text"
+msgstr "船上で何かをする。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:509
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/event/choice/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:518
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+"この頑丈な船と艦長を撃破した。船が爆発する直前、艦長は最後にもう一度あなたに向かって叫ぶ。「お前が誰を助けているのか想像もつかないだろう！あいつは……」艦長の言葉は、船の避けられない破壊と減圧によって途切れた。報酬を受け取るのを待ちながら、あなたはクルーに船を解体してスクラップにするよう命じる。船から装甲板を一枚剥がすことにも成功した。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:522
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DESTROYED_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:527
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/text"
+msgstr ""
+"この頑丈な船のクルーと艦長を撃破した。血を吐き、多重の傷を負って床に横たわった艦長は、それでも抵抗しようとするが、動くことさえできない。彼は「あいつは……自分が名乗っているような者じゃない……ただの……模倣者だ……」と言い残し、やがて瞳を閉じて息を引き取った。あなたは貴重品をすべて奪った後、クルーに船を解体してスクラップにするよう命じる。船から装甲板を一枚剥がすことにも成功した。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:531
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DEAD_CREW_EG_ENEMY_ROBUR\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:536
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/text"
+msgstr ""
+"しばらくして、宇宙のアノマリーは活動が弱まり、わずかに閉じ始めた。灰色の目を持ち、赤と白に彩られた奇妙な見た目の自動ドローンがあなたに飛んでくる。それは「ミラクル・シーカー（奇跡の探求者）」の配送用ドローンのように見えるが、なぜこのドローンがこのような見た目をしているのかは分からない。先ほど聞いたのと同じ合成男性の声で、録音されたメッセージが再生される。\n"
+"\t\n"
+"\t「ああ、哀れなロブール……心配はいらない、彼はその運命にふさわしかったのだろう。生前、彼は私が会った中で最も頑固なロックマンの一人だった。私の贈り物のおかげで、彼は他の誰よりも長く私の住処に留まっていたようだが、それが彼の精神に悪影響を与えたことは否めない。さて、すべての問題は解決した。もう君の助けは必要ない。さらば、立ち去りたまえ。」ドローンはあなたに報酬を与え、自爆する。その残骸は宇宙の真空に溶け消え、あなたには困惑だけが残された。あなたはここから飛び去ることにした。"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:551
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR_WIN\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:560
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/text"
+msgstr "狂信者たちが祈りを捧げ終える……"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:562
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$//event[@name=\"DREAMSEEKER_PRAYER_ENEMY\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:579
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_VERYBAD\"]/text"
+msgstr ""
+"狂信者たちが祈りを終えた。彼らは女神にあなたを害するよう願ったようで、突然何もないところから現れた青い光線が、あなたの船の船体を貫いた！幸いにも船体を直接破壊するほどの威力ではなかったが、代わりに火災が発生し、多くの亀裂が生じた！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:587
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_SYSTEM_DAMAGE_FIRE\"]/text"
+msgstr ""
+"狂信者たちが祈りを終えた。彼らは女神にあなたを害するよう願ったようで、突然何もないところから現れた青い光線が船体を貫き、船の複数のシステムで火災を引き起こした！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:593
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_CREW\"]/text"
+msgstr "狂信者たちが祈りを終えた。彼らは女神に助けを求めたようで、突然2人の敵が船内に現れた！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:597
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_5\"]/text"
+msgstr "狂信者たちが祈りを終えた。どうやら彼らは女神に傷を癒すよう頼んだらしく、彼らの船体が10ポイント回復した！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:601
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_HULL_REPAIR_10\"]/text"
+msgstr "狂信者たちが祈りを終えた。彼らは女神に傷を癒やすよう願ったようだ。彼らの船体は10ポイント回復した！"
+
+#: src-en/data/events_special_eg_jester_space_rift.xml:605
+msgid ""
+"data/events_special_eg_jester_space_rift.xml$/dummyroot/FTL/event[@name=\"DREAMSEEKER_PRAYER_ENEMY_NOTHING\"]/text"
+msgstr "狂信者たちが祈りを終えた。彼らの願いは女神に届かなかったか、無視されたようだ。あなたにとって幸いなことに、何も起こらなかった。"

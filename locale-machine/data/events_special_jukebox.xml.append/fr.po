@@ -9,16 +9,16 @@ msgstr ""
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[1]/text"
-msgstr "Ex: Leur Regard Perceptif (Affirmations de Succès - Rockot)"
+msgstr "EG : Leur Regard Perceptif (Affirmations de Succès - Rockot)"
 
 #: src-en/data/events_special_jukebox.xml.append:14
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[2]/text"
-msgstr "Ex: (Vous êtes) Violateur de Continuité (TREMORE - Rockot)"
+msgstr "EG : (Vous êtes) Violateur de Continuité (TREMORE - Rockot)"
 
 #: src-en/data/events_special_jukebox.xml.append:21
 msgid ""
 "data/events_special_jukebox.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JUKEBOX\"]/mod-"
 "append:choice[3]/text"
-msgstr "Ex: Machinations du Bouffon (SERVEUR - Rockot)"
+msgstr "EG : Machinations du Bouffon (SERVEUR - Rockot)"

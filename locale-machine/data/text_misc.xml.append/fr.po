@@ -39,7 +39,7 @@ msgstr "MIRACLE 6419 [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"eg_eatery\"]"
-msgstr "RESTAURANT [!]"
+msgstr "CANTINE [!]"
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"eg_erudite_drone\"]"
@@ -54,11 +54,11 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_erudite_weapon\"]"
 msgstr ""
 "Astuce : L'arme spéciale développée par Erudite est extrêmement puissante, "
 "mais en raison de sa faible efficacité énergétique, elle ne peut être tirée "
-"que quelques fois par bataille."
+"que quelques fois par combat."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"tip_storage_neostar\"]"
 msgstr ""
-"La Caisse Neostar (R) ne peut pas être utilisée comme arme et il est "
-"préférable de la conserver dans votre soute jusqu'à ce que vous la livriez "
-"au destinataire."
+"La Caisse Neostar (R) ne peut pas être utilisée comme une arme et il est "
+"préférable de la garder dans votre soute jusqu'à ce que vous la livriez au "
+"destinataire."

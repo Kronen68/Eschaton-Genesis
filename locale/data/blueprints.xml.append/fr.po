@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-19 10:44+0000\n"
+"PO-Revision-Date: 2026-06-16 07:55+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
 "datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/blueprints.xml.append:6
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"EG_AUTO_REPAIR\"]/title"
@@ -101,7 +101,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:92
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EG_DREAM_SEEKER_HEART\"]/title"
-msgstr ""
+msgstr "Cœur du Chercheur de rêves"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
@@ -1524,6 +1524,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/unlock"
 msgstr ""
+"Affronter et battre le taré Rocailleux près de l'anomalie spatio-temporelle, "
+"dont les coordonnées vous seront communiquées par les Chercheurs de Miracles "
+"lorsque vous aurez gagné leur respect."
 
 #: src-en/data/blueprints.xml.append:3441
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_ROBUR\"]/desc"
@@ -1626,7 +1629,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER\"]/class"
-msgstr ""
+msgstr "Chercheur de rêves"
 
 #: src-en/data/blueprints.xml.append:3888
 msgid ""
@@ -1646,7 +1649,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3957
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_2\"]/class"
-msgstr ""
+msgstr "Chercheur de rêves"
 
 #: src-en/data/blueprints.xml.append:3958
 msgid ""
@@ -1666,7 +1669,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_EG_DREAMSEEKER_3\"]/class"
-msgstr ""
+msgstr "Chercheur de rêves"
 
 #: src-en/data/blueprints.xml.append:4032
 msgid ""

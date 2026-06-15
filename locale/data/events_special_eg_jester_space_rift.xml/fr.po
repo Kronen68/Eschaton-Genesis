@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-06-16 07:55+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
+"dataevents_special_eg_jester_space_riftxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:8
 msgid ""
@@ -108,27 +115,27 @@ msgstr ""
 #: src-en/data/events_special_eg_jester_space_rift.xml:94
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[1]/text"
-msgstr ""
+msgstr "Penser à ce taré de Robur."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:98
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[2]/text"
-msgstr ""
+msgstr "Penser à l'un des trois Fragments précieux."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:102
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[3]/text"
-msgstr ""
+msgstr "Penser au vaisseau endommagé des Moissonneurs."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:106
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[4]/text"
-msgstr ""
+msgstr "Penser au Chercheur de rêves."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:110
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"EG_SPACE_RIFT_GIFT_FROM_JESTER\"]/choice[5]/text"
-msgstr ""
+msgstr "Ne penser à personne et s'éloigner de cette anomalie."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:112
 msgid ""
@@ -468,7 +475,7 @@ msgstr ""
 #: src-en/data/events_special_eg_jester_space_rift.xml:487
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[1]/text"
-msgstr ""
+msgstr "L'attaquer et mettre fin aux souffrances de ce taré."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:489
 msgid ""
@@ -483,7 +490,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_eg_jester_space_rift.xml:498
 msgid ""
 "data/events_special_eg_jester_space_rift.xml$//event[@name=\"SPACE_RIFT_ROBUR\"]/choice[2]/text"
-msgstr ""
+msgstr "Épargner le taré et partir."
 
 #: src-en/data/events_special_eg_jester_space_rift.xml:500
 msgid ""

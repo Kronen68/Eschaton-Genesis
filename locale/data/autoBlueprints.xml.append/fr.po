@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-19 10:44+0000\n"
+"PO-Revision-Date: 2026-06-16 07:55+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/eschaton-genesis/"
 "dataautoblueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/autoBlueprints.xml.append:4
 msgid ""
@@ -35,27 +35,27 @@ msgstr "Gardien Inférieur"
 #: src-en/data/autoBlueprints.xml.append:119
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_GOLIATH\"]/class"
-msgstr ""
+msgstr "Vaisseau Anormal : Goliath I"
 
 #: src-en/data/autoBlueprints.xml.append:146
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_MIRACLE_SEEKERS\"]/class"
-msgstr ""
+msgstr "Station des Chercheurs de Miracles"
 
 #: src-en/data/autoBlueprints.xml.append:188
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_DREAMSEEKER\"]/class"
-msgstr ""
+msgstr "L'Église du Rêveur : Chercheur de rêves"
 
 #: src-en/data/autoBlueprints.xml.append:218
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_ROBUR\"]/class"
-msgstr ""
+msgstr "Robur le taré"
 
 #: src-en/data/autoBlueprints.xml.append:252
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"EG_ENEMY_REAPER\"]/class"
-msgstr ""
+msgstr "Le Faucheur-empoisonneur d'orge"
 
 #: src-en/data/autoBlueprints.xml.append:286
 msgid ""
